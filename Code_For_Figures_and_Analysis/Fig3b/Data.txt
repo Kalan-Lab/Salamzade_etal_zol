@@ -1,0 +1,4 @@
+Category	Count
+1 cblaster/CAGECAT w/ nr	12
+2 antiSMASH w/ glimmerhmm	65
+3 fai w/ miniprot	212

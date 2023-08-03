@@ -1,0 +1,19 @@
+JGI GaID	oxygen category	Sample collection date	Depth	Depth_Index	date_index	Virulence_Presence
+Ga0485159	oxic	7/24	5/10	1	1	Absent
+Ga0485157	anoxic	7/24	15	2	1	Present
+Ga0485158	anoxic	7/24	23.5	3	1	Present
+Ga0485160	oxycline	8/5	5/10	1	2	Absent
+Ga0485161	anoxic	8/5	15	2	2	Present
+Ga0485162	anoxic	8/5	23.5	3	2	Present
+Ga0485163	oxycline	8/25	5/10	1	3	Absent
+Ga0485164	anoxic	8/25	15	2	3	Present
+Ga0485165	anoxic	8/25	23.5	3	3	Present
+Ga0485166	anoxic	9/11	15	2	4	Present
+Ga0485167	anoxic	9/11	23.5	3	4	Present
+GX1	NA	9/11	5/10	1	4	Absent
+Ga0485168	oxycline	10/8	15	2	5	Absent
+Ga0485169	anoxic	10/8	23.5	3	5	Present
+GX2	NA	10/8	5/10	1	5	Absent
+Ga0485172	oxic	10/19	5/10	1	6	Absent
+Ga0485170	oxic	10/19	15	2	6	Absent
+Ga0485171	oxic	10/19	23.5	3	6	Absent

@@ -1,0 +1,838 @@
+Dereplication_Type_Comparison	Evolutionary_Statistic	Homolog_Group	Value_1	Value_2
+GC Drep vs. GW Drep	1. Conservation	EF2178	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2192	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2181	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2193	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2164	0.370967742	0.466666667
+GC Drep vs. GW Drep	1. Conservation	EF2171	0.693548387	0.786666667
+GC Drep vs. GW Drep	1. Conservation	EF2174	0.64516129	NA
+GC Drep vs. GW Drep	1. Conservation	EF2182	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2196	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2197	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2166	0.306451613	0.386666667
+GC Drep vs. GW Drep	1. Conservation	EF2200	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2168	0.387096774	0.453333333
+GC Drep vs. GW Drep	1. Conservation	EF2167	NA	0.293333333
+GC Drep vs. GW Drep	1. Conservation	EF2191	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2177	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2165	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2194	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2179	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2183	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2172	0.709677419	0.786666667
+GC Drep vs. GW Drep	1. Conservation	EF2180	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2170	0.983870968	1
+GC Drep vs. GW Drep	1. Conservation	EF2169	0.822580645	0.853333333
+GC Drep vs. GW Drep	1. Conservation	EF2184	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2198	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2190	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2195	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2176	0.580645161	0.626666667
+GC Drep vs. GW Drep	1. Conservation	EF2199	1	1
+GC Drep vs. GW Drep	1. Conservation	EF2189	1	1
+GC Drep vs. GW Drep	6. Tajimas D	EF2178	-1.623216331	-1.459455505
+GC Drep vs. GW Drep	6. Tajimas D	EF2192	-0.827072629	-1.057376298
+GC Drep vs. GW Drep	6. Tajimas D	EF2181	-1.168492642	-1.206549564
+GC Drep vs. GW Drep	6. Tajimas D	EF2193	-1.409068348	-1.805848562
+GC Drep vs. GW Drep	6. Tajimas D	EF2164	0.627941318	2.104103394
+GC Drep vs. GW Drep	6. Tajimas D	EF2171	1.681742295	0.924687559
+GC Drep vs. GW Drep	6. Tajimas D	EF2174	0.827274259	NA
+GC Drep vs. GW Drep	6. Tajimas D	EF2182	-0.508475854	-0.474985859
+GC Drep vs. GW Drep	6. Tajimas D	EF2196	-0.674996401	-1.166160539
+GC Drep vs. GW Drep	6. Tajimas D	EF2197	-1.338669135	-1.084997276
+GC Drep vs. GW Drep	6. Tajimas D	EF2166	1.829907987	1.016812461
+GC Drep vs. GW Drep	6. Tajimas D	EF2200	-0.474720739	-0.691549535
+GC Drep vs. GW Drep	6. Tajimas D	EF2168	3.238957788	2.347685498
+GC Drep vs. GW Drep	6. Tajimas D	EF2167	NA	1.699010354
+GC Drep vs. GW Drep	6. Tajimas D	EF2191	-1.826459764	-1.664813838
+GC Drep vs. GW Drep	6. Tajimas D	EF2177	-1.174056212	-1.088622434
+GC Drep vs. GW Drep	6. Tajimas D	EF2165	0.040875736	0.165203688
+GC Drep vs. GW Drep	6. Tajimas D	EF2194	-0.872756986	-1.221720719
+GC Drep vs. GW Drep	6. Tajimas D	EF2179	-0.968990112	-0.897056693
+GC Drep vs. GW Drep	6. Tajimas D	EF2183	-2.210971783	-0.786540654
+GC Drep vs. GW Drep	6. Tajimas D	EF2172	0.233930587	0.126673764
+GC Drep vs. GW Drep	6. Tajimas D	EF2180	-1.032322031	-1.089416621
+GC Drep vs. GW Drep	6. Tajimas D	EF2170	3.767437533	3.74365061
+GC Drep vs. GW Drep	6. Tajimas D	EF2169	4.446071626	4.636844905
+GC Drep vs. GW Drep	6. Tajimas D	EF2184	-1.118060928	-0.433898492
+GC Drep vs. GW Drep	6. Tajimas D	EF2198	-1.419143776	-1.151188446
+GC Drep vs. GW Drep	6. Tajimas D	EF2190	-0.984371601	-0.643641878
+GC Drep vs. GW Drep	6. Tajimas D	EF2195	-0.742649216	-0.895244781
+GC Drep vs. GW Drep	6. Tajimas D	EF2176	-1.105812188	-0.902111598
+GC Drep vs. GW Drep	6. Tajimas D	EF2199	-1.20773547	-1.400813161
+GC Drep vs. GW Drep	6. Tajimas D	EF2189	-0.860870058	-6.98737E-05
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2178	-0.9897150954873992	-0.9643500282942735
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2192	-1.28678742711068	-1.204897767041096
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2181	-1.1025612519346473	-1.0529740739981581
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2193	-1.1995035952461484	-1.0745820505174621
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2164	-0.10956696756139712	-0.16651854183203896
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2171	-0.3966865648639313	-0.39979972293229804
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2174	-0.16974466121778603	NA
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2182	-1.1550952764574716	-1.1067971345040648
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2196	-1.077552932514573	-1.0413449149582579
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2197	-1.1138868972594216	-1.159638117419954
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2166	-1.243421304563786	-1.1976714186510031
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2200	-1.174319910464261	-1.1184699217292557
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2168	-0.23908594431940308	-0.240003129323702
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2167	NA	-1.1601861673150655
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2191	-1.1388896484044373	-1.0981500366173256
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2177	-1.0838236885666004	-1.0407227829994419
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2165	-0.8628333151072194	-0.8661867137884872
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2194	-1.3801070200681071	-1.3236383730720749
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2179	-1.1207814682753718	-1.1237056332989552
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2183	-1.012189789417187	-1.3934677330266179
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2172	-0.9811127324737489	-0.9931760711696744
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2180	-1.1022691137379055	-1.05831950369526
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2170	-0.10642457138387523	-0.10680399336239868
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2169	-0.09447158602954231	-0.09302697749419651
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2184	-1.2748454097590076	-1.2748454097590076
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2198	-1.2395652795973804	-1.2140154863024277
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2190	-1.0395467896284574	-1.0017621936979366
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2195	-1.1890446474238259	-1.1275354759310545
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2176	-1.3102313430556074	-1.2349945072365724
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2199	-1.118222088194905	-1.087843310503522
+GC Drep vs. GW Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2189	-0.898092218731013	-0.8694492317790392
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2178	-1.8109026942372848	-1.7814054463015319
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2192	-1.9927407580028746	-1.9655139254755838
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2181	-1.8470214009594268	-1.8260295619953366
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2193	-2.002327835525412	-1.9768911076820992
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2164	-0.5172963687852762	-0.5172088158709913
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2171	-0.8263608179775689	-0.8962713979677626
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2174	-0.7884644944976652	NA
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2182	-1.8223457803791847	-1.7880024076879728
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2196	-1.7594999495857475	-1.8164260857819816
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2197	-1.9057383125869258	-1.932265259230699
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2166	-1.6247202891296144	-1.654175210029115
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2200	-1.8394298552603283	-1.8305128407137905
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2168	-0.5309573464121384	-0.5942650561142743
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2167	NA	-1.5558487837294386
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2191	-2.0021140711332306	-1.9505170222055555
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2177	-1.8182321058935142	-1.7861563920733807
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2165	-1.457743535356533	-1.4598819291298675
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2194	-2.0926147621791444	-2.111666928955418
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2179	-1.834451566438879	-1.8427883132085332
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2183	-2.217619261052575	-2.128314419339573
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2172	-1.525472219523506	-1.569097588947986
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2180	-1.8319997942355655	-1.814395269320629
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2170	-0.38606826205796374	-0.39839783125194905
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2169	-0.3269383457889702	-0.3323643689743443
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2184	-2.0331693890160705	-1.9570462688024437
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2198	-2.0358647344645417	-1.994864206680927
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2190	-1.7666849907547435	-1.6962353675510504
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2195	-1.8885584944068914	-1.8721090950783714
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2176	-1.9792395819622282	-1.9048075565759848
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2199	-1.8767451891465519	-1.8947758966081856
+GC Drep vs. GW Drep	2. Entropy (log10 PC of 1e-5)	EF2189	-1.6080379599469703	-1.4903156244203173
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2178	0.996481967	0.99486183
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2192	1.00329578	1.002953543
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2181	0.996820991	0.996649535
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2193	1.002843897	1.002058218
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2164	0.579852267	0.552751976
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2171	0.989750695	0.993453113
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2174	0.7273608	NA
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2182	1.003412969	1.003058104
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2196	0.989292747	0.991849225
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2197	1.000362947	1.000436381
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2166	0.992550744	0.99696346
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2200	1	1.000701754
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2168	0.549268172	0.55342346
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2167	NA	0.990343382
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2191	1.00001941	0.999955763
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2177	1.000775707	1.001172156
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2165	0.985428319	0.986945646
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2194	1.003518068	1.003533569
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2179	1	1
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2183	1.003539834	1.003533569
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2172	0.99801673	0.998527414
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2180	0.99700139	0.997455352
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2170	0.526571972	0.533123904
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2169	0.364517292	0.361864622
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2184	1.003330512	1.003434167
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2198	1.003311456	1.003322259
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2190	0.995193151	0.995085891
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2195	0.99899992	0.998700768
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2176	0.999758979	0.999563773
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2199	1.002932551	1.002590674
+GC Drep vs. GW Drep	3. Median BetaRDgc	EF2189	0.993303422	0.977604658
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2178	1.00486618	1.005194805
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2192	1.010443864	1.009132326
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2181	1.003057376	1.003058104
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2193	1.008486563	1.006410256
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2164	1.00255997	1.003367612
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2171	1.004424779	1.004757721
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2174	1.001595301	NA
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2182	1.008486563	1.006708136
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2196	1.006134969	1.005194805
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2197	1.008486563	1.005813953
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2166	1.005291005	1.005850319
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2200	1.008203445	1.006410256
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2168	1.004547348	1.00444299
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2167	NA	1.003894854
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2191	1.007756102	1.005641749
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2177	1.008203445	1.008203445
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2165	1.004504505	1.003623188
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2194	1.008486563	1.006976744
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2179	1.005411909	1.006055703
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2183	1.010443864	1.009199987
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2172	1.008612328	1.009132326
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2180	1.005375385	1.005375385
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2170	1.005078548	1.005850319
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2169	1.004547348	1.004914477
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2184	1.010443864	1.009199987
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2198	1.008486563	1.006410256
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2190	1.008	1.007194245
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2195	1.006681959	1.006557864
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2176	1.006681959	1.006557864
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2199	1.010443864	1.009132326
+GC Drep vs. GW Drep	4. Max BetaRDgc	EF2189	1.007194245	1.005641749
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2178	38	44
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2192	27	32
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2181	111	130
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2193	12	12
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2164	213	232
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2171	58	62
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2174	315	NA
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2182	43	50
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2196	22	19
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2197	15	15
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2166	41	41
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2200	23	24
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2168	74	78
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2167	NA	20
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2191	26	28
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2177	34	37
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2165	70	66
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2194	21	23
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2179	67	63
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2183	15	13
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2172	24	22
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2180	68	76
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2170	168	161
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2169	210	217
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2184	6	9
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2198	36	36
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2190	31	26
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2195	16	25
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2176	15	20
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2199	22	27
+GC Drep vs. GW Drep	7. FUBAR Sel. Sites	EF2189	9	12
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2178	-2.087405603	-2.215139075
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2192	-2.775745895	-2.935383556
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2181	-2.196452361	-2.251650468
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2193	-2.636606598	-2.187263565
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2164	-3.056444341	-2.866282616
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2171	-2.790574573	-2.831812791
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2174	-2.354899023	NA
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2182	-3.257685143	-3.146036015
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2196	-1.371678022	-1.292033578
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2197	-1.93772289	-2.094175236
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2166	-3.774688752	-3.395515501
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2200	-2.709866541	-2.715940361
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2168	-2.805098154	-3.877685693
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2167	NA	-2.917474304
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2191	-2.475096263	-2.476650743
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2177	-2.365361156	-2.306054008
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2165	-2.08317742	-2.12151104
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2194	-3.057610163	-2.940166094
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2179	-2.853013339	-2.845113143
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2183	-2.653936318	-2.83691332
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2172	-3.114971975	-3.008527285
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2180	-2.285884233	-2.269638289
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2170	-3.022524399	-3.347360755
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2169	-3.049387206	-2.837636828
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2184	-3.024806389	-3.26590893
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2198	-3.57654809	-3.381958611
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2190	-3.264605623	-2.371871162
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2195	-2.230706632	-2.354161685
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2176	-2.781945952	-2.53434461
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2199	-2.823381427	-2.719264876
+GC Drep vs. GW Drep	9. FUBAR Avg. Detla	EF2189	-1.023381317	-1.361741408
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2178	0.078947368	0.090909091
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2192	0	0
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2181	0.081081081	0.061538462
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2193	0	0
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2164	0	0.012931034
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2171	0.068965517	0.080645161
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2174	0	NA
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2182	0	0
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2196	0.227272727	0.157894737
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2197	0	0
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2166	0	0
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2200	0.043478261	0.041666667
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2168	0	0.012820513
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2167	NA	0.05
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2191	0.038461538	0.035714286
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2177	0	0
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2165	0.085714286	0.106060606
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2194	0	0
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2179	0	0.015873016
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2183	0	0
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2172	0	0
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2180	0.132352941	0.105263158
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2170	0	0
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2169	0	0
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2184	0	0
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2198	0	0
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2190	0.064516129	0.038461538
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2195	0.0625	0.12
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2176	0.066666667	0.05
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2199	0	0
+GC Drep vs. GW Drep	8. FUBAR Prop. Pos Sel.	EF2189	0.111111111	0.166666667
+GC Drep vs. No Drep	1. Conservation	EF2178	1	0.963474026
+GC Drep vs. No Drep	1. Conservation	EF2192	1	0.999188312
+GC Drep vs. No Drep	1. Conservation	EF2181	1	1
+GC Drep vs. No Drep	1. Conservation	EF2193	1	1
+GC Drep vs. No Drep	1. Conservation	EF2164	0.370967742	0.527597403
+GC Drep vs. No Drep	1. Conservation	EF2171	0.693548387	0.767045455
+GC Drep vs. No Drep	1. Conservation	EF2174	0.64516129	0.664772727
+GC Drep vs. No Drep	1. Conservation	EF2182	1	0.999188312
+GC Drep vs. No Drep	1. Conservation	EF2196	1	0.998376623
+GC Drep vs. No Drep	1. Conservation	EF2197	1	1
+GC Drep vs. No Drep	1. Conservation	EF2166	0.306451613	0.416396104
+GC Drep vs. No Drep	1. Conservation	EF2200	1	0.999188312
+GC Drep vs. No Drep	1. Conservation	EF2168	0.387096774	0.435064935
+GC Drep vs. No Drep	1. Conservation	EF2167	NA	0.326298701
+GC Drep vs. No Drep	1. Conservation	EF2191	1	1
+GC Drep vs. No Drep	1. Conservation	EF2177	1	0.997564935
+GC Drep vs. No Drep	1. Conservation	EF2165	1	0.999188312
+GC Drep vs. No Drep	1. Conservation	EF2194	1	1
+GC Drep vs. No Drep	1. Conservation	EF2179	1	0.999188312
+GC Drep vs. No Drep	1. Conservation	EF2183	1	0.999188312
+GC Drep vs. No Drep	1. Conservation	EF2172	0.709677419	0.768668831
+GC Drep vs. No Drep	1. Conservation	EF2180	1	NA
+GC Drep vs. No Drep	1. Conservation	EF2170	0.983870968	0.99512987
+GC Drep vs. No Drep	1. Conservation	EF2169	0.822580645	0.935876623
+GC Drep vs. No Drep	1. Conservation	EF2184	1	1
+GC Drep vs. No Drep	1. Conservation	EF2198	1	0.999188312
+GC Drep vs. No Drep	1. Conservation	EF2190	1	0.999188312
+GC Drep vs. No Drep	1. Conservation	EF2195	1	0.998376623
+GC Drep vs. No Drep	1. Conservation	EF2176	0.580645161	0.730519481
+GC Drep vs. No Drep	1. Conservation	EF2199	1	0.996753247
+GC Drep vs. No Drep	1. Conservation	EF2189	1	1
+GC Drep vs. No Drep	6. Tajimas D	EF2178	-1.623216331	-1.6572952
+GC Drep vs. No Drep	6. Tajimas D	EF2192	-0.827072629	-1.018992627
+GC Drep vs. No Drep	6. Tajimas D	EF2181	-1.168492642	-1.105722742
+GC Drep vs. No Drep	6. Tajimas D	EF2193	-1.409068348	-1.589160521
+GC Drep vs. No Drep	6. Tajimas D	EF2164	0.627941318	0.704084399
+GC Drep vs. No Drep	6. Tajimas D	EF2171	1.681742295	1.986583407
+GC Drep vs. No Drep	6. Tajimas D	EF2174	0.827274259	0.35809237
+GC Drep vs. No Drep	6. Tajimas D	EF2182	-0.508475854	-0.427139352
+GC Drep vs. No Drep	6. Tajimas D	EF2196	-0.674996401	-1.000613666
+GC Drep vs. No Drep	6. Tajimas D	EF2197	-1.338669135	-1.135957495
+GC Drep vs. No Drep	6. Tajimas D	EF2166	1.829907987	1.878083701
+GC Drep vs. No Drep	6. Tajimas D	EF2200	-0.474720739	-0.489084958
+GC Drep vs. No Drep	6. Tajimas D	EF2168	3.238957788	3.182096641
+GC Drep vs. No Drep	6. Tajimas D	EF2167	NA	3.224735333
+GC Drep vs. No Drep	6. Tajimas D	EF2191	-1.826459764	-1.47623869
+GC Drep vs. No Drep	6. Tajimas D	EF2177	-1.174056212	-1.139349549
+GC Drep vs. No Drep	6. Tajimas D	EF2165	0.040875736	1.004797392
+GC Drep vs. No Drep	6. Tajimas D	EF2194	-0.872756986	-1.194250014
+GC Drep vs. No Drep	6. Tajimas D	EF2179	-0.968990112	-1.278991056
+GC Drep vs. No Drep	6. Tajimas D	EF2183	-2.210971783	-2.011015313
+GC Drep vs. No Drep	6. Tajimas D	EF2172	0.233930587	0.169081248
+GC Drep vs. No Drep	6. Tajimas D	EF2180	-1.032322031	NA
+GC Drep vs. No Drep	6. Tajimas D	EF2170	3.767437533	5.840909396
+GC Drep vs. No Drep	6. Tajimas D	EF2169	4.446071626	7.547231957
+GC Drep vs. No Drep	6. Tajimas D	EF2184	-1.118060928	-0.579080898
+GC Drep vs. No Drep	6. Tajimas D	EF2198	-1.419143776	-1.207345692
+GC Drep vs. No Drep	6. Tajimas D	EF2190	-0.984371601	-1.072985197
+GC Drep vs. No Drep	6. Tajimas D	EF2195	-0.742649216	-0.826158814
+GC Drep vs. No Drep	6. Tajimas D	EF2176	-1.105812188	-1.006540545
+GC Drep vs. No Drep	6. Tajimas D	EF2199	-1.20773547	-1.58092889
+GC Drep vs. No Drep	6. Tajimas D	EF2189	-0.860870058	0.338242447
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2178	-0.9897150954873992	-0.8125509493066537
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2192	-1.28678742711068	-1.0715768925226812
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2181	-1.1025612519346473	-0.9468011583360318
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2193	-1.1995035952461484	-0.9429234153451126
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2164	-0.10956696756139712	-0.11176049443880601
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2171	-0.3966865648639313	-0.3884922882915239
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2174	-0.16974466121778603	-0.16773896772985483
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2182	-1.1550952764574716	-1.0163453200542978
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2196	-1.077552932514573	-0.8911142850177148
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2197	-1.1138868972594216	-0.9475734372717225
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2166	-1.243421304563786	-1.1307344066204903
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2200	-1.174319910464261	-1.0010978366711487
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2168	-0.23908594431940308	-0.2363459543484972
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2167	NA	-1.0997784034960507
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2191	-1.1388896484044373	-0.9699962449413937
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2177	-1.0838236885666004	-0.9323494371548571
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2165	-0.8628333151072194	-0.8065188057911158
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2194	-1.3801070200681071	-1.1371136347379154
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2179	-1.1207814682753718	-0.9535419532362309
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2183	-1.012189789417187	-0.911917990533541
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2172	-0.9811127324737489	-0.9099434274102293
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2180	-1.1022691137379055	NA
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2170	-0.10642457138387523	-0.1048943575418667
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2169	-0.09447158602954231	-0.09193573098201707
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2184	-1.2748454097590076	-1.1684078535577025
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2198	-1.2395652795973804	-1.1000885349859446
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2190	-1.0395467896284574	-0.8505073433452729
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2195	-1.1890446474238259	-0.9944942189130107
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2176	-1.3102313430556074	-1.1541839825532132
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2199	-1.118222088194905	-0.9484894538218844
+GC Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2189	-0.898092218731013	-0.793364230099346
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2178	-1.8109026942372848	-1.9651809046811326
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2192	-1.9927407580028746	-2.0600133087977364
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2181	-1.8470214009594268	-1.9433186011249906
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2193	-2.002327835525412	-2.110877880362283
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2164	-0.5172963687852762	-0.730501401746427
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2171	-0.8263608179775689	-0.9431016859875623
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2174	-0.7884644944976652	-0.8912023967426517
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2182	-1.8223457803791847	-1.8935828320297194
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2196	-1.7594999495857475	-1.875820933021699
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2197	-1.9057383125869258	-1.981902649155987
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2166	-1.6247202891296144	-1.6953486234855037
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2200	-1.8394298552603283	-1.889194946501584
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2168	-0.5309573464121384	-0.6841796966825989
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2167	NA	-1.570329743206275
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2191	-2.0021140711332306	-2.052830807725922
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2177	-1.8182321058935142	-1.9104335937573595
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2165	-1.457743535356533	-1.4945873122773303
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2194	-2.0926147621791444	-2.174936205065453
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2179	-1.834451566438879	-1.975756668901401
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2183	-2.217619261052575	-2.279079487482733
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2172	-1.525472219523506	-1.6632029483694455
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2180	-1.8319997942355655	NA
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2170	-0.38606826205796374	-0.4286295664951254
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2169	-0.3269383457889702	-0.34491093248019405
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2184	-2.0331693890160705	-2.076591726813569
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2198	-2.0358647344645417	-2.136991671055683
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2190	-1.7666849907547435	-1.8532254091037434
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2195	-1.8885584944068914	-1.9469478071445285
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2176	-1.9792395819622282	-2.1008395905447004
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2199	-1.8767451891465519	-2.0789815512478045
+GC Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2189	-1.6080379599469703	-1.571939836491019
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2178	0.996481967	0.997881336
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2192	1.00329578	1.000807164
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2181	0.996820991	0.997735576
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2193	1.002843897	1.002620025
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2164	0.579852267	0.969005161
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2171	0.989750695	0.996933122
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2174	0.7273608	0.977001289
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2182	1.003412969	1.002925997
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2196	0.989292747	0.992655304
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2197	1.000362947	0.99972429
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2166	0.992550744	0.997257714
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2200	1	1
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2168	0.549268172	0.957547363
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2167	NA	0.990405457
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2191	1.00001941	1
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2177	1.000775707	1.001164577
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2165	0.985428319	0.986547285
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2194	1.003518068	1.002967776
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2179	1	1.00031365
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2183	1.003539834	1.002967776
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2172	0.99801673	0.999309401
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2180	0.99700139	NA
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2170	0.526571972	0.531094258
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2169	0.364517292	0.363384393
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2184	1.003330512	1.002995324
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2198	1.003311456	1.002932551
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2190	0.995193151	0.995957473
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2195	0.99899992	0.998643761
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2176	0.999758979	0.999601752
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2199	1.002932551	1.002589754
+GC Drep vs. No Drep	3. Median BetaRDgc	EF2189	0.993303422	0.96991765
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2178	1.00486618	1.006514658
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2192	1.010443864	1.010443864
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2181	1.003057376	1.004234734
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2193	1.008486563	1.00923751
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2164	1.00255997	1.004594181
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2171	1.004424779	1.005242903
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2174	1.001595301	1.003623188
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2182	1.008486563	1.008510638
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2196	1.006134969	1.006134969
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2197	1.008486563	1.00923751
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2166	1.005291005	1.007142857
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2200	1.008203445	1.00923751
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2168	1.004547348	1.00486618
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2167	NA	1.005968178
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2191	1.007756102	1.007756102
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2177	1.008203445	1.008203445
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2165	1.004504505	1.00493935
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2194	1.008486563	1.00923751
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2179	1.005411909	1.007189594
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2183	1.010443864	1.010734302
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2172	1.008612328	1.008695652
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2180	1.005375385	NA
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2170	1.005078548	1.006355932
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2169	1.004547348	1.005461489
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2184	1.010443864	1.010734302
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2198	1.008486563	1.00923751
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2190	1.008	1.008
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2195	1.006681959	1.007189594
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2176	1.006681959	1.006681959
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2199	1.010443864	1.010541072
+GC Drep vs. No Drep	4. Max BetaRDgc	EF2189	1.007194245	1.007334963
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2178	38	52
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2192	27	36
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2181	111	153
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2193	12	12
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2164	213	195
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2171	58	74
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2174	315	329
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2182	43	54
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2196	22	26
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2197	15	18
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2166	41	45
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2200	23	31
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2168	74	79
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2167	NA	24
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2191	26	21
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2177	34	45
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2165	70	72
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2194	21	26
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2179	67	77
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2183	15	20
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2172	24	23
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2180	68	NA
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2170	168	168
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2169	210	209
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2184	6	9
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2198	36	49
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2190	31	28
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2195	16	23
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2176	15	19
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2199	22	28
+GC Drep vs. No Drep	7. FUBAR Sel. Sites	EF2189	9	16
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2178	-2.087405603	-2.032205531
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2192	-2.775745895	-2.666986313
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2181	-2.196452361	-2.030942355
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2193	-2.636606598	-1.69680976
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2164	-3.056444341	-1.954269713
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2171	-2.790574573	-2.569974033
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2174	-2.354899023	-2.304891767
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2182	-3.257685143	-2.890641277
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2196	-1.371678022	-1.232011676
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2197	-1.93772289	-1.715436504
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2166	-3.774688752	-3.508303308
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2200	-2.709866541	-2.467292759
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2168	-2.805098154	-3.594800988
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2167	NA	-2.451338126
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2191	-2.475096263	-1.755103821
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2177	-2.365361156	-2.0495135
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2165	-2.08317742	-1.957707858
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2194	-3.057610163	-2.482864141
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2179	-2.853013339	-2.399317557
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2183	-2.653936318	-2.180903253
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2172	-3.114971975	-2.813637957
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2180	-2.285884233	NA
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2170	-3.022524399	-2.828612488
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2169	-3.049387206	-2.061707227
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2184	-3.024806389	-2.608502559
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2198	-3.57654809	-3.280957068
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2190	-3.264605623	-2.137117987
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2195	-2.230706632	-2.036082854
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2176	-2.781945952	-2.159824033
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2199	-2.823381427	-2.11861513
+GC Drep vs. No Drep	9. FUBAR Avg. Detla	EF2189	-1.023381317	-0.855714834
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2178	0.078947368	0.134615385
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2192	0	0
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2181	0.081081081	0.071895425
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2193	0	0
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2164	0	0.030769231
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2171	0.068965517	0.067567568
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2174	0	0.024316109
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2182	0	0
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2196	0.227272727	0.192307692
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2197	0	0
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2166	0	0
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2200	0.043478261	0.032258065
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2168	0	0.025316456
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2167	NA	0.083333333
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2191	0.038461538	0.095238095
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2177	0	0.022222222
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2165	0.085714286	0.097222222
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2194	0	0
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2179	0	0.012987013
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2183	0	0
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2172	0	0
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2180	0.132352941	NA
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2170	0	0
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2169	0	0.004784689
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2184	0	0
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2198	0	0
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2190	0.064516129	0.107142857
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2195	0.0625	0.086956522
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2176	0.066666667	0.105263158
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2199	0	0.035714286
+GC Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2189	0.111111111	0.1875
+GW Drep vs. No Drep	1. Conservation	EF2178	1	0.963474026
+GW Drep vs. No Drep	1. Conservation	EF2192	1	0.999188312
+GW Drep vs. No Drep	1. Conservation	EF2181	1	1
+GW Drep vs. No Drep	1. Conservation	EF2193	1	1
+GW Drep vs. No Drep	1. Conservation	EF2164	0.466666667	0.527597403
+GW Drep vs. No Drep	1. Conservation	EF2171	0.786666667	0.767045455
+GW Drep vs. No Drep	1. Conservation	EF2174	NA	0.664772727
+GW Drep vs. No Drep	1. Conservation	EF2182	1	0.999188312
+GW Drep vs. No Drep	1. Conservation	EF2196	1	0.998376623
+GW Drep vs. No Drep	1. Conservation	EF2197	1	1
+GW Drep vs. No Drep	1. Conservation	EF2166	0.386666667	0.416396104
+GW Drep vs. No Drep	1. Conservation	EF2200	1	0.999188312
+GW Drep vs. No Drep	1. Conservation	EF2168	0.453333333	0.435064935
+GW Drep vs. No Drep	1. Conservation	EF2167	0.293333333	0.326298701
+GW Drep vs. No Drep	1. Conservation	EF2191	1	1
+GW Drep vs. No Drep	1. Conservation	EF2177	1	0.997564935
+GW Drep vs. No Drep	1. Conservation	EF2165	1	0.999188312
+GW Drep vs. No Drep	1. Conservation	EF2194	1	1
+GW Drep vs. No Drep	1. Conservation	EF2179	1	0.999188312
+GW Drep vs. No Drep	1. Conservation	EF2183	1	0.999188312
+GW Drep vs. No Drep	1. Conservation	EF2172	0.786666667	0.768668831
+GW Drep vs. No Drep	1. Conservation	EF2180	1	NA
+GW Drep vs. No Drep	1. Conservation	EF2170	1	0.99512987
+GW Drep vs. No Drep	1. Conservation	EF2169	0.853333333	0.935876623
+GW Drep vs. No Drep	1. Conservation	EF2184	1	1
+GW Drep vs. No Drep	1. Conservation	EF2198	1	0.999188312
+GW Drep vs. No Drep	1. Conservation	EF2190	1	0.999188312
+GW Drep vs. No Drep	1. Conservation	EF2195	1	0.998376623
+GW Drep vs. No Drep	1. Conservation	EF2176	0.626666667	0.730519481
+GW Drep vs. No Drep	1. Conservation	EF2199	1	0.996753247
+GW Drep vs. No Drep	1. Conservation	EF2189	1	1
+GW Drep vs. No Drep	6. Tajimas D	EF2178	-1.459455505	-1.6572952
+GW Drep vs. No Drep	6. Tajimas D	EF2192	-1.057376298	-1.018992627
+GW Drep vs. No Drep	6. Tajimas D	EF2181	-1.206549564	-1.105722742
+GW Drep vs. No Drep	6. Tajimas D	EF2193	-1.805848562	-1.589160521
+GW Drep vs. No Drep	6. Tajimas D	EF2164	2.104103394	0.704084399
+GW Drep vs. No Drep	6. Tajimas D	EF2171	0.924687559	1.986583407
+GW Drep vs. No Drep	6. Tajimas D	EF2174	NA	0.35809237
+GW Drep vs. No Drep	6. Tajimas D	EF2182	-0.474985859	-0.427139352
+GW Drep vs. No Drep	6. Tajimas D	EF2196	-1.166160539	-1.000613666
+GW Drep vs. No Drep	6. Tajimas D	EF2197	-1.084997276	-1.135957495
+GW Drep vs. No Drep	6. Tajimas D	EF2166	1.016812461	1.878083701
+GW Drep vs. No Drep	6. Tajimas D	EF2200	-0.691549535	-0.489084958
+GW Drep vs. No Drep	6. Tajimas D	EF2168	2.347685498	3.182096641
+GW Drep vs. No Drep	6. Tajimas D	EF2167	1.699010354	3.224735333
+GW Drep vs. No Drep	6. Tajimas D	EF2191	-1.664813838	-1.47623869
+GW Drep vs. No Drep	6. Tajimas D	EF2177	-1.088622434	-1.139349549
+GW Drep vs. No Drep	6. Tajimas D	EF2165	0.165203688	1.004797392
+GW Drep vs. No Drep	6. Tajimas D	EF2194	-1.221720719	-1.194250014
+GW Drep vs. No Drep	6. Tajimas D	EF2179	-0.897056693	-1.278991056
+GW Drep vs. No Drep	6. Tajimas D	EF2183	-0.786540654	-2.011015313
+GW Drep vs. No Drep	6. Tajimas D	EF2172	0.126673764	0.169081248
+GW Drep vs. No Drep	6. Tajimas D	EF2180	-1.089416621	NA
+GW Drep vs. No Drep	6. Tajimas D	EF2170	3.74365061	5.840909396
+GW Drep vs. No Drep	6. Tajimas D	EF2169	4.636844905	7.547231957
+GW Drep vs. No Drep	6. Tajimas D	EF2184	-0.433898492	-0.579080898
+GW Drep vs. No Drep	6. Tajimas D	EF2198	-1.151188446	-1.207345692
+GW Drep vs. No Drep	6. Tajimas D	EF2190	-0.643641878	-1.072985197
+GW Drep vs. No Drep	6. Tajimas D	EF2195	-0.895244781	-0.826158814
+GW Drep vs. No Drep	6. Tajimas D	EF2176	-0.902111598	-1.006540545
+GW Drep vs. No Drep	6. Tajimas D	EF2199	-1.400813161	-1.58092889
+GW Drep vs. No Drep	6. Tajimas D	EF2189	-6.98737E-05	0.338242447
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2178	-0.9643500282942735	-0.8125509493066537
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2192	-1.204897767041096	-1.0715768925226812
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2181	-1.0529740739981581	-0.9468011583360318
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2193	-1.0745820505174621	-0.9429234153451126
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2164	-0.16651854183203896	-0.11176049443880601
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2171	-0.39979972293229804	-0.3884922882915239
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2174	NA	-0.16773896772985483
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2182	-1.1067971345040648	-1.0163453200542978
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2196	-1.0413449149582579	-0.8911142850177148
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2197	-1.159638117419954	-0.9475734372717225
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2166	-1.1976714186510031	-1.1307344066204903
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2200	-1.1184699217292557	-1.0010978366711487
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2168	-0.240003129323702	-0.2363459543484972
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2167	-1.1601861673150655	-1.0997784034960507
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2191	-1.0981500366173256	-0.9699962449413937
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2177	-1.0407227829994419	-0.9323494371548571
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2165	-0.8661867137884872	-0.8065188057911158
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2194	-1.3236383730720749	-1.1371136347379154
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2179	-1.1237056332989552	-0.9535419532362309
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2183	-1.3934677330266179	-0.911917990533541
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2172	-0.9931760711696744	-0.9099434274102293
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2180	-1.05831950369526	NA
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2170	-0.10680399336239868	-0.1048943575418667
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2169	-0.09302697749419651	-0.09193573098201707
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2184	-1.2748454097590076	-1.1684078535577025
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2198	-1.2140154863024277	-1.1000885349859446
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2190	-1.0017621936979366	-0.8505073433452729
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2195	-1.1275354759310545	-0.9944942189130107
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2176	-1.2349945072365724	-1.1541839825532132
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2199	-1.087843310503522	-0.9484894538218844
+GW Drep vs. No Drep	5. Proportion Seg. Sites (log10; PC of 1e-5)	EF2189	-0.8694492317790392	-0.793364230099346
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2178	-1.7814054463015319	-1.9651809046811326
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2192	-1.9655139254755838	-2.0600133087977364
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2181	-1.8260295619953366	-1.9433186011249906
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2193	-1.9768911076820992	-2.110877880362283
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2164	-0.5172088158709913	-0.730501401746427
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2171	-0.8962713979677626	-0.9431016859875623
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2174	NA	-0.8912023967426517
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2182	-1.7880024076879728	-1.8935828320297194
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2196	-1.8164260857819816	-1.875820933021699
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2197	-1.932265259230699	-1.981902649155987
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2166	-1.654175210029115	-1.6953486234855037
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2200	-1.8305128407137905	-1.889194946501584
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2168	-0.5942650561142743	-0.6841796966825989
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2167	-1.5558487837294386	-1.570329743206275
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2191	-1.9505170222055555	-2.052830807725922
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2177	-1.7861563920733807	-1.9104335937573595
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2165	-1.4598819291298675	-1.4945873122773303
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2194	-2.111666928955418	-2.174936205065453
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2179	-1.8427883132085332	-1.975756668901401
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2183	-2.128314419339573	-2.279079487482733
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2172	-1.569097588947986	-1.6632029483694455
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2180	-1.814395269320629	NA
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2170	-0.39839783125194905	-0.4286295664951254
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2169	-0.3323643689743443	-0.34491093248019405
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2184	-1.9570462688024437	-2.076591726813569
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2198	-1.994864206680927	-2.136991671055683
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2190	-1.6962353675510504	-1.8532254091037434
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2195	-1.8721090950783714	-1.9469478071445285
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2176	-1.9048075565759848	-2.1008395905447004
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2199	-1.8947758966081856	-2.0789815512478045
+GW Drep vs. No Drep	2. Entropy (log10 PC of 1e-5)	EF2189	-1.4903156244203173	-1.571939836491019
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2178	0.99486183	0.997881336
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2192	1.002953543	1.000807164
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2181	0.996649535	0.997735576
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2193	1.002058218	1.002620025
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2164	0.552751976	0.969005161
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2171	0.993453113	0.996933122
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2174	NA	0.977001289
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2182	1.003058104	1.002925997
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2196	0.991849225	0.992655304
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2197	1.000436381	0.99972429
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2166	0.99696346	0.997257714
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2200	1.000701754	1
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2168	0.55342346	0.957547363
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2167	0.990343382	0.990405457
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2191	0.999955763	1
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2177	1.001172156	1.001164577
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2165	0.986945646	0.986547285
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2194	1.003533569	1.002967776
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2179	1	1.00031365
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2183	1.003533569	1.002967776
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2172	0.998527414	0.999309401
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2180	0.997455352	NA
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2170	0.533123904	0.531094258
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2169	0.361864622	0.363384393
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2184	1.003434167	1.002995324
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2198	1.003322259	1.002932551
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2190	0.995085891	0.995957473
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2195	0.998700768	0.998643761
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2176	0.999563773	0.999601752
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2199	1.002590674	1.002589754
+GW Drep vs. No Drep	3. Median BetaRDgc	EF2189	0.977604658	0.96991765
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2178	1.005194805	1.006514658
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2192	1.009132326	1.010443864
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2181	1.003058104	1.004234734
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2193	1.006410256	1.00923751
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2164	1.003367612	1.004594181
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2171	1.004757721	1.005242903
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2174	NA	1.003623188
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2182	1.006708136	1.008510638
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2196	1.005194805	1.006134969
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2197	1.005813953	1.00923751
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2166	1.005850319	1.007142857
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2200	1.006410256	1.00923751
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2168	1.00444299	1.00486618
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2167	1.003894854	1.005968178
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2191	1.005641749	1.007756102
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2177	1.008203445	1.008203445
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2165	1.003623188	1.00493935
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2194	1.006976744	1.00923751
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2179	1.006055703	1.007189594
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2183	1.009199987	1.010734302
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2172	1.009132326	1.008695652
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2180	1.005375385	NA
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2170	1.005850319	1.006355932
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2169	1.004914477	1.005461489
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2184	1.009199987	1.010734302
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2198	1.006410256	1.00923751
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2190	1.007194245	1.008
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2195	1.006557864	1.007189594
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2176	1.006557864	1.006681959
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2199	1.009132326	1.010541072
+GW Drep vs. No Drep	4. Max BetaRDgc	EF2189	1.005641749	1.007334963
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2178	44	52
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2192	32	36
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2181	130	153
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2193	12	12
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2164	232	195
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2171	62	74
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2174	NA	329
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2182	50	54
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2196	19	26
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2197	15	18
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2166	41	45
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2200	24	31
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2168	78	79
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2167	20	24
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2191	28	21
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2177	37	45
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2165	66	72
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2194	23	26
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2179	63	77
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2183	13	20
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2172	22	23
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2180	76	NA
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2170	161	168
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2169	217	209
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2184	9	9
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2198	36	49
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2190	26	28
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2195	25	23
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2176	20	19
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2199	27	28
+GW Drep vs. No Drep	7. FUBAR Sel. Sites	EF2189	12	16
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2178	-2.215139075	-2.032205531
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2192	-2.935383556	-2.666986313
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2181	-2.251650468	-2.030942355
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2193	-2.187263565	-1.69680976
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2164	-2.866282616	-1.954269713
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2171	-2.831812791	-2.569974033
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2174	NA	-2.304891767
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2182	-3.146036015	-2.890641277
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2196	-1.292033578	-1.232011676
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2197	-2.094175236	-1.715436504
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2166	-3.395515501	-3.508303308
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2200	-2.715940361	-2.467292759
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2168	-3.877685693	-3.594800988
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2167	-2.917474304	-2.451338126
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2191	-2.476650743	-1.755103821
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2177	-2.306054008	-2.0495135
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2165	-2.12151104	-1.957707858
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2194	-2.940166094	-2.482864141
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2179	-2.845113143	-2.399317557
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2183	-2.83691332	-2.180903253
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2172	-3.008527285	-2.813637957
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2180	-2.269638289	NA
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2170	-3.347360755	-2.828612488
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2169	-2.837636828	-2.061707227
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2184	-3.26590893	-2.608502559
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2198	-3.381958611	-3.280957068
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2190	-2.371871162	-2.137117987
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2195	-2.354161685	-2.036082854
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2176	-2.53434461	-2.159824033
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2199	-2.719264876	-2.11861513
+GW Drep vs. No Drep	9. FUBAR Avg. Detla	EF2189	-1.361741408	-0.855714834
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2178	0.090909091	0.134615385
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2192	0	0
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2181	0.061538462	0.071895425
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2193	0	0
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2164	0.012931034	0.030769231
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2171	0.080645161	0.067567568
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2174	NA	0.024316109
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2182	0	0
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2196	0.157894737	0.192307692
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2197	0	0
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2166	0	0
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2200	0.041666667	0.032258065
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2168	0.012820513	0.025316456
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2167	0.05	0.083333333
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2191	0.035714286	0.095238095
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2177	0	0.022222222
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2165	0.106060606	0.097222222
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2194	0	0
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2179	0.015873016	0.012987013
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2183	0	0
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2172	0	0
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2180	0.105263158	NA
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2170	0	0
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2169	0	0.004784689
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2184	0	0
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2198	0	0
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2190	0.038461538	0.107142857
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2195	0.12	0.086956522
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2176	0.05	0.105263158
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2199	0	0.035714286
+GW Drep vs. No Drep	8. FUBAR Prop. Pos Sel.	EF2189	0.166666667	0.1875

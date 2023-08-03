@@ -1,0 +1,5 @@
+species	copycount	conservation
+E. faecalis	1	99.51
+E. faecalis	2	0.0
+E. faecium	1	62.92
+E. faecium	2	7.23
