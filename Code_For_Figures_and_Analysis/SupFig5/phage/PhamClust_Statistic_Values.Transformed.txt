@@ -1,0 +1,2206 @@
+Cluster_ID	Statistic	Value
+PhamClust_341	Maximum of maximum E-values observed for any OG (log10)	-16.46092390120722
+PhamClust_341	Maximum of near-core OG E-values observed (log10):	-16.46092390120722
+PhamClust_341	Maximum distance between near-core OGs:	2
+PhamClust_341	Median CDS count:	21.5
+PhamClust_341	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.698051948051948
+PhamClust_34	Maximum of maximum E-values observed for any OG (log10)	-6.974694134735229
+PhamClust_34	Maximum of near-core OG E-values observed (log10):	-6.974694134735229
+PhamClust_34	Maximum distance between near-core OGs:	18
+PhamClust_34	Median CDS count:	62
+PhamClust_34	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6
+PhamClust_135	Maximum of maximum E-values observed for any OG (log10)	-8.036684488613888
+PhamClust_135	Maximum of near-core OG E-values observed (log10):	-9.692503962086786
+PhamClust_135	Maximum distance between near-core OGs:	16
+PhamClust_135	Median CDS count:	133
+PhamClust_135	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.368
+PhamClust_347	Maximum of maximum E-values observed for any OG (log10)	-12.714442690992225
+PhamClust_347	Maximum of near-core OG E-values observed (log10):	-12.714442690992225
+PhamClust_347	Maximum distance between near-core OGs:	12
+PhamClust_347	Median CDS count:	88.0
+PhamClust_347	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.35520833333333335
+PhamClust_143	Maximum of maximum E-values observed for any OG (log10)	-9.642065152999546
+PhamClust_143	Maximum of near-core OG E-values observed (log10):	-9.642065152999546
+PhamClust_143	Maximum distance between near-core OGs:	15
+PhamClust_143	Median CDS count:	66
+PhamClust_143	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5606060606060606
+PhamClust_315	Maximum of maximum E-values observed for any OG (log10)	-24.18708664335714
+PhamClust_315	Maximum of near-core OG E-values observed (log10):	-54.21041928783557
+PhamClust_315	Maximum distance between near-core OGs:	21
+PhamClust_315	Median CDS count:	48.0
+PhamClust_315	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4583333333333333
+PhamClust_123	Maximum of maximum E-values observed for any OG (log10)	-4.659555885159881
+PhamClust_123	Maximum of near-core OG E-values observed (log10):	-4.659555885159881
+PhamClust_123	Maximum distance between near-core OGs:	12
+PhamClust_123	Median CDS count:	51
+PhamClust_123	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6470588235294118
+PhamClust_323	Maximum of maximum E-values observed for any OG (log10)	-24.856985199745903
+PhamClust_323	Maximum of near-core OG E-values observed (log10):	-24.856985199745903
+PhamClust_323	Maximum distance between near-core OGs:	8
+PhamClust_323	Median CDS count:	72.5
+PhamClust_323	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7603928299008391
+PhamClust_390	Maximum of maximum E-values observed for any OG (log10)	-20.978810700930058
+PhamClust_390	Maximum of near-core OG E-values observed (log10):	-20.978810700930058
+PhamClust_390	Maximum distance between near-core OGs:	3
+PhamClust_390	Median CDS count:	39.0
+PhamClust_390	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8998022412656559
+PhamClust_31	Maximum of maximum E-values observed for any OG (log10)	-7.774690718274136
+PhamClust_31	Maximum of near-core OG E-values observed (log10):	-14.910094888560602
+PhamClust_31	Maximum distance between near-core OGs:	30
+PhamClust_31	Median CDS count:	80
+PhamClust_31	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4444444444444444
+PhamClust_233	Maximum of maximum E-values observed for any OG (log10)	-7.785156151952301
+PhamClust_233	Maximum of near-core OG E-values observed (log10):	-17.47237009912866
+PhamClust_233	Maximum distance between near-core OGs:	5
+PhamClust_233	Median CDS count:	210
+PhamClust_233	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9282296650717703
+PhamClust_103	Maximum of maximum E-values observed for any OG (log10)	-5.070581074285707
+PhamClust_103	Maximum of near-core OG E-values observed (log10):	-11.823908740944317
+PhamClust_103	Maximum distance between near-core OGs:	8
+PhamClust_103	Median CDS count:	66
+PhamClust_103	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5882352941176471
+PhamClust_198	Maximum of maximum E-values observed for any OG (log10)	-9.072629636960976
+PhamClust_198	Maximum of near-core OG E-values observed (log10):	-9.072629636960976
+PhamClust_198	Maximum distance between near-core OGs:	15
+PhamClust_198	Median CDS count:	211.0
+PhamClust_198	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6066711590296496
+PhamClust_378	Maximum of maximum E-values observed for any OG (log10)	-13.779891911959943
+PhamClust_378	Maximum of near-core OG E-values observed (log10):	-13.779891911959943
+PhamClust_378	Maximum distance between near-core OGs:	4
+PhamClust_378	Median CDS count:	190
+PhamClust_378	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.868421052631579
+PhamClust_359	Maximum of maximum E-values observed for any OG (log10)	-9.657577319177793
+PhamClust_359	Maximum of near-core OG E-values observed (log10):	-9.657577319177793
+PhamClust_359	Maximum distance between near-core OGs:	4
+PhamClust_359	Median CDS count:	84
+PhamClust_359	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9285714285714286
+PhamClust_54	Maximum of maximum E-values observed for any OG (log10)	-7.3334820194451185
+PhamClust_54	Maximum of near-core OG E-values observed (log10):	-7.3334820194451185
+PhamClust_54	Maximum distance between near-core OGs:	11
+PhamClust_54	Median CDS count:	54
+PhamClust_54	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6909090909090909
+PhamClust_348	Maximum of maximum E-values observed for any OG (log10)	-19.21752737583371
+PhamClust_348	Maximum of near-core OG E-values observed (log10):	-19.21752737583371
+PhamClust_348	Maximum distance between near-core OGs:	3
+PhamClust_348	Median CDS count:	21.0
+PhamClust_348	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7636363636363637
+PhamClust_343	Maximum of maximum E-values observed for any OG (log10)	-16.806875401645538
+PhamClust_343	Maximum of near-core OG E-values observed (log10):	-16.806875401645538
+PhamClust_343	Maximum distance between near-core OGs:	7
+PhamClust_343	Median CDS count:	68.0
+PhamClust_343	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4265628379839931
+PhamClust_409	Maximum of maximum E-values observed for any OG (log10)	-20.368556230986826
+PhamClust_409	Maximum of near-core OG E-values observed (log10):	-20.368556230986826
+PhamClust_409	Maximum distance between near-core OGs:	6
+PhamClust_409	Median CDS count:	73.5
+PhamClust_409	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8027582376897445
+PhamClust_114	Maximum of maximum E-values observed for any OG (log10)	-17.084072788302883
+PhamClust_114	Maximum of near-core OG E-values observed (log10):	-30.72353819582675
+PhamClust_114	Maximum distance between near-core OGs:	17
+PhamClust_114	Median CDS count:	55.0
+PhamClust_114	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.44545454545454544
+PhamClust_303	Maximum of maximum E-values observed for any OG (log10)	-17.954677021213342
+PhamClust_303	Maximum of near-core OG E-values observed (log10):	-17.954677021213342
+PhamClust_303	Maximum distance between near-core OGs:	25
+PhamClust_303	Median CDS count:	61.0
+PhamClust_303	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.431917211328976
+PhamClust_438	Maximum of maximum E-values observed for any OG (log10)	-11.896196279044041
+PhamClust_438	Maximum of near-core OG E-values observed (log10):	-11.896196279044041
+PhamClust_438	Maximum distance between near-core OGs:	4
+PhamClust_438	Median CDS count:	84.5
+PhamClust_438	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9467787114845938
+PhamClust_108	Maximum of maximum E-values observed for any OG (log10)	-6.917214629683549
+PhamClust_108	Maximum of near-core OG E-values observed (log10):	-6.917214629683549
+PhamClust_108	Maximum distance between near-core OGs:	14
+PhamClust_108	Median CDS count:	97
+PhamClust_108	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3979591836734694
+PhamClust_166	Maximum of maximum E-values observed for any OG (log10)	-5.186419011431807
+PhamClust_166	Maximum of near-core OG E-values observed (log10):	-7.567030709125593
+PhamClust_166	Maximum distance between near-core OGs:	4
+PhamClust_166	Median CDS count:	20
+PhamClust_166	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8
+PhamClust_195	Maximum of maximum E-values observed for any OG (log10)	-11.8153085691824
+PhamClust_195	Maximum of near-core OG E-values observed (log10):	-40.521433504406154
+PhamClust_195	Maximum distance between near-core OGs:	27
+PhamClust_195	Median CDS count:	57
+PhamClust_195	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.38596491228070173
+PhamClust_324	Maximum of maximum E-values observed for any OG (log10)	-30.70996538863748
+PhamClust_324	Maximum of near-core OG E-values observed (log10):	-33.311580177997286
+PhamClust_324	Maximum distance between near-core OGs:	4
+PhamClust_324	Median CDS count:	43.0
+PhamClust_324	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8841991341991342
+PhamClust_336	Maximum of maximum E-values observed for any OG (log10)	-16.346787486224656
+PhamClust_336	Maximum of near-core OG E-values observed (log10):	-16.346787486224656
+PhamClust_336	Maximum distance between near-core OGs:	8
+PhamClust_336	Median CDS count:	90.0
+PhamClust_336	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7111989134461045
+PhamClust_141	Maximum of maximum E-values observed for any OG (log10)	-16.234331445240983
+PhamClust_141	Maximum of near-core OG E-values observed (log10):	-16.234331445240983
+PhamClust_141	Maximum distance between near-core OGs:	17
+PhamClust_141	Median CDS count:	65
+PhamClust_141	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4
+PhamClust_358	Maximum of maximum E-values observed for any OG (log10)	-23.37986394502624
+PhamClust_358	Maximum of near-core OG E-values observed (log10):	-33.4089353929735
+PhamClust_358	Maximum distance between near-core OGs:	2
+PhamClust_358	Median CDS count:	48
+PhamClust_358	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9361702127659575
+PhamClust_295	Maximum of maximum E-values observed for any OG (log10)	-19.742321425130815
+PhamClust_295	Maximum of near-core OG E-values observed (log10):	-19.742321425130815
+PhamClust_295	Maximum distance between near-core OGs:	10
+PhamClust_295	Median CDS count:	48.0
+PhamClust_295	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6293706293706294
+PhamClust_331	Maximum of maximum E-values observed for any OG (log10)	-20.474955192963154
+PhamClust_331	Maximum of near-core OG E-values observed (log10):	-20.474955192963154
+PhamClust_331	Maximum distance between near-core OGs:	7
+PhamClust_331	Median CDS count:	26.0
+PhamClust_331	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4230769230769231
+PhamClust_250	Maximum of maximum E-values observed for any OG (log10)	-15.832682665251822
+PhamClust_250	Maximum of near-core OG E-values observed (log10):	-15.832682665251822
+PhamClust_250	Maximum distance between near-core OGs:	4
+PhamClust_250	Median CDS count:	106.5
+PhamClust_250	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.817063492063492
+PhamClust_278	Maximum of maximum E-values observed for any OG (log10)	-12.41907502432438
+PhamClust_278	Maximum of near-core OG E-values observed (log10):	-12.41907502432438
+PhamClust_278	Maximum distance between near-core OGs:	2
+PhamClust_278	Median CDS count:	28.0
+PhamClust_278	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8582375478927202
+PhamClust_246	Maximum of maximum E-values observed for any OG (log10)	-7.627087997029893
+PhamClust_246	Maximum of near-core OG E-values observed (log10):	-7.627087997029893
+PhamClust_246	Maximum distance between near-core OGs:	10
+PhamClust_246	Median CDS count:	61.0
+PhamClust_246	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7106557377049181
+PhamClust_375	Maximum of maximum E-values observed for any OG (log10)	-12.718966632752272
+PhamClust_375	Maximum of near-core OG E-values observed (log10):	-23.29328221766324
+PhamClust_375	Maximum distance between near-core OGs:	3
+PhamClust_375	Median CDS count:	81
+PhamClust_375	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8888888888888888
+PhamClust_302	Maximum of maximum E-values observed for any OG (log10)	-18.35261702988538
+PhamClust_302	Maximum of near-core OG E-values observed (log10):	-18.35261702988538
+PhamClust_302	Maximum distance between near-core OGs:	5
+PhamClust_302	Median CDS count:	101.0
+PhamClust_302	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9017857142857143
+PhamClust_125	Maximum of maximum E-values observed for any OG (log10)	-8.698970004336019
+PhamClust_125	Maximum of near-core OG E-values observed (log10):	-8.698970004336019
+PhamClust_125	Maximum distance between near-core OGs:	21
+PhamClust_125	Median CDS count:	75
+PhamClust_125	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3142857142857143
+PhamClust_124	Maximum of maximum E-values observed for any OG (log10)	-15.35261702988538
+PhamClust_124	Maximum of near-core OG E-values observed (log10):	-15.35261702988538
+PhamClust_124	Maximum distance between near-core OGs:	14
+PhamClust_124	Median CDS count:	72
+PhamClust_124	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5142857142857142
+PhamClust_192	Maximum of maximum E-values observed for any OG (log10)	-7.360513510731413
+PhamClust_192	Maximum of near-core OG E-values observed (log10):	-7.360513510731413
+PhamClust_192	Maximum distance between near-core OGs:	11
+PhamClust_192	Median CDS count:	377.0
+PhamClust_192	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8143465259454705
+PhamClust_322	Maximum of maximum E-values observed for any OG (log10)	-14.471083299722343
+PhamClust_322	Maximum of near-core OG E-values observed (log10):	-14.471083299722343
+PhamClust_322	Maximum distance between near-core OGs:	11
+PhamClust_322	Median CDS count:	103.0
+PhamClust_322	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4328802039082413
+PhamClust_334	Maximum of maximum E-values observed for any OG (log10)	-13.777283528852415
+PhamClust_334	Maximum of near-core OG E-values observed (log10):	-13.777283528852415
+PhamClust_334	Maximum distance between near-core OGs:	49
+PhamClust_334	Median CDS count:	212.5
+PhamClust_334	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3249235474006116
+PhamClust_75	Maximum of maximum E-values observed for any OG (log10)	-4.7495799976911055
+PhamClust_75	Maximum of near-core OG E-values observed (log10):	-10.588380294036769
+PhamClust_75	Maximum distance between near-core OGs:	16
+PhamClust_75	Median CDS count:	93
+PhamClust_75	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.550561797752809
+PhamClust_226	Maximum of maximum E-values observed for any OG (log10)	-18.688246138944244
+PhamClust_226	Maximum of near-core OG E-values observed (log10):	-18.688246138944244
+PhamClust_226	Maximum distance between near-core OGs:	2
+PhamClust_226	Median CDS count:	74
+PhamClust_226	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8783783783783784
+PhamClust_402	Maximum of maximum E-values observed for any OG (log10)	-28.924453038607467
+PhamClust_402	Maximum of near-core OG E-values observed (log10):	-28.924453038607467
+PhamClust_402	Maximum distance between near-core OGs:	3
+PhamClust_402	Median CDS count:	69.0
+PhamClust_402	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9147727272727273
+PhamClust_120	Maximum of maximum E-values observed for any OG (log10)	-4.4698003017969175
+PhamClust_120	Maximum of near-core OG E-values observed (log10):	-4.4698003017969175
+PhamClust_120	Maximum distance between near-core OGs:	13
+PhamClust_120	Median CDS count:	89.0
+PhamClust_120	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5838008415147266
+PhamClust_211	Maximum of maximum E-values observed for any OG (log10)	-13.95467702121334
+PhamClust_211	Maximum of near-core OG E-values observed (log10):	-13.95467702121334
+PhamClust_211	Maximum distance between near-core OGs:	24
+PhamClust_211	Median CDS count:	62
+PhamClust_211	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3548387096774194
+PhamClust_410	Maximum of maximum E-values observed for any OG (log10)	-24.1518108830086
+PhamClust_410	Maximum of near-core OG E-values observed (log10):	-24.1518108830086
+PhamClust_410	Maximum distance between near-core OGs:	1
+PhamClust_410	Median CDS count:	83.0
+PhamClust_410	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9760452961672474
+PhamClust_190	Maximum of maximum E-values observed for any OG (log10)	-11.250263684430939
+PhamClust_190	Maximum of near-core OG E-values observed (log10):	-41.2335871528876
+PhamClust_190	Maximum distance between near-core OGs:	9
+PhamClust_190	Median CDS count:	28.5
+PhamClust_190	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6317733990147784
+PhamClust_290	Maximum of maximum E-values observed for any OG (log10)	-29.94692155651658
+PhamClust_290	Maximum of near-core OG E-values observed (log10):	-37.87289520163519
+PhamClust_290	Maximum distance between near-core OGs:	6
+PhamClust_290	Median CDS count:	40.5
+PhamClust_290	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5192307692307692
+PhamClust_185	Maximum of maximum E-values observed for any OG (log10)	-13.209011524911183
+PhamClust_185	Maximum of near-core OG E-values observed (log10):	-17.08196966321512
+PhamClust_185	Maximum distance between near-core OGs:	30
+PhamClust_185	Median CDS count:	49.5
+PhamClust_185	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.32352941176470584
+PhamClust_99	Maximum of maximum E-values observed for any OG (log10)	-8.0695604052333
+PhamClust_99	Maximum of near-core OG E-values observed (log10):	-8.0695604052333
+PhamClust_99	Maximum distance between near-core OGs:	18
+PhamClust_99	Median CDS count:	86
+PhamClust_99	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3888888888888889
+PhamClust_7	Maximum of maximum E-values observed for any OG (log10)	-4.253365801062421
+PhamClust_7	Maximum of near-core OG E-values observed (log10):	-20.070581074285705
+PhamClust_7	Maximum distance between near-core OGs:	23
+PhamClust_7	Median CDS count:	44.0
+PhamClust_7	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6094497607655502
+PhamClust_260	Maximum of maximum E-values observed for any OG (log10)	-12.267606240177031
+PhamClust_260	Maximum of near-core OG E-values observed (log10):	-12.267606240177031
+PhamClust_260	Maximum distance between near-core OGs:	9
+PhamClust_260	Median CDS count:	58
+PhamClust_260	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4827586206896552
+PhamClust_299	Maximum of maximum E-values observed for any OG (log10)	-6.26440110030182
+PhamClust_299	Maximum of near-core OG E-values observed (log10):	-14.86646109162978
+PhamClust_299	Maximum distance between near-core OGs:	9
+PhamClust_299	Median CDS count:	53.0
+PhamClust_299	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4174722520587182
+PhamClust_144	Maximum of maximum E-values observed for any OG (log10)	-10.790484985457368
+PhamClust_144	Maximum of near-core OG E-values observed (log10):	-10.790484985457368
+PhamClust_144	Maximum distance between near-core OGs:	24
+PhamClust_144	Median CDS count:	198.0
+PhamClust_144	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.48727066584209444
+PhamClust_245	Maximum of maximum E-values observed for any OG (log10)	-11.310691140876378
+PhamClust_245	Maximum of near-core OG E-values observed (log10):	-11.310691140876378
+PhamClust_245	Maximum distance between near-core OGs:	8
+PhamClust_245	Median CDS count:	260
+PhamClust_245	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9045801526717557
+PhamClust_1	Maximum of maximum E-values observed for any OG (log10)	-3.5451551399914893
+PhamClust_1	Maximum of near-core OG E-values observed (log10):	-5.123782159408358
+PhamClust_1	Maximum distance between near-core OGs:	21
+PhamClust_1	Median CDS count:	100
+PhamClust_1	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5631067961165048
+PhamClust_53	Maximum of maximum E-values observed for any OG (log10)	-4.056505484093897
+PhamClust_53	Maximum of near-core OG E-values observed (log10):	-6.119186407719208
+PhamClust_53	Maximum distance between near-core OGs:	57
+PhamClust_53	Median CDS count:	212.5
+PhamClust_53	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5277890901296752
+PhamClust_213	Maximum of maximum E-values observed for any OG (log10)	-15.035269078946369
+PhamClust_213	Maximum of near-core OG E-values observed (log10):	-19.94692155651658
+PhamClust_213	Maximum distance between near-core OGs:	10
+PhamClust_213	Median CDS count:	48
+PhamClust_213	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5
+PhamClust_96	Maximum of maximum E-values observed for any OG (log10)	-8.465973893943865
+PhamClust_96	Maximum of near-core OG E-values observed (log10):	-9.886056647693161
+PhamClust_96	Maximum distance between near-core OGs:	9
+PhamClust_96	Median CDS count:	129.0
+PhamClust_96	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8132267441860466
+PhamClust_427	Maximum of maximum E-values observed for any OG (log10)	-20.752026733638193
+PhamClust_427	Maximum of near-core OG E-values observed (log10):	-20.752026733638193
+PhamClust_427	Maximum distance between near-core OGs:	4
+PhamClust_427	Median CDS count:	83.5
+PhamClust_427	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9344332855093256
+PhamClust_218	Maximum of maximum E-values observed for any OG (log10)	-22.51286162452281
+PhamClust_218	Maximum of near-core OG E-values observed (log10):	-22.51286162452281
+PhamClust_218	Maximum distance between near-core OGs:	19
+PhamClust_218	Median CDS count:	75
+PhamClust_218	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.29333333333333333
+PhamClust_112	Maximum of maximum E-values observed for any OG (log10)	-14.055024091587951
+PhamClust_112	Maximum of near-core OG E-values observed (log10):	-14.055024091587951
+PhamClust_112	Maximum distance between near-core OGs:	7
+PhamClust_112	Median CDS count:	47.0
+PhamClust_112	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5261756876663709
+PhamClust_415	Maximum of maximum E-values observed for any OG (log10)	-20.249491605148652
+PhamClust_415	Maximum of near-core OG E-values observed (log10):	-20.249491605148652
+PhamClust_415	Maximum distance between near-core OGs:	4
+PhamClust_415	Median CDS count:	89.5
+PhamClust_415	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8610069965017492
+PhamClust_203	Maximum of maximum E-values observed for any OG (log10)	-12.527243550682787
+PhamClust_203	Maximum of near-core OG E-values observed (log10):	-12.527243550682787
+PhamClust_203	Maximum distance between near-core OGs:	7
+PhamClust_203	Median CDS count:	44
+PhamClust_203	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4772727272727273
+PhamClust_337	Maximum of maximum E-values observed for any OG (log10)	-25.368556230986826
+PhamClust_337	Maximum of near-core OG E-values observed (log10):	-25.368556230986826
+PhamClust_337	Maximum distance between near-core OGs:	6
+PhamClust_337	Median CDS count:	76.5
+PhamClust_337	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8758544087491456
+PhamClust_297	Maximum of maximum E-values observed for any OG (log10)	-15.88941028970075
+PhamClust_297	Maximum of near-core OG E-values observed (log10):	-15.88941028970075
+PhamClust_297	Maximum distance between near-core OGs:	4
+PhamClust_297	Median CDS count:	52.5
+PhamClust_297	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7063636363636363
+PhamClust_238	Maximum of maximum E-values observed for any OG (log10)	-13.151195298948194
+PhamClust_238	Maximum of near-core OG E-values observed (log10):	-13.151195298948194
+PhamClust_238	Maximum distance between near-core OGs:	4
+PhamClust_238	Median CDS count:	47.0
+PhamClust_238	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8590686274509804
+PhamClust_116	Maximum of maximum E-values observed for any OG (log10)	-8.050609993355087
+PhamClust_116	Maximum of near-core OG E-values observed (log10):	-8.050609993355087
+PhamClust_116	Maximum distance between near-core OGs:	25
+PhamClust_116	Median CDS count:	75.0
+PhamClust_116	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4828576723498888
+PhamClust_407	Maximum of maximum E-values observed for any OG (log10)	-24.982966660701216
+PhamClust_407	Maximum of near-core OG E-values observed (log10):	-28.387216143280263
+PhamClust_407	Maximum distance between near-core OGs:	9
+PhamClust_407	Median CDS count:	62.5
+PhamClust_407	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8484887295081966
+PhamClust_93	Maximum of maximum E-values observed for any OG (log10)	-5.279840696594043
+PhamClust_93	Maximum of near-core OG E-values observed (log10):	-5.279840696594043
+PhamClust_93	Maximum distance between near-core OGs:	35
+PhamClust_93	Median CDS count:	224.0
+PhamClust_93	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8447885939036381
+PhamClust_300	Maximum of maximum E-values observed for any OG (log10)	-31.856985199745903
+PhamClust_300	Maximum of near-core OG E-values observed (log10):	-40.58169870868025
+PhamClust_300	Maximum distance between near-core OGs:	14
+PhamClust_300	Median CDS count:	71.0
+PhamClust_300	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.625801282051282
+PhamClust_98	Maximum of maximum E-values observed for any OG (log10)	-5.974694134735229
+PhamClust_98	Maximum of near-core OG E-values observed (log10):	-5.974694134735229
+PhamClust_98	Maximum distance between near-core OGs:	30
+PhamClust_98	Median CDS count:	94.0
+PhamClust_98	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5767077267637178
+PhamClust_220	Maximum of maximum E-values observed for any OG (log10)	-13.07883394936226
+PhamClust_220	Maximum of near-core OG E-values observed (log10):	-27.01999662841625
+PhamClust_220	Maximum distance between near-core OGs:	19
+PhamClust_220	Median CDS count:	68
+PhamClust_220	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4264705882352941
+PhamClust_349	Maximum of maximum E-values observed for any OG (log10)	-13.978810700930062
+PhamClust_349	Maximum of near-core OG E-values observed (log10):	-13.978810700930062
+PhamClust_349	Maximum distance between near-core OGs:	9
+PhamClust_349	Median CDS count:	107.5
+PhamClust_349	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6422077922077922
+PhamClust_354	Maximum of maximum E-values observed for any OG (log10)	-18.48678239993206
+PhamClust_354	Maximum of near-core OG E-values observed (log10):	-18.48678239993206
+PhamClust_354	Maximum distance between near-core OGs:	10
+PhamClust_354	Median CDS count:	157
+PhamClust_354	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9245283018867925
+PhamClust_325	Maximum of maximum E-values observed for any OG (log10)	-32.42829116819131
+PhamClust_325	Maximum of near-core OG E-values observed (log10):	-38.59176003468815
+PhamClust_325	Maximum distance between near-core OGs:	3
+PhamClust_325	Median CDS count:	68.0
+PhamClust_325	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9413800562405364
+PhamClust_240	Maximum of maximum E-values observed for any OG (log10)	-11.769551078621726
+PhamClust_240	Maximum of near-core OG E-values observed (log10):	-11.769551078621726
+PhamClust_240	Maximum distance between near-core OGs:	5
+PhamClust_240	Median CDS count:	73
+PhamClust_240	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8767123287671232
+PhamClust_421	Maximum of maximum E-values observed for any OG (log10)	-42.45099673797421
+PhamClust_421	Maximum of near-core OG E-values observed (log10):	-42.45099673797421
+PhamClust_421	Maximum distance between near-core OGs:	6
+PhamClust_421	Median CDS count:	65.5
+PhamClust_421	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9173669467787114
+PhamClust_101	Maximum of maximum E-values observed for any OG (log10)	-8.027334407733889
+PhamClust_101	Maximum of near-core OG E-values observed (log10):	-8.027334407733889
+PhamClust_101	Maximum distance between near-core OGs:	23
+PhamClust_101	Median CDS count:	176
+PhamClust_101	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6910112359550562
+PhamClust_15	Maximum of maximum E-values observed for any OG (log10)	-3.617982957425131
+PhamClust_15	Maximum of near-core OG E-values observed (log10):	-7.2380721615794705
+PhamClust_15	Maximum distance between near-core OGs:	17
+PhamClust_15	Median CDS count:	84.0
+PhamClust_15	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.42770034843205573
+PhamClust_9	Maximum of maximum E-values observed for any OG (log10)	-4.361510743045362
+PhamClust_9	Maximum of near-core OG E-values observed (log10):	-18.5543957967264
+PhamClust_9	Maximum distance between near-core OGs:	20
+PhamClust_9	Median CDS count:	64
+PhamClust_9	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.2835820895522388
+PhamClust_170	Maximum of maximum E-values observed for any OG (log10)	-7.0675262353228465
+PhamClust_170	Maximum of near-core OG E-values observed (log10):	-7.0675262353228465
+PhamClust_170	Maximum distance between near-core OGs:	6
+PhamClust_170	Median CDS count:	235.5
+PhamClust_170	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8456463436438405
+PhamClust_288	Maximum of maximum E-values observed for any OG (log10)	-17.295849483160197
+PhamClust_288	Maximum of near-core OG E-values observed (log10):	-17.295849483160197
+PhamClust_288	Maximum distance between near-core OGs:	8
+PhamClust_288	Median CDS count:	56.0
+PhamClust_288	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5001594896331738
+PhamClust_134	Maximum of maximum E-values observed for any OG (log10)	-6.88941028970075
+PhamClust_134	Maximum of near-core OG E-values observed (log10):	-6.88941028970075
+PhamClust_134	Maximum distance between near-core OGs:	13
+PhamClust_134	Median CDS count:	176
+PhamClust_134	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.632768361581921
+PhamClust_24	Maximum of maximum E-values observed for any OG (log10)	-6.723538195826755
+PhamClust_24	Maximum of near-core OG E-values observed (log10):	-8.598599459218455
+PhamClust_24	Maximum distance between near-core OGs:	15
+PhamClust_24	Median CDS count:	96.5
+PhamClust_24	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.42928571428571427
+PhamClust_152	Maximum of maximum E-values observed for any OG (log10)	-9.688246138944244
+PhamClust_152	Maximum of near-core OG E-values observed (log10):	-11.950781977329816
+PhamClust_152	Maximum distance between near-core OGs:	16
+PhamClust_152	Median CDS count:	65
+PhamClust_152	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.38461538461538464
+PhamClust_86	Maximum of maximum E-values observed for any OG (log10)	-10.496209316942819
+PhamClust_86	Maximum of near-core OG E-values observed (log10):	-10.496209316942819
+PhamClust_86	Maximum distance between near-core OGs:	17
+PhamClust_86	Median CDS count:	66.5
+PhamClust_86	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.373134328358209
+PhamClust_425	Maximum of maximum E-values observed for any OG (log10)	-16.057495893831916
+PhamClust_425	Maximum of near-core OG E-values observed (log10):	-16.057495893831916
+PhamClust_425	Maximum distance between near-core OGs:	4
+PhamClust_425	Median CDS count:	553.5
+PhamClust_425	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9197112936291344
+PhamClust_404	Maximum of maximum E-values observed for any OG (log10)	-16.323306390375134
+PhamClust_404	Maximum of near-core OG E-values observed (log10):	-16.323306390375134
+PhamClust_404	Maximum distance between near-core OGs:	4
+PhamClust_404	Median CDS count:	88.0
+PhamClust_404	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9550387596899225
+PhamClust_435	Maximum of maximum E-values observed for any OG (log10)	-18.478861916295962
+PhamClust_435	Maximum of near-core OG E-values observed (log10):	-18.478861916295962
+PhamClust_435	Maximum distance between near-core OGs:	3
+PhamClust_435	Median CDS count:	199.5
+PhamClust_435	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9524347957183779
+PhamClust_363	Maximum of maximum E-values observed for any OG (log10)	-14.508638306165727
+PhamClust_363	Maximum of near-core OG E-values observed (log10):	-14.508638306165727
+PhamClust_363	Maximum distance between near-core OGs:	6
+PhamClust_363	Median CDS count:	85
+PhamClust_363	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8823529411764706
+PhamClust_56	Maximum of maximum E-values observed for any OG (log10)	-3.2418453780326097
+PhamClust_56	Maximum of near-core OG E-values observed (log10):	-3.2418453780326097
+PhamClust_56	Maximum distance between near-core OGs:	25
+PhamClust_56	Median CDS count:	64
+PhamClust_56	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.625
+PhamClust_215	Maximum of maximum E-values observed for any OG (log10)	-5.982966660701219
+PhamClust_215	Maximum of near-core OG E-values observed (log10):	-5.982966660701219
+PhamClust_215	Maximum distance between near-core OGs:	16
+PhamClust_215	Median CDS count:	156
+PhamClust_215	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5064102564102564
+PhamClust_154	Maximum of maximum E-values observed for any OG (log10)	-16.530177984021837
+PhamClust_154	Maximum of near-core OG E-values observed (log10):	-16.530177984021837
+PhamClust_154	Maximum distance between near-core OGs:	15
+PhamClust_154	Median CDS count:	54.0
+PhamClust_154	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4074074074074074
+PhamClust_76	Maximum of maximum E-values observed for any OG (log10)	-7.795880017344074
+PhamClust_76	Maximum of near-core OG E-values observed (log10):	-7.795880017344074
+PhamClust_76	Maximum distance between near-core OGs:	13
+PhamClust_76	Median CDS count:	172
+PhamClust_76	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6547619047619048
+PhamClust_102	Maximum of maximum E-values observed for any OG (log10)	-5.876148359032913
+PhamClust_102	Maximum of near-core OG E-values observed (log10):	-5.876148359032913
+PhamClust_102	Maximum distance between near-core OGs:	10
+PhamClust_102	Median CDS count:	117.5
+PhamClust_102	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6860062893081761
+PhamClust_282	Maximum of maximum E-values observed for any OG (log10)	-15.46344155742847
+PhamClust_282	Maximum of near-core OG E-values observed (log10):	-15.46344155742847
+PhamClust_282	Maximum distance between near-core OGs:	12
+PhamClust_282	Median CDS count:	58.5
+PhamClust_282	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.39342105263157895
+PhamClust_360	Maximum of maximum E-values observed for any OG (log10)	-15.238824186844266
+PhamClust_360	Maximum of near-core OG E-values observed (log10):	-16.473660722610155
+PhamClust_360	Maximum distance between near-core OGs:	4
+PhamClust_360	Median CDS count:	113
+PhamClust_360	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9380530973451328
+PhamClust_175	Maximum of maximum E-values observed for any OG (log10)	-9.625251653989896
+PhamClust_175	Maximum of near-core OG E-values observed (log10):	-9.625251653989896
+PhamClust_175	Maximum distance between near-core OGs:	9
+PhamClust_175	Median CDS count:	140
+PhamClust_175	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6382978723404256
+PhamClust_126	Maximum of maximum E-values observed for any OG (log10)	-4.832682665251823
+PhamClust_126	Maximum of near-core OG E-values observed (log10):	-5.474955192963154
+PhamClust_126	Maximum distance between near-core OGs:	21
+PhamClust_126	Median CDS count:	76
+PhamClust_126	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4473684210526316
+PhamClust_308	Maximum of maximum E-values observed for any OG (log10)	-18.075204004202085
+PhamClust_308	Maximum of near-core OG E-values observed (log10):	-38.54975089168064
+PhamClust_308	Maximum distance between near-core OGs:	8
+PhamClust_308	Median CDS count:	55.0
+PhamClust_308	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7464415756372063
+PhamClust_264	Maximum of maximum E-values observed for any OG (log10)	-23.133712660915805
+PhamClust_264	Maximum of near-core OG E-values observed (log10):	-23.133712660915805
+PhamClust_264	Maximum distance between near-core OGs:	9
+PhamClust_264	Median CDS count:	77
+PhamClust_264	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7662337662337663
+PhamClust_367	Maximum of maximum E-values observed for any OG (log10)	-24.21112488422458
+PhamClust_367	Maximum of near-core OG E-values observed (log10):	-24.21112488422458
+PhamClust_367	Maximum distance between near-core OGs:	6
+PhamClust_367	Median CDS count:	79.0
+PhamClust_367	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9119769119769119
+PhamClust_148	Maximum of maximum E-values observed for any OG (log10)	-13.043831569524636
+PhamClust_148	Maximum of near-core OG E-values observed (log10):	-22.94692155651658
+PhamClust_148	Maximum distance between near-core OGs:	8
+PhamClust_148	Median CDS count:	70.5
+PhamClust_148	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7161835748792271
+PhamClust_14	Maximum of maximum E-values observed for any OG (log10)	-5.65364702554936
+PhamClust_14	Maximum of near-core OG E-values observed (log10):	-5.65364702554936
+PhamClust_14	Maximum distance between near-core OGs:	10
+PhamClust_14	Median CDS count:	42.0
+PhamClust_14	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5813953488372093
+PhamClust_289	Maximum of maximum E-values observed for any OG (log10)	-20.57186520597121
+PhamClust_289	Maximum of near-core OG E-values observed (log10):	-20.57186520597121
+PhamClust_289	Maximum distance between near-core OGs:	19
+PhamClust_289	Median CDS count:	60.0
+PhamClust_289	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4166666666666667
+PhamClust_207	Maximum of maximum E-values observed for any OG (log10)	-16.60032627851896
+PhamClust_207	Maximum of near-core OG E-values observed (log10):	-16.60032627851896
+PhamClust_207	Maximum distance between near-core OGs:	37
+PhamClust_207	Median CDS count:	67
+PhamClust_207	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.34328358208955223
+PhamClust_187	Maximum of maximum E-values observed for any OG (log10)	-19.588380294036767
+PhamClust_187	Maximum of near-core OG E-values observed (log10):	-19.588380294036767
+PhamClust_187	Maximum distance between near-core OGs:	20
+PhamClust_187	Median CDS count:	85.0
+PhamClust_187	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4470588235294118
+PhamClust_159	Maximum of maximum E-values observed for any OG (log10)	-13.87942606879415
+PhamClust_159	Maximum of near-core OG E-values observed (log10):	-19.26600071346161
+PhamClust_159	Maximum distance between near-core OGs:	11
+PhamClust_159	Median CDS count:	53.0
+PhamClust_159	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5283018867924528
+PhamClust_42	Maximum of maximum E-values observed for any OG (log10)	-10.060480747381382
+PhamClust_42	Maximum of near-core OG E-values observed (log10):	-19.14508697769214
+PhamClust_42	Maximum distance between near-core OGs:	33
+PhamClust_42	Median CDS count:	61.5
+PhamClust_42	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.2992311507936508
+PhamClust_210	Maximum of maximum E-values observed for any OG (log10)	-15.199970640755863
+PhamClust_210	Maximum of near-core OG E-values observed (log10):	-15.199970640755863
+PhamClust_210	Maximum distance between near-core OGs:	21
+PhamClust_210	Median CDS count:	65
+PhamClust_210	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4461538461538462
+PhamClust_291	Maximum of maximum E-values observed for any OG (log10)	-20.137272471682024
+PhamClust_291	Maximum of near-core OG E-values observed (log10):	-25.86646109162978
+PhamClust_291	Maximum distance between near-core OGs:	8
+PhamClust_291	Median CDS count:	85.5
+PhamClust_291	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.832716049382716
+PhamClust_43	Maximum of maximum E-values observed for any OG (log10)	-3.1307682802690233
+PhamClust_43	Maximum of near-core OG E-values observed (log10):	-10.100179497572903
+PhamClust_43	Maximum distance between near-core OGs:	9
+PhamClust_43	Median CDS count:	48.5
+PhamClust_43	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.48468085106382974
+PhamClust_321	Maximum of maximum E-values observed for any OG (log10)	-11.65955588515988
+PhamClust_321	Maximum of near-core OG E-values observed (log10):	-11.65955588515988
+PhamClust_321	Maximum distance between near-core OGs:	5
+PhamClust_321	Median CDS count:	83.0
+PhamClust_321	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7600290697674419
+PhamClust_105	Maximum of maximum E-values observed for any OG (log10)	-13.616184634019568
+PhamClust_105	Maximum of near-core OG E-values observed (log10):	-15.490797477668897
+PhamClust_105	Maximum distance between near-core OGs:	6
+PhamClust_105	Median CDS count:	55.0
+PhamClust_105	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6167832167832168
+PhamClust_257	Maximum of maximum E-values observed for any OG (log10)	-17.165579296318466
+PhamClust_257	Maximum of near-core OG E-values observed (log10):	-34.88605664769316
+PhamClust_257	Maximum distance between near-core OGs:	6
+PhamClust_257	Median CDS count:	41
+PhamClust_257	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5853658536585366
+PhamClust_59	Maximum of maximum E-values observed for any OG (log10)	-3.378823718224964
+PhamClust_59	Maximum of near-core OG E-values observed (log10):	-3.378823718224964
+PhamClust_59	Maximum distance between near-core OGs:	80
+PhamClust_59	Median CDS count:	250
+PhamClust_59	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3702290076335878
+PhamClust_259	Maximum of maximum E-values observed for any OG (log10)	-15.511449283499553
+PhamClust_259	Maximum of near-core OG E-values observed (log10):	-15.511449283499553
+PhamClust_259	Maximum distance between near-core OGs:	8
+PhamClust_259	Median CDS count:	218
+PhamClust_259	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8623853211009175
+PhamClust_171	Maximum of maximum E-values observed for any OG (log10)	-10.987162775294827
+PhamClust_171	Maximum of near-core OG E-values observed (log10):	-10.987162775294827
+PhamClust_171	Maximum distance between near-core OGs:	8
+PhamClust_171	Median CDS count:	272.5
+PhamClust_171	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8070657412762676
+PhamClust_79	Maximum of maximum E-values observed for any OG (log10)	-5.88941028970075
+PhamClust_79	Maximum of near-core OG E-values observed (log10):	-5.88941028970075
+PhamClust_79	Maximum distance between near-core OGs:	21
+PhamClust_79	Median CDS count:	56
+PhamClust_79	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6363636363636364
+PhamClust_222	Maximum of maximum E-values observed for any OG (log10)	-19.31158017799729
+PhamClust_222	Maximum of near-core OG E-values observed (log10):	-19.31158017799729
+PhamClust_222	Maximum distance between near-core OGs:	23
+PhamClust_222	Median CDS count:	72
+PhamClust_222	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4027777777777778
+PhamClust_434	Maximum of maximum E-values observed for any OG (log10)	-17.89279003035213
+PhamClust_434	Maximum of near-core OG E-values observed (log10):	-17.89279003035213
+PhamClust_434	Maximum distance between near-core OGs:	2
+PhamClust_434	Median CDS count:	64.5
+PhamClust_434	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9485294117647058
+PhamClust_169	Maximum of maximum E-values observed for any OG (log10)	-12.009217308196861
+PhamClust_169	Maximum of near-core OG E-values observed (log10):	-16.749579997691104
+PhamClust_169	Maximum distance between near-core OGs:	5
+PhamClust_169	Median CDS count:	26.0
+PhamClust_169	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7927350427350428
+PhamClust_156	Maximum of maximum E-values observed for any OG (log10)	-12.70996538863748
+PhamClust_156	Maximum of near-core OG E-values observed (log10):	-41.36051351073141
+PhamClust_156	Maximum distance between near-core OGs:	15
+PhamClust_156	Median CDS count:	50.5
+PhamClust_156	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.21784313725490195
+PhamClust_128	Maximum of maximum E-values observed for any OG (log10)	-7.14146280243036
+PhamClust_128	Maximum of near-core OG E-values observed (log10):	-7.737548910269569
+PhamClust_128	Maximum distance between near-core OGs:	6
+PhamClust_128	Median CDS count:	61.0
+PhamClust_128	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8279569892473119
+PhamClust_417	Maximum of maximum E-values observed for any OG (log10)	-19.761953896871205
+PhamClust_417	Maximum of near-core OG E-values observed (log10):	-19.761953896871205
+PhamClust_417	Maximum distance between near-core OGs:	3
+PhamClust_417	Median CDS count:	68.5
+PhamClust_417	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.978154305200341
+PhamClust_356	Maximum of maximum E-values observed for any OG (log10)	-20.86646109162978
+PhamClust_356	Maximum of near-core OG E-values observed (log10):	-27.71669877129645
+PhamClust_356	Maximum distance between near-core OGs:	3
+PhamClust_356	Median CDS count:	318.0
+PhamClust_356	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9811318888877901
+PhamClust_374	Maximum of maximum E-values observed for any OG (log10)	-21.795880017344075
+PhamClust_374	Maximum of near-core OG E-values observed (log10):	-21.795880017344075
+PhamClust_374	Maximum distance between near-core OGs:	3
+PhamClust_374	Median CDS count:	52
+PhamClust_374	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8653846153846154
+PhamClust_100	Maximum of maximum E-values observed for any OG (log10)	-7.580044251510242
+PhamClust_100	Maximum of near-core OG E-values observed (log10):	-7.580044251510242
+PhamClust_100	Maximum distance between near-core OGs:	12
+PhamClust_100	Median CDS count:	120.0
+PhamClust_100	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.709538567493113
+PhamClust_3	Maximum of maximum E-values observed for any OG (log10)	-3.061480274823508
+PhamClust_3	Maximum of near-core OG E-values observed (log10):	-4.703334809738468
+PhamClust_3	Maximum distance between near-core OGs:	14
+PhamClust_3	Median CDS count:	84.0
+PhamClust_3	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3950617283950617
+PhamClust_372	Maximum of maximum E-values observed for any OG (log10)	-32.317854923626165
+PhamClust_372	Maximum of near-core OG E-values observed (log10):	-38.300162274132745
+PhamClust_372	Maximum distance between near-core OGs:	4
+PhamClust_372	Median CDS count:	51
+PhamClust_372	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8431372549019608
+PhamClust_57	Maximum of maximum E-values observed for any OG (log10)	-3.0048037084028203
+PhamClust_57	Maximum of near-core OG E-values observed (log10):	-3.0048037084028203
+PhamClust_57	Maximum distance between near-core OGs:	15
+PhamClust_57	Median CDS count:	329.0
+PhamClust_57	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6400615116627202
+PhamClust_138	Maximum of maximum E-values observed for any OG (log10)	-12.106238237942057
+PhamClust_138	Maximum of near-core OG E-values observed (log10):	-12.106238237942057
+PhamClust_138	Maximum distance between near-core OGs:	7
+PhamClust_138	Median CDS count:	93
+PhamClust_138	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7311827956989247
+PhamClust_401	Maximum of maximum E-values observed for any OG (log10)	-18.34390179798717
+PhamClust_401	Maximum of near-core OG E-values observed (log10):	-18.34390179798717
+PhamClust_401	Maximum distance between near-core OGs:	4
+PhamClust_401	Median CDS count:	100.5
+PhamClust_401	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9304812834224598
+PhamClust_104	Maximum of maximum E-values observed for any OG (log10)	-4.562249437179611
+PhamClust_104	Maximum of near-core OG E-values observed (log10):	-4.562249437179611
+PhamClust_104	Maximum distance between near-core OGs:	14
+PhamClust_104	Median CDS count:	252.0
+PhamClust_104	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6964980544747081
+PhamClust_139	Maximum of maximum E-values observed for any OG (log10)	-10.688246138944244
+PhamClust_139	Maximum of near-core OG E-values observed (log10):	-17.60205999132796
+PhamClust_139	Maximum distance between near-core OGs:	9
+PhamClust_139	Median CDS count:	52.0
+PhamClust_139	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7924528301886793
+PhamClust_381	Maximum of maximum E-values observed for any OG (log10)	-8.458420756053417
+PhamClust_381	Maximum of near-core OG E-values observed (log10):	-18.4672456210075
+PhamClust_381	Maximum distance between near-core OGs:	4
+PhamClust_381	Median CDS count:	86
+PhamClust_381	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9186046511627907
+PhamClust_340	Maximum of maximum E-values observed for any OG (log10)	-20.661543506395393
+PhamClust_340	Maximum of near-core OG E-values observed (log10):	-20.661543506395393
+PhamClust_340	Maximum distance between near-core OGs:	4
+PhamClust_340	Median CDS count:	88.0
+PhamClust_340	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8523827973653622
+PhamClust_236	Maximum of maximum E-values observed for any OG (log10)	-4.896196279044043
+PhamClust_236	Maximum of near-core OG E-values observed (log10):	-9.286509456906057
+PhamClust_236	Maximum distance between near-core OGs:	7
+PhamClust_236	Median CDS count:	64.5
+PhamClust_236	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8992788461538461
+PhamClust_243	Maximum of maximum E-values observed for any OG (log10)	-8.124360062995832
+PhamClust_243	Maximum of near-core OG E-values observed (log10):	-8.124360062995832
+PhamClust_243	Maximum distance between near-core OGs:	6
+PhamClust_243	Median CDS count:	345.5
+PhamClust_243	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7800543627855767
+PhamClust_10	Maximum of maximum E-values observed for any OG (log10)	-3.8416375079047502
+PhamClust_10	Maximum of near-core OG E-values observed (log10):	-8.139661993429005
+PhamClust_10	Maximum distance between near-core OGs:	13
+PhamClust_10	Median CDS count:	79
+PhamClust_10	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4634146341463415
+PhamClust_432	Maximum of maximum E-values observed for any OG (log10)	-31.03574036980315
+PhamClust_432	Maximum of near-core OG E-values observed (log10):	-31.03574036980315
+PhamClust_432	Maximum distance between near-core OGs:	1
+PhamClust_432	Median CDS count:	23.0
+PhamClust_432	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9130434782608695
+PhamClust_19	Maximum of maximum E-values observed for any OG (log10)	-8.452225294612177
+PhamClust_19	Maximum of near-core OG E-values observed (log10):	-8.647817481888637
+PhamClust_19	Maximum distance between near-core OGs:	16
+PhamClust_19	Median CDS count:	62.5
+PhamClust_19	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.20634920634920634
+PhamClust_392	Maximum of maximum E-values observed for any OG (log10)	-31.222573177610684
+PhamClust_392	Maximum of near-core OG E-values observed (log10):	-31.222573177610684
+PhamClust_392	Maximum distance between near-core OGs:	3
+PhamClust_392	Median CDS count:	74.0
+PhamClust_392	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8920547945205479
+PhamClust_133	Maximum of maximum E-values observed for any OG (log10)	-7.982966660701218
+PhamClust_133	Maximum of near-core OG E-values observed (log10):	-9.640164517660113
+PhamClust_133	Maximum distance between near-core OGs:	26
+PhamClust_133	Median CDS count:	99.5
+PhamClust_133	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4271717171717172
+PhamClust_307	Maximum of maximum E-values observed for any OG (log10)	-19.7594507517174
+PhamClust_307	Maximum of near-core OG E-values observed (log10):	-19.7594507517174
+PhamClust_307	Maximum distance between near-core OGs:	15
+PhamClust_307	Median CDS count:	60.0
+PhamClust_307	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.41678243956654626
+PhamClust_386	Maximum of maximum E-values observed for any OG (log10)	-16.385102783966865
+PhamClust_386	Maximum of near-core OG E-values observed (log10):	-16.385102783966865
+PhamClust_386	Maximum distance between near-core OGs:	6
+PhamClust_386	Median CDS count:	72.0
+PhamClust_386	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7652173913043478
+PhamClust_146	Maximum of maximum E-values observed for any OG (log10)	-14.747146969020106
+PhamClust_146	Maximum of near-core OG E-values observed (log10):	-14.747146969020106
+PhamClust_146	Maximum distance between near-core OGs:	6
+PhamClust_146	Median CDS count:	43
+PhamClust_146	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5813953488372093
+PhamClust_62	Maximum of maximum E-values observed for any OG (log10)	-8.083019952679617
+PhamClust_62	Maximum of near-core OG E-values observed (log10):	-8.306273051076351
+PhamClust_62	Maximum distance between near-core OGs:	34
+PhamClust_62	Median CDS count:	261
+PhamClust_62	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.47509578544061304
+PhamClust_265	Maximum of maximum E-values observed for any OG (log10)	-6.224753740259763
+PhamClust_265	Maximum of near-core OG E-values observed (log10):	-6.224753740259763
+PhamClust_265	Maximum distance between near-core OGs:	5
+PhamClust_265	Median CDS count:	70
+PhamClust_265	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6428571428571429
+PhamClust_388	Maximum of maximum E-values observed for any OG (log10)	-9.899629454882437
+PhamClust_388	Maximum of near-core OG E-values observed (log10):	-26.133712660915805
+PhamClust_388	Maximum distance between near-core OGs:	13
+PhamClust_388	Median CDS count:	184.5
+PhamClust_388	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8458328435406136
+PhamClust_78	Maximum of maximum E-values observed for any OG (log10)	-14.628932137728263
+PhamClust_78	Maximum of near-core OG E-values observed (log10):	-15.982966660701218
+PhamClust_78	Maximum distance between near-core OGs:	7
+PhamClust_78	Median CDS count:	56.0
+PhamClust_78	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7678571428571429
+PhamClust_137	Maximum of maximum E-values observed for any OG (log10)	-7.903089986991943
+PhamClust_137	Maximum of near-core OG E-values observed (log10):	-7.903089986991943
+PhamClust_137	Maximum distance between near-core OGs:	5
+PhamClust_137	Median CDS count:	78.0
+PhamClust_137	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7357549857549857
+PhamClust_423	Maximum of maximum E-values observed for any OG (log10)	-31.054039296422424
+PhamClust_423	Maximum of near-core OG E-values observed (log10):	-33.38721614328026
+PhamClust_423	Maximum distance between near-core OGs:	4
+PhamClust_423	Median CDS count:	122.0
+PhamClust_423	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9508835584223612
+PhamClust_30	Maximum of maximum E-values observed for any OG (log10)	-4.935542010773081
+PhamClust_30	Maximum of near-core OG E-values observed (log10):	-12.367542707815275
+PhamClust_30	Maximum distance between near-core OGs:	19
+PhamClust_30	Median CDS count:	54
+PhamClust_30	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3877551020408163
+PhamClust_106	Maximum of maximum E-values observed for any OG (log10)	-6.023191662661933
+PhamClust_106	Maximum of near-core OG E-values observed (log10):	-6.023191662661933
+PhamClust_106	Maximum distance between near-core OGs:	9
+PhamClust_106	Median CDS count:	216
+PhamClust_106	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5441860465116279
+PhamClust_366	Maximum of maximum E-values observed for any OG (log10)	-14.609064892896619
+PhamClust_366	Maximum of near-core OG E-values observed (log10):	-18.528708288941058
+PhamClust_366	Maximum distance between near-core OGs:	3
+PhamClust_366	Median CDS count:	76.0
+PhamClust_366	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9210526315789473
+PhamClust_298	Maximum of maximum E-values observed for any OG (log10)	-26.36151074304536
+PhamClust_298	Maximum of near-core OG E-values observed (log10):	-26.36151074304536
+PhamClust_298	Maximum distance between near-core OGs:	5
+PhamClust_298	Median CDS count:	67.5
+PhamClust_298	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7559288537549407
+PhamClust_196	Maximum of maximum E-values observed for any OG (log10)	-11.478861916295962
+PhamClust_196	Maximum of near-core OG E-values observed (log10):	-11.478861916295962
+PhamClust_196	Maximum distance between near-core OGs:	5
+PhamClust_196	Median CDS count:	214
+PhamClust_196	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9439252336448598
+PhamClust_266	Maximum of maximum E-values observed for any OG (log10)	-22.812479279163533
+PhamClust_266	Maximum of near-core OG E-values observed (log10):	-26.56703070912559
+PhamClust_266	Maximum distance between near-core OGs:	10
+PhamClust_266	Median CDS count:	66
+PhamClust_266	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.48484848484848486
+PhamClust_182	Maximum of maximum E-values observed for any OG (log10)	-6.242603971206975
+PhamClust_182	Maximum of near-core OG E-values observed (log10):	-6.242603971206975
+PhamClust_182	Maximum distance between near-core OGs:	22
+PhamClust_182	Median CDS count:	160
+PhamClust_182	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.75625
+PhamClust_433	Maximum of maximum E-values observed for any OG (log10)	-10.809668301829706
+PhamClust_433	Maximum of near-core OG E-values observed (log10):	-10.809668301829706
+PhamClust_433	Maximum distance between near-core OGs:	4
+PhamClust_433	Median CDS count:	449.0
+PhamClust_433	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9610485275078499
+PhamClust_280	Maximum of maximum E-values observed for any OG (log10)	-23.917214629683546
+PhamClust_280	Maximum of near-core OG E-values observed (log10):	-30.06499684854634
+PhamClust_280	Maximum distance between near-core OGs:	8
+PhamClust_280	Median CDS count:	62.5
+PhamClust_280	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5920378904249872
+PhamClust_426	Maximum of maximum E-values observed for any OG (log10)	-18.737548910269567
+PhamClust_426	Maximum of near-core OG E-values observed (log10):	-18.737548910269567
+PhamClust_426	Maximum distance between near-core OGs:	3
+PhamClust_426	Median CDS count:	178.5
+PhamClust_426	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9303296703296704
+PhamClust_214	Maximum of maximum E-values observed for any OG (log10)	-9.701146923590294
+PhamClust_214	Maximum of near-core OG E-values observed (log10):	-12.331614083309999
+PhamClust_214	Maximum distance between near-core OGs:	8
+PhamClust_214	Median CDS count:	81
+PhamClust_214	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.64
+PhamClust_142	Maximum of maximum E-values observed for any OG (log10)	-14.60205999132796
+PhamClust_142	Maximum of near-core OG E-values observed (log10):	-31.542118103266006
+PhamClust_142	Maximum distance between near-core OGs:	16
+PhamClust_142	Median CDS count:	107
+PhamClust_142	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6931818181818182
+PhamClust_6	Maximum of maximum E-values observed for any OG (log10)	-3.0190880622231564
+PhamClust_6	Maximum of near-core OG E-values observed (log10):	-6.518557371497694
+PhamClust_6	Maximum distance between near-core OGs:	38
+PhamClust_6	Median CDS count:	78
+PhamClust_6	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5063291139240507
+PhamClust_413	Maximum of maximum E-values observed for any OG (log10)	-25.522878745280337
+PhamClust_413	Maximum of near-core OG E-values observed (log10):	-25.522878745280337
+PhamClust_413	Maximum distance between near-core OGs:	1
+PhamClust_413	Median CDS count:	45.5
+PhamClust_413	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9891304347826086
+PhamClust_27	Maximum of maximum E-values observed for any OG (log10)	-12.804100347590765
+PhamClust_27	Maximum of near-core OG E-values observed (log10):	-17.856985199745903
+PhamClust_27	Maximum distance between near-core OGs:	28
+PhamClust_27	Median CDS count:	60.0
+PhamClust_27	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3621766280107047
+PhamClust_157	Maximum of maximum E-values observed for any OG (log10)	-7.675717544702306
+PhamClust_157	Maximum of near-core OG E-values observed (log10):	-20.09908693226233
+PhamClust_157	Maximum distance between near-core OGs:	8
+PhamClust_157	Median CDS count:	23.0
+PhamClust_157	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5217391304347826
+PhamClust_94	Maximum of maximum E-values observed for any OG (log10)	-8.847711655616942
+PhamClust_94	Maximum of near-core OG E-values observed (log10):	-8.847711655616942
+PhamClust_94	Maximum distance between near-core OGs:	4
+PhamClust_94	Median CDS count:	37.0
+PhamClust_94	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9199857752489331
+PhamClust_183	Maximum of maximum E-values observed for any OG (log10)	-11.732828271596986
+PhamClust_183	Maximum of near-core OG E-values observed (log10):	-11.732828271596986
+PhamClust_183	Maximum distance between near-core OGs:	11
+PhamClust_183	Median CDS count:	80
+PhamClust_183	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5903614457831325
+PhamClust_292	Maximum of maximum E-values observed for any OG (log10)	-15.546681659952963
+PhamClust_292	Maximum of near-core OG E-values observed (log10):	-15.546681659952963
+PhamClust_292	Maximum distance between near-core OGs:	9
+PhamClust_292	Median CDS count:	62.5
+PhamClust_292	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.788085434894493
+PhamClust_193	Maximum of maximum E-values observed for any OG (log10)	-12.632644078973978
+PhamClust_193	Maximum of near-core OG E-values observed (log10):	-14.663540266151468
+PhamClust_193	Maximum distance between near-core OGs:	12
+PhamClust_193	Median CDS count:	69.0
+PhamClust_193	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3484848484848485
+PhamClust_342	Maximum of maximum E-values observed for any OG (log10)	-10.655607726314889
+PhamClust_342	Maximum of near-core OG E-values observed (log10):	-10.655607726314889
+PhamClust_342	Maximum distance between near-core OGs:	11
+PhamClust_342	Median CDS count:	76.5
+PhamClust_342	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4722222222222222
+PhamClust_274	Maximum of maximum E-values observed for any OG (log10)	-19.221848749616356
+PhamClust_274	Maximum of near-core OG E-values observed (log10):	-23.482804102050025
+PhamClust_274	Maximum distance between near-core OGs:	4
+PhamClust_274	Median CDS count:	101
+PhamClust_274	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7722772277227723
+PhamClust_161	Maximum of maximum E-values observed for any OG (log10)	-9.536107011014092
+PhamClust_161	Maximum of near-core OG E-values observed (log10):	-9.536107011014092
+PhamClust_161	Maximum distance between near-core OGs:	17
+PhamClust_161	Median CDS count:	50.5
+PhamClust_161	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.47566718995290425
+PhamClust_163	Maximum of maximum E-values observed for any OG (log10)	-14.415668775632467
+PhamClust_163	Maximum of near-core OG E-values observed (log10):	-47.32148162095988
+PhamClust_163	Maximum distance between near-core OGs:	5
+PhamClust_163	Median CDS count:	49.5
+PhamClust_163	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.40408163265306124
+PhamClust_279	Maximum of maximum E-values observed for any OG (log10)	-10.93554201077308
+PhamClust_279	Maximum of near-core OG E-values observed (log10):	-10.93554201077308
+PhamClust_279	Maximum distance between near-core OGs:	6
+PhamClust_279	Median CDS count:	59.5
+PhamClust_279	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7063312605992086
+PhamClust_394	Maximum of maximum E-values observed for any OG (log10)	-19.471083299722345
+PhamClust_394	Maximum of near-core OG E-values observed (log10):	-19.471083299722345
+PhamClust_394	Maximum distance between near-core OGs:	5
+PhamClust_394	Median CDS count:	54.5
+PhamClust_394	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8630390835579516
+PhamClust_312	Maximum of maximum E-values observed for any OG (log10)	-25.372634143407264
+PhamClust_312	Maximum of near-core OG E-values observed (log10):	-25.372634143407264
+PhamClust_312	Maximum distance between near-core OGs:	19
+PhamClust_312	Median CDS count:	63.5
+PhamClust_312	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5362642821659215
+PhamClust_16	Maximum of maximum E-values observed for any OG (log10)	-4.669586226650809
+PhamClust_16	Maximum of near-core OG E-values observed (log10):	-8.059981844992336
+PhamClust_16	Maximum distance between near-core OGs:	23
+PhamClust_16	Median CDS count:	46
+PhamClust_16	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.627906976744186
+PhamClust_64	Maximum of maximum E-values observed for any OG (log10)	-8.57186520597121
+PhamClust_64	Maximum of near-core OG E-values observed (log10):	-8.57186520597121
+PhamClust_64	Maximum distance between near-core OGs:	11
+PhamClust_64	Median CDS count:	60
+PhamClust_64	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6451612903225806
+PhamClust_384	Maximum of maximum E-values observed for any OG (log10)	-41.59687947882418
+PhamClust_384	Maximum of near-core OG E-values observed (log10):	-42.37263414340726
+PhamClust_384	Maximum distance between near-core OGs:	6
+PhamClust_384	Median CDS count:	51.0
+PhamClust_384	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9219230769230768
+PhamClust_284	Maximum of maximum E-values observed for any OG (log10)	-24.294992040666664
+PhamClust_284	Maximum of near-core OG E-values observed (log10):	-24.294992040666664
+PhamClust_284	Maximum distance between near-core OGs:	6
+PhamClust_284	Median CDS count:	86.5
+PhamClust_284	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6132289994649545
+PhamClust_296	Maximum of maximum E-values observed for any OG (log10)	-13.190440285364732
+PhamClust_296	Maximum of near-core OG E-values observed (log10):	-13.190440285364732
+PhamClust_296	Maximum distance between near-core OGs:	7
+PhamClust_296	Median CDS count:	59.5
+PhamClust_296	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.691468253968254
+PhamClust_97	Maximum of maximum E-values observed for any OG (log10)	-4.4723700991286615
+PhamClust_97	Maximum of near-core OG E-values observed (log10):	-4.4723700991286615
+PhamClust_97	Maximum distance between near-core OGs:	11
+PhamClust_97	Median CDS count:	90.0
+PhamClust_97	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7865907653383934
+PhamClust_255	Maximum of maximum E-values observed for any OG (log10)	-8.041914151478915
+PhamClust_255	Maximum of near-core OG E-values observed (log10):	-8.041914151478915
+PhamClust_255	Maximum distance between near-core OGs:	4
+PhamClust_255	Median CDS count:	126
+PhamClust_255	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7222222222222222
+PhamClust_168	Maximum of maximum E-values observed for any OG (log10)	-11.334419008982046
+PhamClust_168	Maximum of near-core OG E-values observed (log10):	-11.334419008982046
+PhamClust_168	Maximum distance between near-core OGs:	4
+PhamClust_168	Median CDS count:	25
+PhamClust_168	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.88
+PhamClust_212	Maximum of maximum E-values observed for any OG (log10)	-10.962573502059374
+PhamClust_212	Maximum of near-core OG E-values observed (log10):	-10.962573502059374
+PhamClust_212	Maximum distance between near-core OGs:	12
+PhamClust_212	Median CDS count:	54
+PhamClust_212	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6296296296296297
+PhamClust_239	Maximum of maximum E-values observed for any OG (log10)	-10.08460016478773
+PhamClust_239	Maximum of near-core OG E-values observed (log10):	-10.08460016478773
+PhamClust_239	Maximum distance between near-core OGs:	4
+PhamClust_239	Median CDS count:	74.5
+PhamClust_239	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9261261261261262
+PhamClust_81	Maximum of maximum E-values observed for any OG (log10)	-4.29413628771608
+PhamClust_81	Maximum of near-core OG E-values observed (log10):	-4.29413628771608
+PhamClust_81	Maximum distance between near-core OGs:	13
+PhamClust_81	Median CDS count:	88.0
+PhamClust_81	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6534289035257652
+PhamClust_167	Maximum of maximum E-values observed for any OG (log10)	-6.588380294036769
+PhamClust_167	Maximum of near-core OG E-values observed (log10):	-6.588380294036769
+PhamClust_167	Maximum distance between near-core OGs:	5
+PhamClust_167	Median CDS count:	272.0
+PhamClust_167	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8660606060606061
+PhamClust_387	Maximum of maximum E-values observed for any OG (log10)	-22.4672456210075
+PhamClust_387	Maximum of near-core OG E-values observed (log10):	-22.4672456210075
+PhamClust_387	Maximum distance between near-core OGs:	8
+PhamClust_387	Median CDS count:	52.0
+PhamClust_387	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7692307692307693
+PhamClust_281	Maximum of maximum E-values observed for any OG (log10)	-17.21824462534753
+PhamClust_281	Maximum of near-core OG E-values observed (log10):	-19.4089353929735
+PhamClust_281	Maximum distance between near-core OGs:	3
+PhamClust_281	Median CDS count:	52.5
+PhamClust_281	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8590909090909091
+PhamClust_311	Maximum of maximum E-values observed for any OG (log10)	-21.28483264215154
+PhamClust_311	Maximum of near-core OG E-values observed (log10):	-26.497572880015564
+PhamClust_311	Maximum distance between near-core OGs:	8
+PhamClust_311	Median CDS count:	227.5
+PhamClust_311	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6527455753922251
+PhamClust_418	Maximum of maximum E-values observed for any OG (log10)	-30.906578314837763
+PhamClust_418	Maximum of near-core OG E-values observed (log10):	-30.906578314837763
+PhamClust_418	Maximum distance between near-core OGs:	2
+PhamClust_418	Median CDS count:	60.5
+PhamClust_418	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9918032786885246
+PhamClust_129	Maximum of maximum E-values observed for any OG (log10)	-11.995678626217355
+PhamClust_129	Maximum of near-core OG E-values observed (log10):	-12.714442690992225
+PhamClust_129	Maximum distance between near-core OGs:	9
+PhamClust_129	Median CDS count:	52
+PhamClust_129	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.75
+PhamClust_287	Maximum of maximum E-values observed for any OG (log10)	-20.97469413473523
+PhamClust_287	Maximum of near-core OG E-values observed (log10):	-21.555955204081922
+PhamClust_287	Maximum distance between near-core OGs:	12
+PhamClust_287	Median CDS count:	50.5
+PhamClust_287	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.47641509433962265
+PhamClust_45	Maximum of maximum E-values observed for any OG (log10)	-10.151195298948196
+PhamClust_45	Maximum of near-core OG E-values observed (log10):	-15.177178354696894
+PhamClust_45	Maximum distance between near-core OGs:	29
+PhamClust_45	Median CDS count:	62.5
+PhamClust_45	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6799795186891961
+PhamClust_379	Maximum of maximum E-values observed for any OG (log10)	-12.251037138743838
+PhamClust_379	Maximum of near-core OG E-values observed (log10):	-12.251037138743838
+PhamClust_379	Maximum distance between near-core OGs:	10
+PhamClust_379	Median CDS count:	361
+PhamClust_379	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8282548476454293
+PhamClust_90	Maximum of maximum E-values observed for any OG (log10)	-8.555955204081924
+PhamClust_90	Maximum of near-core OG E-values observed (log10):	-8.555955204081924
+PhamClust_90	Maximum distance between near-core OGs:	18
+PhamClust_90	Median CDS count:	48.5
+PhamClust_90	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4738243123336291
+PhamClust_380	Maximum of maximum E-values observed for any OG (log10)	-14.341988603342886
+PhamClust_380	Maximum of near-core OG E-values observed (log10):	-14.341988603342886
+PhamClust_380	Maximum distance between near-core OGs:	8
+PhamClust_380	Median CDS count:	159
+PhamClust_380	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8050314465408805
+PhamClust_357	Maximum of maximum E-values observed for any OG (log10)	-20.315154638355587
+PhamClust_357	Maximum of near-core OG E-values observed (log10):	-20.315154638355587
+PhamClust_357	Maximum distance between near-core OGs:	5
+PhamClust_357	Median CDS count:	121
+PhamClust_357	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9090909090909091
+PhamClust_82	Maximum of maximum E-values observed for any OG (log10)	-10.090443970758825
+PhamClust_82	Maximum of near-core OG E-values observed (log10):	-14.303643611266667
+PhamClust_82	Maximum distance between near-core OGs:	15
+PhamClust_82	Median CDS count:	41.0
+PhamClust_82	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5365853658536586
+PhamClust_25	Maximum of maximum E-values observed for any OG (log10)	-3.920818753952375
+PhamClust_25	Maximum of near-core OG E-values observed (log10):	-6.2636034977233574
+PhamClust_25	Maximum distance between near-core OGs:	15
+PhamClust_25	Median CDS count:	206
+PhamClust_25	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7635467980295566
+PhamClust_17	Maximum of maximum E-values observed for any OG (log10)	-3.371611069949688
+PhamClust_17	Maximum of near-core OG E-values observed (log10):	-13.82102305270683
+PhamClust_17	Maximum distance between near-core OGs:	23
+PhamClust_17	Median CDS count:	77
+PhamClust_17	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.2727272727272727
+PhamClust_420	Maximum of maximum E-values observed for any OG (log10)	-26.35359627377693
+PhamClust_420	Maximum of near-core OG E-values observed (log10):	-26.35359627377693
+PhamClust_420	Maximum distance between near-core OGs:	3
+PhamClust_420	Median CDS count:	54.5
+PhamClust_420	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8257575757575758
+PhamClust_38	Maximum of maximum E-values observed for any OG (log10)	-7.552841968657781
+PhamClust_38	Maximum of near-core OG E-values observed (log10):	-7.552841968657781
+PhamClust_38	Maximum distance between near-core OGs:	15
+PhamClust_38	Median CDS count:	73.0
+PhamClust_38	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5918178452425028
+PhamClust_328	Maximum of maximum E-values observed for any OG (log10)	-13.928117992693874
+PhamClust_328	Maximum of near-core OG E-values observed (log10):	-13.928117992693874
+PhamClust_328	Maximum distance between near-core OGs:	7
+PhamClust_328	Median CDS count:	99.0
+PhamClust_328	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5560661764705882
+PhamClust_431	Maximum of maximum E-values observed for any OG (log10)	-24.567030709125593
+PhamClust_431	Maximum of near-core OG E-values observed (log10):	-24.567030709125593
+PhamClust_431	Maximum distance between near-core OGs:	3
+PhamClust_431	Median CDS count:	49.5
+PhamClust_431	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9495918367346938
+PhamClust_63	Maximum of maximum E-values observed for any OG (log10)	-6.928117992693874
+PhamClust_63	Maximum of near-core OG E-values observed (log10):	-6.928117992693874
+PhamClust_63	Maximum distance between near-core OGs:	11
+PhamClust_63	Median CDS count:	83.5
+PhamClust_63	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5465855307640297
+PhamClust_252	Maximum of maximum E-values observed for any OG (log10)	-12.399027104313252
+PhamClust_252	Maximum of near-core OG E-values observed (log10):	-12.399027104313252
+PhamClust_252	Maximum distance between near-core OGs:	9
+PhamClust_252	Median CDS count:	55
+PhamClust_252	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.41818181818181815
+PhamClust_277	Maximum of maximum E-values observed for any OG (log10)	-16.214670164989233
+PhamClust_277	Maximum of near-core OG E-values observed (log10):	-16.214670164989233
+PhamClust_277	Maximum distance between near-core OGs:	4
+PhamClust_277	Median CDS count:	58
+PhamClust_277	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7931034482758621
+PhamClust_71	Maximum of maximum E-values observed for any OG (log10)	-7.484126156288321
+PhamClust_71	Maximum of near-core OG E-values observed (log10):	-9.732828271596984
+PhamClust_71	Maximum distance between near-core OGs:	19
+PhamClust_71	Median CDS count:	71.0
+PhamClust_71	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5142857142857142
+PhamClust_29	Maximum of maximum E-values observed for any OG (log10)	-4.690369832574101
+PhamClust_29	Maximum of near-core OG E-values observed (log10):	-4.690369832574101
+PhamClust_29	Maximum distance between near-core OGs:	15
+PhamClust_29	Median CDS count:	54
+PhamClust_29	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5849056603773585
+PhamClust_327	Maximum of maximum E-values observed for any OG (log10)	-14.008773924307503
+PhamClust_327	Maximum of near-core OG E-values observed (log10):	-14.008773924307503
+PhamClust_327	Maximum distance between near-core OGs:	8
+PhamClust_327	Median CDS count:	57.5
+PhamClust_327	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.522094430992736
+PhamClust_173	Maximum of maximum E-values observed for any OG (log10)	-6.853871964321761
+PhamClust_173	Maximum of near-core OG E-values observed (log10):	-10.588380294036769
+PhamClust_173	Maximum distance between near-core OGs:	9
+PhamClust_173	Median CDS count:	115.0
+PhamClust_173	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8523139745916515
+PhamClust_391	Maximum of maximum E-values observed for any OG (log10)	-17.681936665037238
+PhamClust_391	Maximum of near-core OG E-values observed (log10):	-17.681936665037238
+PhamClust_391	Maximum distance between near-core OGs:	3
+PhamClust_391	Median CDS count:	108.5
+PhamClust_391	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9587085811384877
+PhamClust_419	Maximum of maximum E-values observed for any OG (log10)	-24.756961951313702
+PhamClust_419	Maximum of near-core OG E-values observed (log10):	-24.756961951313702
+PhamClust_419	Maximum distance between near-core OGs:	3
+PhamClust_419	Median CDS count:	96.0
+PhamClust_419	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9480195333695063
+PhamClust_176	Maximum of maximum E-values observed for any OG (log10)	-9.326058001365912
+PhamClust_176	Maximum of near-core OG E-values observed (log10):	-9.326058001365912
+PhamClust_176	Maximum distance between near-core OGs:	16
+PhamClust_176	Median CDS count:	69
+PhamClust_176	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7
+PhamClust_147	Maximum of maximum E-values observed for any OG (log10)	-5.292429823902063
+PhamClust_147	Maximum of near-core OG E-values observed (log10):	-9.019088062223155
+PhamClust_147	Maximum distance between near-core OGs:	13
+PhamClust_147	Median CDS count:	68.0
+PhamClust_147	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6397058823529411
+PhamClust_313	Maximum of maximum E-values observed for any OG (log10)	-25.821023052706828
+PhamClust_313	Maximum of near-core OG E-values observed (log10):	-33.152427340857884
+PhamClust_313	Maximum distance between near-core OGs:	33
+PhamClust_313	Median CDS count:	64.0
+PhamClust_313	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3953545836422041
+PhamClust_393	Maximum of maximum E-values observed for any OG (log10)	-19.073143291050307
+PhamClust_393	Maximum of near-core OG E-values observed (log10):	-19.073143291050307
+PhamClust_393	Maximum distance between near-core OGs:	3
+PhamClust_393	Median CDS count:	203.0
+PhamClust_393	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9505938473520249
+PhamClust_28	Maximum of maximum E-values observed for any OG (log10)	-5.943095148663527
+PhamClust_28	Maximum of near-core OG E-values observed (log10):	-5.943095148663527
+PhamClust_28	Maximum distance between near-core OGs:	67
+PhamClust_28	Median CDS count:	237
+PhamClust_28	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.35443037974683544
+PhamClust_121	Maximum of maximum E-values observed for any OG (log10)	-4.8696662315049934
+PhamClust_121	Maximum of near-core OG E-values observed (log10):	-4.8696662315049934
+PhamClust_121	Maximum distance between near-core OGs:	4
+PhamClust_121	Median CDS count:	23.5
+PhamClust_121	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5534420289855072
+PhamClust_65	Maximum of maximum E-values observed for any OG (log10)	-3.2518119729937993
+PhamClust_65	Maximum of near-core OG E-values observed (log10):	-9.739928612014923
+PhamClust_65	Maximum distance between near-core OGs:	10
+PhamClust_65	Median CDS count:	59
+PhamClust_65	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7931034482758621
+PhamClust_37	Maximum of maximum E-values observed for any OG (log10)	-4.517126416391246
+PhamClust_37	Maximum of near-core OG E-values observed (log10):	-4.517126416391246
+PhamClust_37	Maximum distance between near-core OGs:	15
+PhamClust_37	Median CDS count:	48.0
+PhamClust_37	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5625
+PhamClust_20	Maximum of maximum E-values observed for any OG (log10)	-3.598599459218456
+PhamClust_20	Maximum of near-core OG E-values observed (log10):	-3.598599459218456
+PhamClust_20	Maximum distance between near-core OGs:	37
+PhamClust_20	Median CDS count:	161.0
+PhamClust_20	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6635284810126583
+PhamClust_209	Maximum of maximum E-values observed for any OG (log10)	-21.501689446210396
+PhamClust_209	Maximum of near-core OG E-values observed (log10):	-21.501689446210396
+PhamClust_209	Maximum distance between near-core OGs:	7
+PhamClust_209	Median CDS count:	56
+PhamClust_209	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6785714285714286
+PhamClust_178	Maximum of maximum E-values observed for any OG (log10)	-10.573488738635424
+PhamClust_178	Maximum of near-core OG E-values observed (log10):	-10.573488738635424
+PhamClust_178	Maximum distance between near-core OGs:	4
+PhamClust_178	Median CDS count:	78.0
+PhamClust_178	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8141025641025641
+PhamClust_132	Maximum of maximum E-values observed for any OG (log10)	-11.133122185662499
+PhamClust_132	Maximum of near-core OG E-values observed (log10):	-13.335358024443874
+PhamClust_132	Maximum distance between near-core OGs:	27
+PhamClust_132	Median CDS count:	86
+PhamClust_132	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.45348837209302323
+PhamClust_113	Maximum of maximum E-values observed for any OG (log10)	-3.7033348097384686
+PhamClust_113	Maximum of near-core OG E-values observed (log10):	-3.7033348097384686
+PhamClust_113	Maximum distance between near-core OGs:	13
+PhamClust_113	Median CDS count:	82
+PhamClust_113	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.632183908045977
+PhamClust_186	Maximum of maximum E-values observed for any OG (log10)	-6.310691140876379
+PhamClust_186	Maximum of near-core OG E-values observed (log10):	-15.614393726401687
+PhamClust_186	Maximum distance between near-core OGs:	16
+PhamClust_186	Median CDS count:	49.0
+PhamClust_186	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4897959183673469
+PhamClust_130	Maximum of maximum E-values observed for any OG (log10)	-13.216096420727263
+PhamClust_130	Maximum of near-core OG E-values observed (log10):	-13.216096420727263
+PhamClust_130	Maximum distance between near-core OGs:	14
+PhamClust_130	Median CDS count:	65.0
+PhamClust_130	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5454545454545454
+PhamClust_398	Maximum of maximum E-values observed for any OG (log10)	-20.525783735923746
+PhamClust_398	Maximum of near-core OG E-values observed (log10):	-20.525783735923746
+PhamClust_398	Maximum distance between near-core OGs:	3
+PhamClust_398	Median CDS count:	54.5
+PhamClust_398	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9725589225589226
+PhamClust_293	Maximum of maximum E-values observed for any OG (log10)	-18.42481215507234
+PhamClust_293	Maximum of near-core OG E-values observed (log10):	-18.42481215507234
+PhamClust_293	Maximum distance between near-core OGs:	8
+PhamClust_293	Median CDS count:	47.5
+PhamClust_293	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6737588652482269
+PhamClust_397	Maximum of maximum E-values observed for any OG (log10)	-12.260427655549908
+PhamClust_397	Maximum of near-core OG E-values observed (log10):	-12.260427655549908
+PhamClust_397	Maximum distance between near-core OGs:	5
+PhamClust_397	Median CDS count:	468.0
+PhamClust_397	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8737914744012305
+PhamClust_301	Maximum of maximum E-values observed for any OG (log10)	-15.9100948885606
+PhamClust_301	Maximum of near-core OG E-values observed (log10):	-15.9100948885606
+PhamClust_301	Maximum distance between near-core OGs:	9
+PhamClust_301	Median CDS count:	41.0
+PhamClust_301	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6601073345259392
+PhamClust_362	Maximum of maximum E-values observed for any OG (log10)	-19.011887159731646
+PhamClust_362	Maximum of near-core OG E-values observed (log10):	-19.011887159731646
+PhamClust_362	Maximum distance between near-core OGs:	4
+PhamClust_362	Median CDS count:	93
+PhamClust_362	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9032258064516129
+PhamClust_254	Maximum of maximum E-values observed for any OG (log10)	-9.978810700930062
+PhamClust_254	Maximum of near-core OG E-values observed (log10):	-9.978810700930062
+PhamClust_254	Maximum distance between near-core OGs:	15
+PhamClust_254	Median CDS count:	85
+PhamClust_254	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7586206896551724
+PhamClust_206	Maximum of maximum E-values observed for any OG (log10)	-21.974694134735227
+PhamClust_206	Maximum of near-core OG E-values observed (log10):	-21.974694134735227
+PhamClust_206	Maximum distance between near-core OGs:	18
+PhamClust_206	Median CDS count:	52
+PhamClust_206	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4230769230769231
+PhamClust_335	Maximum of maximum E-values observed for any OG (log10)	-10.551293680094918
+PhamClust_335	Maximum of near-core OG E-values observed (log10):	-24.97881070093006
+PhamClust_335	Maximum distance between near-core OGs:	12
+PhamClust_335	Median CDS count:	82.5
+PhamClust_335	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4607583774250441
+PhamClust_338	Maximum of maximum E-values observed for any OG (log10)	-14.057495893831916
+PhamClust_338	Maximum of near-core OG E-values observed (log10):	-14.057495893831916
+PhamClust_338	Maximum distance between near-core OGs:	6
+PhamClust_338	Median CDS count:	366.0
+PhamClust_338	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8748459383753502
+PhamClust_208	Maximum of maximum E-values observed for any OG (log10)	-14.714442690992225
+PhamClust_208	Maximum of near-core OG E-values observed (log10):	-14.714442690992225
+PhamClust_208	Maximum distance between near-core OGs:	19
+PhamClust_208	Median CDS count:	66
+PhamClust_208	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.2727272727272727
+PhamClust_430	Maximum of maximum E-values observed for any OG (log10)	-21.047207556955907
+PhamClust_430	Maximum of near-core OG E-values observed (log10):	-21.047207556955907
+PhamClust_430	Maximum distance between near-core OGs:	4
+PhamClust_430	Median CDS count:	191.0
+PhamClust_430	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.905858486169367
+PhamClust_40	Maximum of maximum E-values observed for any OG (log10)	-3.6234230429434877
+PhamClust_40	Maximum of near-core OG E-values observed (log10):	-3.6234230429434877
+PhamClust_40	Maximum distance between near-core OGs:	15
+PhamClust_40	Median CDS count:	89.0
+PhamClust_40	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3910736579275905
+PhamClust_228	Maximum of maximum E-values observed for any OG (log10)	-17.08460016478773
+PhamClust_228	Maximum of near-core OG E-values observed (log10):	-30.653647025549358
+PhamClust_228	Maximum distance between near-core OGs:	7
+PhamClust_228	Median CDS count:	85
+PhamClust_228	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8117647058823529
+PhamClust_332	Maximum of maximum E-values observed for any OG (log10)	-18.282329496997736
+PhamClust_332	Maximum of near-core OG E-values observed (log10):	-18.282329496997736
+PhamClust_332	Maximum distance between near-core OGs:	9
+PhamClust_332	Median CDS count:	113.0
+PhamClust_332	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6186160151324085
+PhamClust_180	Maximum of maximum E-values observed for any OG (log10)	-13.974694134735229
+PhamClust_180	Maximum of near-core OG E-values observed (log10):	-13.974694134735229
+PhamClust_180	Maximum distance between near-core OGs:	10
+PhamClust_180	Median CDS count:	94
+PhamClust_180	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.574468085106383
+PhamClust_191	Maximum of maximum E-values observed for any OG (log10)	-13.092588639225411
+PhamClust_191	Maximum of near-core OG E-values observed (log10):	-13.092588639225411
+PhamClust_191	Maximum distance between near-core OGs:	8
+PhamClust_191	Median CDS count:	52
+PhamClust_191	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.84
+PhamClust_149	Maximum of maximum E-values observed for any OG (log10)	-10.896196279044041
+PhamClust_149	Maximum of near-core OG E-values observed (log10):	-10.896196279044041
+PhamClust_149	Maximum distance between near-core OGs:	7
+PhamClust_149	Median CDS count:	51
+PhamClust_149	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7692307692307693
+PhamClust_22	Maximum of maximum E-values observed for any OG (log10)	-4.920818753952375
+PhamClust_22	Maximum of near-core OG E-values observed (log10):	-4.920818753952375
+PhamClust_22	Maximum distance between near-core OGs:	13
+PhamClust_22	Median CDS count:	85
+PhamClust_22	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7529411764705882
+PhamClust_39	Maximum of maximum E-values observed for any OG (log10)	-4.804100347590765
+PhamClust_39	Maximum of near-core OG E-values observed (log10):	-4.804100347590765
+PhamClust_39	Maximum distance between near-core OGs:	15
+PhamClust_39	Median CDS count:	83.0
+PhamClust_39	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.42857142857142855
+PhamClust_83	Maximum of maximum E-values observed for any OG (log10)	-4.148130399270234
+PhamClust_83	Maximum of near-core OG E-values observed (log10):	-4.148130399270234
+PhamClust_83	Maximum distance between near-core OGs:	8
+PhamClust_83	Median CDS count:	40
+PhamClust_83	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6410256410256411
+PhamClust_58	Maximum of maximum E-values observed for any OG (log10)	-3.096910013008056
+PhamClust_58	Maximum of near-core OG E-values observed (log10):	-3.096910013008056
+PhamClust_58	Maximum distance between near-core OGs:	70
+PhamClust_58	Median CDS count:	261
+PhamClust_58	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.34962406015037595
+PhamClust_67	Maximum of maximum E-values observed for any OG (log10)	-5.5702477199975915
+PhamClust_67	Maximum of near-core OG E-values observed (log10):	-5.5702477199975915
+PhamClust_67	Maximum distance between near-core OGs:	36
+PhamClust_67	Median CDS count:	244.5
+PhamClust_67	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5421713953900995
+PhamClust_369	Maximum of maximum E-values observed for any OG (log10)	-16.166852888087213
+PhamClust_369	Maximum of near-core OG E-values observed (log10):	-18.809668301829706
+PhamClust_369	Maximum distance between near-core OGs:	9
+PhamClust_369	Median CDS count:	142.5
+PhamClust_369	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8283251231527093
+PhamClust_318	Maximum of maximum E-values observed for any OG (log10)	-27.005682847330363
+PhamClust_318	Maximum of near-core OG E-values observed (log10):	-43.77469071827414
+PhamClust_318	Maximum distance between near-core OGs:	5
+PhamClust_318	Median CDS count:	52.5
+PhamClust_318	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5718954248366013
+PhamClust_310	Maximum of maximum E-values observed for any OG (log10)	-17.052076380168273
+PhamClust_310	Maximum of near-core OG E-values observed (log10):	-17.052076380168273
+PhamClust_310	Maximum distance between near-core OGs:	7
+PhamClust_310	Median CDS count:	132.5
+PhamClust_310	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7641030033116365
+PhamClust_268	Maximum of maximum E-values observed for any OG (log10)	-5.52432881167557
+PhamClust_268	Maximum of near-core OG E-values observed (log10):	-5.52432881167557
+PhamClust_268	Maximum distance between near-core OGs:	10
+PhamClust_268	Median CDS count:	102
+PhamClust_268	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5294117647058824
+PhamClust_429	Maximum of maximum E-values observed for any OG (log10)	-13.437707135543524
+PhamClust_429	Maximum of near-core OG E-values observed (log10):	-13.437707135543524
+PhamClust_429	Maximum distance between near-core OGs:	4
+PhamClust_429	Median CDS count:	81.0
+PhamClust_429	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.938843983529053
+PhamClust_153	Maximum of maximum E-values observed for any OG (log10)	-8.000434511774017
+PhamClust_153	Maximum of near-core OG E-values observed (log10):	-13.355561410532161
+PhamClust_153	Maximum distance between near-core OGs:	5
+PhamClust_153	Median CDS count:	65.5
+PhamClust_153	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7251748251748251
+PhamClust_36	Maximum of maximum E-values observed for any OG (log10)	-9.826813731587725
+PhamClust_36	Maximum of near-core OG E-values observed (log10):	-9.826813731587725
+PhamClust_36	Maximum distance between near-core OGs:	15
+PhamClust_36	Median CDS count:	80.0
+PhamClust_36	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5562324929971989
+PhamClust_181	Maximum of maximum E-values observed for any OG (log10)	-22.166852888087213
+PhamClust_181	Maximum of near-core OG E-values observed (log10):	-24.45345733652187
+PhamClust_181	Maximum distance between near-core OGs:	4
+PhamClust_181	Median CDS count:	49.0
+PhamClust_181	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7921899529042387
+PhamClust_256	Maximum of maximum E-values observed for any OG (log10)	-9.886056647693161
+PhamClust_256	Maximum of near-core OG E-values observed (log10):	-9.886056647693161
+PhamClust_256	Maximum distance between near-core OGs:	6
+PhamClust_256	Median CDS count:	60.5
+PhamClust_256	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.776912568306011
+PhamClust_145	Maximum of maximum E-values observed for any OG (log10)	-10.022733787572706
+PhamClust_145	Maximum of near-core OG E-values observed (log10):	-10.022733787572706
+PhamClust_145	Maximum distance between near-core OGs:	23
+PhamClust_145	Median CDS count:	66
+PhamClust_145	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.47619047619047616
+PhamClust_26	Maximum of maximum E-values observed for any OG (log10)	-6.899629454882437
+PhamClust_26	Maximum of near-core OG E-values observed (log10):	-8.866461091629782
+PhamClust_26	Maximum distance between near-core OGs:	17
+PhamClust_26	Median CDS count:	66
+PhamClust_26	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5735294117647058
+PhamClust_346	Maximum of maximum E-values observed for any OG (log10)	-11.059483515067432
+PhamClust_346	Maximum of near-core OG E-values observed (log10):	-11.059483515067432
+PhamClust_346	Maximum distance between near-core OGs:	4
+PhamClust_346	Median CDS count:	236.0
+PhamClust_346	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8347607505162042
+PhamClust_12	Maximum of maximum E-values observed for any OG (log10)	-3.4190750243243806
+PhamClust_12	Maximum of near-core OG E-values observed (log10):	-4.447331783887806
+PhamClust_12	Maximum distance between near-core OGs:	26
+PhamClust_12	Median CDS count:	200
+PhamClust_12	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5678391959798995
+PhamClust_188	Maximum of maximum E-values observed for any OG (log10)	-4.739928612014925
+PhamClust_188	Maximum of near-core OG E-values observed (log10):	-15.688246138944246
+PhamClust_188	Maximum distance between near-core OGs:	12
+PhamClust_188	Median CDS count:	46.0
+PhamClust_188	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3960348162475822
+PhamClust_66	Maximum of maximum E-values observed for any OG (log10)	-10.812479279163536
+PhamClust_66	Maximum of near-core OG E-values observed (log10):	-13.203425666789569
+PhamClust_66	Maximum distance between near-core OGs:	24
+PhamClust_66	Median CDS count:	46
+PhamClust_66	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4090909090909091
+PhamClust_95	Maximum of maximum E-values observed for any OG (log10)	-6.7258421507363195
+PhamClust_95	Maximum of near-core OG E-values observed (log10):	-6.7258421507363195
+PhamClust_95	Maximum distance between near-core OGs:	8
+PhamClust_95	Median CDS count:	48
+PhamClust_95	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7872340425531915
+PhamClust_267	Maximum of maximum E-values observed for any OG (log10)	-7.777283528852416
+PhamClust_267	Maximum of near-core OG E-values observed (log10):	-7.777283528852416
+PhamClust_267	Maximum distance between near-core OGs:	9
+PhamClust_267	Median CDS count:	56
+PhamClust_267	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5357142857142857
+PhamClust_316	Maximum of maximum E-values observed for any OG (log10)	-23.188424994129402
+PhamClust_316	Maximum of near-core OG E-values observed (log10):	-27.316052869248484
+PhamClust_316	Maximum distance between near-core OGs:	24
+PhamClust_316	Median CDS count:	67.0
+PhamClust_316	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.37999092558983666
+PhamClust_320	Maximum of maximum E-values observed for any OG (log10)	-16.86012091359876
+PhamClust_320	Maximum of near-core OG E-values observed (log10):	-16.86012091359876
+PhamClust_320	Maximum distance between near-core OGs:	7
+PhamClust_320	Median CDS count:	124.5
+PhamClust_320	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6832709194214877
+PhamClust_219	Maximum of maximum E-values observed for any OG (log10)	-19.148130399270233
+PhamClust_219	Maximum of near-core OG E-values observed (log10):	-22.74232142513081
+PhamClust_219	Maximum distance between near-core OGs:	24
+PhamClust_219	Median CDS count:	68
+PhamClust_219	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.35294117647058826
+PhamClust_48	Maximum of maximum E-values observed for any OG (log10)	-5.1255181823005325
+PhamClust_48	Maximum of near-core OG E-values observed (log10):	-5.1255181823005325
+PhamClust_48	Maximum distance between near-core OGs:	13
+PhamClust_48	Median CDS count:	90
+PhamClust_48	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6263736263736264
+PhamClust_225	Maximum of maximum E-values observed for any OG (log10)	-8.1605219526258
+PhamClust_225	Maximum of near-core OG E-values observed (log10):	-8.1605219526258
+PhamClust_225	Maximum distance between near-core OGs:	15
+PhamClust_225	Median CDS count:	103
+PhamClust_225	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5048543689320388
+PhamClust_317	Maximum of maximum E-values observed for any OG (log10)	-24.10457745396059
+PhamClust_317	Maximum of near-core OG E-values observed (log10):	-31.184422251675727
+PhamClust_317	Maximum distance between near-core OGs:	4
+PhamClust_317	Median CDS count:	90.5
+PhamClust_317	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7200122399020807
+PhamClust_414	Maximum of maximum E-values observed for any OG (log10)	-23.348721986001856
+PhamClust_414	Maximum of near-core OG E-values observed (log10):	-23.348721986001856
+PhamClust_414	Maximum distance between near-core OGs:	1
+PhamClust_414	Median CDS count:	68.0
+PhamClust_414	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+PhamClust_200	Maximum of maximum E-values observed for any OG (log10)	-8.075720713938118
+PhamClust_200	Maximum of near-core OG E-values observed (log10):	-8.075720713938118
+PhamClust_200	Maximum distance between near-core OGs:	11
+PhamClust_200	Median CDS count:	89
+PhamClust_200	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5444444444444444
+PhamClust_87	Maximum of maximum E-values observed for any OG (log10)	-6.804100347590765
+PhamClust_87	Maximum of near-core OG E-values observed (log10):	-7.823908740944318
+PhamClust_87	Maximum distance between near-core OGs:	51
+PhamClust_87	Median CDS count:	414
+PhamClust_87	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.33816425120772947
+PhamClust_189	Maximum of maximum E-values observed for any OG (log10)	-23.66554624884907
+PhamClust_189	Maximum of near-core OG E-values observed (log10):	-27.77989191195994
+PhamClust_189	Maximum distance between near-core OGs:	5
+PhamClust_189	Median CDS count:	63.5
+PhamClust_189	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8346974206349207
+PhamClust_373	Maximum of maximum E-values observed for any OG (log10)	-23.552841968657777
+PhamClust_373	Maximum of near-core OG E-values observed (log10):	-23.552841968657777
+PhamClust_373	Maximum distance between near-core OGs:	3
+PhamClust_373	Median CDS count:	40
+PhamClust_373	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.85
+PhamClust_47	Maximum of maximum E-values observed for any OG (log10)	-6.35359627377693
+PhamClust_47	Maximum of near-core OG E-values observed (log10):	-7.772113295386326
+PhamClust_47	Maximum distance between near-core OGs:	9
+PhamClust_47	Median CDS count:	79
+PhamClust_47	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6875
+PhamClust_326	Maximum of maximum E-values observed for any OG (log10)	-10.554395796726402
+PhamClust_326	Maximum of near-core OG E-values observed (log10):	-10.554395796726402
+PhamClust_326	Maximum distance between near-core OGs:	16
+PhamClust_326	Median CDS count:	124.5
+PhamClust_326	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6121102341829473
+PhamClust_339	Maximum of maximum E-values observed for any OG (log10)	-16.488116639021122
+PhamClust_339	Maximum of near-core OG E-values observed (log10):	-16.488116639021122
+PhamClust_339	Maximum distance between near-core OGs:	14
+PhamClust_339	Median CDS count:	70.0
+PhamClust_339	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7610256410256411
+PhamClust_333	Maximum of maximum E-values observed for any OG (log10)	-15.863279432843592
+PhamClust_333	Maximum of near-core OG E-values observed (log10):	-15.863279432843592
+PhamClust_333	Maximum distance between near-core OGs:	10
+PhamClust_333	Median CDS count:	226.5
+PhamClust_333	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.710903384279476
+PhamClust_319	Maximum of maximum E-values observed for any OG (log10)	-16.772113295386323
+PhamClust_319	Maximum of near-core OG E-values observed (log10):	-16.772113295386323
+PhamClust_319	Maximum distance between near-core OGs:	6
+PhamClust_319	Median CDS count:	56.5
+PhamClust_319	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7080200501253133
+PhamClust_361	Maximum of maximum E-values observed for any OG (log10)	-21.004803708402818
+PhamClust_361	Maximum of near-core OG E-values observed (log10):	-21.004803708402818
+PhamClust_361	Maximum distance between near-core OGs:	4
+PhamClust_361	Median CDS count:	86
+PhamClust_361	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+PhamClust_276	Maximum of maximum E-values observed for any OG (log10)	-8.018634490921455
+PhamClust_276	Maximum of near-core OG E-values observed (log10):	-8.018634490921455
+PhamClust_276	Maximum distance between near-core OGs:	9
+PhamClust_276	Median CDS count:	111
+PhamClust_276	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6576576576576577
+PhamClust_202	Maximum of maximum E-values observed for any OG (log10)	-12.066512712151294
+PhamClust_202	Maximum of near-core OG E-values observed (log10):	-29.02733440773389
+PhamClust_202	Maximum distance between near-core OGs:	13
+PhamClust_202	Median CDS count:	55
+PhamClust_202	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.34545454545454546
+PhamClust_258	Maximum of maximum E-values observed for any OG (log10)	-11.192464971931146
+PhamClust_258	Maximum of near-core OG E-values observed (log10):	-11.192464971931146
+PhamClust_258	Maximum distance between near-core OGs:	9
+PhamClust_258	Median CDS count:	94
+PhamClust_258	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6382978723404256
+PhamClust_33	Maximum of maximum E-values observed for any OG (log10)	-11.812479279163535
+PhamClust_33	Maximum of near-core OG E-values observed (log10):	-12.26440110030182
+PhamClust_33	Maximum distance between near-core OGs:	14
+PhamClust_33	Median CDS count:	47
+PhamClust_33	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5
+PhamClust_151	Maximum of maximum E-values observed for any OG (log10)	-5.686132779630846
+PhamClust_151	Maximum of near-core OG E-values observed (log10):	-5.686132779630846
+PhamClust_151	Maximum distance between near-core OGs:	16
+PhamClust_151	Median CDS count:	80
+PhamClust_151	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6125
+PhamClust_294	Maximum of maximum E-values observed for any OG (log10)	-21.245651664288978
+PhamClust_294	Maximum of near-core OG E-values observed (log10):	-21.84163750790475
+PhamClust_294	Maximum distance between near-core OGs:	3
+PhamClust_294	Median CDS count:	72.0
+PhamClust_294	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8888888888888888
+PhamClust_158	Maximum of maximum E-values observed for any OG (log10)	-7.782516055786093
+PhamClust_158	Maximum of near-core OG E-values observed (log10):	-7.782516055786093
+PhamClust_158	Maximum distance between near-core OGs:	4
+PhamClust_158	Median CDS count:	46.0
+PhamClust_158	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3920454545454546
+PhamClust_131	Maximum of maximum E-values observed for any OG (log10)	-10.130768280269022
+PhamClust_131	Maximum of near-core OG E-values observed (log10):	-14.709965388637482
+PhamClust_131	Maximum distance between near-core OGs:	15
+PhamClust_131	Median CDS count:	67.0
+PhamClust_131	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4552139037433155
+PhamClust_329	Maximum of maximum E-values observed for any OG (log10)	-15.388276691992656
+PhamClust_329	Maximum of near-core OG E-values observed (log10):	-15.388276691992656
+PhamClust_329	Maximum distance between near-core OGs:	14
+PhamClust_329	Median CDS count:	77.5
+PhamClust_329	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.49034299034299034
+PhamClust_305	Maximum of maximum E-values observed for any OG (log10)	-30.756961951313702
+PhamClust_305	Maximum of near-core OG E-values observed (log10):	-30.756961951313702
+PhamClust_305	Maximum distance between near-core OGs:	3
+PhamClust_305	Median CDS count:	55.5
+PhamClust_305	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8294346978557505
+PhamClust_440	Maximum of maximum E-values observed for any OG (log10)	-18.114073660198567
+PhamClust_440	Maximum of near-core OG E-values observed (log10):	-18.114073660198567
+PhamClust_440	Maximum distance between near-core OGs:	6
+PhamClust_440	Median CDS count:	82.0
+PhamClust_440	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9025732559869106
+PhamClust_127	Maximum of maximum E-values observed for any OG (log10)	-4.603800652904264
+PhamClust_127	Maximum of near-core OG E-values observed (log10):	-11.510041520575164
+PhamClust_127	Maximum distance between near-core OGs:	18
+PhamClust_127	Median CDS count:	54.0
+PhamClust_127	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8056603773584906
+PhamClust_85	Maximum of maximum E-values observed for any OG (log10)	-11.165579296318466
+PhamClust_85	Maximum of near-core OG E-values observed (log10):	-11.165579296318466
+PhamClust_85	Maximum distance between near-core OGs:	6
+PhamClust_85	Median CDS count:	72.0
+PhamClust_85	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5863151884278645
+PhamClust_269	Maximum of maximum E-values observed for any OG (log10)	-17.35654732351381
+PhamClust_269	Maximum of near-core OG E-values observed (log10):	-17.35654732351381
+PhamClust_269	Maximum distance between near-core OGs:	3
+PhamClust_269	Median CDS count:	54
+PhamClust_269	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8518518518518519
+PhamClust_199	Maximum of maximum E-values observed for any OG (log10)	-10.055024091587951
+PhamClust_199	Maximum of near-core OG E-values observed (log10):	-14.30539480106643
+PhamClust_199	Maximum distance between near-core OGs:	6
+PhamClust_199	Median CDS count:	80.5
+PhamClust_199	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7205246913580247
+PhamClust_344	Maximum of maximum E-values observed for any OG (log10)	-12.153662887870194
+PhamClust_344	Maximum of near-core OG E-values observed (log10):	-12.153662887870194
+PhamClust_344	Maximum distance between near-core OGs:	3
+PhamClust_344	Median CDS count:	113.5
+PhamClust_344	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8898851110076075
+PhamClust_51	Maximum of maximum E-values observed for any OG (log10)	-7.085656842880559
+PhamClust_51	Maximum of near-core OG E-values observed (log10):	-7.085656842880559
+PhamClust_51	Maximum distance between near-core OGs:	23
+PhamClust_51	Median CDS count:	108.5
+PhamClust_51	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.47030859049207674
+PhamClust_249	Maximum of maximum E-values observed for any OG (log10)	-13.889410289700749
+PhamClust_249	Maximum of near-core OG E-values observed (log10):	-13.889410289700749
+PhamClust_249	Maximum distance between near-core OGs:	6
+PhamClust_249	Median CDS count:	58
+PhamClust_249	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8813559322033898
+PhamClust_162	Maximum of maximum E-values observed for any OG (log10)	-10.260427655549906
+PhamClust_162	Maximum of near-core OG E-values observed (log10):	-14.999999999999998
+PhamClust_162	Maximum distance between near-core OGs:	12
+PhamClust_162	Median CDS count:	88.0
+PhamClust_162	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.378125
+PhamClust_69	Maximum of maximum E-values observed for any OG (log10)	-12.97881070093006
+PhamClust_69	Maximum of near-core OG E-values observed (log10):	-21.65955588515988
+PhamClust_69	Maximum distance between near-core OGs:	2
+PhamClust_69	Median CDS count:	62
+PhamClust_69	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3225806451612903
+PhamClust_77	Maximum of maximum E-values observed for any OG (log10)	-4.326058001365912
+PhamClust_77	Maximum of near-core OG E-values observed (log10):	-7.421360790031927
+PhamClust_77	Maximum distance between near-core OGs:	12
+PhamClust_77	Median CDS count:	101.5
+PhamClust_77	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5588235294117647
+PhamClust_165	Maximum of maximum E-values observed for any OG (log10)	-14.518557371497693
+PhamClust_165	Maximum of near-core OG E-values observed (log10):	-19.108462542327434
+PhamClust_165	Maximum distance between near-core OGs:	8
+PhamClust_165	Median CDS count:	26.0
+PhamClust_165	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5007407407407407
+PhamClust_70	Maximum of maximum E-values observed for any OG (log10)	-7.450996737974212
+PhamClust_70	Maximum of near-core OG E-values observed (log10):	-7.450996737974212
+PhamClust_70	Maximum distance between near-core OGs:	13
+PhamClust_70	Median CDS count:	67.0
+PhamClust_70	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.40172855313700384
+PhamClust_194	Maximum of maximum E-values observed for any OG (log10)	-18.153044674980176
+PhamClust_194	Maximum of near-core OG E-values observed (log10):	-21.123205023799297
+PhamClust_194	Maximum distance between near-core OGs:	93
+PhamClust_194	Median CDS count:	198.5
+PhamClust_194	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.21165270373191164
+PhamClust_395	Maximum of maximum E-values observed for any OG (log10)	-31.725842150736316
+PhamClust_395	Maximum of near-core OG E-values observed (log10):	-31.725842150736316
+PhamClust_395	Maximum distance between near-core OGs:	6
+PhamClust_395	Median CDS count:	90.0
+PhamClust_395	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8003952569169961
+PhamClust_283	Maximum of maximum E-values observed for any OG (log10)	-15.634512015109099
+PhamClust_283	Maximum of near-core OG E-values observed (log10):	-15.634512015109099
+PhamClust_283	Maximum distance between near-core OGs:	72
+PhamClust_283	Median CDS count:	223.0
+PhamClust_283	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.43815832117971154
+PhamClust_377	Maximum of maximum E-values observed for any OG (log10)	-19.812479279163533
+PhamClust_377	Maximum of near-core OG E-values observed (log10):	-19.812479279163533
+PhamClust_377	Maximum distance between near-core OGs:	5
+PhamClust_377	Median CDS count:	60
+PhamClust_377	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8166666666666667
+PhamClust_23	Maximum of maximum E-values observed for any OG (log10)	-3.4685210829577446
+PhamClust_23	Maximum of near-core OG E-values observed (log10):	-3.4685210829577446
+PhamClust_23	Maximum distance between near-core OGs:	44
+PhamClust_23	Median CDS count:	217
+PhamClust_23	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.33488372093023255
+PhamClust_406	Maximum of maximum E-values observed for any OG (log10)	-13.317854923626166
+PhamClust_406	Maximum of near-core OG E-values observed (log10):	-13.317854923626166
+PhamClust_406	Maximum distance between near-core OGs:	2
+PhamClust_406	Median CDS count:	81.5
+PhamClust_406	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9816320385426076
+PhamClust_285	Maximum of maximum E-values observed for any OG (log10)	-17.25336580106242
+PhamClust_285	Maximum of near-core OG E-values observed (log10):	-17.25336580106242
+PhamClust_285	Maximum distance between near-core OGs:	11
+PhamClust_285	Median CDS count:	53.0
+PhamClust_285	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6606125356125356
+PhamClust_262	Maximum of maximum E-values observed for any OG (log10)	-19.0
+PhamClust_262	Maximum of near-core OG E-values observed (log10):	-19.0
+PhamClust_262	Maximum distance between near-core OGs:	6
+PhamClust_262	Median CDS count:	61
+PhamClust_262	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7868852459016393
+PhamClust_117	Maximum of maximum E-values observed for any OG (log10)	-16.078313524516396
+PhamClust_117	Maximum of near-core OG E-values observed (log10):	-16.078313524516396
+PhamClust_117	Maximum distance between near-core OGs:	8
+PhamClust_117	Median CDS count:	59.5
+PhamClust_117	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3281514980214811
+PhamClust_223	Maximum of maximum E-values observed for any OG (log10)	-14.207608310501744
+PhamClust_223	Maximum of near-core OG E-values observed (log10):	-14.207608310501744
+PhamClust_223	Maximum distance between near-core OGs:	9
+PhamClust_223	Median CDS count:	67
+PhamClust_223	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5373134328358209
+PhamClust_164	Maximum of maximum E-values observed for any OG (log10)	-7.097453220686008
+PhamClust_164	Maximum of near-core OG E-values observed (log10):	-7.097453220686008
+PhamClust_164	Maximum distance between near-core OGs:	6
+PhamClust_164	Median CDS count:	50.5
+PhamClust_164	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.33666666666666667
+PhamClust_376	Maximum of maximum E-values observed for any OG (log10)	-32.703334809738465
+PhamClust_376	Maximum of near-core OG E-values observed (log10):	-35.510041520575164
+PhamClust_376	Maximum distance between near-core OGs:	3
+PhamClust_376	Median CDS count:	22
+PhamClust_376	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8181818181818182
+PhamClust_179	Maximum of maximum E-values observed for any OG (log10)	-10.793174123968148
+PhamClust_179	Maximum of near-core OG E-values observed (log10):	-10.793174123968148
+PhamClust_179	Maximum distance between near-core OGs:	23
+PhamClust_179	Median CDS count:	97
+PhamClust_179	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7010309278350515
+PhamClust_424	Maximum of maximum E-values observed for any OG (log10)	-20.681936665037238
+PhamClust_424	Maximum of near-core OG E-values observed (log10):	-20.681936665037238
+PhamClust_424	Maximum distance between near-core OGs:	6
+PhamClust_424	Median CDS count:	157.5
+PhamClust_424	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9015963879706523
+PhamClust_216	Maximum of maximum E-values observed for any OG (log10)	-13.995678626217355
+PhamClust_216	Maximum of near-core OG E-values observed (log10):	-14.98296666070122
+PhamClust_216	Maximum distance between near-core OGs:	19
+PhamClust_216	Median CDS count:	67
+PhamClust_216	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3582089552238806
+PhamClust_437	Maximum of maximum E-values observed for any OG (log10)	-18.714442690992225
+PhamClust_437	Maximum of near-core OG E-values observed (log10):	-18.714442690992225
+PhamClust_437	Maximum distance between near-core OGs:	4
+PhamClust_437	Median CDS count:	360.5
+PhamClust_437	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9570060018467221
+PhamClust_353	Maximum of maximum E-values observed for any OG (log10)	-9.051098239029786
+PhamClust_353	Maximum of near-core OG E-values observed (log10):	-9.144480844332199
+PhamClust_353	Maximum distance between near-core OGs:	7
+PhamClust_353	Median CDS count:	139
+PhamClust_353	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8571428571428571
+PhamClust_201	Maximum of maximum E-values observed for any OG (log10)	-8.139661993429005
+PhamClust_201	Maximum of near-core OG E-values observed (log10):	-14.30539480106643
+PhamClust_201	Maximum distance between near-core OGs:	16
+PhamClust_201	Median CDS count:	93
+PhamClust_201	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.42105263157894735
+PhamClust_107	Maximum of maximum E-values observed for any OG (log10)	-10.86646109162978
+PhamClust_107	Maximum of near-core OG E-values observed (log10):	-11.705533773838406
+PhamClust_107	Maximum distance between near-core OGs:	27
+PhamClust_107	Median CDS count:	73
+PhamClust_107	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.821917808219178
+PhamClust_8	Maximum of maximum E-values observed for any OG (log10)	-3.0008694587126286
+PhamClust_8	Maximum of near-core OG E-values observed (log10):	-3.274905478918531
+PhamClust_8	Maximum distance between near-core OGs:	32
+PhamClust_8	Median CDS count:	266
+PhamClust_8	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4868913857677903
+PhamClust_118	Maximum of maximum E-values observed for any OG (log10)	-4.293282217663241
+PhamClust_118	Maximum of near-core OG E-values observed (log10):	-4.293282217663241
+PhamClust_118	Maximum distance between near-core OGs:	4
+PhamClust_118	Median CDS count:	105.5
+PhamClust_118	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8564102564102565
+PhamClust_221	Maximum of maximum E-values observed for any OG (log10)	-10.508638306165727
+PhamClust_221	Maximum of near-core OG E-values observed (log10):	-10.508638306165727
+PhamClust_221	Maximum distance between near-core OGs:	12
+PhamClust_221	Median CDS count:	159
+PhamClust_221	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5911949685534591
+PhamClust_174	Maximum of maximum E-values observed for any OG (log10)	-5.536107011014092
+PhamClust_174	Maximum of near-core OG E-values observed (log10):	-5.536107011014092
+PhamClust_174	Maximum distance between near-core OGs:	7
+PhamClust_174	Median CDS count:	168.5
+PhamClust_174	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.666655064392621
+PhamClust_61	Maximum of maximum E-values observed for any OG (log10)	-6.458420756053419
+PhamClust_61	Maximum of near-core OG E-values observed (log10):	-8.95467702121334
+PhamClust_61	Maximum distance between near-core OGs:	30
+PhamClust_61	Median CDS count:	74.0
+PhamClust_61	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.35135135135135137
+PhamClust_350	Maximum of maximum E-values observed for any OG (log10)	-12.524328811675568
+PhamClust_350	Maximum of near-core OG E-values observed (log10):	-12.524328811675568
+PhamClust_350	Maximum distance between near-core OGs:	4
+PhamClust_350	Median CDS count:	19.5
+PhamClust_350	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6157894736842104
+PhamClust_385	Maximum of maximum E-values observed for any OG (log10)	-11.67778070526608
+PhamClust_385	Maximum of near-core OG E-values observed (log10):	-11.67778070526608
+PhamClust_385	Maximum distance between near-core OGs:	4
+PhamClust_385	Median CDS count:	55.0
+PhamClust_385	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8
+PhamClust_405	Maximum of maximum E-values observed for any OG (log10)	-22.50307035192678
+PhamClust_405	Maximum of near-core OG E-values observed (log10):	-28.576754126063193
+PhamClust_405	Maximum distance between near-core OGs:	2
+PhamClust_405	Median CDS count:	91.0
+PhamClust_405	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9121980676328503
+PhamClust_230	Maximum of maximum E-values observed for any OG (log10)	-13.27490547891853
+PhamClust_230	Maximum of near-core OG E-values observed (log10):	-13.27490547891853
+PhamClust_230	Maximum distance between near-core OGs:	5
+PhamClust_230	Median CDS count:	92
+PhamClust_230	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9239130434782609
+PhamClust_140	Maximum of maximum E-values observed for any OG (log10)	-6.954677021213342
+PhamClust_140	Maximum of near-core OG E-values observed (log10):	-10.761953896871203
+PhamClust_140	Maximum distance between near-core OGs:	11
+PhamClust_140	Median CDS count:	123
+PhamClust_140	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4838709677419355
+PhamClust_88	Maximum of maximum E-values observed for any OG (log10)	-4.735182176990463
+PhamClust_88	Maximum of near-core OG E-values observed (log10):	-7.4089353929735
+PhamClust_88	Maximum distance between near-core OGs:	83
+PhamClust_88	Median CDS count:	540.0
+PhamClust_88	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.35
+PhamClust_111	Maximum of maximum E-values observed for any OG (log10)	-6.647817481888637
+PhamClust_111	Maximum of near-core OG E-values observed (log10):	-6.647817481888637
+PhamClust_111	Maximum distance between near-core OGs:	7
+PhamClust_111	Median CDS count:	54
+PhamClust_111	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6
+PhamClust_115	Maximum of maximum E-values observed for any OG (log10)	-8.258848401148214
+PhamClust_115	Maximum of near-core OG E-values observed (log10):	-9.657577319177793
+PhamClust_115	Maximum distance between near-core OGs:	10
+PhamClust_115	Median CDS count:	176
+PhamClust_115	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7045454545454546
+PhamClust_122	Maximum of maximum E-values observed for any OG (log10)	-14.860120913598763
+PhamClust_122	Maximum of near-core OG E-values observed (log10):	-17.492144128304165
+PhamClust_122	Maximum distance between near-core OGs:	21
+PhamClust_122	Median CDS count:	71
+PhamClust_122	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3698630136986301
+PhamClust_205	Maximum of maximum E-values observed for any OG (log10)	-10.950781977329818
+PhamClust_205	Maximum of near-core OG E-values observed (log10):	-29.366531544420408
+PhamClust_205	Maximum distance between near-core OGs:	5
+PhamClust_205	Median CDS count:	81
+PhamClust_205	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.16049382716049382
+PhamClust_251	Maximum of maximum E-values observed for any OG (log10)	-18.216096420727265
+PhamClust_251	Maximum of near-core OG E-values observed (log10):	-18.216096420727265
+PhamClust_251	Maximum distance between near-core OGs:	8
+PhamClust_251	Median CDS count:	93
+PhamClust_251	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.65625
+PhamClust_217	Maximum of maximum E-values observed for any OG (log10)	-13.425968732272281
+PhamClust_217	Maximum of near-core OG E-values observed (log10):	-13.425968732272281
+PhamClust_217	Maximum distance between near-core OGs:	9
+PhamClust_217	Median CDS count:	58
+PhamClust_217	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.43103448275862066
+PhamClust_49	Maximum of maximum E-values observed for any OG (log10)	-10.30539480106643
+PhamClust_49	Maximum of near-core OG E-values observed (log10):	-10.30539480106643
+PhamClust_49	Maximum distance between near-core OGs:	18
+PhamClust_49	Median CDS count:	64
+PhamClust_49	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.453125
+PhamClust_224	Maximum of maximum E-values observed for any OG (log10)	-15.10790539730952
+PhamClust_224	Maximum of near-core OG E-values observed (log10):	-15.10790539730952
+PhamClust_224	Maximum distance between near-core OGs:	10
+PhamClust_224	Median CDS count:	37
+PhamClust_224	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6486486486486487
+PhamClust_231	Maximum of maximum E-values observed for any OG (log10)	-12.18309616062434
+PhamClust_231	Maximum of near-core OG E-values observed (log10):	-17.85078088734462
+PhamClust_231	Maximum distance between near-core OGs:	8
+PhamClust_231	Median CDS count:	187
+PhamClust_231	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8839779005524862
+PhamClust_74	Maximum of maximum E-values observed for any OG (log10)	-4.019088062223156
+PhamClust_74	Maximum of near-core OG E-values observed (log10):	-4.019088062223156
+PhamClust_74	Maximum distance between near-core OGs:	11
+PhamClust_74	Median CDS count:	100
+PhamClust_74	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5533980582524272
+PhamClust_150	Maximum of maximum E-values observed for any OG (log10)	-9.069560405233299
+PhamClust_150	Maximum of near-core OG E-values observed (log10):	-12.203425666789569
+PhamClust_150	Maximum distance between near-core OGs:	5
+PhamClust_150	Median CDS count:	62
+PhamClust_150	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7741935483870968
+PhamClust_330	Maximum of maximum E-values observed for any OG (log10)	-18.58502665202918
+PhamClust_330	Maximum of near-core OG E-values observed (log10):	-18.58502665202918
+PhamClust_330	Maximum distance between near-core OGs:	10
+PhamClust_330	Median CDS count:	71.5
+PhamClust_330	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5461222091656874
+PhamClust_345	Maximum of maximum E-values observed for any OG (log10)	-33.95860731484177
+PhamClust_345	Maximum of near-core OG E-values observed (log10):	-34.7851561519523
+PhamClust_345	Maximum distance between near-core OGs:	11
+PhamClust_345	Median CDS count:	74.5
+PhamClust_345	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.524842417500927
+PhamClust_177	Maximum of maximum E-values observed for any OG (log10)	-9.886056647693161
+PhamClust_177	Maximum of near-core OG E-values observed (log10):	-9.886056647693161
+PhamClust_177	Maximum distance between near-core OGs:	8
+PhamClust_177	Median CDS count:	284
+PhamClust_177	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8556338028169014
+PhamClust_68	Maximum of maximum E-values observed for any OG (log10)	-13.503070351926784
+PhamClust_68	Maximum of near-core OG E-values observed (log10):	-13.503070351926784
+PhamClust_68	Maximum distance between near-core OGs:	13
+PhamClust_68	Median CDS count:	72
+PhamClust_68	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5694444444444444
+PhamClust_44	Maximum of maximum E-values observed for any OG (log10)	-3.013228265733755
+PhamClust_44	Maximum of near-core OG E-values observed (log10):	-3.013228265733755
+PhamClust_44	Maximum distance between near-core OGs:	15
+PhamClust_44	Median CDS count:	77.5
+PhamClust_44	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.658004158004158
+PhamClust_247	Maximum of maximum E-values observed for any OG (log10)	-7.785156151952301
+PhamClust_247	Maximum of near-core OG E-values observed (log10):	-7.785156151952301
+PhamClust_247	Maximum distance between near-core OGs:	6
+PhamClust_247	Median CDS count:	142
+PhamClust_247	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8732394366197183
+PhamClust_272	Maximum of maximum E-values observed for any OG (log10)	-18.616184634019568
+PhamClust_272	Maximum of near-core OG E-values observed (log10):	-25.527243550682787
+PhamClust_272	Maximum distance between near-core OGs:	7
+PhamClust_272	Median CDS count:	26
+PhamClust_272	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5384615384615384
+PhamClust_72	Maximum of maximum E-values observed for any OG (log10)	-20.732828271596983
+PhamClust_72	Maximum of near-core OG E-values observed (log10):	-20.732828271596983
+PhamClust_72	Maximum distance between near-core OGs:	40
+PhamClust_72	Median CDS count:	58
+PhamClust_72	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3448275862068966
+PhamClust_5	Maximum of maximum E-values observed for any OG (log10)	-3.7212463990471707
+PhamClust_5	Maximum of near-core OG E-values observed (log10):	-4.681936665037238
+PhamClust_5	Maximum distance between near-core OGs:	11
+PhamClust_5	Median CDS count:	64
+PhamClust_5	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6461538461538462
+PhamClust_73	Maximum of maximum E-values observed for any OG (log10)	-4.412289034981089
+PhamClust_73	Maximum of near-core OG E-values observed (log10):	-7.063486257521107
+PhamClust_73	Maximum distance between near-core OGs:	31
+PhamClust_73	Median CDS count:	244
+PhamClust_73	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4057377049180328
+PhamClust_428	Maximum of maximum E-values observed for any OG (log10)	-17.31158017799729
+PhamClust_428	Maximum of near-core OG E-values observed (log10):	-17.31158017799729
+PhamClust_428	Maximum distance between near-core OGs:	5
+PhamClust_428	Median CDS count:	329.0
+PhamClust_428	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8893867575174048
+PhamClust_46	Maximum of maximum E-values observed for any OG (log10)	-8.309803919971486
+PhamClust_46	Maximum of near-core OG E-values observed (log10):	-8.769551078621726
+PhamClust_46	Maximum distance between near-core OGs:	11
+PhamClust_46	Median CDS count:	72.5
+PhamClust_46	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6413622526636225
+PhamClust_396	Maximum of maximum E-values observed for any OG (log10)	-14.850780887344618
+PhamClust_396	Maximum of near-core OG E-values observed (log10):	-14.850780887344618
+PhamClust_396	Maximum distance between near-core OGs:	4
+PhamClust_396	Median CDS count:	57.5
+PhamClust_396	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9218088324258924
+PhamClust_400	Maximum of maximum E-values observed for any OG (log10)	-10.91721462968355
+PhamClust_400	Maximum of near-core OG E-values observed (log10):	-10.91721462968355
+PhamClust_400	Maximum distance between near-core OGs:	4
+PhamClust_400	Median CDS count:	67.5
+PhamClust_400	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8456043956043956
+PhamClust_261	Maximum of maximum E-values observed for any OG (log10)	-11.779891911959945
+PhamClust_261	Maximum of near-core OG E-values observed (log10):	-11.779891911959945
+PhamClust_261	Maximum distance between near-core OGs:	7
+PhamClust_261	Median CDS count:	414
+PhamClust_261	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.717391304347826
+PhamClust_364	Maximum of maximum E-values observed for any OG (log10)	-12.446116973356125
+PhamClust_364	Maximum of near-core OG E-values observed (log10):	-12.446116973356125
+PhamClust_364	Maximum distance between near-core OGs:	5
+PhamClust_364	Median CDS count:	91
+PhamClust_364	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8555555555555555
+PhamClust_60	Maximum of maximum E-values observed for any OG (log10)	-6.009217308196861
+PhamClust_60	Maximum of near-core OG E-values observed (log10):	-6.832682665251823
+PhamClust_60	Maximum distance between near-core OGs:	17
+PhamClust_60	Median CDS count:	263
+PhamClust_60	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5057034220532319
+PhamClust_382	Maximum of maximum E-values observed for any OG (log10)	-23.421360790031926
+PhamClust_382	Maximum of near-core OG E-values observed (log10):	-39.53910215724345
+PhamClust_382	Maximum distance between near-core OGs:	4
+PhamClust_382	Median CDS count:	59
+PhamClust_382	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.864406779661017
+PhamClust_55	Maximum of maximum E-values observed for any OG (log10)	-3.739928612014925
+PhamClust_55	Maximum of near-core OG E-values observed (log10):	-3.739928612014925
+PhamClust_55	Maximum distance between near-core OGs:	9
+PhamClust_55	Median CDS count:	62.5
+PhamClust_55	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6172161172161172
+PhamClust_412	Maximum of maximum E-values observed for any OG (log10)	-34.61083391563546
+PhamClust_412	Maximum of near-core OG E-values observed (log10):	-34.61083391563546
+PhamClust_412	Maximum distance between near-core OGs:	2
+PhamClust_412	Median CDS count:	267.0
+PhamClust_412	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9962686567164178
+PhamClust_263	Maximum of maximum E-values observed for any OG (log10)	-12.876148359032912
+PhamClust_263	Maximum of near-core OG E-values observed (log10):	-12.876148359032912
+PhamClust_263	Maximum distance between near-core OGs:	6
+PhamClust_263	Median CDS count:	74
+PhamClust_263	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7972972972972973
+PhamClust_352	Maximum of maximum E-values observed for any OG (log10)	-8.537602002101043
+PhamClust_352	Maximum of near-core OG E-values observed (log10):	-8.537602002101043
+PhamClust_352	Maximum distance between near-core OGs:	5
+PhamClust_352	Median CDS count:	42
+PhamClust_352	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9285714285714286
+PhamClust_52	Maximum of maximum E-values observed for any OG (log10)	-4.809668301829708
+PhamClust_52	Maximum of near-core OG E-values observed (log10):	-4.809668301829708
+PhamClust_52	Maximum distance between near-core OGs:	5
+PhamClust_52	Median CDS count:	68.5
+PhamClust_52	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7536231884057971
+PhamClust_314	Maximum of maximum E-values observed for any OG (log10)	-14.701146923590292
+PhamClust_314	Maximum of near-core OG E-values observed (log10):	-14.701146923590292
+PhamClust_314	Maximum distance between near-core OGs:	3
+PhamClust_314	Median CDS count:	63.5
+PhamClust_314	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.858560794044665
+PhamClust_229	Maximum of maximum E-values observed for any OG (log10)	-9.085656842880558
+PhamClust_229	Maximum of near-core OG E-values observed (log10):	-9.649751981665835
+PhamClust_229	Maximum distance between near-core OGs:	34
+PhamClust_229	Median CDS count:	160
+PhamClust_229	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3375
+PhamClust_351	Maximum of maximum E-values observed for any OG (log10)	-17.017276612331454
+PhamClust_351	Maximum of near-core OG E-values observed (log10):	-20.25649023527157
+PhamClust_351	Maximum distance between near-core OGs:	11
+PhamClust_351	Median CDS count:	89.0
+PhamClust_351	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3764044943820225
+PhamClust_270	Maximum of maximum E-values observed for any OG (log10)	-20.28988263488818
+PhamClust_270	Maximum of near-core OG E-values observed (log10):	-45.73048705578208
+PhamClust_270	Maximum distance between near-core OGs:	2
+PhamClust_270	Median CDS count:	28
+PhamClust_270	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.32142857142857145
+PhamClust_370	Maximum of maximum E-values observed for any OG (log10)	-17.37571790416433
+PhamClust_370	Maximum of near-core OG E-values observed (log10):	-17.37571790416433
+PhamClust_370	Maximum distance between near-core OGs:	3
+PhamClust_370	Median CDS count:	55
+PhamClust_370	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8545454545454545
+PhamClust_84	Maximum of maximum E-values observed for any OG (log10)	-7.222573177610688
+PhamClust_84	Maximum of near-core OG E-values observed (log10):	-7.222573177610688
+PhamClust_84	Maximum distance between near-core OGs:	5
+PhamClust_84	Median CDS count:	26
+PhamClust_84	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.48
+PhamClust_155	Maximum of maximum E-values observed for any OG (log10)	-6.777283528852416
+PhamClust_155	Maximum of near-core OG E-values observed (log10):	-6.777283528852416
+PhamClust_155	Maximum distance between near-core OGs:	8
+PhamClust_155	Median CDS count:	329.0
+PhamClust_155	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.778144257508985
+PhamClust_403	Maximum of maximum E-values observed for any OG (log10)	-10.863279432843592
+PhamClust_403	Maximum of near-core OG E-values observed (log10):	-10.863279432843592
+PhamClust_403	Maximum distance between near-core OGs:	5
+PhamClust_403	Median CDS count:	183.0
+PhamClust_403	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9399187768752986
+PhamClust_172	Maximum of maximum E-values observed for any OG (log10)	-10.991399828238082
+PhamClust_172	Maximum of near-core OG E-values observed (log10):	-10.991399828238082
+PhamClust_172	Maximum distance between near-core OGs:	18
+PhamClust_172	Median CDS count:	95.5
+PhamClust_172	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4574468085106383
+PhamClust_399	Maximum of maximum E-values observed for any OG (log10)	-23.307153080722767
+PhamClust_399	Maximum of near-core OG E-values observed (log10):	-23.307153080722767
+PhamClust_399	Maximum distance between near-core OGs:	4
+PhamClust_399	Median CDS count:	49.0
+PhamClust_399	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9183673469387755
+PhamClust_41	Maximum of maximum E-values observed for any OG (log10)	-7.11013827874181
+PhamClust_41	Maximum of near-core OG E-values observed (log10):	-7.11013827874181
+PhamClust_41	Maximum distance between near-core OGs:	14
+PhamClust_41	Median CDS count:	53
+PhamClust_41	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6111111111111112
+PhamClust_355	Maximum of maximum E-values observed for any OG (log10)	-15.876148359032914
+PhamClust_355	Maximum of near-core OG E-values observed (log10):	-15.876148359032914
+PhamClust_355	Maximum distance between near-core OGs:	3
+PhamClust_355	Median CDS count:	171.5
+PhamClust_355	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9125178534992859
+PhamClust_92	Maximum of maximum E-values observed for any OG (log10)	-5.600326278518962
+PhamClust_92	Maximum of near-core OG E-values observed (log10):	-5.600326278518962
+PhamClust_92	Maximum distance between near-core OGs:	5
+PhamClust_92	Median CDS count:	167.5
+PhamClust_92	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9289940828402367
+PhamClust_232	Maximum of maximum E-values observed for any OG (log10)	-6.428291168191311
+PhamClust_232	Maximum of near-core OG E-values observed (log10):	-6.428291168191311
+PhamClust_232	Maximum distance between near-core OGs:	21
+PhamClust_232	Median CDS count:	259
+PhamClust_232	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6038461538461538
+PhamClust_2	Maximum of maximum E-values observed for any OG (log10)	-3.0362121726544444
+PhamClust_2	Maximum of near-core OG E-values observed (log10):	-3.636388020107855
+PhamClust_2	Maximum distance between near-core OGs:	11
+PhamClust_2	Median CDS count:	48.0
+PhamClust_2	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5833333333333334
+PhamClust_242	Maximum of maximum E-values observed for any OG (log10)	-13.665546248849068
+PhamClust_242	Maximum of near-core OG E-values observed (log10):	-13.665546248849068
+PhamClust_242	Maximum distance between near-core OGs:	5
+PhamClust_242	Median CDS count:	82
+PhamClust_242	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9156626506024096
+PhamClust_383	Maximum of maximum E-values observed for any OG (log10)	-25.0
+PhamClust_383	Maximum of near-core OG E-values observed (log10):	-25.0
+PhamClust_383	Maximum distance between near-core OGs:	6
+PhamClust_383	Median CDS count:	40.5
+PhamClust_383	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8406593406593407
+PhamClust_184	Maximum of maximum E-values observed for any OG (log10)	-11.097453220686008
+PhamClust_184	Maximum of near-core OG E-values observed (log10):	-11.333482019445118
+PhamClust_184	Maximum distance between near-core OGs:	10
+PhamClust_184	Median CDS count:	101
+PhamClust_184	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6601941747572816
+PhamClust_275	Maximum of maximum E-values observed for any OG (log10)	-30.02227639471115
+PhamClust_275	Maximum of near-core OG E-values observed (log10):	-30.88605664769316
+PhamClust_275	Maximum distance between near-core OGs:	17
+PhamClust_275	Median CDS count:	57
+PhamClust_275	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6491228070175439
+PhamClust_204	Maximum of maximum E-values observed for any OG (log10)	-12.958607314841773
+PhamClust_204	Maximum of near-core OG E-values observed (log10):	-12.958607314841773
+PhamClust_204	Maximum distance between near-core OGs:	12
+PhamClust_204	Median CDS count:	60
+PhamClust_204	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4166666666666667
+PhamClust_244	Maximum of maximum E-values observed for any OG (log10)	-16.052076380168273
+PhamClust_244	Maximum of near-core OG E-values observed (log10):	-16.052076380168273
+PhamClust_244	Maximum distance between near-core OGs:	9
+PhamClust_244	Median CDS count:	63
+PhamClust_244	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.796875
+PhamClust_50	Maximum of maximum E-values observed for any OG (log10)	-5.210419287835574
+PhamClust_50	Maximum of near-core OG E-values observed (log10):	-10.815308569182399
+PhamClust_50	Maximum distance between near-core OGs:	18
+PhamClust_50	Median CDS count:	55.0
+PhamClust_50	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3751196172248804
+PhamClust_89	Maximum of maximum E-values observed for any OG (log10)	-8.60205999132796
+PhamClust_89	Maximum of near-core OG E-values observed (log10):	-9.826813731587725
+PhamClust_89	Maximum distance between near-core OGs:	14
+PhamClust_89	Median CDS count:	102
+PhamClust_89	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4854368932038835
+PhamClust_241	Maximum of maximum E-values observed for any OG (log10)	-22.143875555757695
+PhamClust_241	Maximum of near-core OG E-values observed (log10):	-22.143875555757695
+PhamClust_241	Maximum distance between near-core OGs:	4
+PhamClust_241	Median CDS count:	56.0
+PhamClust_241	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8928571428571429
+PhamClust_13	Maximum of maximum E-values observed for any OG (log10)	-3.000434511774017
+PhamClust_13	Maximum of near-core OG E-values observed (log10):	-3.000434511774017
+PhamClust_13	Maximum distance between near-core OGs:	25
+PhamClust_13	Median CDS count:	92
+PhamClust_13	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4791666666666667
+PhamClust_439	Maximum of maximum E-values observed for any OG (log10)	-31.749579997691107
+PhamClust_439	Maximum of near-core OG E-values observed (log10):	-31.749579997691107
+PhamClust_439	Maximum distance between near-core OGs:	4
+PhamClust_439	Median CDS count:	82.5
+PhamClust_439	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9228731233441272
+PhamClust_309	Maximum of maximum E-values observed for any OG (log10)	-14.140261433802852
+PhamClust_309	Maximum of near-core OG E-values observed (log10):	-14.140261433802852
+PhamClust_309	Maximum distance between near-core OGs:	7
+PhamClust_309	Median CDS count:	55.5
+PhamClust_309	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6138581652569941
+PhamClust_136	Maximum of maximum E-values observed for any OG (log10)	-3.823908740944318
+PhamClust_136	Maximum of near-core OG E-values observed (log10):	-3.823908740944318
+PhamClust_136	Maximum distance between near-core OGs:	15
+PhamClust_136	Median CDS count:	90.0
+PhamClust_136	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.42269187986651835
+PhamClust_160	Maximum of maximum E-values observed for any OG (log10)	-14.642065152999544
+PhamClust_160	Maximum of near-core OG E-values observed (log10):	-20.389339836910118
+PhamClust_160	Maximum distance between near-core OGs:	16
+PhamClust_160	Median CDS count:	116.0
+PhamClust_160	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5005952380952381
+PhamClust_304	Maximum of maximum E-values observed for any OG (log10)	-22.619788758288394
+PhamClust_304	Maximum of near-core OG E-values observed (log10):	-27.13846558914096
+PhamClust_304	Maximum distance between near-core OGs:	16
+PhamClust_304	Median CDS count:	57.5
+PhamClust_304	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4899573950091296
+PhamClust_32	Maximum of maximum E-values observed for any OG (log10)	-3.6615435063953945
+PhamClust_32	Maximum of near-core OG E-values observed (log10):	-3.6615435063953945
+PhamClust_32	Maximum distance between near-core OGs:	9
+PhamClust_32	Median CDS count:	66.5
+PhamClust_32	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6470588235294118
+PhamClust_389	Maximum of maximum E-values observed for any OG (log10)	-28.614393726401683
+PhamClust_389	Maximum of near-core OG E-values observed (log10):	-28.614393726401683
+PhamClust_389	Maximum distance between near-core OGs:	4
+PhamClust_389	Median CDS count:	151.0
+PhamClust_389	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9271523178807947
+PhamClust_436	Maximum of maximum E-values observed for any OG (log10)	-13.114073660198567
+PhamClust_436	Maximum of near-core OG E-values observed (log10):	-13.114073660198567
+PhamClust_436	Maximum distance between near-core OGs:	7
+PhamClust_436	Median CDS count:	86.5
+PhamClust_436	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.937199036918138
+PhamClust_237	Maximum of maximum E-values observed for any OG (log10)	-13.75448733218585
+PhamClust_237	Maximum of near-core OG E-values observed (log10):	-23.655607726314887
+PhamClust_237	Maximum distance between near-core OGs:	5
+PhamClust_237	Median CDS count:	49.0
+PhamClust_237	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.82
+PhamClust_408	Maximum of maximum E-values observed for any OG (log10)	-22.542118103266006
+PhamClust_408	Maximum of near-core OG E-values observed (log10):	-22.542118103266006
+PhamClust_408	Maximum distance between near-core OGs:	5
+PhamClust_408	Median CDS count:	106.0
+PhamClust_408	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9529149977748108
+PhamClust_11	Maximum of maximum E-values observed for any OG (log10)	-3.00436480540245
+PhamClust_11	Maximum of near-core OG E-values observed (log10):	-3.00436480540245
+PhamClust_11	Maximum distance between near-core OGs:	12
+PhamClust_11	Median CDS count:	74
+PhamClust_11	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6712328767123288
+PhamClust_91	Maximum of maximum E-values observed for any OG (log10)	-5.671620396561262
+PhamClust_91	Maximum of near-core OG E-values observed (log10):	-5.671620396561262
+PhamClust_91	Maximum distance between near-core OGs:	15
+PhamClust_91	Median CDS count:	60.5
+PhamClust_91	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5491803278688525
+PhamClust_80	Maximum of maximum E-values observed for any OG (log10)	-4.0301183562535
+PhamClust_80	Maximum of near-core OG E-values observed (log10):	-4.0301183562535
+PhamClust_80	Maximum distance between near-core OGs:	17
+PhamClust_80	Median CDS count:	70
+PhamClust_80	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5797101449275363
+PhamClust_234	Maximum of maximum E-values observed for any OG (log10)	-25.812479279163533
+PhamClust_234	Maximum of near-core OG E-values observed (log10):	-25.812479279163533
+PhamClust_234	Maximum distance between near-core OGs:	8
+PhamClust_234	Median CDS count:	61
+PhamClust_234	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+PhamClust_422	Maximum of maximum E-values observed for any OG (log10)	-18.02918838912748
+PhamClust_422	Maximum of near-core OG E-values observed (log10):	-18.02918838912748
+PhamClust_422	Maximum distance between near-core OGs:	4
+PhamClust_422	Median CDS count:	48.5
+PhamClust_422	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8889599317988065
+PhamClust_21	Maximum of maximum E-values observed for any OG (log10)	-3.253365801062421
+PhamClust_21	Maximum of near-core OG E-values observed (log10):	-3.253365801062421
+PhamClust_21	Maximum distance between near-core OGs:	16
+PhamClust_21	Median CDS count:	95
+PhamClust_21	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.44329896907216493
+PhamClust_227	Maximum of maximum E-values observed for any OG (log10)	-11.769551078621726
+PhamClust_227	Maximum of near-core OG E-values observed (log10):	-13.669586226650809
+PhamClust_227	Maximum distance between near-core OGs:	11
+PhamClust_227	Median CDS count:	93
+PhamClust_227	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.45161290322580644
+PhamClust_271	Maximum of maximum E-values observed for any OG (log10)	-13.107348966122698
+PhamClust_271	Maximum of near-core OG E-values observed (log10):	-13.107348966122698
+PhamClust_271	Maximum distance between near-core OGs:	5
+PhamClust_271	Median CDS count:	49
+PhamClust_271	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7755102040816326
+PhamClust_441	Maximum of maximum E-values observed for any OG (log10)	-20.1765257708297
+PhamClust_441	Maximum of near-core OG E-values observed (log10):	-38.80134291304557
+PhamClust_441	Maximum distance between near-core OGs:	5
+PhamClust_441	Median CDS count:	19.5
+PhamClust_441	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7184210526315788
+PhamClust_286	Maximum of maximum E-values observed for any OG (log10)	-28.19382002601611
+PhamClust_286	Maximum of near-core OG E-values observed (log10):	-28.19382002601611
+PhamClust_286	Maximum distance between near-core OGs:	10
+PhamClust_286	Median CDS count:	55.5
+PhamClust_286	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6667207792207792
+PhamClust_273	Maximum of maximum E-values observed for any OG (log10)	-12.581698708680253
+PhamClust_273	Maximum of near-core OG E-values observed (log10):	-12.581698708680253
+PhamClust_273	Maximum distance between near-core OGs:	15
+PhamClust_273	Median CDS count:	129
+PhamClust_273	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4806201550387597
+PhamClust_248	Maximum of maximum E-values observed for any OG (log10)	-9.057991946977685
+PhamClust_248	Maximum of near-core OG E-values observed (log10):	-9.057991946977685
+PhamClust_248	Maximum distance between near-core OGs:	7
+PhamClust_248	Median CDS count:	269
+PhamClust_248	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9375
+PhamClust_119	Maximum of maximum E-values observed for any OG (log10)	-10.735182176990463
+PhamClust_119	Maximum of near-core OG E-values observed (log10):	-10.735182176990463
+PhamClust_119	Maximum distance between near-core OGs:	13
+PhamClust_119	Median CDS count:	116
+PhamClust_119	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.46551724137931033
+PhamClust_109	Maximum of maximum E-values observed for any OG (log10)	-19.021819483062586
+PhamClust_109	Maximum of near-core OG E-values observed (log10):	-19.021819483062586
+PhamClust_109	Maximum distance between near-core OGs:	12
+PhamClust_109	Median CDS count:	45
+PhamClust_109	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6666666666666666
+PhamClust_306	Maximum of maximum E-values observed for any OG (log10)	-12.100726812682396
+PhamClust_306	Maximum of near-core OG E-values observed (log10):	-12.100726812682396
+PhamClust_306	Maximum distance between near-core OGs:	9
+PhamClust_306	Median CDS count:	105.5
+PhamClust_306	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4657207207207207
+PhamClust_235	Maximum of maximum E-values observed for any OG (log10)	-9.52870828894106
+PhamClust_235	Maximum of near-core OG E-values observed (log10):	-9.600326278518962
+PhamClust_235	Maximum distance between near-core OGs:	12
+PhamClust_235	Median CDS count:	82
+PhamClust_235	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7195121951219512
+PhamClust_18	Maximum of maximum E-values observed for any OG (log10)	-5.357535479757878
+PhamClust_18	Maximum of near-core OG E-values observed (log10):	-6.293282217663241
+PhamClust_18	Maximum distance between near-core OGs:	9
+PhamClust_18	Median CDS count:	76.0
+PhamClust_18	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5909244264507423
+PhamClust_416	Maximum of maximum E-values observed for any OG (log10)	-20.82390874094432
+PhamClust_416	Maximum of near-core OG E-values observed (log10):	-20.82390874094432
+PhamClust_416	Maximum distance between near-core OGs:	3
+PhamClust_416	Median CDS count:	294.0
+PhamClust_416	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.976235653461681
+PhamClust_365	Maximum of maximum E-values observed for any OG (log10)	-17.974694134735227
+PhamClust_365	Maximum of near-core OG E-values observed (log10):	-17.974694134735227
+PhamClust_365	Maximum distance between near-core OGs:	4
+PhamClust_365	Median CDS count:	26.0
+PhamClust_365	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7307692307692307
+PhamClust_35	Maximum of maximum E-values observed for any OG (log10)	-4.246416941107093
+PhamClust_35	Maximum of near-core OG E-values observed (log10):	-4.246416941107093
+PhamClust_35	Maximum distance between near-core OGs:	23
+PhamClust_35	Median CDS count:	205.5
+PhamClust_35	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5969631812910707
+PhamClust_411	Maximum of maximum E-values observed for any OG (log10)	-23.309803919971483
+PhamClust_411	Maximum of near-core OG E-values observed (log10):	-23.309803919971483
+PhamClust_411	Maximum distance between near-core OGs:	5
+PhamClust_411	Median CDS count:	83.0
+PhamClust_411	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8800290486564997
+PhamClust_4	Maximum of maximum E-values observed for any OG (log10)	-4.259637310505756
+PhamClust_4	Maximum of near-core OG E-values observed (log10):	-5.739928612014925
+PhamClust_4	Maximum distance between near-core OGs:	10
+PhamClust_4	Median CDS count:	54.0
+PhamClust_4	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7037037037037037
+PhamClust_368	Maximum of maximum E-values observed for any OG (log10)	-18.671620396561263
+PhamClust_368	Maximum of near-core OG E-values observed (log10):	-18.671620396561263
+PhamClust_368	Maximum distance between near-core OGs:	2
+PhamClust_368	Median CDS count:	93.5
+PhamClust_368	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9198123999084877
+PhamClust_110	Maximum of maximum E-values observed for any OG (log10)	-5.384049948343598
+PhamClust_110	Maximum of near-core OG E-values observed (log10):	-5.384049948343598
+PhamClust_110	Maximum distance between near-core OGs:	17
+PhamClust_110	Median CDS count:	103
+PhamClust_110	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.55
+PhamClust_253	Maximum of maximum E-values observed for any OG (log10)	-12.037157318798757
+PhamClust_253	Maximum of near-core OG E-values observed (log10):	-12.037157318798757
+PhamClust_253	Maximum distance between near-core OGs:	7
+PhamClust_253	Median CDS count:	66
+PhamClust_253	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.765625
+PhamClust_371	Maximum of maximum E-values observed for any OG (log10)	-22.50723961097316
+PhamClust_371	Maximum of near-core OG E-values observed (log10):	-44.829738284605035
+PhamClust_371	Maximum distance between near-core OGs:	3
+PhamClust_371	Median CDS count:	51
+PhamClust_371	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9411764705882353
+PhamClust_197	Maximum of maximum E-values observed for any OG (log10)	-13.229147988357854
+PhamClust_197	Maximum of near-core OG E-values observed (log10):	-13.229147988357854
+PhamClust_197	Maximum distance between near-core OGs:	8
+PhamClust_197	Median CDS count:	55.0
+PhamClust_197	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6

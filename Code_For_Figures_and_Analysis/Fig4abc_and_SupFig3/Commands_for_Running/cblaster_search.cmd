@@ -1,0 +1,1 @@
+\time -v cblaster search -cp 20 -ds very -m local -db cblaster_makedb.dmnd -qf fai_Results/Processing_Queries/Reference_Query.gbk -p cblaster_heatmap_plot.html -o cblaster_results.txt -per 25 -me 1e-10 -mc 0.0 -mi 0.0 -md 0 -g 4620 -s cblaster_search_session.json --intermediate_genes

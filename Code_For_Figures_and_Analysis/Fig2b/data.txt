@@ -1,0 +1,57 @@
+HG	SC	Conservation	MedianLength	Order	Direction	Annotation
+OG_28	True	9	399	1	"+"	NA
+OG_27	True	9	516	2	"+"	putative terminase small subunit
+OG_26	True	9	165	3	"+"	NA
+OG_25	True	9	162	4	"+"	NA
+OG_23	True	9	243	5	"+"	NA
+OG_22	True	9	204	6	"+"	NA
+OG_21	True	9	1410	7	"+"	putative terminase large subunit
+OG_20	True	9	474	8	"+"	NA
+OG_19	True	9	153	9	"+"	NA
+OG_18	True	9	297	10	"+"	NA
+OG_17	True	9	693	11	"+"	NA
+OG_16	True	9	516	12	"+"	methyltransferase
+OG_15	True	9	2208	13	"+"	putative portal protein
+OG_14	True	9	264	14	"+"	NA
+OG_12	True	9	981	15	"+"	NA
+OG_11	True	9	963	16	"+"	putative capsid protein
+OG_10	True	9	318	17	"+"	NA
+OG_9	True	9	660	18	"+"	NA
+OG_8	True	9	624	19	"+"	NA
+OG_7	True	9	399	20	"+"	NA
+OG_6	True	9	762	21	"+"	NA
+OG_5	True	9	1890	22	"+"	NA
+OG_4	True	9	216	23	"+"	NA
+OG_3	True	9	741	25	"+"	NA
+OG_43	True	9	240	27	"+"	NA
+OG_42	True	9	495	28	"+"	NA
+OG_41	True	9	444	29	"+"	putative lysozyme
+OG_40	True	9	657	30	"+"	NA
+OG_39	True	9	1479	31	"+"	NA
+OG_35	True	9	369	32	"+"	NA
+OG_24	True	9	1257	33	"+"	NA
+OG_13	True	9	978	34	"+"	NA
+OG_30	True	9	2175	52	"+"	putative regulatory associated protein
+OG_29	True	9	345	53	"+"	NA
+OG_2	True	8	450	35	"+"	NA
+OG_38	True	8	171	43	"-"	NA
+OG_1	True	7	1539	36	"+"	NA
+OG_37	True	7	276	45	"-"	NA
+OG_36	True	7	270	46	"-"	NA
+OG_44	True	7	2088	37	"+"	NA
+OG_47	True	6	393	42	"-"	NA
+OG_46	True	5	189	40	"-"	NA
+OG_34	True	5	567	48	"-"	NA
+OG_33	True	5	1230	49	"+"	putative helicase-like protein
+OG_32	True	5	543	50	"+"	NA
+OG_31	True	5	1011	51	"+"	NA
+OG_49	True	3	162	24	"+"	NA
+OG_48	True	3	288	26	"+"	NA
+OG_45	True	3	1236	39	"+"	NA
+OG_51	True	2	1551	38	"+"	NA
+OG_50	True	2	174	41	"-"	NA
+OG_52	True	2	960	44	"-"	NA
+OG_53	True	1	204	47	"+"	NA
+OG_X1	True	0	0	54	NA	NA
+OG_X2	True	0	0	55	NA	NA
+OG_X3	True	0	0	56	NA	NA

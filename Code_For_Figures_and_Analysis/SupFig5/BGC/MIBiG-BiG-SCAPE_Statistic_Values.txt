@@ -1,0 +1,1251 @@
+Cluster_ID	Statistic	Value
+GCF_1938	Maximum of maximum E-values observed for any OG	3.2e-47
+GCF_1938	Maximum of near-core OG E-values observed:	1.07e-57
+GCF_1938	Maximum distance between near-core OGs:	1
+GCF_1938	Median CDS count:	31.5
+GCF_1938	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8891129032258065
+GCF_1592	Maximum of maximum E-values observed for any OG	4.67e-54
+GCF_1592	Maximum of near-core OG E-values observed:	4.67e-54
+GCF_1592	Maximum distance between near-core OGs:	1
+GCF_1592	Median CDS count:	15.0
+GCF_1592	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_421	Maximum of maximum E-values observed for any OG	2.35e-206
+GCF_421	Maximum of near-core OG E-values observed:	0.0
+GCF_421	Maximum distance between near-core OGs:	1
+GCF_421	Median CDS count:	4.5
+GCF_421	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9
+GCF_1859	Maximum of maximum E-values observed for any OG	2.08e-41
+GCF_1859	Maximum of near-core OG E-values observed:	2.08e-41
+GCF_1859	Maximum distance between near-core OGs:	1
+GCF_1859	Median CDS count:	14.0
+GCF_1859	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9333333333333333
+GCF_1841	Maximum of maximum E-values observed for any OG	1.12e-35
+GCF_1841	Maximum of near-core OG E-values observed:	1.12e-35
+GCF_1841	Maximum distance between near-core OGs:	4
+GCF_1841	Median CDS count:	28.5
+GCF_1841	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8774630541871922
+GCF_252	Maximum of maximum E-values observed for any OG	8.64e-12
+GCF_252	Maximum of near-core OG E-values observed:	8.64e-12
+GCF_252	Maximum distance between near-core OGs:	4
+GCF_252	Median CDS count:	38
+GCF_252	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.21052631578947367
+GCF_671	Maximum of maximum E-values observed for any OG	4.21e-49
+GCF_671	Maximum of near-core OG E-values observed:	8.08e-101
+GCF_671	Maximum distance between near-core OGs:	3
+GCF_671	Median CDS count:	26
+GCF_671	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6538461538461539
+GCF_2126	Maximum of maximum E-values observed for any OG	1.07e-32
+GCF_2126	Maximum of near-core OG E-values observed:	1.13e-48
+GCF_2126	Maximum distance between near-core OGs:	3
+GCF_2126	Median CDS count:	32.0
+GCF_2126	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8421052631578947
+GCF_1643	Maximum of maximum E-values observed for any OG	3.93e-121
+GCF_1643	Maximum of near-core OG E-values observed:	3.93e-121
+GCF_1643	Maximum distance between near-core OGs:	2
+GCF_1643	Median CDS count:	15.0
+GCF_1643	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6818181818181819
+GCF_1878	Maximum of maximum E-values observed for any OG	5.75e-88
+GCF_1878	Maximum of near-core OG E-values observed:	5.75e-88
+GCF_1878	Maximum distance between near-core OGs:	1
+GCF_1878	Median CDS count:	4.0
+GCF_1878	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_48	Maximum of maximum E-values observed for any OG	1.12e-53
+GCF_48	Maximum of near-core OG E-values observed:	1.45e-73
+GCF_48	Maximum distance between near-core OGs:	16
+GCF_48	Median CDS count:	27
+GCF_48	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4074074074074074
+GCF_1344	Maximum of maximum E-values observed for any OG	1.57e-40
+GCF_1344	Maximum of near-core OG E-values observed:	1.89e-55
+GCF_1344	Maximum distance between near-core OGs:	1
+GCF_1344	Median CDS count:	51.5
+GCF_1344	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7686567164179104
+GCF_2328	Maximum of maximum E-values observed for any OG	1.26e-42
+GCF_2328	Maximum of near-core OG E-values observed:	1.26e-42
+GCF_2328	Maximum distance between near-core OGs:	1
+GCF_2328	Median CDS count:	10.5
+GCF_2328	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9545454545454546
+GCF_972	Maximum of maximum E-values observed for any OG	1.39e-32
+GCF_972	Maximum of near-core OG E-values observed:	3.47e-51
+GCF_972	Maximum distance between near-core OGs:	3
+GCF_972	Median CDS count:	23.0
+GCF_972	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9130434782608695
+GCF_1879	Maximum of maximum E-values observed for any OG	5.51e-27
+GCF_1879	Maximum of near-core OG E-values observed:	5.51e-27
+GCF_1879	Maximum distance between near-core OGs:	1
+GCF_1879	Median CDS count:	4
+GCF_1879	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.75
+GCF_878	Maximum of maximum E-values observed for any OG	1.77e-36
+GCF_878	Maximum of near-core OG E-values observed:	6.96e-90
+GCF_878	Maximum distance between near-core OGs:	3
+GCF_878	Median CDS count:	20.5
+GCF_878	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7427536231884058
+GCF_474	Maximum of maximum E-values observed for any OG	3.28e-37
+GCF_474	Maximum of near-core OG E-values observed:	3.28e-37
+GCF_474	Maximum distance between near-core OGs:	2
+GCF_474	Median CDS count:	9.5
+GCF_474	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7556818181818181
+GCF_2088	Maximum of maximum E-values observed for any OG	1.15e-126
+GCF_2088	Maximum of near-core OG E-values observed:	1.15e-126
+GCF_2088	Maximum distance between near-core OGs:	1
+GCF_2088	Median CDS count:	5.0
+GCF_2088	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_465	Maximum of maximum E-values observed for any OG	2.16e-33
+GCF_465	Maximum of near-core OG E-values observed:	2.16e-33
+GCF_465	Maximum distance between near-core OGs:	1
+GCF_465	Median CDS count:	17.5
+GCF_465	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8166666666666667
+GCF_1233	Maximum of maximum E-values observed for any OG	2.48e-41
+GCF_1233	Maximum of near-core OG E-values observed:	1.37e-44
+GCF_1233	Maximum distance between near-core OGs:	8
+GCF_1233	Median CDS count:	18.0
+GCF_1233	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.73125
+GCF_906	Maximum of maximum E-values observed for any OG	3.87e-20
+GCF_906	Maximum of near-core OG E-values observed:	8.09e-65
+GCF_906	Maximum distance between near-core OGs:	2
+GCF_906	Median CDS count:	36.5
+GCF_906	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8346036585365854
+GCF_528	Maximum of maximum E-values observed for any OG	8.06e-08
+GCF_528	Maximum of near-core OG E-values observed:	8.06e-08
+GCF_528	Maximum distance between near-core OGs:	1
+GCF_528	Median CDS count:	9.0
+GCF_528	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_683	Maximum of maximum E-values observed for any OG	8.46e-109
+GCF_683	Maximum of near-core OG E-values observed:	8.46e-109
+GCF_683	Maximum distance between near-core OGs:	1
+GCF_683	Median CDS count:	16.0
+GCF_683	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_2312	Maximum of maximum E-values observed for any OG	1.18e-45
+GCF_2312	Maximum of near-core OG E-values observed:	6.59e-137
+GCF_2312	Maximum distance between near-core OGs:	1
+GCF_2312	Median CDS count:	14.0
+GCF_2312	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.875
+GCF_109	Maximum of maximum E-values observed for any OG	1.37e-65
+GCF_109	Maximum of near-core OG E-values observed:	1.37e-65
+GCF_109	Maximum distance between near-core OGs:	1
+GCF_109	Median CDS count:	40.5
+GCF_109	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7641509433962264
+GCF_1633	Maximum of maximum E-values observed for any OG	8.24e-33
+GCF_1633	Maximum of near-core OG E-values observed:	1.31e-62
+GCF_1633	Maximum distance between near-core OGs:	2
+GCF_1633	Median CDS count:	18.0
+GCF_1633	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.84375
+GCF_1032	Maximum of maximum E-values observed for any OG	2.3e-49
+GCF_1032	Maximum of near-core OG E-values observed:	9.53e-63
+GCF_1032	Maximum distance between near-core OGs:	1
+GCF_1032	Median CDS count:	14.0
+GCF_1032	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7897435897435897
+GCF_2400	Maximum of maximum E-values observed for any OG	2.31e-36
+GCF_2400	Maximum of near-core OG E-values observed:	1e-129
+GCF_2400	Maximum distance between near-core OGs:	1
+GCF_2400	Median CDS count:	14.5
+GCF_2400	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6904761904761905
+GCF_672	Maximum of maximum E-values observed for any OG	1.69e-24
+GCF_672	Maximum of near-core OG E-values observed:	1.69e-24
+GCF_672	Maximum distance between near-core OGs:	3
+GCF_672	Median CDS count:	37.0
+GCF_672	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6351351351351351
+GCF_2368	Maximum of maximum E-values observed for any OG	1.18e-46
+GCF_2368	Maximum of near-core OG E-values observed:	1.18e-46
+GCF_2368	Maximum distance between near-core OGs:	2
+GCF_2368	Median CDS count:	21.0
+GCF_2368	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8571428571428571
+GCF_2194	Maximum of maximum E-values observed for any OG	3.71e-42
+GCF_2194	Maximum of near-core OG E-values observed:	3.71e-42
+GCF_2194	Maximum distance between near-core OGs:	2
+GCF_2194	Median CDS count:	15.0
+GCF_2194	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8
+GCF_1091	Maximum of maximum E-values observed for any OG	0.0
+GCF_1091	Maximum of near-core OG E-values observed:	0.0
+GCF_1091	Maximum distance between near-core OGs:	1
+GCF_1091	Median CDS count:	2
+GCF_1091	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1793	Maximum of maximum E-values observed for any OG	4.79e-43
+GCF_1793	Maximum of near-core OG E-values observed:	4.79e-43
+GCF_1793	Maximum distance between near-core OGs:	2
+GCF_1793	Median CDS count:	13
+GCF_1793	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6923076923076923
+GCF_2294	Maximum of maximum E-values observed for any OG	1.14e-83
+GCF_2294	Maximum of near-core OG E-values observed:	0.0
+GCF_2294	Maximum distance between near-core OGs:	2
+GCF_2294	Median CDS count:	7
+GCF_2294	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7142857142857143
+GCF_703	Maximum of maximum E-values observed for any OG	8.52e-20
+GCF_703	Maximum of near-core OG E-values observed:	8.52e-20
+GCF_703	Maximum distance between near-core OGs:	1
+GCF_703	Median CDS count:	7
+GCF_703	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5714285714285714
+GCF_1073	Maximum of maximum E-values observed for any OG	1.07e-159
+GCF_1073	Maximum of near-core OG E-values observed:	1.07e-159
+GCF_1073	Maximum distance between near-core OGs:	1
+GCF_1073	Median CDS count:	5.5
+GCF_1073	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9166666666666667
+GCF_1258	Maximum of maximum E-values observed for any OG	1.64e-135
+GCF_1258	Maximum of near-core OG E-values observed:	1.64e-135
+GCF_1258	Maximum distance between near-core OGs:	1
+GCF_1258	Median CDS count:	4.0
+GCF_1258	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_90	Maximum of maximum E-values observed for any OG	1.61e-92
+GCF_90	Maximum of near-core OG E-values observed:	1.61e-92
+GCF_90	Maximum distance between near-core OGs:	1
+GCF_90	Median CDS count:	9.0
+GCF_90	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1143	Maximum of maximum E-values observed for any OG	9.9e-24
+GCF_1143	Maximum of near-core OG E-values observed:	1.84e-188
+GCF_1143	Maximum distance between near-core OGs:	1
+GCF_1143	Median CDS count:	5
+GCF_1143	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8
+GCF_216	Maximum of maximum E-values observed for any OG	7.89e-15
+GCF_216	Maximum of near-core OG E-values observed:	5.95e-21
+GCF_216	Maximum distance between near-core OGs:	1
+GCF_216	Median CDS count:	27.5
+GCF_216	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.18187830687830686
+GCF_1697	Maximum of maximum E-values observed for any OG	1.09e-59
+GCF_1697	Maximum of near-core OG E-values observed:	1.15e-75
+GCF_1697	Maximum distance between near-core OGs:	2
+GCF_1697	Median CDS count:	25.0
+GCF_1697	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8051529790660226
+GCF_954	Maximum of maximum E-values observed for any OG	3.01e-21
+GCF_954	Maximum of near-core OG E-values observed:	1.57e-44
+GCF_954	Maximum distance between near-core OGs:	2
+GCF_954	Median CDS count:	38
+GCF_954	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.13157894736842105
+GCF_1161	Maximum of maximum E-values observed for any OG	3.08e-287
+GCF_1161	Maximum of near-core OG E-values observed:	3.08e-287
+GCF_1161	Maximum distance between near-core OGs:	2
+GCF_1161	Median CDS count:	3.0
+GCF_1161	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6666666666666666
+GCF_1400	Maximum of maximum E-values observed for any OG	1.79e-31
+GCF_1400	Maximum of near-core OG E-values observed:	1.89e-44
+GCF_1400	Maximum distance between near-core OGs:	4
+GCF_1400	Median CDS count:	41.5
+GCF_1400	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8193960511033682
+GCF_1733	Maximum of maximum E-values observed for any OG	1.45e-37
+GCF_1733	Maximum of near-core OG E-values observed:	1.45e-37
+GCF_1733	Maximum distance between near-core OGs:	1
+GCF_1733	Median CDS count:	23.5
+GCF_1733	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9038461538461539
+GCF_827	Maximum of maximum E-values observed for any OG	1.53e-96
+GCF_827	Maximum of near-core OG E-values observed:	1.53e-96
+GCF_827	Maximum distance between near-core OGs:	1
+GCF_827	Median CDS count:	10.0
+GCF_827	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_410	Maximum of maximum E-values observed for any OG	0.0
+GCF_410	Maximum of near-core OG E-values observed:	0.0
+GCF_410	Maximum distance between near-core OGs:	1
+GCF_410	Median CDS count:	3.0
+GCF_410	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1424	Maximum of maximum E-values observed for any OG	2.89e-39
+GCF_1424	Maximum of near-core OG E-values observed:	1.01e-78
+GCF_1424	Maximum distance between near-core OGs:	1
+GCF_1424	Median CDS count:	23.5
+GCF_1424	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6527777777777778
+GCF_948	Maximum of maximum E-values observed for any OG	5.53e-36
+GCF_948	Maximum of near-core OG E-values observed:	1.66e-54
+GCF_948	Maximum distance between near-core OGs:	3
+GCF_948	Median CDS count:	12.5
+GCF_948	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8814102564102564
+GCF_155	Maximum of maximum E-values observed for any OG	1.66e-44
+GCF_155	Maximum of near-core OG E-values observed:	0.0
+GCF_155	Maximum distance between near-core OGs:	1
+GCF_155	Median CDS count:	6.0
+GCF_155	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8571428571428572
+GCF_505	Maximum of maximum E-values observed for any OG	1.15e-38
+GCF_505	Maximum of near-core OG E-values observed:	1.15e-38
+GCF_505	Maximum distance between near-core OGs:	1
+GCF_505	Median CDS count:	7.0
+GCF_505	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_2331	Maximum of maximum E-values observed for any OG	5.23e-33
+GCF_2331	Maximum of near-core OG E-values observed:	5.23e-33
+GCF_2331	Maximum distance between near-core OGs:	1
+GCF_2331	Median CDS count:	9.0
+GCF_2331	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9
+GCF_62	Maximum of maximum E-values observed for any OG	1.1e-46
+GCF_62	Maximum of near-core OG E-values observed:	0.0
+GCF_62	Maximum distance between near-core OGs:	1
+GCF_62	Median CDS count:	17.0
+GCF_62	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.425
+GCF_49	Maximum of maximum E-values observed for any OG	2.57e-44
+GCF_49	Maximum of near-core OG E-values observed:	1.57e-145
+GCF_49	Maximum distance between near-core OGs:	1
+GCF_49	Median CDS count:	24.0
+GCF_49	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8333333333333334
+GCF_901	Maximum of maximum E-values observed for any OG	4.78e-31
+GCF_901	Maximum of near-core OG E-values observed:	4.78e-31
+GCF_901	Maximum distance between near-core OGs:	2
+GCF_901	Median CDS count:	16
+GCF_901	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9375
+GCF_1867	Maximum of maximum E-values observed for any OG	1.45e-107
+GCF_1867	Maximum of near-core OG E-values observed:	3.47e-125
+GCF_1867	Maximum distance between near-core OGs:	1
+GCF_1867	Median CDS count:	30.0
+GCF_1867	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9375
+GCF_1288	Maximum of maximum E-values observed for any OG	1.73e-212
+GCF_1288	Maximum of near-core OG E-values observed:	2.2e-224
+GCF_1288	Maximum distance between near-core OGs:	1
+GCF_1288	Median CDS count:	11.0
+GCF_1288	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9166666666666667
+GCF_2267	Maximum of maximum E-values observed for any OG	2.16e-32
+GCF_2267	Maximum of near-core OG E-values observed:	3.78e-194
+GCF_2267	Maximum distance between near-core OGs:	3
+GCF_2267	Median CDS count:	12.0
+GCF_2267	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3356643356643357
+GCF_685	Maximum of maximum E-values observed for any OG	6.06e-111
+GCF_685	Maximum of near-core OG E-values observed:	6.06e-111
+GCF_685	Maximum distance between near-core OGs:	1
+GCF_685	Median CDS count:	15.0
+GCF_685	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_2010	Maximum of maximum E-values observed for any OG	1.47e-168
+GCF_2010	Maximum of near-core OG E-values observed:	8.58e-259
+GCF_2010	Maximum distance between near-core OGs:	1
+GCF_2010	Median CDS count:	5.0
+GCF_2010	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8333333333333333
+GCF_1448	Maximum of maximum E-values observed for any OG	1.67e-94
+GCF_1448	Maximum of near-core OG E-values observed:	1.67e-94
+GCF_1448	Maximum distance between near-core OGs:	2
+GCF_1448	Median CDS count:	16.0
+GCF_1448	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8253968253968254
+GCF_1226	Maximum of maximum E-values observed for any OG	4.78e-27
+GCF_1226	Maximum of near-core OG E-values observed:	1.35e-227
+GCF_1226	Maximum distance between near-core OGs:	2
+GCF_1226	Median CDS count:	14.5
+GCF_1226	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7595238095238095
+GCF_2156	Maximum of maximum E-values observed for any OG	3.29e-57
+GCF_2156	Maximum of near-core OG E-values observed:	3.29e-57
+GCF_2156	Maximum distance between near-core OGs:	1
+GCF_2156	Median CDS count:	20.0
+GCF_2156	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1796	Maximum of maximum E-values observed for any OG	6.13e-66
+GCF_1796	Maximum of near-core OG E-values observed:	6.13e-66
+GCF_1796	Maximum distance between near-core OGs:	1
+GCF_1796	Median CDS count:	27.5
+GCF_1796	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9457671957671958
+GCF_401	Maximum of maximum E-values observed for any OG	1.75e-37
+GCF_401	Maximum of near-core OG E-values observed:	1.75e-37
+GCF_401	Maximum distance between near-core OGs:	2
+GCF_401	Median CDS count:	62.5
+GCF_401	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8055853920515574
+GCF_1152	Maximum of maximum E-values observed for any OG	1.16e-119
+GCF_1152	Maximum of near-core OG E-values observed:	2.93e-127
+GCF_1152	Maximum distance between near-core OGs:	2
+GCF_1152	Median CDS count:	9.5
+GCF_1152	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7556818181818181
+GCF_495	Maximum of maximum E-values observed for any OG	1.05e-31
+GCF_495	Maximum of near-core OG E-values observed:	1.05e-31
+GCF_495	Maximum distance between near-core OGs:	2
+GCF_495	Median CDS count:	8
+GCF_495	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.875
+GCF_1118	Maximum of maximum E-values observed for any OG	0.0
+GCF_1118	Maximum of near-core OG E-values observed:	0.0
+GCF_1118	Maximum distance between near-core OGs:	1
+GCF_1118	Median CDS count:	5.0
+GCF_1118	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_2072	Maximum of maximum E-values observed for any OG	9.02e-146
+GCF_2072	Maximum of near-core OG E-values observed:	9.02e-146
+GCF_2072	Maximum distance between near-core OGs:	1
+GCF_2072	Median CDS count:	2.0
+GCF_2072	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_158	Maximum of maximum E-values observed for any OG	2.17e-105
+GCF_158	Maximum of near-core OG E-values observed:	2.17e-105
+GCF_158	Maximum distance between near-core OGs:	2
+GCF_158	Median CDS count:	10.5
+GCF_158	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8590909090909091
+GCF_593	Maximum of maximum E-values observed for any OG	1.46e-123
+GCF_593	Maximum of near-core OG E-values observed:	1.46e-123
+GCF_593	Maximum distance between near-core OGs:	1
+GCF_593	Median CDS count:	7.0
+GCF_593	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.875
+GCF_604	Maximum of maximum E-values observed for any OG	3.48e-105
+GCF_604	Maximum of near-core OG E-values observed:	3.48e-105
+GCF_604	Maximum distance between near-core OGs:	1
+GCF_604	Median CDS count:	6
+GCF_604	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_2293	Maximum of maximum E-values observed for any OG	1.51e-51
+GCF_2293	Maximum of near-core OG E-values observed:	1.51e-51
+GCF_2293	Maximum distance between near-core OGs:	2
+GCF_2293	Median CDS count:	18.5
+GCF_2293	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7686335403726708
+GCF_1831	Maximum of maximum E-values observed for any OG	4.6e-45
+GCF_1831	Maximum of near-core OG E-values observed:	4.6e-45
+GCF_1831	Maximum distance between near-core OGs:	2
+GCF_1831	Median CDS count:	15
+GCF_1831	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8
+GCF_921	Maximum of maximum E-values observed for any OG	6.77e-75
+GCF_921	Maximum of near-core OG E-values observed:	1.51e-181
+GCF_921	Maximum distance between near-core OGs:	2
+GCF_921	Median CDS count:	19.5
+GCF_921	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6128571428571429
+GCF_1588	Maximum of maximum E-values observed for any OG	6.57e-176
+GCF_1588	Maximum of near-core OG E-values observed:	6.57e-176
+GCF_1588	Maximum distance between near-core OGs:	1
+GCF_1588	Median CDS count:	6.0
+GCF_1588	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8571428571428572
+GCF_1779	Maximum of maximum E-values observed for any OG	2.45e-61
+GCF_1779	Maximum of near-core OG E-values observed:	2.45e-61
+GCF_1779	Maximum distance between near-core OGs:	1
+GCF_1779	Median CDS count:	32.5
+GCF_1779	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9166666666666667
+GCF_1790	Maximum of maximum E-values observed for any OG	6.22e-70
+GCF_1790	Maximum of near-core OG E-values observed:	6.22e-70
+GCF_1790	Maximum distance between near-core OGs:	1
+GCF_1790	Median CDS count:	9.0
+GCF_1790	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1808	Maximum of maximum E-values observed for any OG	6.8e-52
+GCF_1808	Maximum of near-core OG E-values observed:	6.8e-52
+GCF_1808	Maximum distance between near-core OGs:	8
+GCF_1808	Median CDS count:	27.0
+GCF_1808	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.825
+GCF_502	Maximum of maximum E-values observed for any OG	7.56e-37
+GCF_502	Maximum of near-core OG E-values observed:	7.56e-37
+GCF_502	Maximum distance between near-core OGs:	1
+GCF_502	Median CDS count:	11
+GCF_502	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.45454545454545453
+GCF_2401	Maximum of maximum E-values observed for any OG	1.25e-48
+GCF_2401	Maximum of near-core OG E-values observed:	1.25e-48
+GCF_2401	Maximum distance between near-core OGs:	1
+GCF_2401	Median CDS count:	20.0
+GCF_2401	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.95
+GCF_121	Maximum of maximum E-values observed for any OG	2.57e-57
+GCF_121	Maximum of near-core OG E-values observed:	2.57e-57
+GCF_121	Maximum distance between near-core OGs:	3
+GCF_121	Median CDS count:	23.0
+GCF_121	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5376623376623377
+GCF_627	Maximum of maximum E-values observed for any OG	1.36e-56
+GCF_627	Maximum of near-core OG E-values observed:	1.36e-56
+GCF_627	Maximum distance between near-core OGs:	1
+GCF_627	Median CDS count:	18.5
+GCF_627	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8409090909090908
+GCF_677	Maximum of maximum E-values observed for any OG	2.76e-18
+GCF_677	Maximum of near-core OG E-values observed:	5.35e-219
+GCF_677	Maximum distance between near-core OGs:	1
+GCF_677	Median CDS count:	10
+GCF_677	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7
+GCF_1355	Maximum of maximum E-values observed for any OG	1.9e-76
+GCF_1355	Maximum of near-core OG E-values observed:	1.9e-76
+GCF_1355	Maximum distance between near-core OGs:	1
+GCF_1355	Median CDS count:	6.0
+GCF_1355	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_2285	Maximum of maximum E-values observed for any OG	1.15e-97
+GCF_2285	Maximum of near-core OG E-values observed:	1.13e-176
+GCF_2285	Maximum distance between near-core OGs:	2
+GCF_2285	Median CDS count:	16
+GCF_2285	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9375
+GCF_1516	Maximum of maximum E-values observed for any OG	2.1e-25
+GCF_1516	Maximum of near-core OG E-values observed:	2.1e-25
+GCF_1516	Maximum distance between near-core OGs:	5
+GCF_1516	Median CDS count:	6.5
+GCF_1516	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.65
+GCF_1376	Maximum of maximum E-values observed for any OG	9.08e-34
+GCF_1376	Maximum of near-core OG E-values observed:	2.16e-178
+GCF_1376	Maximum distance between near-core OGs:	2
+GCF_1376	Median CDS count:	9.0
+GCF_1376	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9
+GCF_1321	Maximum of maximum E-values observed for any OG	1.19e-86
+GCF_1321	Maximum of near-core OG E-values observed:	1.19e-86
+GCF_1321	Maximum distance between near-core OGs:	3
+GCF_1321	Median CDS count:	13.0
+GCF_1321	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_969	Maximum of maximum E-values observed for any OG	2.09e-188
+GCF_969	Maximum of near-core OG E-values observed:	2.09e-188
+GCF_969	Maximum distance between near-core OGs:	1
+GCF_969	Median CDS count:	8.0
+GCF_969	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_560	Maximum of maximum E-values observed for any OG	5.02e-42
+GCF_560	Maximum of near-core OG E-values observed:	3.82e-78
+GCF_560	Maximum distance between near-core OGs:	4
+GCF_560	Median CDS count:	15.5
+GCF_560	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7815126050420168
+GCF_477	Maximum of maximum E-values observed for any OG	3.13e-28
+GCF_477	Maximum of near-core OG E-values observed:	2.5e-39
+GCF_477	Maximum distance between near-core OGs:	3
+GCF_477	Median CDS count:	13
+GCF_477	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7692307692307693
+GCF_169	Maximum of maximum E-values observed for any OG	9.85e-268
+GCF_169	Maximum of near-core OG E-values observed:	5.55e-273
+GCF_169	Maximum distance between near-core OGs:	1
+GCF_169	Median CDS count:	9.5
+GCF_169	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.95
+GCF_2203	Maximum of maximum E-values observed for any OG	4.37e-46
+GCF_2203	Maximum of near-core OG E-values observed:	1.77e-49
+GCF_2203	Maximum distance between near-core OGs:	1
+GCF_2203	Median CDS count:	18.5
+GCF_2203	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.925
+GCF_1151	Maximum of maximum E-values observed for any OG	1.58e-30
+GCF_1151	Maximum of near-core OG E-values observed:	1.58e-30
+GCF_1151	Maximum distance between near-core OGs:	1
+GCF_1151	Median CDS count:	4.0
+GCF_1151	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1311	Maximum of maximum E-values observed for any OG	3.35e-58
+GCF_1311	Maximum of near-core OG E-values observed:	3.9e-80
+GCF_1311	Maximum distance between near-core OGs:	1
+GCF_1311	Median CDS count:	12.0
+GCF_1311	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3333333333333333
+GCF_376	Maximum of maximum E-values observed for any OG	4.05e-119
+GCF_376	Maximum of near-core OG E-values observed:	4.05e-119
+GCF_376	Maximum distance between near-core OGs:	3
+GCF_376	Median CDS count:	16.0
+GCF_376	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.875
+GCF_464	Maximum of maximum E-values observed for any OG	5.34e-39
+GCF_464	Maximum of near-core OG E-values observed:	5.34e-39
+GCF_464	Maximum distance between near-core OGs:	1
+GCF_464	Median CDS count:	7.5
+GCF_464	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9375
+GCF_2300	Maximum of maximum E-values observed for any OG	3.95e-121
+GCF_2300	Maximum of near-core OG E-values observed:	3.95e-121
+GCF_2300	Maximum distance between near-core OGs:	1
+GCF_2300	Median CDS count:	8.5
+GCF_2300	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9444444444444444
+GCF_1251	Maximum of maximum E-values observed for any OG	4.36e-45
+GCF_1251	Maximum of near-core OG E-values observed:	2.88e-45
+GCF_1251	Maximum distance between near-core OGs:	2
+GCF_1251	Median CDS count:	24.0
+GCF_1251	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.75
+GCF_1551	Maximum of maximum E-values observed for any OG	5.2e-44
+GCF_1551	Maximum of near-core OG E-values observed:	1.11e-84
+GCF_1551	Maximum distance between near-core OGs:	2
+GCF_1551	Median CDS count:	32
+GCF_1551	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.53125
+GCF_1225	Maximum of maximum E-values observed for any OG	2.38e-13
+GCF_1225	Maximum of near-core OG E-values observed:	9.01e-217
+GCF_1225	Maximum distance between near-core OGs:	5
+GCF_1225	Median CDS count:	11.5
+GCF_1225	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5476190476190476
+GCF_641	Maximum of maximum E-values observed for any OG	3.82e-43
+GCF_641	Maximum of near-core OG E-values observed:	3.82e-43
+GCF_641	Maximum distance between near-core OGs:	1
+GCF_641	Median CDS count:	45.0
+GCF_641	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7424999999999999
+GCF_764	Maximum of maximum E-values observed for any OG	1.4e-73
+GCF_764	Maximum of near-core OG E-values observed:	1.11e-185
+GCF_764	Maximum distance between near-core OGs:	3
+GCF_764	Median CDS count:	24.5
+GCF_764	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.55
+GCF_933	Maximum of maximum E-values observed for any OG	1.19e-82
+GCF_933	Maximum of near-core OG E-values observed:	2.26e-298
+GCF_933	Maximum distance between near-core OGs:	1
+GCF_933	Median CDS count:	16.0
+GCF_933	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.509090909090909
+GCF_583	Maximum of maximum E-values observed for any OG	1.27e-24
+GCF_583	Maximum of near-core OG E-values observed:	1.27e-24
+GCF_583	Maximum distance between near-core OGs:	1
+GCF_583	Median CDS count:	9
+GCF_583	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_2327	Maximum of maximum E-values observed for any OG	5.8e-55
+GCF_2327	Maximum of near-core OG E-values observed:	5.8e-55
+GCF_2327	Maximum distance between near-core OGs:	3
+GCF_2327	Median CDS count:	40
+GCF_2327	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.775
+GCF_198	Maximum of maximum E-values observed for any OG	7.43e-35
+GCF_198	Maximum of near-core OG E-values observed:	7.43e-35
+GCF_198	Maximum distance between near-core OGs:	2
+GCF_198	Median CDS count:	25
+GCF_198	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6
+GCF_1677	Maximum of maximum E-values observed for any OG	3.54e-43
+GCF_1677	Maximum of near-core OG E-values observed:	3.54e-43
+GCF_1677	Maximum distance between near-core OGs:	1
+GCF_1677	Median CDS count:	30.0
+GCF_1677	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7986111111111112
+GCF_922	Maximum of maximum E-values observed for any OG	1.02e-244
+GCF_922	Maximum of near-core OG E-values observed:	1.02e-244
+GCF_922	Maximum distance between near-core OGs:	1
+GCF_922	Median CDS count:	3.0
+GCF_922	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1846	Maximum of maximum E-values observed for any OG	7.13e-31
+GCF_1846	Maximum of near-core OG E-values observed:	7.13e-31
+GCF_1846	Maximum distance between near-core OGs:	1
+GCF_1846	Median CDS count:	14
+GCF_1846	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_2292	Maximum of maximum E-values observed for any OG	2.5e-147
+GCF_2292	Maximum of near-core OG E-values observed:	2.5e-147
+GCF_2292	Maximum distance between near-core OGs:	2
+GCF_2292	Median CDS count:	6
+GCF_2292	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8333333333333334
+GCF_2297	Maximum of maximum E-values observed for any OG	9.23e-26
+GCF_2297	Maximum of near-core OG E-values observed:	9.23e-26
+GCF_2297	Maximum distance between near-core OGs:	3
+GCF_2297	Median CDS count:	25.0
+GCF_2297	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.92
+GCF_222	Maximum of maximum E-values observed for any OG	2.44e-42
+GCF_222	Maximum of near-core OG E-values observed:	2.44e-42
+GCF_222	Maximum distance between near-core OGs:	1
+GCF_222	Median CDS count:	36.0
+GCF_222	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.631578947368421
+GCF_982	Maximum of maximum E-values observed for any OG	5.25e-38
+GCF_982	Maximum of near-core OG E-values observed:	6.94e-59
+GCF_982	Maximum distance between near-core OGs:	2
+GCF_982	Median CDS count:	26.0
+GCF_982	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7588325652841782
+GCF_2238	Maximum of maximum E-values observed for any OG	4.37e-27
+GCF_2238	Maximum of near-core OG E-values observed:	1.06e-43
+GCF_2238	Maximum distance between near-core OGs:	9
+GCF_2238	Median CDS count:	45
+GCF_2238	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.37777777777777777
+GCF_958	Maximum of maximum E-values observed for any OG	2.2e-70
+GCF_958	Maximum of near-core OG E-values observed:	5.63e-121
+GCF_958	Maximum distance between near-core OGs:	1
+GCF_958	Median CDS count:	10.0
+GCF_958	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9444444444444444
+GCF_261	Maximum of maximum E-values observed for any OG	2.09e-110
+GCF_261	Maximum of near-core OG E-values observed:	2.09e-110
+GCF_261	Maximum distance between near-core OGs:	1
+GCF_261	Median CDS count:	7.0
+GCF_261	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7291666666666667
+GCF_84	Maximum of maximum E-values observed for any OG	2.01e-35
+GCF_84	Maximum of near-core OG E-values observed:	2.01e-35
+GCF_84	Maximum distance between near-core OGs:	2
+GCF_84	Median CDS count:	22.0
+GCF_84	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9090909090909091
+GCF_2379	Maximum of maximum E-values observed for any OG	7.87e-209
+GCF_2379	Maximum of near-core OG E-values observed:	7.87e-209
+GCF_2379	Maximum distance between near-core OGs:	1
+GCF_2379	Median CDS count:	13.0
+GCF_2379	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1272	Maximum of maximum E-values observed for any OG	3.84e-47
+GCF_1272	Maximum of near-core OG E-values observed:	6.07e-58
+GCF_1272	Maximum distance between near-core OGs:	2
+GCF_1272	Median CDS count:	35.0
+GCF_1272	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9307944307944308
+GCF_412	Maximum of maximum E-values observed for any OG	1.47e-56
+GCF_412	Maximum of near-core OG E-values observed:	1.47e-56
+GCF_412	Maximum distance between near-core OGs:	5
+GCF_412	Median CDS count:	51.0
+GCF_412	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8640739314593762
+GCF_2164	Maximum of maximum E-values observed for any OG	5.47e-43
+GCF_2164	Maximum of near-core OG E-values observed:	5.47e-43
+GCF_2164	Maximum distance between near-core OGs:	1
+GCF_2164	Median CDS count:	40.0
+GCF_2164	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.95
+GCF_8	Maximum of maximum E-values observed for any OG	2.34e-174
+GCF_8	Maximum of near-core OG E-values observed:	2.34e-174
+GCF_8	Maximum distance between near-core OGs:	1
+GCF_8	Median CDS count:	23.0
+GCF_8	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1602	Maximum of maximum E-values observed for any OG	6.15e-71
+GCF_1602	Maximum of near-core OG E-values observed:	6.15e-71
+GCF_1602	Maximum distance between near-core OGs:	1
+GCF_1602	Median CDS count:	53.0
+GCF_1602	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_2115	Maximum of maximum E-values observed for any OG	4.02e-97
+GCF_2115	Maximum of near-core OG E-values observed:	6.95e-135
+GCF_2115	Maximum distance between near-core OGs:	1
+GCF_2115	Median CDS count:	10.5
+GCF_2115	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5833333333333333
+GCF_2153	Maximum of maximum E-values observed for any OG	3.4e-23
+GCF_2153	Maximum of near-core OG E-values observed:	3.4e-23
+GCF_2153	Maximum distance between near-core OGs:	2
+GCF_2153	Median CDS count:	14.0
+GCF_2153	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7777777777777778
+GCF_1362	Maximum of maximum E-values observed for any OG	7.48e-23
+GCF_1362	Maximum of near-core OG E-values observed:	7.48e-23
+GCF_1362	Maximum distance between near-core OGs:	2
+GCF_1362	Median CDS count:	23.0
+GCF_1362	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9583333333333333
+GCF_387	Maximum of maximum E-values observed for any OG	1.34e-35
+GCF_387	Maximum of near-core OG E-values observed:	1.72e-53
+GCF_387	Maximum distance between near-core OGs:	2
+GCF_387	Median CDS count:	17.5
+GCF_387	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9150326797385621
+GCF_2375	Maximum of maximum E-values observed for any OG	4.39e-44
+GCF_2375	Maximum of near-core OG E-values observed:	4.39e-44
+GCF_2375	Maximum distance between near-core OGs:	1
+GCF_2375	Median CDS count:	5.0
+GCF_2375	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_2250	Maximum of maximum E-values observed for any OG	1.04e-49
+GCF_2250	Maximum of near-core OG E-values observed:	1.04e-49
+GCF_2250	Maximum distance between near-core OGs:	4
+GCF_2250	Median CDS count:	16.5
+GCF_2250	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5076923076923077
+GCF_1052	Maximum of maximum E-values observed for any OG	1.37e-81
+GCF_1052	Maximum of near-core OG E-values observed:	1.37e-81
+GCF_1052	Maximum distance between near-core OGs:	5
+GCF_1052	Median CDS count:	32.0
+GCF_1052	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.819704433497537
+GCF_1985	Maximum of maximum E-values observed for any OG	8.76e-224
+GCF_1985	Maximum of near-core OG E-values observed:	8.76e-224
+GCF_1985	Maximum distance between near-core OGs:	1
+GCF_1985	Median CDS count:	13.5
+GCF_1985	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9642857142857143
+GCF_2288	Maximum of maximum E-values observed for any OG	4.57e-66
+GCF_2288	Maximum of near-core OG E-values observed:	4.57e-66
+GCF_2288	Maximum distance between near-core OGs:	1
+GCF_2288	Median CDS count:	8.5
+GCF_2288	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.85
+GCF_1189	Maximum of maximum E-values observed for any OG	3.98e-29
+GCF_1189	Maximum of near-core OG E-values observed:	2.66e-130
+GCF_1189	Maximum distance between near-core OGs:	3
+GCF_1189	Median CDS count:	16.5
+GCF_1189	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4772727272727273
+GCF_44	Maximum of maximum E-values observed for any OG	6.25e-32
+GCF_44	Maximum of near-core OG E-values observed:	6.25e-32
+GCF_44	Maximum distance between near-core OGs:	1
+GCF_44	Median CDS count:	38
+GCF_44	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6842105263157895
+GCF_146	Maximum of maximum E-values observed for any OG	1.49e-135
+GCF_146	Maximum of near-core OG E-values observed:	1.49e-135
+GCF_146	Maximum distance between near-core OGs:	1
+GCF_146	Median CDS count:	17.5
+GCF_146	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8333333333333333
+GCF_1495	Maximum of maximum E-values observed for any OG	3.08e-106
+GCF_1495	Maximum of near-core OG E-values observed:	4.8e-110
+GCF_1495	Maximum distance between near-core OGs:	4
+GCF_1495	Median CDS count:	31.5
+GCF_1495	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7537878787878788
+GCF_1915	Maximum of maximum E-values observed for any OG	2.27e-35
+GCF_1915	Maximum of near-core OG E-values observed:	2.43e-97
+GCF_1915	Maximum distance between near-core OGs:	2
+GCF_1915	Median CDS count:	8
+GCF_1915	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.75
+GCF_136	Maximum of maximum E-values observed for any OG	2.46e-205
+GCF_136	Maximum of near-core OG E-values observed:	2.46e-205
+GCF_136	Maximum distance between near-core OGs:	1
+GCF_136	Median CDS count:	5.5
+GCF_136	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9166666666666667
+GCF_1880	Maximum of maximum E-values observed for any OG	7.1e-62
+GCF_1880	Maximum of near-core OG E-values observed:	7.1e-62
+GCF_1880	Maximum distance between near-core OGs:	2
+GCF_1880	Median CDS count:	30.0
+GCF_1880	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9666666666666667
+GCF_818	Maximum of maximum E-values observed for any OG	1.06e-112
+GCF_818	Maximum of near-core OG E-values observed:	1.06e-112
+GCF_818	Maximum distance between near-core OGs:	1
+GCF_818	Median CDS count:	26.0
+GCF_818	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.896551724137931
+GCF_663	Maximum of maximum E-values observed for any OG	8.45e-35
+GCF_663	Maximum of near-core OG E-values observed:	2.67e-92
+GCF_663	Maximum distance between near-core OGs:	3
+GCF_663	Median CDS count:	32.5
+GCF_663	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6537356321839081
+GCF_28	Maximum of maximum E-values observed for any OG	3.05e-44
+GCF_28	Maximum of near-core OG E-values observed:	1.88e-48
+GCF_28	Maximum distance between near-core OGs:	1
+GCF_28	Median CDS count:	38.5
+GCF_28	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.869015047879617
+GCF_834	Maximum of maximum E-values observed for any OG	9.15e-127
+GCF_834	Maximum of near-core OG E-values observed:	9.15e-127
+GCF_834	Maximum distance between near-core OGs:	1
+GCF_834	Median CDS count:	6.0
+GCF_834	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8571428571428572
+GCF_1928	Maximum of maximum E-values observed for any OG	9.79e-23
+GCF_1928	Maximum of near-core OG E-values observed:	4.79e-45
+GCF_1928	Maximum distance between near-core OGs:	1
+GCF_1928	Median CDS count:	17.5
+GCF_1928	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4640151515151515
+GCF_1412	Maximum of maximum E-values observed for any OG	3.09e-46
+GCF_1412	Maximum of near-core OG E-values observed:	3.09e-46
+GCF_1412	Maximum distance between near-core OGs:	6
+GCF_1412	Median CDS count:	27.0
+GCF_1412	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8330995792426368
+GCF_1153	Maximum of maximum E-values observed for any OG	7.97e-31
+GCF_1153	Maximum of near-core OG E-values observed:	1.68e-42
+GCF_1153	Maximum distance between near-core OGs:	9
+GCF_1153	Median CDS count:	25.5
+GCF_1153	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.43555900621118016
+GCF_374	Maximum of maximum E-values observed for any OG	5.82e-28
+GCF_374	Maximum of near-core OG E-values observed:	3.84e-185
+GCF_374	Maximum distance between near-core OGs:	1
+GCF_374	Median CDS count:	9
+GCF_374	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4444444444444444
+GCF_1255	Maximum of maximum E-values observed for any OG	6.67e-66
+GCF_1255	Maximum of near-core OG E-values observed:	6.67e-66
+GCF_1255	Maximum distance between near-core OGs:	1
+GCF_1255	Median CDS count:	13
+GCF_1255	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8461538461538461
+GCF_1401	Maximum of maximum E-values observed for any OG	3.87e-49
+GCF_1401	Maximum of near-core OG E-values observed:	5.03e-51
+GCF_1401	Maximum distance between near-core OGs:	1
+GCF_1401	Median CDS count:	33.5
+GCF_1401	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7127659574468085
+GCF_322	Maximum of maximum E-values observed for any OG	4.58e-40
+GCF_322	Maximum of near-core OG E-values observed:	4.58e-40
+GCF_322	Maximum distance between near-core OGs:	1
+GCF_322	Median CDS count:	13.5
+GCF_322	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8159340659340659
+GCF_1627	Maximum of maximum E-values observed for any OG	3.26e-38
+GCF_1627	Maximum of near-core OG E-values observed:	3.26e-38
+GCF_1627	Maximum distance between near-core OGs:	4
+GCF_1627	Median CDS count:	63.5
+GCF_1627	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9131944444444444
+GCF_1402	Maximum of maximum E-values observed for any OG	1.96e-09
+GCF_1402	Maximum of near-core OG E-values observed:	7.25e-55
+GCF_1402	Maximum distance between near-core OGs:	3
+GCF_1402	Median CDS count:	14.0
+GCF_1402	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.65625
+GCF_790	Maximum of maximum E-values observed for any OG	9.65e-31
+GCF_790	Maximum of near-core OG E-values observed:	9.65e-31
+GCF_790	Maximum distance between near-core OGs:	1
+GCF_790	Median CDS count:	17.0
+GCF_790	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7083333333333334
+GCF_738	Maximum of maximum E-values observed for any OG	1.35e-48
+GCF_738	Maximum of near-core OG E-values observed:	2.65e-137
+GCF_738	Maximum distance between near-core OGs:	1
+GCF_738	Median CDS count:	20.5
+GCF_738	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.780952380952381
+GCF_418	Maximum of maximum E-values observed for any OG	9.87e-45
+GCF_418	Maximum of near-core OG E-values observed:	2.19e-48
+GCF_418	Maximum distance between near-core OGs:	2
+GCF_418	Median CDS count:	15.0
+GCF_418	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7638888888888888
+GCF_2370	Maximum of maximum E-values observed for any OG	1.11e-65
+GCF_2370	Maximum of near-core OG E-values observed:	7.9e-154
+GCF_2370	Maximum distance between near-core OGs:	1
+GCF_2370	Median CDS count:	6.5
+GCF_2370	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9285714285714286
+GCF_1933	Maximum of maximum E-values observed for any OG	8.09e-32
+GCF_1933	Maximum of near-core OG E-values observed:	3.27e-105
+GCF_1933	Maximum distance between near-core OGs:	8
+GCF_1933	Median CDS count:	7.5
+GCF_1933	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6818181818181819
+GCF_550	Maximum of maximum E-values observed for any OG	2.78e-08
+GCF_550	Maximum of near-core OG E-values observed:	2.78e-08
+GCF_550	Maximum distance between near-core OGs:	5
+GCF_550	Median CDS count:	15.5
+GCF_550	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5166666666666666
+GCF_708	Maximum of maximum E-values observed for any OG	1.13e-87
+GCF_708	Maximum of near-core OG E-values observed:	1.13e-87
+GCF_708	Maximum distance between near-core OGs:	1
+GCF_708	Median CDS count:	6.0
+GCF_708	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1074	Maximum of maximum E-values observed for any OG	9.25e-37
+GCF_1074	Maximum of near-core OG E-values observed:	9.25e-37
+GCF_1074	Maximum distance between near-core OGs:	3
+GCF_1074	Median CDS count:	15.5
+GCF_1074	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5904761904761905
+GCF_1085	Maximum of maximum E-values observed for any OG	8.54e-87
+GCF_1085	Maximum of near-core OG E-values observed:	8.54e-87
+GCF_1085	Maximum distance between near-core OGs:	5
+GCF_1085	Median CDS count:	33.5
+GCF_1085	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9444444444444444
+GCF_2081	Maximum of maximum E-values observed for any OG	1.63e-21
+GCF_2081	Maximum of near-core OG E-values observed:	2.57e-112
+GCF_2081	Maximum distance between near-core OGs:	1
+GCF_2081	Median CDS count:	11.0
+GCF_2081	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8461538461538461
+GCF_1464	Maximum of maximum E-values observed for any OG	4.47e-51
+GCF_1464	Maximum of near-core OG E-values observed:	4.47e-51
+GCF_1464	Maximum distance between near-core OGs:	1
+GCF_1464	Median CDS count:	14.5
+GCF_1464	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6904761904761905
+GCF_2029	Maximum of maximum E-values observed for any OG	8.6e-131
+GCF_2029	Maximum of near-core OG E-values observed:	8.6e-131
+GCF_2029	Maximum distance between near-core OGs:	2
+GCF_2029	Median CDS count:	13.0
+GCF_2029	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9285714285714286
+GCF_597	Maximum of maximum E-values observed for any OG	1.28e-79
+GCF_597	Maximum of near-core OG E-values observed:	6.59e-106
+GCF_597	Maximum distance between near-core OGs:	1
+GCF_597	Median CDS count:	11.0
+GCF_597	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9166666666666667
+GCF_70	Maximum of maximum E-values observed for any OG	9.29e-160
+GCF_70	Maximum of near-core OG E-values observed:	9.29e-160
+GCF_70	Maximum distance between near-core OGs:	1
+GCF_70	Median CDS count:	9.5
+GCF_70	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.95
+GCF_2356	Maximum of maximum E-values observed for any OG	8.96e-33
+GCF_2356	Maximum of near-core OG E-values observed:	2.33e-55
+GCF_2356	Maximum distance between near-core OGs:	2
+GCF_2356	Median CDS count:	15.0
+GCF_2356	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7142857142857143
+GCF_1015	Maximum of maximum E-values observed for any OG	7.64e-34
+GCF_1015	Maximum of near-core OG E-values observed:	1.87e-71
+GCF_1015	Maximum distance between near-core OGs:	1
+GCF_1015	Median CDS count:	45.5
+GCF_1015	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.28995098039215683
+GCF_653	Maximum of maximum E-values observed for any OG	5.61e-56
+GCF_653	Maximum of near-core OG E-values observed:	1.18e-60
+GCF_653	Maximum distance between near-core OGs:	2
+GCF_653	Median CDS count:	21.0
+GCF_653	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8076923076923077
+GCF_1865	Maximum of maximum E-values observed for any OG	1.1e-28
+GCF_1865	Maximum of near-core OG E-values observed:	5.7e-71
+GCF_1865	Maximum distance between near-core OGs:	12
+GCF_1865	Median CDS count:	24.0
+GCF_1865	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7555555555555555
+GCF_1669	Maximum of maximum E-values observed for any OG	3.73e-157
+GCF_1669	Maximum of near-core OG E-values observed:	0.0
+GCF_1669	Maximum distance between near-core OGs:	2
+GCF_1669	Median CDS count:	9
+GCF_1669	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.3333333333333333
+GCF_1093	Maximum of maximum E-values observed for any OG	1.25e-36
+GCF_1093	Maximum of near-core OG E-values observed:	4.46e-54
+GCF_1093	Maximum distance between near-core OGs:	1
+GCF_1093	Median CDS count:	14.5
+GCF_1093	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8976190476190476
+GCF_301	Maximum of maximum E-values observed for any OG	2.1e-100
+GCF_301	Maximum of near-core OG E-values observed:	2.1e-100
+GCF_301	Maximum distance between near-core OGs:	1
+GCF_301	Median CDS count:	6.0
+GCF_301	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_679	Maximum of maximum E-values observed for any OG	2.2e-112
+GCF_679	Maximum of near-core OG E-values observed:	9.04e-247
+GCF_679	Maximum distance between near-core OGs:	1
+GCF_679	Median CDS count:	22
+GCF_679	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.13636363636363635
+GCF_626	Maximum of maximum E-values observed for any OG	5.39e-177
+GCF_626	Maximum of near-core OG E-values observed:	5.39e-177
+GCF_626	Maximum distance between near-core OGs:	1
+GCF_626	Median CDS count:	7.5
+GCF_626	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9375
+GCF_11	Maximum of maximum E-values observed for any OG	7.68e-172
+GCF_11	Maximum of near-core OG E-values observed:	7.68e-172
+GCF_11	Maximum distance between near-core OGs:	1
+GCF_11	Median CDS count:	4.0
+GCF_11	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6666666666666666
+GCF_908	Maximum of maximum E-values observed for any OG	3.52e-48
+GCF_908	Maximum of near-core OG E-values observed:	5.04e-61
+GCF_908	Maximum distance between near-core OGs:	4
+GCF_908	Median CDS count:	58
+GCF_908	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9482758620689655
+GCF_1204	Maximum of maximum E-values observed for any OG	9.84e-67
+GCF_1204	Maximum of near-core OG E-values observed:	1.28e-76
+GCF_1204	Maximum distance between near-core OGs:	1
+GCF_1204	Median CDS count:	24.5
+GCF_1204	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6621621621621622
+GCF_1014	Maximum of maximum E-values observed for any OG	8.59e-44
+GCF_1014	Maximum of near-core OG E-values observed:	8.59e-44
+GCF_1014	Maximum distance between near-core OGs:	7
+GCF_1014	Median CDS count:	54.5
+GCF_1014	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8562158469945356
+GCF_1901	Maximum of maximum E-values observed for any OG	9.95e-52
+GCF_1901	Maximum of near-core OG E-values observed:	9.95e-52
+GCF_1901	Maximum distance between near-core OGs:	2
+GCF_1901	Median CDS count:	41.0
+GCF_1901	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9761904761904762
+GCF_1668	Maximum of maximum E-values observed for any OG	1.75e-30
+GCF_1668	Maximum of near-core OG E-values observed:	1.25e-32
+GCF_1668	Maximum distance between near-core OGs:	1
+GCF_1668	Median CDS count:	11
+GCF_1668	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1777	Maximum of maximum E-values observed for any OG	9.04e-28
+GCF_1777	Maximum of near-core OG E-values observed:	5.49e-65
+GCF_1777	Maximum distance between near-core OGs:	1
+GCF_1777	Median CDS count:	5.0
+GCF_1777	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8
+GCF_2170	Maximum of maximum E-values observed for any OG	3.05e-07
+GCF_2170	Maximum of near-core OG E-values observed:	6.38e-23
+GCF_2170	Maximum distance between near-core OGs:	8
+GCF_2170	Median CDS count:	24
+GCF_2170	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.2962962962962963
+GCF_77	Maximum of maximum E-values observed for any OG	5.54e-37
+GCF_77	Maximum of near-core OG E-values observed:	5.54e-37
+GCF_77	Maximum distance between near-core OGs:	3
+GCF_77	Median CDS count:	10.0
+GCF_77	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8080808080808081
+GCF_835	Maximum of maximum E-values observed for any OG	5.21e-57
+GCF_835	Maximum of near-core OG E-values observed:	5.21e-57
+GCF_835	Maximum distance between near-core OGs:	2
+GCF_835	Median CDS count:	17.5
+GCF_835	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9150326797385621
+GCF_345	Maximum of maximum E-values observed for any OG	2.53e-56
+GCF_345	Maximum of near-core OG E-values observed:	2.53e-56
+GCF_345	Maximum distance between near-core OGs:	1
+GCF_345	Median CDS count:	11.0
+GCF_345	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1656	Maximum of maximum E-values observed for any OG	2.55e-38
+GCF_1656	Maximum of near-core OG E-values observed:	2.55e-38
+GCF_1656	Maximum distance between near-core OGs:	1
+GCF_1656	Median CDS count:	11.0
+GCF_1656	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_2061	Maximum of maximum E-values observed for any OG	5.89e-81
+GCF_2061	Maximum of near-core OG E-values observed:	5.89e-81
+GCF_2061	Maximum distance between near-core OGs:	1
+GCF_2061	Median CDS count:	9.5
+GCF_2061	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7307692307692308
+GCF_1266	Maximum of maximum E-values observed for any OG	2.29e-30
+GCF_1266	Maximum of near-core OG E-values observed:	1.76e-34
+GCF_1266	Maximum distance between near-core OGs:	8
+GCF_1266	Median CDS count:	42.0
+GCF_1266	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6443181818181818
+GCF_1502	Maximum of maximum E-values observed for any OG	1.72e-24
+GCF_1502	Maximum of near-core OG E-values observed:	1e-40
+GCF_1502	Maximum distance between near-core OGs:	2
+GCF_1502	Median CDS count:	20.5
+GCF_1502	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8785714285714286
+GCF_1529	Maximum of maximum E-values observed for any OG	5.74e-33
+GCF_1529	Maximum of near-core OG E-values observed:	6.68e-86
+GCF_1529	Maximum distance between near-core OGs:	3
+GCF_1529	Median CDS count:	24
+GCF_1529	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5833333333333334
+GCF_2152	Maximum of maximum E-values observed for any OG	7.3e-26
+GCF_2152	Maximum of near-core OG E-values observed:	7.3e-26
+GCF_2152	Maximum distance between near-core OGs:	1
+GCF_2152	Median CDS count:	16.0
+GCF_2152	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5485714285714285
+GCF_517	Maximum of maximum E-values observed for any OG	3.22e-30
+GCF_517	Maximum of near-core OG E-values observed:	3.22e-30
+GCF_517	Maximum distance between near-core OGs:	2
+GCF_517	Median CDS count:	6.0
+GCF_517	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8571428571428572
+GCF_1041	Maximum of maximum E-values observed for any OG	2.29e-21
+GCF_1041	Maximum of near-core OG E-values observed:	7.5e-207
+GCF_1041	Maximum distance between near-core OGs:	1
+GCF_1041	Median CDS count:	12.5
+GCF_1041	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.4340277777777778
+GCF_300	Maximum of maximum E-values observed for any OG	4.88e-39
+GCF_300	Maximum of near-core OG E-values observed:	4.88e-39
+GCF_300	Maximum distance between near-core OGs:	3
+GCF_300	Median CDS count:	36.5
+GCF_300	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7398648648648649
+GCF_773	Maximum of maximum E-values observed for any OG	4.56e-121
+GCF_773	Maximum of near-core OG E-values observed:	4.56e-121
+GCF_773	Maximum distance between near-core OGs:	1
+GCF_773	Median CDS count:	16.0
+GCF_773	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9411764705882353
+GCF_1280	Maximum of maximum E-values observed for any OG	1.71e-55
+GCF_1280	Maximum of near-core OG E-values observed:	1.71e-55
+GCF_1280	Maximum distance between near-core OGs:	2
+GCF_1280	Median CDS count:	23.5
+GCF_1280	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8972727272727272
+GCF_201	Maximum of maximum E-values observed for any OG	3.8e-31
+GCF_201	Maximum of near-core OG E-values observed:	3.8e-31
+GCF_201	Maximum distance between near-core OGs:	1
+GCF_201	Median CDS count:	9.5
+GCF_201	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7916666666666667
+GCF_203	Maximum of maximum E-values observed for any OG	7.98e-56
+GCF_203	Maximum of near-core OG E-values observed:	6.21e-81
+GCF_203	Maximum distance between near-core OGs:	1
+GCF_203	Median CDS count:	9.0
+GCF_203	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8888888888888888
+GCF_340	Maximum of maximum E-values observed for any OG	3.02e-53
+GCF_340	Maximum of near-core OG E-values observed:	3.02e-53
+GCF_340	Maximum distance between near-core OGs:	3
+GCF_340	Median CDS count:	19
+GCF_340	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9473684210526315
+GCF_454	Maximum of maximum E-values observed for any OG	9.76e-24
+GCF_454	Maximum of near-core OG E-values observed:	1.36e-45
+GCF_454	Maximum distance between near-core OGs:	1
+GCF_454	Median CDS count:	7
+GCF_454	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.42857142857142855
+GCF_391	Maximum of maximum E-values observed for any OG	1.58e-53
+GCF_391	Maximum of near-core OG E-values observed:	1.58e-53
+GCF_391	Maximum distance between near-core OGs:	1
+GCF_391	Median CDS count:	39.0
+GCF_391	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_2124	Maximum of maximum E-values observed for any OG	8.35e-24
+GCF_2124	Maximum of near-core OG E-values observed:	3.29e-39
+GCF_2124	Maximum distance between near-core OGs:	2
+GCF_2124	Median CDS count:	19.5
+GCF_2124	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7697368421052632
+GCF_226	Maximum of maximum E-values observed for any OG	7.15e-45
+GCF_226	Maximum of near-core OG E-values observed:	7.15e-45
+GCF_226	Maximum distance between near-core OGs:	8
+GCF_226	Median CDS count:	60
+GCF_226	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9333333333333333
+GCF_310	Maximum of maximum E-values observed for any OG	1.18e-121
+GCF_310	Maximum of near-core OG E-values observed:	0.0
+GCF_310	Maximum distance between near-core OGs:	2
+GCF_310	Median CDS count:	7.5
+GCF_310	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6696428571428572
+GCF_115	Maximum of maximum E-values observed for any OG	1.32e-92
+GCF_115	Maximum of near-core OG E-values observed:	1.32e-92
+GCF_115	Maximum distance between near-core OGs:	2
+GCF_115	Median CDS count:	12.0
+GCF_115	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9166666666666666
+GCF_2184	Maximum of maximum E-values observed for any OG	1.87e-212
+GCF_2184	Maximum of near-core OG E-values observed:	1.87e-212
+GCF_2184	Maximum distance between near-core OGs:	1
+GCF_2184	Median CDS count:	2.5
+GCF_2184	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1874	Maximum of maximum E-values observed for any OG	3.86e-22
+GCF_1874	Maximum of near-core OG E-values observed:	4.92e-83
+GCF_1874	Maximum distance between near-core OGs:	2
+GCF_1874	Median CDS count:	10.0
+GCF_1874	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5952380952380952
+GCF_1230	Maximum of maximum E-values observed for any OG	2.07e-42
+GCF_1230	Maximum of near-core OG E-values observed:	3.55e-201
+GCF_1230	Maximum distance between near-core OGs:	2
+GCF_1230	Median CDS count:	12.5
+GCF_1230	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.75
+GCF_1438	Maximum of maximum E-values observed for any OG	6.33e-20
+GCF_1438	Maximum of near-core OG E-values observed:	1.14e-36
+GCF_1438	Maximum distance between near-core OGs:	1
+GCF_1438	Median CDS count:	5.0
+GCF_1438	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8
+GCF_578	Maximum of maximum E-values observed for any OG	2.97e-24
+GCF_578	Maximum of near-core OG E-values observed:	2.97e-24
+GCF_578	Maximum distance between near-core OGs:	1
+GCF_578	Median CDS count:	24.0
+GCF_578	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8888888888888888
+GCF_441	Maximum of maximum E-values observed for any OG	4.43e-22
+GCF_441	Maximum of near-core OG E-values observed:	4.43e-22
+GCF_441	Maximum distance between near-core OGs:	2
+GCF_441	Median CDS count:	12.0
+GCF_441	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8571428571428572
+GCF_844	Maximum of maximum E-values observed for any OG	3.51e-79
+GCF_844	Maximum of near-core OG E-values observed:	3.17e-171
+GCF_844	Maximum distance between near-core OGs:	1
+GCF_844	Median CDS count:	11.0
+GCF_844	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8461538461538461
+GCF_925	Maximum of maximum E-values observed for any OG	2.87e-64
+GCF_925	Maximum of near-core OG E-values observed:	1.02e-189
+GCF_925	Maximum distance between near-core OGs:	1
+GCF_925	Median CDS count:	18.0
+GCF_925	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5015479876160991
+GCF_1387	Maximum of maximum E-values observed for any OG	3.08e-129
+GCF_1387	Maximum of near-core OG E-values observed:	3.08e-129
+GCF_1387	Maximum distance between near-core OGs:	1
+GCF_1387	Median CDS count:	7.5
+GCF_1387	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8333333333333333
+GCF_688	Maximum of maximum E-values observed for any OG	9.63e-85
+GCF_688	Maximum of near-core OG E-values observed:	9.63e-85
+GCF_688	Maximum distance between near-core OGs:	1
+GCF_688	Median CDS count:	17.0
+GCF_688	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1712	Maximum of maximum E-values observed for any OG	1.7e-53
+GCF_1712	Maximum of near-core OG E-values observed:	1.7e-53
+GCF_1712	Maximum distance between near-core OGs:	2
+GCF_1712	Median CDS count:	41.5
+GCF_1712	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9880952380952381
+GCF_2193	Maximum of maximum E-values observed for any OG	4.3e-129
+GCF_2193	Maximum of near-core OG E-values observed:	4.3e-129
+GCF_2193	Maximum distance between near-core OGs:	1
+GCF_2193	Median CDS count:	8.0
+GCF_2193	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8888888888888888
+GCF_2220	Maximum of maximum E-values observed for any OG	1.27e-138
+GCF_2220	Maximum of near-core OG E-values observed:	1.19e-176
+GCF_2220	Maximum distance between near-core OGs:	1
+GCF_2220	Median CDS count:	9.5
+GCF_2220	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5277777777777778
+GCF_1814	Maximum of maximum E-values observed for any OG	5.16e-42
+GCF_1814	Maximum of near-core OG E-values observed:	5.16e-42
+GCF_1814	Maximum distance between near-core OGs:	3
+GCF_1814	Median CDS count:	54.5
+GCF_1814	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.871967654986523
+GCF_1164	Maximum of maximum E-values observed for any OG	1.29e-78
+GCF_1164	Maximum of near-core OG E-values observed:	6.07e-193
+GCF_1164	Maximum distance between near-core OGs:	1
+GCF_1164	Median CDS count:	15.0
+GCF_1164	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8823529411764706
+GCF_1877	Maximum of maximum E-values observed for any OG	1.81e-45
+GCF_1877	Maximum of near-core OG E-values observed:	1.24e-198
+GCF_1877	Maximum distance between near-core OGs:	2
+GCF_1877	Median CDS count:	7.5
+GCF_1877	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8333333333333333
+GCF_312	Maximum of maximum E-values observed for any OG	2.02e-133
+GCF_312	Maximum of near-core OG E-values observed:	1.66e-176
+GCF_312	Maximum distance between near-core OGs:	2
+GCF_312	Median CDS count:	16.5
+GCF_312	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.698076923076923
+GCF_1655	Maximum of maximum E-values observed for any OG	1.42e-20
+GCF_1655	Maximum of near-core OG E-values observed:	1.42e-20
+GCF_1655	Maximum distance between near-core OGs:	2
+GCF_1655	Median CDS count:	10
+GCF_1655	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5
+GCF_438	Maximum of maximum E-values observed for any OG	2.3e-33
+GCF_438	Maximum of near-core OG E-values observed:	2.3e-33
+GCF_438	Maximum distance between near-core OGs:	1
+GCF_438	Median CDS count:	13
+GCF_438	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1906	Maximum of maximum E-values observed for any OG	1.19e-33
+GCF_1906	Maximum of near-core OG E-values observed:	3.03e-57
+GCF_1906	Maximum distance between near-core OGs:	3
+GCF_1906	Median CDS count:	23.0
+GCF_1906	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6764705882352942
+GCF_896	Maximum of maximum E-values observed for any OG	2.21e-19
+GCF_896	Maximum of near-core OG E-values observed:	6.73e-135
+GCF_896	Maximum distance between near-core OGs:	3
+GCF_896	Median CDS count:	29.0
+GCF_896	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6041666666666667
+GCF_805	Maximum of maximum E-values observed for any OG	6.48e-68
+GCF_805	Maximum of near-core OG E-values observed:	6.48e-68
+GCF_805	Maximum distance between near-core OGs:	1
+GCF_805	Median CDS count:	4.0
+GCF_805	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.75
+GCF_692	Maximum of maximum E-values observed for any OG	3.01e-42
+GCF_692	Maximum of near-core OG E-values observed:	2.42e-87
+GCF_692	Maximum distance between near-core OGs:	2
+GCF_692	Median CDS count:	6.0
+GCF_692	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6666666666666666
+GCF_1566	Maximum of maximum E-values observed for any OG	1.1e-32
+GCF_1566	Maximum of near-core OG E-values observed:	1.1e-32
+GCF_1566	Maximum distance between near-core OGs:	5
+GCF_1566	Median CDS count:	21.0
+GCF_1566	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6681818181818182
+GCF_95	Maximum of maximum E-values observed for any OG	1.85e-88
+GCF_95	Maximum of near-core OG E-values observed:	5.96e-117
+GCF_95	Maximum distance between near-core OGs:	3
+GCF_95	Median CDS count:	8
+GCF_95	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.875
+GCF_1582	Maximum of maximum E-values observed for any OG	1.63e-32
+GCF_1582	Maximum of near-core OG E-values observed:	1.67e-127
+GCF_1582	Maximum distance between near-core OGs:	2
+GCF_1582	Median CDS count:	22
+GCF_1582	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7727272727272727
+GCF_177	Maximum of maximum E-values observed for any OG	5e-45
+GCF_177	Maximum of near-core OG E-values observed:	5e-45
+GCF_177	Maximum distance between near-core OGs:	2
+GCF_177	Median CDS count:	31.0
+GCF_177	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9070010449320794
+GCF_444	Maximum of maximum E-values observed for any OG	1.4e-18
+GCF_444	Maximum of near-core OG E-values observed:	1.4e-18
+GCF_444	Maximum distance between near-core OGs:	3
+GCF_444	Median CDS count:	8.5
+GCF_444	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7083333333333333
+GCF_1586	Maximum of maximum E-values observed for any OG	2.78e-169
+GCF_1586	Maximum of near-core OG E-values observed:	2.78e-169
+GCF_1586	Maximum distance between near-core OGs:	2
+GCF_1586	Median CDS count:	12.5
+GCF_1586	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6433823529411764
+GCF_615	Maximum of maximum E-values observed for any OG	1.92e-119
+GCF_615	Maximum of near-core OG E-values observed:	1.92e-119
+GCF_615	Maximum distance between near-core OGs:	2
+GCF_615	Median CDS count:	28.5
+GCF_615	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8486352357320099
+GCF_1768	Maximum of maximum E-values observed for any OG	3.6e-43
+GCF_1768	Maximum of near-core OG E-values observed:	3.6e-43
+GCF_1768	Maximum distance between near-core OGs:	2
+GCF_1768	Median CDS count:	18.5
+GCF_1768	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.925
+GCF_1968	Maximum of maximum E-values observed for any OG	2.23e-35
+GCF_1968	Maximum of near-core OG E-values observed:	2.23e-35
+GCF_1968	Maximum distance between near-core OGs:	1
+GCF_1968	Median CDS count:	3.0
+GCF_1968	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1428	Maximum of maximum E-values observed for any OG	4.69e-102
+GCF_1428	Maximum of near-core OG E-values observed:	2.55e-165
+GCF_1428	Maximum distance between near-core OGs:	2
+GCF_1428	Median CDS count:	11.5
+GCF_1428	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.71875
+GCF_1279	Maximum of maximum E-values observed for any OG	1.73e-39
+GCF_1279	Maximum of near-core OG E-values observed:	1.73e-39
+GCF_1279	Maximum distance between near-core OGs:	3
+GCF_1279	Median CDS count:	36.5
+GCF_1279	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.6763513513513514
+GCF_125	Maximum of maximum E-values observed for any OG	0.0
+GCF_125	Maximum of near-core OG E-values observed:	0.0
+GCF_125	Maximum distance between near-core OGs:	1
+GCF_125	Median CDS count:	5.0
+GCF_125	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_885	Maximum of maximum E-values observed for any OG	2.56e-52
+GCF_885	Maximum of near-core OG E-values observed:	2.56e-52
+GCF_885	Maximum distance between near-core OGs:	1
+GCF_885	Median CDS count:	6.0
+GCF_885	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.8333333333333334
+GCF_1111	Maximum of maximum E-values observed for any OG	1.85e-37
+GCF_1111	Maximum of near-core OG E-values observed:	6.42e-108
+GCF_1111	Maximum distance between near-core OGs:	1
+GCF_1111	Median CDS count:	6.5
+GCF_1111	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7738095238095238
+GCF_63	Maximum of maximum E-values observed for any OG	1.93e-59
+GCF_63	Maximum of near-core OG E-values observed:	1.93e-59
+GCF_63	Maximum distance between near-core OGs:	1
+GCF_63	Median CDS count:	18.0
+GCF_63	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.7826086956521738
+GCF_710	Maximum of maximum E-values observed for any OG	3.32e-162
+GCF_710	Maximum of near-core OG E-values observed:	1.38e-179
+GCF_710	Maximum distance between near-core OGs:	2
+GCF_710	Median CDS count:	5.5
+GCF_710	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.9166666666666667
+GCF_836	Maximum of maximum E-values observed for any OG	5.9e-71
+GCF_836	Maximum of near-core OG E-values observed:	5.9e-71
+GCF_836	Maximum distance between near-core OGs:	1
+GCF_836	Median CDS count:	10.0
+GCF_836	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	1.0
+GCF_1909	Maximum of maximum E-values observed for any OG	7.28e-49
+GCF_1909	Maximum of near-core OG E-values observed:	1.41e-68
+GCF_1909	Maximum distance between near-core OGs:	2
+GCF_1909	Median CDS count:	23
+GCF_1909	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.782608695652174
+GCF_1465	Maximum of maximum E-values observed for any OG	7.09e-53
+GCF_1465	Maximum of near-core OG E-values observed:	4.06e-197
+GCF_1465	Maximum distance between near-core OGs:	3
+GCF_1465	Median CDS count:	23.0
+GCF_1465	Median proportion of CDS which are near-core (conserved in 80 percent of gene-clusters):	0.5111111111111111

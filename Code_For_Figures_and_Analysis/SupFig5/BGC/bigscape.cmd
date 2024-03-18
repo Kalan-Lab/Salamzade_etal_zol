@@ -1,0 +1,1 @@
+python /home/conda_envs/BiG-SCAPE_env/BiG-SCAPE_with_MiBIG3/BiG-SCAPE/bigscape.py -i mibig_gbk_3.1/ -o BiG-SCAPE_Results/ --include_gbk_str "BGC" --pfam_dir /home/salamzade/databases/Pfam/ -c 30 --mix --no_classify

@@ -1,0 +1,100 @@
+	Ref_Epa_from_V583_fai-gene-cluster-1	t10_fai-gene-cluster-1	t11_fai-gene-cluster-1	t12_fai-gene-cluster-1	t13_fai-gene-cluster-1	t14_fai-gene-cluster-1	t15_fai-gene-cluster-1	t16_fai-gene-cluster-1	t17_fai-gene-cluster-1	t18_fai-gene-cluster-1	t19_fai-gene-cluster-1	t1_fai-gene-cluster-1	t20_fai-gene-cluster-1	t21_fai-gene-cluster-1	t22_fai-gene-cluster-1	t23_fai-gene-cluster-1	t24_fai-gene-cluster-1	t25_fai-gene-cluster-1	t26_fai-gene-cluster-1	t27_fai-gene-cluster-1	t28_fai-gene-cluster-1	t29_fai-gene-cluster-1	t2_fai-gene-cluster-1	t30_fai-gene-cluster-1	t3_fai-gene-cluster-1	t4_fai-gene-cluster-1	t5_fai-gene-cluster-1	t6_fai-gene-cluster-1	t7_fai-gene-cluster-1	t8_fai-gene-cluster-1	t9_fai-gene-cluster-1
+Number of genes	39	62	57	51	57	72	58	66	77	57	67	49	44	61	62	45	55	55	69	60	54	61	58	59	59	81	63	57	53	83	57
+Number of genes in orthogroups	39	62	57	51	57	72	57	66	76	57	67	49	44	61	62	45	55	55	68	58	54	61	58	58	58	81	62	57	53	81	57
+Number of unassigned genes	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1	2	0	0	0	1	1	0	1	0	0	2	0
+Percentage of genes in orthogroups	100.0	100.0	100.0	100.0	100.0	100.0	98.3	100.0	98.7	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	98.6	96.7	100.0	100.0	100.0	98.3	98.3	100.0	98.4	100.0	100.0	97.6	100.0
+Percentage of unassigned genes	0.0	0.0	0.0	0.0	0.0	0.0	1.7	0.0	1.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.4	3.3	0.0	0.0	0.0	1.7	1.7	0.0	1.6	0.0	0.0	2.4	0.0
+Number of orthogroups containing species	37	35	36	37	35	37	34	34	38	37	37	34	34	35	37	35	37	35	35	32	38	35	37	37	35	37	35	37	35	38	37
+Percentage of orthogroups containing species	86.0	81.4	83.7	86.0	81.4	86.0	79.1	79.1	88.4	86.0	86.0	79.1	79.1	81.4	86.0	81.4	86.0	81.4	81.4	74.4	88.4	81.4	86.0	86.0	81.4	86.0	81.4	86.0	81.4	88.4	86.0
+Number of species-specific orthogroups	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Number of genes in species-specific orthogroups	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Percentage of genes in species-specific orthogroups	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+
+Number of genes per-species in orthogroup	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups	Number of orthogroups
+'0	6	8	7	6	8	6	9	9	5	6	6	9	9	8	6	8	6	8	8	11	5	8	6	6	8	6	8	6	8	5	6
+'1	35	17	20	25	20	18	18	15	19	24	20	24	28	20	19	27	24	22	15	17	27	17	21	20	20	16	17	20	22	14	21
+'2	2	12	11	10	9	13	13	13	13	6	11	7	4	9	11	6	10	8	12	9	7	12	12	13	10	9	13	15	9	18	13
+'3	0	5	5	2	5	3	0	2	2	7	4	2	1	3	7	2	2	4	5	3	3	4	3	4	3	8	1	1	3	2	2
+'4	0	0	0	0	1	0	2	2	2	0	1	0	0	1	0	0	0	0	1	2	1	2	1	0	1	2	4	1	1	2	1
+'5	0	0	0	0	0	2	1	1	1	0	0	1	1	2	0	0	1	1	2	0	0	0	0	0	1	0	0	0	0	1	0
+'6	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+'7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'9	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+'10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+11-15	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+16-20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21-50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+51-100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+101-150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+151-200	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+201-500	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+501-1000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'1001+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Number of genes per-species in orthogroup	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups
+'0	14.0	18.6	16.3	14.0	18.6	14.0	20.9	20.9	11.6	14.0	14.0	20.9	20.9	18.6	14.0	18.6	14.0	18.6	18.6	25.6	11.6	18.6	14.0	14.0	18.6	14.0	18.6	14.0	18.6	11.6	14.0
+'1	81.4	39.5	46.5	58.1	46.5	41.9	41.9	34.9	44.2	55.8	46.5	55.8	65.1	46.5	44.2	62.8	55.8	51.2	34.9	39.5	62.8	39.5	48.8	46.5	46.5	37.2	39.5	46.5	51.2	32.6	48.8
+'2	4.7	27.9	25.6	23.3	20.9	30.2	30.2	30.2	30.2	14.0	25.6	16.3	9.3	20.9	25.6	14.0	23.3	18.6	27.9	20.9	16.3	27.9	27.9	30.2	23.3	20.9	30.2	34.9	20.9	41.9	30.2
+'3	0.0	11.6	11.6	4.7	11.6	7.0	0.0	4.7	4.7	16.3	9.3	4.7	2.3	7.0	16.3	4.7	4.7	9.3	11.6	7.0	7.0	9.3	7.0	9.3	7.0	18.6	2.3	2.3	7.0	4.7	4.7
+'4	0.0	0.0	0.0	0.0	2.3	0.0	4.7	4.7	4.7	0.0	2.3	0.0	0.0	2.3	0.0	0.0	0.0	0.0	2.3	4.7	2.3	4.7	2.3	0.0	2.3	4.7	9.3	2.3	2.3	4.7	2.3
+'5	0.0	0.0	0.0	0.0	0.0	4.7	2.3	2.3	2.3	0.0	0.0	2.3	2.3	4.7	0.0	0.0	2.3	2.3	4.7	0.0	0.0	0.0	0.0	0.0	2.3	0.0	0.0	0.0	0.0	2.3	0.0
+'6	0.0	2.3	0.0	0.0	0.0	0.0	0.0	2.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.3	0.0	0.0	0.0	0.0	0.0	2.3	0.0	0.0	0.0	0.0	0.0
+'7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'9	0.0	0.0	0.0	0.0	0.0	2.3	0.0	0.0	0.0	0.0	2.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.3	0.0	0.0	0.0	0.0	0.0
+'10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+11-15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.3	0.0
+16-20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+21-50	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+51-100	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+101-150	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+151-200	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+201-500	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+501-1000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'1001+	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Number of genes per-species in orthogroup	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes	Number of genes
+'0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'1	35	17	20	25	20	18	18	15	19	24	20	24	28	20	19	27	24	22	15	17	27	17	21	20	20	16	17	20	22	14	21
+'2	4	24	22	20	18	26	26	26	26	12	22	14	8	18	22	12	20	16	24	18	14	24	24	26	20	18	26	30	18	36	26
+'3	0	15	15	6	15	9	0	6	6	21	12	6	3	9	21	6	6	12	15	9	9	12	9	12	9	24	3	3	9	6	6
+'4	0	0	0	0	4	0	8	8	8	0	4	0	0	4	0	0	0	0	4	8	4	8	4	0	4	8	16	4	4	8	4
+'5	0	0	0	0	0	10	5	5	5	0	0	5	5	10	0	0	5	5	10	0	0	0	0	0	5	0	0	0	0	5	0
+'6	0	6	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	6	0	0	0	0	0
+'7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'9	0	0	0	0	0	9	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0
+'10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+11-15	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0
+16-20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21-50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+51-100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+101-150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+151-200	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+201-500	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+501-1000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+'1001+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Number of genes per-species in orthogroup	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes	Percentage of genes
+'0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'1	89.7	27.4	35.1	49.0	35.1	25.0	31.0	22.7	24.7	42.1	29.9	49.0	63.6	32.8	30.6	60.0	43.6	40.0	21.7	28.3	50.0	27.9	36.2	33.9	33.9	19.8	27.0	35.1	41.5	16.9	36.8
+'2	10.3	38.7	38.6	39.2	31.6	36.1	44.8	39.4	33.8	21.1	32.8	28.6	18.2	29.5	35.5	26.7	36.4	29.1	34.8	30.0	25.9	39.3	41.4	44.1	33.9	22.2	41.3	52.6	34.0	43.4	45.6
+'3	0.0	24.2	26.3	11.8	26.3	12.5	0.0	9.1	7.8	36.8	17.9	12.2	6.8	14.8	33.9	13.3	10.9	21.8	21.7	15.0	16.7	19.7	15.5	20.3	15.3	29.6	4.8	5.3	17.0	7.2	10.5
+'4	0.0	0.0	0.0	0.0	7.0	0.0	13.8	12.1	10.4	0.0	6.0	0.0	0.0	6.6	0.0	0.0	0.0	0.0	5.8	13.3	7.4	13.1	6.9	0.0	6.8	9.9	25.4	7.0	7.5	9.6	7.0
+'5	0.0	0.0	0.0	0.0	0.0	13.9	8.6	7.6	6.5	0.0	0.0	10.2	11.4	16.4	0.0	0.0	9.1	9.1	14.5	0.0	0.0	0.0	0.0	0.0	8.5	0.0	0.0	0.0	0.0	6.0	0.0
+'6	0.0	9.7	0.0	0.0	0.0	0.0	0.0	9.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	10.0	0.0	0.0	0.0	0.0	0.0	7.4	0.0	0.0	0.0	0.0	0.0
+'7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'9	0.0	0.0	0.0	0.0	0.0	12.5	0.0	0.0	0.0	0.0	13.4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	11.1	0.0	0.0	0.0	0.0	0.0
+'10	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+11-15	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	14.5	0.0
+16-20	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+21-50	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+51-100	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+101-150	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+151-200	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+201-500	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+501-1000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+'1001+	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,0 +1,66 @@
+HOG	OG	Gene Tree Parent Clade	Ref_Epa_from_V583_fai-gene-cluster-1	t10_fai-gene-cluster-1	t11_fai-gene-cluster-1	t12_fai-gene-cluster-1	t13_fai-gene-cluster-1	t14_fai-gene-cluster-1	t15_fai-gene-cluster-1	t16_fai-gene-cluster-1	t17_fai-gene-cluster-1	t18_fai-gene-cluster-1	t19_fai-gene-cluster-1	t1_fai-gene-cluster-1	t20_fai-gene-cluster-1	t21_fai-gene-cluster-1	t22_fai-gene-cluster-1	t23_fai-gene-cluster-1	t24_fai-gene-cluster-1	t25_fai-gene-cluster-1	t26_fai-gene-cluster-1	t27_fai-gene-cluster-1	t28_fai-gene-cluster-1	t29_fai-gene-cluster-1	t2_fai-gene-cluster-1	t30_fai-gene-cluster-1	t3_fai-gene-cluster-1	t4_fai-gene-cluster-1	t5_fai-gene-cluster-1	t6_fai-gene-cluster-1	t7_fai-gene-cluster-1	t8_fai-gene-cluster-1	t9_fai-gene-cluster-1
+N23.HOG0000000	OG0000000	n29			AAV_000163																					AAL_000157							
+N23.HOG0000001	OG0000000	n61			AAV_000162																					AAL_000156							
+N23.HOG0000002	OG0000001	n1			AAV_000149																					AAL_000144							
+N23.HOG0000003	OG0000001	n60			AAV_000150																												
+N23.HOG0000004	OG0000001	n97			AAV_000168																					AAL_000163							
+N23.HOG0000005	OG0000002	n57																								AAL_000145							
+N23.HOG0000006	OG0000003	n4			AAV_000160																					AAL_000154							
+N23.HOG0000007	OG0000003	n44			AAV_000161																					AAL_000155							
+N23.HOG0000008	OG0000004	n1			AAV_000137																					AAL_000131							
+N23.HOG0000009	OG0000004	n33			AAV_000136																					AAL_000130							
+N23.HOG0000010	OG0000004	n44			AAV_000135																					AAL_000129							
+N23.HOG0000011	OG0000005	n11			AAV_000164																					AAL_000158							
+N23.HOG0000012	OG0000005	n39																								AAL_000159							
+N23.HOG0000013	OG0000005	n56			AAV_000165																					AAL_000160							
+N23.HOG0000014	OG0000006	n1																								AAL_000139							
+N23.HOG0000015	OG0000006	n32			AAV_000144																					AAL_000138							
+N23.HOG0000016	OG0000007	n12			AAV_000157																					AAL_000151							
+N23.HOG0000017	OG0000007	n36			AAV_000158																					AAL_000152							
+N23.HOG0000018	OG0000007	n41			AAV_000159																					AAL_000153							
+N23.HOG0000019	OG0000008	n12			AAV_000155																					AAL_000149							
+N23.HOG0000020	OG0000008	n42			AAV_000156																					AAL_000150							
+N23.HOG0000021	OG0000009	n3			AAV_000177																					AAL_000172							
+N23.HOG0000022	OG0000009	n28			AAV_000178																					AAL_000173							
+N23.HOG0000023	OG0000010	n1			AAV_000141																					AAL_000135							
+N23.HOG0000024	OG0000010	n30			AAV_000140																					AAL_000134							
+N23.HOG0000025	OG0000011	n24			AAV_000142																					AAL_000136							
+N23.HOG0000026	OG0000012	n3																								AAL_000182							
+N23.HOG0000027	OG0000012	n35																								AAL_000183							
+N23.HOG0000028	OG0000012	n50			AAV_000187																												
+N23.HOG0000029	OG0000013	n3			AAV_000146																					AAL_000141							
+N23.HOG0000030	OG0000013	n28			AAV_000145																					AAL_000140							
+N23.HOG0000031	OG0000014	n0			AAV_000184																					AAL_000179							
+N23.HOG0000032	OG0000015	n5			AAV_000153																					AAL_000147							
+N23.HOG0000033	OG0000015	n31			AAV_000152																					AAL_000146							
+N23.HOG0000034	OG0000016	n3			AAV_000170																					AAL_000165							
+N23.HOG0000035	OG0000016	n23			AAV_000171																					AAL_000166							
+N23.HOG0000036	OG0000016	n27			AAV_000172																					AAL_000167							
+N23.HOG0000037	OG0000017	n14			AAV_000179																					AAL_000174							
+N23.HOG0000038	OG0000017	n33			AAV_000180																												
+N23.HOG0000039	OG0000017	n34			AAV_000181																												
+N23.HOG0000040	OG0000018	n2			AAV_000143																					AAL_000137							
+N23.HOG0000041	OG0000019	n7			AAV_000188																					AAL_000184							
+N23.HOG0000042	OG0000020	n4			AAV_000147																					AAL_000142							
+N23.HOG0000043	OG0000021	n7			AAV_000176																					AAL_000171							
+N23.HOG0000044	OG0000022	n7			AAV_000134																												
+N23.HOG0000045	OG0000022	n21			AAV_000133																					AAL_000128							
+N23.HOG0000046	OG0000023	n9			AAV_000148																					AAL_000143							
+N23.HOG0000047	OG0000024	n6																								AAL_000176							
+N23.HOG0000048	OG0000024	n12																								AAL_000177							
+N23.HOG0000049	OG0000025	n9			AAV_000183																					AAL_000178							
+N23.HOG0000050	OG0000026	n0			AAV_000186																					AAL_000181							
+N23.HOG0000051	OG0000027	n0			AAV_000154																					AAL_000148							
+N23.HOG0000052	OG0000028	n5																								AAL_000175							
+N23.HOG0000053	OG0000028	n27			AAV_000182																												
+N23.HOG0000054	OG0000029	n0			AAV_000185																					AAL_000180							
+N23.HOG0000055	OG0000030	n8			AAV_000138																					AAL_000132							
+N23.HOG0000056	OG0000030	n20			AAV_000139																					AAL_000133							
+N23.HOG0000057	OG0000031	n3			AAV_000174																					AAL_000169							
+N23.HOG0000058	OG0000031	n25			AAV_000173																					AAL_000168							
+N23.HOG0000059	OG0000032	n0			AAV_000189																					AAL_000185							
+N23.HOG0000060	OG0000033	n0			AAV_000167																					AAL_000162							
+N23.HOG0000061	OG0000034	n9			AAV_000166																												
+N23.HOG0000062	OG0000034	n24																								AAL_000161							
+N23.HOG0000063	OG0000035	n0			AAV_000175																					AAL_000170							
+N23.HOG0000064	OG0000036	n0			AAV_000169																					AAL_000164							

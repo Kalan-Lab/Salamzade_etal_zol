@@ -1,0 +1,13 @@
+OUTPUT= epa				# Output folder
+TREE= rtree_n30.tre						# Tree file used for the simulations (nwk format)
+
+# OPTIONS:
+
+RESCALE= 1.0								# Tree rescaling coefficient (default = 1, no rescaling)
+CODONS=0.33,0.33,0.33							# Mutation rate at codon positions (default = 0.33,0.33,0.33, uniform rates)
+SUB_MODEL= K2P								# Substitution model: JC69, K2P, K3P or GTR (default= JC69, Jukes and Cantor)
+KAPPA=2.0      							# Transition/transversion parameter for K2P model (default = 1). Can also be specified in SUB_RATE. 
+SEQUENCE= Epa_plus_100KbContext_1971671-2215174.fasta							# Sequence file (fasta) with genome sequence to evolve (if provided, options GC and LENGTH become obsolete)
+GAIN_RATE = 0.001							# Frequency of gene gains relative to substitution rate (default = none)
+LOSS_RATE = 0.002							# Frequency of gene losses relative to substitution rate (default = none)
+RSEED=1234                                 # Random seed for reproducibility (default = current system time milliseconds)

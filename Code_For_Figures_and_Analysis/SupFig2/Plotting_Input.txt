@@ -1,0 +1,11 @@
+HG	Upstream_Entropy	LT	GeneName	Annotation	Importance
+OG_6	0.00385124	AFLA_066900	lepE	Regulatory Gene	Critical for BGC expression
+OG_8	0.00648742	AFLA_066920	lepG	Additional Biosynthesis Gene	KO prevents production of any leporin metabolites
+OG_1	0.008366323	AFLA_066840	lepA	Core Biosynthesis Gene	KO prevents production of any leporin metabolites
+OG_7	0.008862386	AFLA_066910	lepF	Other Gene	KO only prevents production of leporin A & B
+OG_4	0.009778148	AFLA_066880	lepC	Transport-Related Gene	NA
+OG_4	0.010490851	AFLA_066930	lepH	Additional Biosynthesis Gene	KO only prevents production of leporin A
+OG_5	0.010959912	AFLA_066890	lepD	Additional Biosynthesis Gene	KO only prevents production of leporin A & B
+OG_3	0.015920357	AFLA_066860	lepB	Putative Regulatory Gene	Non-essential for BGC expression
+OG_2	0.02057598	AFLA_066850	AFLA_066850	Other Gene	NA
+OG_10	0.022813869	AFLA_066940	lepI	Additional Biosynthesis Gene	KO only prevents production of leporin A & B

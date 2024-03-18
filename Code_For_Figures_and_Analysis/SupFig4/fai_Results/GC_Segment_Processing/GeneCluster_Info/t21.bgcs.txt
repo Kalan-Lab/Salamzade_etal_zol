@@ -1,0 +1,1 @@
+t21	/home/conda_envs/CoreSimul/CoreSimul/fai_Results/GC_Segment_Processing/GeneCluster_Genbanks/t21_fai-gene-cluster-1.gbk

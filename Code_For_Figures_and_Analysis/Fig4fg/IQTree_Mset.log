@@ -1,0 +1,1263 @@
+IQ-TREE multicore version 2.2.0.3 COVID-edition for Linux 64-bit built Aug  2 2022
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    calcaneus (AVX2, FMA3, 472 GB RAM)
+Command: iqtree2 -s All_GT_Prots.msa.trimal.filtered.faa -pre IQTree_Mset -B 1000 -mset WAG,LG -nt AUTO --threads-max 50
+Seed:    332976 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Mar 15 22:02:42 2024
+Kernel:  AVX+FMA - auto-detect threads (96 CPU cores detected)
+
+Reading alignment file All_GT_Prots.msa.trimal.filtered.faa ... Fasta format detected
+Reading fasta file: done in 0.00385274 secs using 39.69% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.0011619 secs using 4566% CPU
+Alignment has 522 sequences with 116 columns, 116 distinct patterns
+115 parsimony-informative, 0 singleton sites, 1 constant sites
+                                                                                          Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.00183012 secs using 5391% CPU
+   1  OG_27|GCA_005347505.1_ASM534750v1_fai-gene-cluster-1|FMS_003688                             0.00%    passed     63.12%
+   2  OG_125|GCA_000407545.1_Ente_gilf_BAA_350_PQ1_CCUG_45553_V2_fai-gene-cluster-1|CQE_002082    0.00%    passed     80.27%
+   3  OG_125|GCA_016909115.1_ASM1690911v1_fai-gene-cluster-1|FCU_000119                           0.00%    passed     88.92%
+   4  OG_114|GCA_000406925.1_Ente_colu_ATCC51263_V1_fai-gene-cluster-1|FCI_000917                 1.72%    failed      0.06%
+   5  OG_27|GCA_002141365.1_ASM214136v1_fai-gene-cluster-1|CPX_001810                             0.00%    passed     63.35%
+   6  OG_116|GCA_017377575.1_ASM1737757v1_fai-gene-cluster-1|BBX_003007                           0.00%    passed     95.31%
+   7  OG_163|GCA_017377575.1_ASM1737757v1_fai-gene-cluster-1|BBX_002994                           0.00%    passed      6.59%
+   8  OG_163|GCA_017316305.1_ASM1731630v1_fai-gene-cluster-1|AYJ_001884                           0.00%    passed     67.96%
+   9  OG_116|GCA_002947535.1_ASM294753v1_fai-gene-cluster-1|GJT_000866                            0.00%    passed     84.19%
+  10  OG_116|GCA_001886195.1_ASM188619v1_fai-gene-cluster-1|DVC_000990                            0.00%    passed     88.93%
+  11  OG_28|GCA_001465115.1_ASM146511v1_fai-gene-cluster-1|ENR_003617                             3.45%    passed     29.15%
+  12  OG_113|GCA_001730305.1_ASM173030v1_fai-gene-cluster-1|AZB_000110                            0.00%    passed     74.09%
+  13  OG_126|GCA_000394055.1_Ente_cocc_BAA_1240_V1_fai-gene-cluster-1|BEB_001138                  0.86%    passed     25.38%
+  14  OG_163|GCA_002141175.1_ASM214117v1_fai-gene-cluster-1|FLP_001928                            0.00%    passed     37.21%
+  15  OG_130|GCA_005347505.1_ASM534750v1_fai-gene-cluster-1|FMS_003679                            0.00%    passed     28.87%
+  16  OG_116|GCA_001885945.1_ASM188594v1|DZW_000013                                               0.86%    passed     61.33%
+  17  OG_28|GCA_017377575.1_ASM1737757v1_fai-gene-cluster-1|BBX_002995                            3.45%    passed     93.56%
+  18  OG_1|GCA_002197645.1_ASM219764v1_fai-gene-cluster-1|FNX_001510                              0.00%    passed     44.55%
+  19  OG_116|GCA_017315945.1_ASM1731594v1_fai-gene-cluster-1|EPS_001285                           0.00%    passed     67.08%
+  20  OG_125|GCA_003957375.1_ASM395737v1_fai-gene-cluster-1|FXG_000820                            0.00%    passed     73.15%
+  21  OG_134|GCA_017316305.1_ASM1731630v1_fai-gene-cluster-1|AYJ_001889                           0.00%    passed     60.86%
+  22  OG_172|GCA_002140975.1_ASM214097v1_fai-gene-cluster-1|FHE_003429                            0.00%    passed     93.35%
+  23  OG_28|GCA_002148425.1_ASM214842v1_fai-gene-cluster-1|FGH_002378                             3.45%    passed     45.48%
+  24  OG_240|GCA_013394325.1_ASM1339432v1_fai-gene-cluster-1|HLU_001118                           4.31%    passed     32.79%
+  25  OG_125|GCA_018917525.1_ASM1891752v1_fai-gene-cluster-1|GKO_003766                           0.86%    passed     79.74%
+  26  OG_1|GCA_000407605.1_Ente_sulf_ATCC49903_V2_fai-gene-cluster-1|GRB_001751                   0.86%    passed     70.85%
+  27  OG_116|GCA_005405245.1_ASM540524v1_fai-gene-cluster-1|FVM_001283                            0.00%    passed     13.14%
+  28  OG_116|GCA_013391205.1_ASM1339120v1_fai-gene-cluster-1|EAN_001402                           0.00%    passed     80.56%
+  29  OG_130|GCA_001730295.1_ASM173029v1_fai-gene-cluster-1|CEV_002695                            0.00%    passed     83.06%
+  30  OG_116|GCA_002174455.1_ASM217445v1_fai-gene-cluster-1|HVJ_001985                            0.00%    passed    100.00%
+  31  OG_1|GCA_005347505.1_ASM534750v1_fai-gene-cluster-1|FMS_003697                              0.00%    passed     89.33%
+  32  OG_116|GCA_002813755.1_ASM281375v1_fai-gene-cluster-1|FRY_000722                            0.00%    passed     61.30%
+  33  OG_134|GCA_000394055.1_Ente_cocc_BAA_1240_V1_fai-gene-cluster-1|BEB_001145                  0.00%    passed     28.04%
+  34  OG_116|GCA_017830045.1_ASM1783004v1_fai-gene-cluster-1|HAV_000711                           0.00%    passed     92.20%
+  35  OG_114|GCA_004309355.1_ASM430935v1_fai-gene-cluster-1|EQI_001811                            2.59%    passed      6.39%
+  36  OG_1|GCA_002148425.1_ASM214842v1_fai-gene-cluster-1|FGH_002382                              0.00%    passed     56.77%
+  37  OG_116|GCA_004309355.1_ASM430935v1_fai-gene-cluster-1|EQI_001816                            0.00%    passed     75.49%
+  38  OG_28|GCA_001730305.1_ASM173030v1_fai-gene-cluster-1|AZB_000126                             3.45%    passed     51.10%
+  39  OG_116|GCA_017316305.1_ASM1731630v1_fai-gene-cluster-1|AYJ_001872                           0.00%    passed     82.91%
+  40  OG_114|GCA_009933135.1_ASM993313v1_fai-gene-cluster-1|BOC_001583                            0.00%    failed      4.18%
+  41  OG_134|GCA_002141175.1_ASM214117v1_fai-gene-cluster-1|FLP_001924                            0.00%    passed     33.54%
+  42  OG_1|GCA_000407545.1_Ente_gilf_BAA_350_PQ1_CCUG_45553_V2_fai-gene-cluster-1|CQE_002083      0.00%    passed     83.52%
+  43  OG_114|GCA_000394015.1_Ente_mora_BAA_383_V1_fai-gene-cluster-1|CTJ_000673                   0.00%    passed     45.11%
+  44  OG_130|GCA_000407365.1_Ente_asin_ATCC700915_V2_fai-gene-cluster-1|DBR_001715                0.86%    passed     63.81%
+  45  OG_32|GCA_005347505.1_ASM534750v1_fai-gene-cluster-1|FMS_003709                             1.72%    failed      0.88%
+  46  OG_114|GCA_017315945.1_ASM1731594v1_fai-gene-cluster-1|EPS_001286                           0.00%    failed      2.95%
+  47  OG_32|GCA_017315985.1_ASM1731598v1_fai-gene-cluster-1|DGA_001655                            1.72%    failed      2.78%
+  48  OG_125|GCA_001885905.1_ASM188590v1_fai-gene-cluster-1|FKZ_000373                            0.86%    passed     23.30%
+  49  OG_125|GCA_017315985.1_ASM1731598v1_fai-gene-cluster-1|DGA_001670                           0.00%    passed     60.77%
+  50  OG_113|GCA_000406925.1_Ente_colu_ATCC51263_V1_fai-gene-cluster-1|FCI_000918                 0.86%    passed     63.99%
+  51  OG_116|GCA_019218635.1_ASM1921863v1_fai-gene-cluster-1|BKO_001096                           0.00%    passed     84.20%
+  52  OG_114|GCA_003957375.1_ASM395737v1_fai-gene-cluster-1|FXG_000809                            0.00%    failed      0.43%
+  53  OG_126|GCA_018917525.1_ASM1891752v1_fai-gene-cluster-1|GKO_003769                           0.86%    passed     26.97%
+  54  OG_32|GCA_000394015.1_Ente_mora_BAA_383_V1_fai-gene-cluster-1|CTJ_000671                    0.86%    passed     12.09%
+  55  OG_116|GCA_002197645.1_ASM219764v1_fai-gene-cluster-1|FNX_001520                            0.00%    passed    100.00%
+  56  OG_129|GCA_900461195.1_43071_H02_fai-gene-cluster-1|GOY_001342                              0.00%    passed     10.94%
+  57  OG_125|GCA_001465115.1_ASM146511v1_fai-gene-cluster-1|ENR_003614                            0.86%    passed     38.49%
+  58  OG_28|GCA_002947535.1_ASM294753v1_fai-gene-cluster-1|GJT_000877                             3.45%    passed     71.13%
+  59  OG_32|GCA_001730295.1_ASM173029v1_fai-gene-cluster-1|CEV_002686                             0.00%    passed     15.45%
+  60  OG_116|GCA_001730295.1_ASM173029v1_fai-gene-cluster-1|CEV_002689                            0.00%    passed     99.69%
+  61  OG_114|GCA_001886195.1_ASM188619v1_fai-gene-cluster-1|DVC_000991                            1.72%    failed      4.75%
+  62  OG_1|GCA_001730315.1_ASM173031v1_fai-gene-cluster-1|FPP_002140                              0.00%    passed     29.51%
+  63  OG_240|GCA_000406925.1_Ente_colu_ATCC51263_V1_fai-gene-cluster-1|FCI_000905                 4.31%    passed     74.06%
+  64  OG_134|GCA_900461195.1_43071_H02_fai-gene-cluster-1|GOY_001338                              0.86%    passed     51.60%
+  65  OG_240|GCA_019218635.1_ASM1921863v1_fai-gene-cluster-1|BKO_001128                           5.17%    passed     49.04%
+  66  OG_163|GCA_016909115.1_ASM1690911v1_fai-gene-cluster-1|FCU_000117                           0.00%    passed     31.51%
+  67  OG_116|GCA_017377505.1_ASM1737750v1_fai-gene-cluster-1|ERY_002361                           0.00%    passed     96.26%
+  68  OG_32|GCA_017377655.1_ASM1737765v1_fai-gene-cluster-1|HKZ_005103                            1.72%    failed      3.86%
+  69  OG_240|GCA_009933135.1_ASM993313v1_fai-gene-cluster-1|BOC_001602                            4.31%    passed     87.03%
+  70  OG_116|GCA_016745255.1_ASM1674525v1_fai-gene-cluster-1|ALB_000399                           0.86%    passed     92.73%
+  71  OG_113|GCA_001465345.1_ASM146534v1_fai-gene-cluster-1|GBL_001849                            0.86%    passed     96.08%
+  72  OG_1|GCA_002140715.1_ASM214071v1_fai-gene-cluster-1|FEL_000412                              0.00%    passed     68.56%
+  73  OG_113|GCA_013394325.1_ASM1339432v1_fai-gene-cluster-1|HLU_001079                           0.86%    passed     64.71%
+  74  OG_240|GCA_016909115.1_ASM1690911v1_fai-gene-cluster-1|FCU_000098                           4.31%    passed     27.09%
+  75  OG_116|GCA_001742285.1_ASM174228v1_fai-gene-cluster-1|CRE_002317                            0.00%    passed     97.89%
+  76  OG_32|GCA_017377575.1_ASM1737757v1_fai-gene-cluster-1|BBX_003009                            1.72%    failed      1.03%
+  77  OG_116|GCA_000185365.1_ASM18536v1_fai-gene-cluster-1|FGB_001072                             0.00%    passed     71.89%
+  78  OG_113|GCA_001730315.1_ASM173031v1_fai-gene-cluster-1|FPP_002124                            0.00%    passed     64.06%
+  79  OG_134|GCA_013394305.1_ASM1339430v1_fai-gene-cluster-1|FYE_002474                           0.00%    passed     48.96%
+  80  OG_116|GCA_000407205.1_Ente_vill_ATCC700913_V2_fai-gene-cluster-1|GAD_001341                0.00%    passed     60.29%
+  81  OG_113|GCA_016745275.1_ASM1674527v1_fai-gene-cluster-1|DPW_002302                           0.00%    passed     54.81%
+  82  OG_114|GCA_902706605.1_CSURQ0835_fai-gene-cluster-1|DHR_000975                              1.72%    failed      0.00%
+  83  OG_32|GCA_002140175.1_ASM214017v1_fai-gene-cluster-1|ENL_002293                             0.00%    passed     14.98%
+  84  OG_113|GCA_017315945.1_ASM1731594v1_fai-gene-cluster-1|EPS_001287                           0.00%    passed     93.11%
+  85  OG_125|GCA_001730315.1_ASM173031v1_fai-gene-cluster-1|FPP_002141                            0.00%    passed     79.29%
+  86  OG_1|GCA_000407165.1_Ente_haem_BAA_382_V2_fai-gene-cluster-1|CRA_000432                     0.00%    passed     62.56%
+  87  OG_116|GCA_000406925.1_Ente_colu_ATCC51263_V1_fai-gene-cluster-1|FCI_000916                 0.00%    passed     82.30%
+  88  OG_114|GCA_002947535.1_ASM294753v1_fai-gene-cluster-1|GJT_000865                            0.00%    failed      1.61%
+  89  OG_28|GCA_017315945.1_ASM1731594v1_fai-gene-cluster-1|EPS_001274                            3.45%    passed     86.09%
+  90  OG_130|GCA_001730315.1_ASM173031v1_fai-gene-cluster-1|FPP_002132                            0.86%    passed     25.91%
+  91  OG_1|GCA_005405345.1_ASM540534v1_fai-gene-cluster-1|CKS_000010                              0.00%    passed     87.84%
+  92  OG_1|GCA_001465115.1_ASM146511v1_fai-gene-cluster-1|ENR_003613                              0.00%    passed     79.06%
+  93  OG_134|GCA_016909115.1_ASM1690911v1_fai-gene-cluster-1|FCU_000113                           0.00%    passed     25.04%
+  94  OG_28|GCA_002141365.1_ASM214136v1_fai-gene-cluster-1|CPX_001811                             3.45%    passed     26.08%
+  95  OG_116|GCA_900461195.1_43071_H02_fai-gene-cluster-1|GOY_001356                              0.00%    passed     90.44%
+  96  OG_125|GCA_011038845.1_ASM1103884v1_fai-gene-cluster-1|HMF_000967                           0.00%    passed     70.26%
+  97  OG_160|GCA_004309355.1_ASM430935v1_fai-gene-cluster-1|EQI_001792                            0.00%    passed     52.75%
+  98  OG_32|GCA_017316125.1_ASM1731612v1_fai-gene-cluster-1|GHV_000595                            0.00%    failed      3.47%
+  99  OG_130|GCA_001465115.1_ASM146511v1_fai-gene-cluster-1|ENR_003608                            0.00%    passed     68.70%
+ 100  OG_113|GCA_000415185.1_ASM41518v1_fai-gene-cluster-1|FBX_001298                             0.00%    passed     81.86%
+ 101  OG_32|GCA_005405205.1_ASM540520v1_fai-gene-cluster-1|ASI_001596                             1.72%    passed     10.45%
+ 102  OG_126|GCA_016908885.1_ASM1690888v1_fai-gene-cluster-1|DFP_000456                           0.86%    passed     58.79%
+ 103  OG_113|GCA_013394305.1_ASM1339430v1_fai-gene-cluster-1|FYE_002456                           0.00%    passed     53.05%
+ 104  OG_116|GCA_000407605.1_Ente_sulf_ATCC49903_V2_fai-gene-cluster-1|GRB_001762                 0.00%    passed     96.10%
+ 105  OG_32|GCA_017315945.1_ASM1731594v1_fai-gene-cluster-1|EPS_001288                            0.00%    failed      4.69%
+ 106  OG_114|GCA_005405205.1_ASM540520v1_fai-gene-cluster-1|ASI_001589                            1.72%    passed     10.05%
+ 107  OG_125|GCA_013394325.1_ASM1339432v1_fai-gene-cluster-1|HLU_001093                           0.00%    passed     66.36%
+ 108  OG_27|GCA_002148425.1_ASM214842v1_fai-gene-cluster-1|FGH_002377                             0.00%    passed     28.78%
+ 109  OG_32|GCA_019218635.1_ASM1921863v1_fai-gene-cluster-1|BKO_001094                            1.72%    failed      1.53%
+ 110  OG_130|GCA_001885945.1_ASM188594v1|DZW_002409                                               0.00%    passed     50.69%
+ 111  OG_114|GCA_019218635.1_ASM1921863v1_fai-gene-cluster-1|BKO_001101                           1.72%    passed     18.44%
+ 112  OG_114|GCA_005347505.1_ASM534750v1_fai-gene-cluster-1|FMS_003702                            1.72%    passed     83.44%
+ 113  OG_125|GCA_000407365.1_Ente_asin_ATCC700915_V2_fai-gene-cluster-1|DBR_001714                0.00%    passed     28.47%
+ 114  OG_130|GCA_005405245.1_ASM540524v1_fai-gene-cluster-1|FVM_001272                            0.00%    passed     85.26%
+ 115  OG_114|GCA_900461195.1_43071_H02_fai-gene-cluster-1|GOY_001357                              0.00%    passed     34.92%
+ 116  OG_125|GCA_017316305.1_ASM1731630v1_fai-gene-cluster-1|AYJ_001882                           0.00%    passed     71.48%
+ 117  OG_130|GCA_002197645.1_ASM219764v1_fai-gene-cluster-1|FNX_001515                            0.00%    passed     44.72%
+ 118  OG_126|GCA_009933135.1_ASM993313v1_fai-gene-cluster-1|BOC_001591                            0.86%    passed     34.71%
+ 119  OG_134|GCA_017315945.1_ASM1731594v1_fai-gene-cluster-1|EPS_001269                           0.00%    passed     91.16%
+ 120  OG_240|GCA_001885945.1_ASM188594v1|DZW_002417                                               4.31%    passed     65.57%
+ 121  OG_113|GCA_016908885.1_ASM1690888v1_fai-gene-cluster-1|DFP_000447                           0.86%    passed     47.81%
+ 122  OG_116|GCA_002141175.1_ASM214117v1_fai-gene-cluster-1|FLP_001940                            0.00%    passed     25.84%
+ 123  OG_114|GCA_017377505.1_ASM1737750v1_fai-gene-cluster-1|ERY_002362                           0.00%    passed     43.27%
+ 124  OG_116|GCA_002148425.1_ASM214842v1_fai-gene-cluster-1|FGH_002393                            0.00%    passed     95.53%
+ 125  OG_125|GCA_000407605.1_Ente_sulf_ATCC49903_V2_fai-gene-cluster-1|GRB_001750                 0.86%    passed     85.22%
+ 126  OG_32|GCA_002148425.1_ASM214842v1_fai-gene-cluster-1|FGH_002396                             0.86%    passed      7.81%
+ 127  OG_114|GCA_017316305.1_ASM1731630v1_fai-gene-cluster-1|AYJ_001871                           0.00%    failed      0.73%
+ 128  OG_129|GCA_004309355.1_ASM430935v1_fai-gene-cluster-1|EQI_001801                            2.59%    passed     67.46%
+ 129  OG_130|GCA_000394015.1_Ente_mora_BAA_383_V1_fai-gene-cluster-1|CTJ_000680                   0.00%    passed     76.28%
+ 130  OG_125|GCA_005405345.1_ASM540534v1_fai-gene-cluster-1|CKS_000009                            0.00%    passed     43.49%
+ 131  OG_134|GCA_000393975.1_Ente_pall_BAA_351_V1_fai-gene-cluster-1|FJK_004662                   0.00%    passed     11.74%
+ 132  OG_116|GCA_001730305.1_ASM173030v1_fai-gene-cluster-1|AZB_000112                            0.00%    passed     99.02%
+ 133  OG_130|GCA_001885905.1_ASM188590v1_fai-gene-cluster-1|FKZ_000391                            0.00%    passed     77.75%
+ 134  OG_32|GCA_005405345.1_ASM540534v1_fai-gene-cluster-1|CKS_000022                             1.72%    passed      8.84%
+ 135  OG_113|GCA_002813755.1_ASM281375v1_fai-gene-cluster-1|FRY_000720                            0.00%    passed     44.03%
+ 136  OG_1|GCA_013394325.1_ASM1339432v1_fai-gene-cluster-1|HLU_001092                             0.00%    passed     85.53%
+ 137  OG_113|GCA_017316305.1_ASM1731630v1_fai-gene-cluster-1|AYJ_001870                           0.00%    passed     81.80%
+ 138  OG_114|GCA_005405345.1_ASM540534v1_fai-gene-cluster-1|CKS_000015                            1.72%    passed     37.19%
+ 139  OG_113|GCA_902706605.1_CSURQ0835_fai-gene-cluster-1|DHR_000981                              0.00%    passed     84.84%
+ 140  OG_32|GCA_001885905.1_ASM188590v1_fai-gene-cluster-1|FKZ_000361                             1.72%    passed      8.84%
+ 141  OG_134|GCA_000415185.1_ASM41518v1_fai-gene-cluster-1|FBX_001280                             0.00%    passed     30.76%
+ 142  OG_116|GCA_000407545.1_Ente_gilf_BAA_350_PQ1_CCUG_45553_V2_fai-gene-cluster-1|CQE_002093    1.72%    passed     68.58%
+ 143  OG_28|GCA_002141175.1_ASM214117v1_fai-gene-cluster-1|FLP_001929                             3.45%    passed     76.27%
+ 144  OG_114|GCA_002140715.1_ASM214071v1_fai-gene-cluster-1|FEL_000399                            0.00%    failed      4.72%
+ 145  OG_114|GCA_002140975.1_ASM214097v1_fai-gene-cluster-1|FHE_003447                            0.00%    passed     11.96%
+ 146  OG_1|GCA_000394015.1_Ente_mora_BAA_383_V1_fai-gene-cluster-1|CTJ_000685                     0.00%    passed     62.56%
+ 147  OG_114|GCA_015680865.1_ASM1568086v1_fai-gene-cluster-1|GEU_000383                           1.72%    passed      7.60%
+ 148  OG_160|GCA_002140175.1_ASM214017v1_fai-gene-cluster-1|ENL_002273                            0.00%    passed     23.84%
+ 149  OG_163|GCA_002947535.1_ASM294753v1_fai-gene-cluster-1|GJT_000878                            0.00%    passed     62.88%
+ 150  OG_134|GCA_017316125.1_ASM1731612v1_fai-gene-cluster-1|GHV_000614                           0.00%    passed     45.98%
+ 151  OG_114|GCA_002140175.1_ASM214017v1_fai-gene-cluster-1|ENL_002291                            0.00%    failed      1.86%
+ 152  OG_28|GCA_002197645.1_ASM219764v1_fai-gene-cluster-1|FNX_001506                             3.45%    passed     43.47%
+ 153  OG_240|GCA_013394325.1_ASM1339432v1_fai-gene-cluster-1|HLU_001096                           5.17%    passed     91.54%
+ 154  OG_113|GCA_016745255.1_ASM1674525v1_fai-gene-cluster-1|ALB_000397                           0.00%    passed     84.35%
+ 155  OG_163|GCA_013394325.1_ASM1339432v1_fai-gene-cluster-1|HLU_001099                           0.00%    passed     25.71%
+ 156  OG_114|GCA_016745255.1_ASM1674525v1_fai-gene-cluster-1|ALB_000398                           0.00%    passed     14.98%
+ 157  OG_172|GCA_016745255.1_ASM1674525v1_fai-gene-cluster-1|ALB_000411                           0.00%    passed     96.17%
+ 158  OG_114|GCA_001885905.1_ASM188590v1_fai-gene-cluster-1|FKZ_000368                            1.72%    passed     60.23%
+ 159  OG_240|GCA_001544295.1_ASM154429v1|AWY_000812                                               4.31%    passed     22.48%
+ 160  OG_126|GCA_001730365.1_ASM173036v1_fai-gene-cluster-1|DXL_001082                            0.86%    passed     12.83%
+ 161  OG_125|GCA_005347505.1_ASM534750v1_fai-gene-cluster-1|FMS_003696                            0.00%    passed     79.11%
+ 162  OG_114|GCA_001730365.1_ASM173036v1_fai-gene-cluster-1|DXL_001073                            0.00%    passed     44.38%
+ 163  OG_134|GCA_000407545.1_Ente_gilf_BAA_350_PQ1_CCUG_45553_V2_fai-gene-cluster-1|CQE_002077    0.00%    passed     96.78%
+ 164  OG_27|GCA_013394305.1_ASM1339430v1_fai-gene-cluster-1|FYE_002470                            0.00%    passed     39.17%
+ 165  OG_240|GCA_019175485.1_ASM1917548v1_fai-gene-cluster-1|GMF_001967                           4.31%    passed     24.59%
+ 166  OG_134|GCA_005405345.1_ASM540534v1_fai-gene-cluster-1|CKS_000005                            0.00%    passed     84.98%
+ 167  OG_113|GCA_017316125.1_ASM1731612v1_fai-gene-cluster-1|GHV_000596                           0.00%    passed     84.72%
+ 168  OG_32|GCA_002141365.1_ASM214136v1_fai-gene-cluster-1|CPX_001829                             0.86%    passed     13.65%
+ 169  OG_1|GCA_002141365.1_ASM214136v1_fai-gene-cluster-1|CPX_001815                              0.00%    passed     62.56%
+ 170  OG_114|GCA_019175485.1_ASM1917548v1_fai-gene-cluster-1|GMF_001996                           1.72%    passed     14.44%
+ 171  OG_28|GCA_019218635.1_ASM1921863v1_fai-gene-cluster-1|BKO_001109                            3.45%    passed     97.67%
+ 172  OG_113|GCA_017377655.1_ASM1737765v1_fai-gene-cluster-1|HKZ_005104                           0.00%    passed     88.42%
+ 173  OG_240|GCA_001885905.1_ASM188590v1_fai-gene-cluster-1|FKZ_000399                            4.31%    passed     19.20%
+ 174  OG_125|GCA_016745255.1_ASM1674525v1_fai-gene-cluster-1|ALB_000413                           0.86%    passed     57.88%
+ 175  OG_114|GCA_000407605.1_Ente_sulf_ATCC49903_V2_fai-gene-cluster-1|GRB_001763                 2.59%    failed      1.05%
+ 176  OG_126|GCA_001742285.1_ASM174228v1_fai-gene-cluster-1|CRE_002309                            0.86%    passed     21.57%
+ 177  OG_116|GCA_001465115.1_ASM146511v1_fai-gene-cluster-1|ENR_003602                            0.00%    passed     85.80%
+ 178  OG_113|GCA_015356315.1_ASM1535631v1_fai-gene-cluster-1|FSP_001639                           0.00%    passed     80.43%
+ 179  OG_113|GCA_013391205.1_ASM1339120v1_fai-gene-cluster-1|EAN_001404                           0.00%    passed     38.25%
+ 180  OG_113|GCA_900447715.1_57845_D01_fai-gene-cluster-1|BLM_001024                              0.86%    passed     72.34%
+ 181  OG_27|GCA_000415185.1_ASM41518v1_fai-gene-cluster-1|FBX_001284                              0.00%    passed     30.20%
+ 182  OG_32|GCA_001885945.1_ASM188594v1|DZW_000015                                                1.72%    failed      4.28%
+ 183  OG_134|GCA_005347505.1_ASM534750v1_fai-gene-cluster-1|FMS_003687                            0.00%    passed     85.00%
+ 184  OG_125|GCA_002141175.1_ASM214117v1_fai-gene-cluster-1|FLP_001930                            0.00%    passed     90.41%
+ 185  OG_116|GCA_018917525.1_ASM1891752v1_fai-gene-cluster-1|GKO_003760                           1.72%    passed     85.17%
+ 186  OG_113|GCA_002141365.1_ASM214136v1_fai-gene-cluster-1|CPX_001828                            0.00%    passed     89.64%
+ 187  OG_32|GCA_001730305.1_ASM173030v1_fai-gene-cluster-1|AZB_000109                             0.00%    passed     19.41%
+ 188  OG_114|GCA_016745275.1_ASM1674527v1_fai-gene-cluster-1|DPW_002301                           0.00%    passed     79.07%
+ 189  OG_125|GCA_017830045.1_ASM1783004v1_fai-gene-cluster-1|HAV_000697                           0.86%    passed     79.55%
+ 190  OG_113|GCA_016909115.1_ASM1690911v1_fai-gene-cluster-1|FCU_000131                           0.86%    passed     97.62%
+ 191  OG_134|GCA_001544295.1_ASM154429v1|AWY_000828                                               0.00%    passed     19.83%
+ 192  OG_114|GCA_001885945.1_ASM188594v1|DZW_000008                                               4.31%    failed      1.31%
+ 193  OG_125|GCA_002140175.1_ASM214017v1_fai-gene-cluster-1|ENL_002280                            0.00%    passed     60.67%
+ 194  OG_130|GCA_000407165.1_Ente_haem_BAA_382_V2_fai-gene-cluster-1|CRA_000427                   0.00%    passed     79.57%
+ 195  OG_89|GCA_001544295.1_ASM154429v1|AWY_000821                                                5.17%    passed     78.73%
+ 196  OG_32|GCA_013394325.1_ASM1339432v1_fai-gene-cluster-1|HLU_001078                            1.72%    failed      4.88%
+ 197  OG_116|GCA_001730285.1_ASM173028v1_fai-gene-cluster-1|BLP_001805                            0.00%    passed     90.84%
+ 198  OG_113|GCA_000407165.1_Ente_haem_BAA_382_V2_fai-gene-cluster-1|CRA_000420                   0.00%    passed     86.27%
+ 199  OG_114|GCA_000185365.1_ASM18536v1_fai-gene-cluster-1|FGB_001071                             0.00%    passed     41.58%
+ 200  OG_114|GCA_018917525.1_ASM1891752v1_fai-gene-cluster-1|GKO_003765                           1.72%    passed     48.98%
+ 201  OG_163|GCA_017377655.1_ASM1737765v1_fai-gene-cluster-1|HKZ_005118                           0.00%    passed     33.12%
+ 202  OG_114|GCA_002148425.1_ASM214842v1_fai-gene-cluster-1|FGH_002394                            0.00%    passed      6.73%
+ 203  OG_116|GCA_002140175.1_ASM214017v1_fai-gene-cluster-1|ENL_002290                            0.00%    passed     71.61%
+ 204  OG_125|GCA_002140715.1_ASM214071v1_fai-gene-cluster-1|FEL_000413                            0.86%    passed     36.39%
+ 205  OG_32|GCA_005405245.1_ASM540524v1_fai-gene-cluster-1|FVM_001286                             0.00%    failed      4.46%
+ 206  OG_32|GCA_000394055.1_Ente_cocc_BAA_1240_V1_fai-gene-cluster-1|BEB_001127                   0.86%    passed      8.80%
+ 207  OG_28|GCA_019175485.1_ASM1917548v1_fai-gene-cluster-1|GMF_001985                            3.45%    passed     97.29%
+ 208  OG_134|GCA_013391205.1_ASM1339120v1_fai-gene-cluster-1|EAN_001385                           0.00%    passed     30.07%
+ 209  OG_134|GCA_013394325.1_ASM1339432v1_fai-gene-cluster-1|HLU_001103                           0.00%    passed     61.08%
+ 210  OG_114|GCA_001730305.1_ASM173030v1_fai-gene-cluster-1|AZB_000111                            0.00%    passed     33.84%
+ 211  OG_28|GCA_005347505.1_ASM534750v1_fai-gene-cluster-1|FMS_003689                             3.45%    passed     95.01%
+ 212  OG_113|GCA_002140175.1_ASM214017v1_fai-gene-cluster-1|ENL_002292                            0.00%    passed     58.09%
+ 213  OG_27|GCA_001465345.1_ASM146534v1_fai-gene-cluster-1|GBL_001868                             0.00%    passed     44.31%
+ 214  OG_28|GCA_017377655.1_ASM1737765v1_fai-gene-cluster-1|HKZ_005117                            3.45%    passed     99.57%
+ 215  OG_1|GCA_016909115.1_ASM1690911v1_fai-gene-cluster-1|FCU_000120                             0.00%    passed     80.50%
+ 216  OG_125|GCA_001465345.1_ASM146534v1_fai-gene-cluster-1|GBL_001863                            0.86%    passed     33.20%
+ 217  OG_27|GCA_002140715.1_ASM214071v1_fai-gene-cluster-1|FEL_000417                             0.00%    passed     64.55%
+ 218  OG_130|GCA_004309355.1_ASM430935v1_fai-gene-cluster-1|EQI_001799                            4.31%    passed     88.53%
+ 219  OG_114|GCA_001465115.1_ASM146511v1_fai-gene-cluster-1|ENR_003601                            0.00%    passed     31.79%
+ 220  OG_113|GCA_001742285.1_ASM174228v1_fai-gene-cluster-1|CRE_002319                            0.00%    passed     76.83%
+ 221  OG_32|GCA_002197645.1_ASM219764v1_fai-gene-cluster-1|FNX_001523                             0.00%    passed     11.24%
+ 222  OG_1|GCA_017377655.1_ASM1737765v1_fai-gene-cluster-1|HKZ_005115                             0.00%    passed     99.36%
+ 223  OG_134|GCA_001544295.1_ASM154429v1|AWY_000829                                               0.00%    passed     36.78%
+ 224  OG_125|GCA_001730305.1_ASM173030v1_fai-gene-cluster-1|AZB_000123                            0.86%    passed     32.09%
+ 225  OG_116|GCA_002140775.1_ASM214077v1_fai-gene-cluster-1|DMP_001506                            0.00%    passed     75.29%
+ 226  OG_114|GCA_013394325.1_ASM1339432v1_fai-gene-cluster-1|HLU_001085                           1.72%    passed     55.48%
+ 227  OG_113|GCA_001544295.1_ASM154429v1|AWY_001584                                               0.86%    passed     88.52%
+ 228  OG_125|GCA_000407165.1_Ente_haem_BAA_382_V2_fai-gene-cluster-1|CRA_000433                   0.86%    passed     31.41%
+ 229  OG_134|GCA_002140715.1_ASM214071v1_fai-gene-cluster-1|FEL_000420                            0.00%    passed     69.34%
+ 230  OG_28|GCA_003957375.1_ASM395737v1_fai-gene-cluster-1|FXG_000821                             3.45%    passed     69.62%
+ 231  OG_28|GCA_000407165.1_Ente_haem_BAA_382_V2_fai-gene-cluster-1|CRA_000436                    3.45%    passed     29.15%
+ 232  OG_1|GCA_001885905.1_ASM188590v1_fai-gene-cluster-1|FKZ_000372                              0.00%    passed     72.67%
+ 233  OG_125|GCA_000406925.1_Ente_colu_ATCC51263_V1_fai-gene-cluster-1|FCI_000907                 0.00%    passed     54.76%
+ 234  OG_125|GCA_002141365.1_ASM214136v1_fai-gene-cluster-1|CPX_001814                            0.86%    passed     26.25%
+ 235  OG_32|GCA_018917525.1_ASM1891752v1_fai-gene-cluster-1|GKO_003758                            1.72%    failed      1.63%
+ 236  OG_113|GCA_001730295.1_ASM173029v1_fai-gene-cluster-1|CEV_002687                            0.00%    passed     97.90%
+ 237  OG_28|GCA_017316125.1_ASM1731612v1_fai-gene-cluster-1|GHV_000609                            3.45%    passed     90.55%
+ 238  OG_113|GCA_015680865.1_ASM1568086v1_fai-gene-cluster-1|GEU_000382                           0.00%    passed     67.60%
+ 239  OG_114|GCA_002140775.1_ASM214077v1_fai-gene-cluster-1|DMP_001505                            0.00%    passed      9.61%
+ 240  OG_32|GCA_013391205.1_ASM1339120v1_fai-gene-cluster-1|EAN_001405                            1.72%    passed     15.76%
+ 241  OG_129|GCA_000394055.1_Ente_cocc_BAA_1240_V1_fai-gene-cluster-1|BEB_001141                  0.00%    passed      7.82%
+ 242  OG_116|GCA_016909115.1_ASM1690911v1_fai-gene-cluster-1|FCU_000130                           0.86%    passed     88.11%
+ 243  OG_116|GCA_001885905.1_ASM188590v1_fai-gene-cluster-1|FKZ_000363                            0.86%    passed     90.92%
+ 244  OG_116|GCA_005405345.1_ASM540534v1_fai-gene-cluster-1|CKS_000020                            0.86%    passed     90.09%
+ 245  OG_129|GCA_005405245.1_ASM540524v1_fai-gene-cluster-1|FVM_001273                            0.86%    passed     51.59%
+ 246  OG_116|GCA_001730365.1_ASM173036v1_fai-gene-cluster-1|DXL_001074                            1.72%    passed     90.67%
+ 247  OG_163|GCA_001885905.1_ASM188590v1_fai-gene-cluster-1|FKZ_000378                            0.00%    passed     94.53%
+ 248  OG_28|GCA_011038845.1_ASM1103884v1_fai-gene-cluster-1|HMF_000968                            3.45%    passed     92.30%
+ 249  OG_32|GCA_002174455.1_ASM217445v1_fai-gene-cluster-1|HVJ_001982                             0.00%    passed     12.45%
+ 250  OG_116|GCA_001730315.1_ASM173031v1_fai-gene-cluster-1|FPP_002126                            0.00%    passed     86.61%
+ 251  OG_116|GCA_016745275.1_ASM1674527v1_fai-gene-cluster-1|DPW_002300                           0.00%    passed     75.01%
+ 252  OG_113|GCA_000407545.1_Ente_gilf_BAA_350_PQ1_CCUG_45553_V2_fai-gene-cluster-1|CQE_002094    0.86%    passed     44.80%
+ 253  OG_113|GCA_000394015.1_Ente_mora_BAA_383_V1_fai-gene-cluster-1|CTJ_000672                   0.00%    passed     96.86%
+ 254  OG_113|GCA_002947535.1_ASM294753v1_fai-gene-cluster-1|GJT_000864                            0.00%    passed     40.21%
+ 255  OG_113|GCA_000407605.1_Ente_sulf_ATCC49903_V2_fai-gene-cluster-1|GRB_001764                 0.00%    passed     70.80%
+ 256  OG_160|GCA_013394305.1_ASM1339430v1_fai-gene-cluster-1|FYE_002477                           0.86%    passed     10.90%
+ 257  OG_28|GCA_002174455.1_ASM217445v1_fai-gene-cluster-1|HVJ_001999                             3.45%    passed     43.93%
+ 258  OG_130|GCA_019218635.1_ASM1921863v1_fai-gene-cluster-1|BKO_001119                           0.00%    passed     82.88%
+ 259  OG_126|GCA_004309355.1_ASM430935v1_fai-gene-cluster-1|EQI_001805                            0.86%    passed     49.07%
+ 260  OG_125|GCA_001730285.1_ASM173028v1_fai-gene-cluster-1|BLP_001790                            0.00%    passed     60.60%
+ 261  OG_113|GCA_009933135.1_ASM993313v1_fai-gene-cluster-1|BOC_001582                            0.86%    passed     59.59%
+ 262  OG_130|GCA_001544295.1_ASM154429v1|AWY_000820                                               0.00%    passed     51.75%
+ 263  OG_130|GCA_900447715.1_57845_D01_fai-gene-cluster-1|BLM_001032                              0.86%    passed     51.41%
+ 264  OG_134|GCA_001730305.1_ASM173030v1_fai-gene-cluster-1|AZB_000131                            0.00%    passed     88.89%
+ 265  OG_130|GCA_000185365.1_ASM18536v1_fai-gene-cluster-1|FGB_001089                             0.00%    passed     53.23%
+ 266  OG_113|GCA_001730285.1_ASM173028v1_fai-gene-cluster-1|BLP_001807                            0.00%    passed     83.70%
+ 267  OG_130|GCA_017830045.1_ASM1783004v1_fai-gene-cluster-1|HAV_000706                           0.00%    passed     70.01%
+ 268  OG_32|GCA_002140775.1_ASM214077v1_fai-gene-cluster-1|DMP_001503                             0.00%    failed      4.14%
+ 269  OG_114|GCA_900447715.1_57845_D01_fai-gene-cluster-1|BLM_001025                              1.72%    failed      1.14%
+ 270  OG_163|GCA_000393975.1_Ente_pall_BAA_351_V1_fai-gene-cluster-1|FJK_004666                   0.00%    failed      3.93%
+ 271  OG_125|GCA_900447715.1_57845_D01_fai-gene-cluster-1|BLM_001036                              0.00%    passed     69.49%
+ 272  OG_1|GCA_000393975.1_Ente_pall_BAA_351_V1_fai-gene-cluster-1|FJK_004669                     0.00%    passed     99.36%
+ 273  OG_134|GCA_001885905.1_ASM188590v1_fai-gene-cluster-1|FKZ_000382                            0.00%    passed      8.08%
+ 274  OG_32|GCA_002141175.1_ASM214117v1_fai-gene-cluster-1|FLP_001943                             0.00%    passed     16.42%
+ 275  OG_240|GCA_000407365.1_Ente_asin_ATCC700915_V2_fai-gene-cluster-1|DBR_001728                4.31%    passed     40.20%
+ 276  OG_125|GCA_017377655.1_ASM1737765v1_fai-gene-cluster-1|HKZ_005116                           0.00%    passed     65.94%
+ 277  OG_116|GCA_000394015.1_Ente_mora_BAA_383_V1_fai-gene-cluster-1|CTJ_000674                   0.00%    passed     97.74%
+ 278  OG_27|GCA_001465115.1_ASM146511v1_fai-gene-cluster-1|ENR_003619                             0.00%    passed     44.13%
+ 279  OG_32|GCA_002140715.1_ASM214071v1_fai-gene-cluster-1|FEL_000397                             0.00%    passed     11.40%
+ 280  OG_116|GCA_000393975.1_Ente_pall_BAA_351_V1_fai-gene-cluster-1|FJK_004679                   0.00%    passed     79.67%
+ 281  OG_114|GCA_016909115.1_ASM1690911v1_fai-gene-cluster-1|FCU_000125                           1.72%    failed      2.15%
+ 282  OG_32|GCA_000393975.1_Ente_pall_BAA_351_V1_fai-gene-cluster-1|FJK_004681                    1.72%    failed      2.86%
+ 283  OG_1|GCA_001465345.1_ASM146534v1_fai-gene-cluster-1|GBL_001862                              0.00%    passed     66.84%
+ 284  OG_32|GCA_017316305.1_ASM1731630v1_fai-gene-cluster-1|AYJ_001869                            0.00%    passed     19.89%
+ 285  OG_1|GCA_001544295.1_ASM154429v1|AWY_001573                                                 0.00%    passed     90.53%
+ 286  OG_28|GCA_013394325.1_ASM1339432v1_fai-gene-cluster-1|HLU_001098                            3.45%    passed     86.16%
+ 287  OG_116|GCA_005347505.1_ASM534750v1_fai-gene-cluster-1|FMS_003707                            0.86%    passed     99.75%
+ 288  OG_113|GCA_005405345.1_ASM540534v1_fai-gene-cluster-1|CKS_000021                            0.86%    passed     87.71%
+ 289  OG_113|GCA_000407205.1_Ente_vill_ATCC700913_V2_fai-gene-cluster-1|GAD_001343                0.00%    passed     56.67%
+ 290  OG_129|GCA_001730365.1_ASM173036v1_fai-gene-cluster-1|DXL_001085                            0.00%    failed      4.79%
+ 291  OG_28|GCA_017316305.1_ASM1731630v1_fai-gene-cluster-1|AYJ_001883                            3.45%    passed     70.27%
+ 292  OG_134|GCA_002148425.1_ASM214842v1_fai-gene-cluster-1|FGH_002373                            3.45%    passed     43.41%
+ 293  OG_32|GCA_003957375.1_ASM395737v1_fai-gene-cluster-1|FXG_000807                             0.00%    passed     12.18%
+ 294  OG_116|GCA_015680865.1_ASM1568086v1_fai-gene-cluster-1|GEU_000384                           0.00%    passed     79.78%
+ 295  OG_32|GCA_015356315.1_ASM1535631v1_fai-gene-cluster-1|FSP_001640                            0.00%    passed     19.73%
+ 296  OG_28|GCA_005405345.1_ASM540534v1_fai-gene-cluster-1|CKS_000007                             3.45%    passed     97.32%
+ 297  OG_113|GCA_001885945.1_ASM188594v1|DZW_000014                                               0.86%    passed     60.59%
+ 298  OG_114|GCA_002141365.1_ASM214136v1_fai-gene-cluster-1|CPX_001827                            0.00%    passed     60.51%
+ 299  OG_113|GCA_002141175.1_ASM214117v1_fai-gene-cluster-1|FLP_001942                            0.00%    passed     49.20%
+ 300  OG_163|GCA_017316125.1_ASM1731612v1_fai-gene-cluster-1|GHV_000610                           0.00%    passed     53.83%
+ 301  OG_32|GCA_019175485.1_ASM1917548v1_fai-gene-cluster-1|GMF_002003                            1.72%    failed      2.94%
+ 302  OG_113|GCA_019218635.1_ASM1921863v1_fai-gene-cluster-1|BKO_001095                           0.86%    passed     89.53%
+ 303  OG_32|GCA_001730285.1_ASM173028v1_fai-gene-cluster-1|BLP_001808                             0.86%    passed     14.44%
+ 304  OG_113|GCA_019175485.1_ASM1917548v1_fai-gene-cluster-1|GMF_002002                           0.86%    passed     79.52%
+ 305  OG_113|GCA_900461195.1_43071_H02_fai-gene-cluster-1|GOY_001358                              0.86%    passed     96.34%
+ 306  OG_27|GCA_019175485.1_ASM1917548v1_fai-gene-cluster-1|GMF_001984                            0.00%    passed     54.27%
+ 307  OG_125|GCA_002140975.1_ASM214097v1_fai-gene-cluster-1|FHE_003428                            0.86%    passed     75.23%
+ 308  OG_125|GCA_015356315.1_ASM1535631v1_fai-gene-cluster-1|FSP_001627                           0.00%    passed     90.24%
+ 309  OG_32|GCA_004309355.1_ASM430935v1_fai-gene-cluster-1|EQI_001818                             1.72%    passed     16.08%
+ 310  OG_28|GCA_001730295.1_ASM173029v1_fai-gene-cluster-1|CEV_002704                             3.45%    passed     49.07%
+ 311  OG_114|GCA_001465345.1_ASM146534v1_fai-gene-cluster-1|GBL_001850                            0.00%    failed      3.50%
+ 312  OG_116|GCA_005405205.1_ASM540520v1_fai-gene-cluster-1|ASI_001594                            0.86%    passed     96.54%
+ 313  OG_28|GCA_016909115.1_ASM1690911v1_fai-gene-cluster-1|FCU_000118                            3.45%    passed     98.83%
+ 314  OG_1|GCA_902706605.1_CSURQ0835_fai-gene-cluster-1|DHR_000970                                0.00%    passed     30.52%
+ 315  OG_28|GCA_004309355.1_ASM430935v1_fai-gene-cluster-1|EQI_001796                             3.45%    passed     93.06%
+ 316  OG_1|GCA_000406925.1_Ente_colu_ATCC51263_V1_fai-gene-cluster-1|FCI_000908                   0.86%    passed     99.05%
+ 317  OG_134|GCA_001885945.1_ASM188594v1|DZW_002403                                               0.00%    passed     12.12%
+ 318  OG_114|GCA_017316125.1_ASM1731612v1_fai-gene-cluster-1|GHV_000597                           0.00%    passed     11.62%
+ 319  OG_125|GCA_013391205.1_ASM1339120v1_fai-gene-cluster-1|EAN_001392                           0.00%    passed     92.17%
+ 320  OG_126|GCA_900461195.1_43071_H02_fai-gene-cluster-1|GOY_001348                              0.86%    passed     34.46%
+ 321  OG_125|GCA_002813755.1_ASM281375v1_fai-gene-cluster-1|FRY_000732                            0.00%    passed     71.48%
+ 322  OG_113|GCA_004309355.1_ASM430935v1_fai-gene-cluster-1|EQI_001817                            0.00%    passed     75.67%
+ 323  OG_116|GCA_015356315.1_ASM1535631v1_fai-gene-cluster-1|FSP_001637                           0.00%    passed     13.40%
+ 324  OG_130|GCA_016745275.1_ASM1674527v1_fai-gene-cluster-1|DPW_002294                           0.86%    passed     39.76%
+ 325  OG_114|GCA_002197645.1_ASM219764v1_fai-gene-cluster-1|FNX_001521                            0.00%    passed     53.91%
+ 326  OG_27|GCA_005405345.1_ASM540534v1_fai-gene-cluster-1|CKS_000006                             0.00%    passed     62.39%
+ 327  OG_130|GCA_002141365.1_ASM214136v1_fai-gene-cluster-1|CPX_001820                            0.00%    passed     73.09%
+ 328  OG_114|GCA_013391205.1_ASM1339120v1_fai-gene-cluster-1|EAN_001403                           1.72%    failed      0.54%
+ 329  OG_32|GCA_001730365.1_ASM173036v1_fai-gene-cluster-1|DXL_001071                             0.00%    passed      8.20%
+ 330  OG_130|GCA_002140975.1_ASM214097v1_fai-gene-cluster-1|FHE_003438                            0.00%    passed     84.05%
+ 331  OG_130|GCA_013394325.1_ASM1339432v1_fai-gene-cluster-1|HLU_001108                           0.00%    passed     39.21%
+ 332  OG_114|GCA_000407365.1_Ente_asin_ATCC700915_V2_fai-gene-cluster-1|DBR_001705                0.00%    passed     16.11%
+ 333  OG_113|GCA_002197645.1_ASM219764v1_fai-gene-cluster-1|FNX_001522                            0.00%    passed     83.35%
+ 334  OG_113|GCA_001885905.1_ASM188590v1_fai-gene-cluster-1|FKZ_000362                            0.86%    passed     87.71%
+ 335  OG_130|GCA_000393975.1_Ente_pall_BAA_351_V1_fai-gene-cluster-1|FJK_004657                   0.00%    passed     43.81%
+ 336  OG_27|GCA_017315945.1_ASM1731594v1_fai-gene-cluster-1|EPS_001273                            0.00%    passed     44.39%
+ 337  OG_113|GCA_001465115.1_ASM146511v1_fai-gene-cluster-1|ENR_003600                            0.00%    passed     75.23%
+ 338  OG_113|GCA_005347505.1_ASM534750v1_fai-gene-cluster-1|FMS_003708                            0.86%    passed     80.11%
+ 339  OG_32|GCA_000407165.1_Ente_haem_BAA_382_V2_fai-gene-cluster-1|CRA_000419                    0.86%    passed     12.17%
+ 340  OG_32|GCA_015680865.1_ASM1568086v1_fai-gene-cluster-1|GEU_000381                            0.00%    passed      7.16%
+ 341  OG_1|GCA_001730285.1_ASM173028v1_fai-gene-cluster-1|BLP_001791                              0.00%    passed     29.51%
+ 342  OG_116|GCA_900447715.1_57845_D01_fai-gene-cluster-1|BLM_001026                              0.00%    passed     85.72%
+ 343  OG_32|GCA_902706605.1_CSURQ0835_fai-gene-cluster-1|DHR_000982                               1.72%    failed      3.85%
+ 344  OG_160|GCA_002947535.1_ASM294753v1_fai-gene-cluster-1|GJT_000883                            0.00%    passed     50.95%
+ 345  OG_32|GCA_017377505.1_ASM1737750v1_fai-gene-cluster-1|ERY_002364                            0.86%    passed      7.46%
+ 346  OG_125|GCA_013394305.1_ASM1339430v1_fai-gene-cluster-1|FYE_002468                           0.00%    passed     73.15%
+ 347  OG_114|GCA_017315985.1_ASM1731598v1_fai-gene-cluster-1|DGA_001662                           2.59%    passed     29.31%
+ 348  OG_113|GCA_000394055.1_Ente_cocc_BAA_1240_V1_fai-gene-cluster-1|BEB_001128                  0.00%    passed     96.49%
+ 349  OG_1|GCA_001730295.1_ASM173029v1_fai-gene-cluster-1|CEV_002700                              0.00%    passed     62.56%
+ 350  OG_27|GCA_001730295.1_ASM173029v1_fai-gene-cluster-1|CEV_002705                             0.00%    passed     33.14%
+ 351  OG_130|GCA_002174455.1_ASM217445v1_fai-gene-cluster-1|HVJ_001990                            0.00%    passed     72.44%
+ 352  OG_163|GCA_015356315.1_ASM1535631v1_fai-gene-cluster-1|FSP_001624                           0.00%    passed     64.28%
+ 353  OG_130|GCA_002140715.1_ASM214071v1_fai-gene-cluster-1|FEL_000407                            0.00%    passed     69.99%
+ 354  OG_27|GCA_002174455.1_ASM217445v1_fai-gene-cluster-1|HVJ_002000                             0.00%    passed     14.45%
+ 355  OG_116|GCA_017377655.1_ASM1737765v1_fai-gene-cluster-1|HKZ_005105                           0.00%    passed     93.47%
+ 356  OG_130|GCA_016909115.1_ASM1690911v1_fai-gene-cluster-1|FCU_000106                           0.00%    passed     57.70%
+ 357  OG_113|GCA_018917525.1_ASM1891752v1_fai-gene-cluster-1|GKO_003759                           0.86%    passed     84.90%
+ 358  OG_163|GCA_002140175.1_ASM214017v1_fai-gene-cluster-1|ENL_002278                            0.00%    passed     45.68%
+ 359  OG_125|GCA_019175485.1_ASM1917548v1_fai-gene-cluster-1|GMF_001988                           0.00%    passed     28.59%
+ 360  OG_116|GCA_017315985.1_ASM1731598v1_fai-gene-cluster-1|DGA_001657                           0.86%    passed     97.35%
+ 361  OG_240|GCA_000393975.1_Ente_pall_BAA_351_V1_fai-gene-cluster-1|FJK_004649                   4.31%    passed     63.08%
+ 362  OG_27|GCA_002197645.1_ASM219764v1_fai-gene-cluster-1|FNX_001505                             0.00%    passed     27.63%
+ 363  OG_113|GCA_002140775.1_ASM214077v1_fai-gene-cluster-1|DMP_001504                            0.00%    passed     87.41%
+ 364  OG_134|GCA_002174455.1_ASM217445v1_fai-gene-cluster-1|HVJ_002004                            0.00%    passed     88.92%
+ 365  OG_113|GCA_017315985.1_ASM1731598v1_fai-gene-cluster-1|DGA_001656                           0.86%    passed     89.85%
+ 366  OG_116|GCA_011038845.1_ASM1103884v1_fai-gene-cluster-1|HMF_000957                           0.00%    passed     51.22%
+ 367  OG_113|GCA_002148425.1_ASM214842v1_fai-gene-cluster-1|FGH_002395                            0.86%    passed     97.62%
+ 368  OG_130|GCA_000407545.1_Ente_gilf_BAA_350_PQ1_CCUG_45553_V2_fai-gene-cluster-1|CQE_002069    0.00%    passed     47.76%
+ 369  OG_32|GCA_016909115.1_ASM1690911v1_fai-gene-cluster-1|FCU_000132                            1.72%    passed      9.63%
+ 370  OG_114|GCA_001544295.1_ASM154429v1|AWY_001578                                               1.72%    passed     37.84%
+ 371  OG_134|GCA_017377505.1_ASM1737750v1_fai-gene-cluster-1|ERY_002346                           0.00%    passed     53.99%
+ 372  OG_163|GCA_013391205.1_ASM1339120v1_fai-gene-cluster-1|EAN_001390                           0.00%    passed     91.57%
+ 373  OG_1|GCA_019218635.1_ASM1921863v1_fai-gene-cluster-1|BKO_001107                             0.00%    passed     96.10%
+ 374  OG_130|GCA_000394055.1_Ente_cocc_BAA_1240_V1_fai-gene-cluster-1|BEB_001142                  0.00%    passed     94.33%
+ 375  OG_116|GCA_002140715.1_ASM214071v1_fai-gene-cluster-1|FEL_000400                            0.00%    passed     97.45%
+ 376  OG_1|GCA_002174455.1_ASM217445v1_fai-gene-cluster-1|HVJ_001995                              0.00%    passed     44.55%
+ 377  OG_130|GCA_017377505.1_ASM1737750v1_fai-gene-cluster-1|ERY_002349                           0.00%    passed     83.79%
+ 378  OG_32|GCA_017830045.1_ASM1783004v1_fai-gene-cluster-1|HAV_000714                            0.00%    passed     19.33%
+ 379  OG_114|GCA_000407545.1_Ente_gilf_BAA_350_PQ1_CCUG_45553_V2_fai-gene-cluster-1|CQE_002088    1.72%    failed      4.29%
+ 380  OG_163|GCA_000407205.1_Ente_vill_ATCC700913_V2_fai-gene-cluster-1|GAD_001329                0.00%    passed     35.82%
+ 381  OG_113|GCA_000185365.1_ASM18536v1_fai-gene-cluster-1|FGB_001070                             0.86%    passed     44.86%
+ 382  OG_28|GCA_000407205.1_Ente_vill_ATCC700913_V2_fai-gene-cluster-1|GAD_001330                 3.45%    passed     76.78%
+ 383  OG_32|GCA_001886195.1_ASM188619v1_fai-gene-cluster-1|DVC_000993                             0.00%    passed     14.09%
+ 384  OG_125|GCA_017316125.1_ASM1731612v1_fai-gene-cluster-1|GHV_000608                           0.00%    passed     70.50%
+ 385  OG_113|GCA_017830045.1_ASM1783004v1_fai-gene-cluster-1|HAV_000713                           0.00%    passed     50.82%
+ 386  OG_125|GCA_017315945.1_ASM1731594v1_fai-gene-cluster-1|EPS_001275                           0.00%    passed     70.50%
+ 387  OG_113|GCA_017377575.1_ASM1737757v1_fai-gene-cluster-1|BBX_003008                           0.00%    passed     47.50%
+ 388  OG_125|GCA_002174455.1_ASM217445v1_fai-gene-cluster-1|HVJ_001996                            0.86%    passed     42.80%
+ 389  OG_1|GCA_001730305.1_ASM173030v1_fai-gene-cluster-1|AZB_000122                              0.00%    passed     48.69%
+ 390  OG_32|GCA_002140975.1_ASM214097v1_fai-gene-cluster-1|FHE_003450                             0.00%    passed     11.41%
+ 391  OG_130|GCA_019175485.1_ASM1917548v1_fai-gene-cluster-1|GMF_001975                           0.00%    passed     48.87%
+ 392  OG_116|GCA_003957375.1_ASM395737v1_fai-gene-cluster-1|FXG_000810                            0.00%    passed     66.86%
+ 393  OG_134|GCA_000394015.1_Ente_mora_BAA_383_V1_fai-gene-cluster-1|CTJ_000696                   0.00%    passed     46.25%
+ 394  OG_113|GCA_001730365.1_ASM173036v1_fai-gene-cluster-1|DXL_001072                            0.00%    passed     88.41%
+ 395  OG_125|GCA_001730295.1_ASM173029v1_fai-gene-cluster-1|CEV_002701                            0.86%    passed     32.42%
+ 396  OG_116|GCA_000407365.1_Ente_asin_ATCC700915_V2_fai-gene-cluster-1|DBR_001706                0.00%    passed     91.85%
+ 397  OG_163|GCA_004309355.1_ASM430935v1_fai-gene-cluster-1|EQI_001795                            0.86%    passed     36.10%
+ 398  OG_130|GCA_001730305.1_ASM173030v1_fai-gene-cluster-1|AZB_000117                            0.00%    passed     58.51%
+ 399  OG_32|GCA_016745275.1_ASM1674527v1_fai-gene-cluster-1|DPW_002303                            0.00%    passed      7.31%
+ 400  OG_28|GCA_001885905.1_ASM188590v1_fai-gene-cluster-1|FKZ_000377                             3.45%    passed     96.46%
+ 401  OG_28|GCA_002140775.1_ASM214077v1_fai-gene-cluster-1|DMP_001517                             3.45%    passed     80.76%
+ 402  OG_116|GCA_001544295.1_ASM154429v1|AWY_001583                                               0.00%    passed     98.64%
+ 403  OG_28|GCA_002140175.1_ASM214017v1_fai-gene-cluster-1|ENL_002279                             3.45%    passed     65.77%
+ 404  OG_125|GCA_000415185.1_ASM41518v1_fai-gene-cluster-1|FBX_001286                             0.00%    passed     32.18%
+ 405  OG_116|GCA_017316125.1_ASM1731612v1_fai-gene-cluster-1|GHV_000598                           0.00%    passed     82.49%
+ 406  OG_32|GCA_002813755.1_ASM281375v1_fai-gene-cluster-1|FRY_000719                             0.00%    passed     14.61%
+ 407  OG_134|GCA_001730365.1_ASM173036v1_fai-gene-cluster-1|DXL_001089                            0.00%    passed     53.04%
+ 408  OG_89|GCA_001885905.1_ASM188590v1_fai-gene-cluster-1|FKZ_000390                             5.17%    passed     88.01%
+ 409  OG_160|GCA_002141365.1_ASM214136v1_fai-gene-cluster-1|CPX_001801                            0.00%    passed     95.77%
+ 410  OG_126|GCA_005405245.1_ASM540524v1_fai-gene-cluster-1|FVM_001277                            0.86%    passed     67.40%
+ 411  OG_32|GCA_011038845.1_ASM1103884v1_fai-gene-cluster-1|HMF_000954                            0.00%    passed     10.94%
+ 412  OG_114|GCA_002174455.1_ASM217445v1_fai-gene-cluster-1|HVJ_001984                            0.00%    passed     51.75%
+ 413  OG_27|GCA_002140775.1_ASM214077v1_fai-gene-cluster-1|DMP_001518                             0.00%    passed     50.77%
+ 414  OG_114|GCA_015356315.1_ASM1535631v1_fai-gene-cluster-1|FSP_001638                           0.00%    passed     14.23%
+ 415  OG_114|GCA_001742285.1_ASM174228v1_fai-gene-cluster-1|CRE_002318                            0.00%    passed      6.61%
+ 416  OG_134|GCA_000407205.1_Ente_vill_ATCC700913_V2_fai-gene-cluster-1|GAD_001324                0.00%    passed     24.93%
+ 417  OG_113|GCA_011038845.1_ASM1103884v1_fai-gene-cluster-1|HMF_000955                           0.00%    passed     91.41%
+ 418  OG_114|GCA_002813755.1_ASM281375v1_fai-gene-cluster-1|FRY_000721                            0.00%    failed      1.01%
+ 419  OG_114|GCA_000393975.1_Ente_pall_BAA_351_V1_fai-gene-cluster-1|FJK_004674                   1.72%    passed      7.47%
+ 420  OG_116|GCA_000394055.1_Ente_cocc_BAA_1240_V1_fai-gene-cluster-1|BEB_001130                  0.00%    passed     96.55%
+ 421  OG_28|GCA_013394305.1_ASM1339430v1_fai-gene-cluster-1|FYE_002469                            3.45%    passed     75.36%
+ 422  OG_32|GCA_000407205.1_Ente_vill_ATCC700913_V2_fai-gene-cluster-1|GAD_001344                 0.00%    passed     10.12%
+ 423  OG_116|GCA_002141365.1_ASM214136v1_fai-gene-cluster-1|CPX_001826                            0.00%    passed     96.86%
+ 424  OG_28|GCA_000394015.1_Ente_mora_BAA_383_V1_fai-gene-cluster-1|CTJ_000689                    3.45%    passed     63.71%
+ 425  OG_125|GCA_002197645.1_ASM219764v1_fai-gene-cluster-1|FNX_001509                            0.86%    passed     42.80%
+ 426  OG_113|GCA_000407365.1_Ente_asin_ATCC700915_V2_fai-gene-cluster-1|DBR_001704                0.00%    passed     80.82%
+ 427  OG_160|GCA_001885945.1_ASM188594v1|DZW_002406                                               0.00%    passed     58.79%
+ 428  OG_32|GCA_013394305.1_ASM1339430v1_fai-gene-cluster-1|FYE_002455                            0.00%    passed     13.95%
+ 429  OG_125|GCA_002140775.1_ASM214077v1_fai-gene-cluster-1|DMP_001516                            0.00%    passed     74.51%
+ 430  OG_113|GCA_002140715.1_ASM214071v1_fai-gene-cluster-1|FEL_000398                            0.00%    passed     96.16%
+ 431  OG_32|GCA_001730315.1_ASM173031v1_fai-gene-cluster-1|FPP_002123                             0.00%    passed     21.22%
+ 432  OG_32|GCA_000415185.1_ASM41518v1_fai-gene-cluster-1|FBX_001299                              0.00%    passed      5.06%
+ 433  OG_116|GCA_013394325.1_ASM1339432v1_fai-gene-cluster-1|HLU_001080                           0.86%    passed     98.43%
+ 434  OG_113|GCA_017377505.1_ASM1737750v1_fai-gene-cluster-1|ERY_002363                           0.00%    passed     74.96%
+ 435  OG_125|GCA_000407205.1_Ente_vill_ATCC700913_V2_fai-gene-cluster-1|GAD_001331                0.00%    passed     93.98%
+ 436  OG_160|GCA_005405245.1_ASM540524v1_fai-gene-cluster-1|FVM_001269                            0.00%    passed     16.94%
+ 437  OG_163|GCA_002813755.1_ASM281375v1_fai-gene-cluster-1|FRY_000734                            0.00%    passed     56.18%
+ 438  OG_125|GCA_000393975.1_Ente_pall_BAA_351_V1_fai-gene-cluster-1|FJK_004668                   0.00%    passed     48.96%
+ 439  OG_163|GCA_001885945.1_ASM188594v1|DZW_002399                                               0.00%    passed     60.59%
+ 440  OG_116|GCA_019175485.1_ASM1917548v1_fai-gene-cluster-1|GMF_002001                           0.86%    passed     98.72%
+ 441  OG_471|GCA_900461195.1_43071_H02_fai-gene-cluster-1|GOY_001337                              3.45%    passed     51.40%
+ 442  OG_114|GCA_005405245.1_ASM540524v1_fai-gene-cluster-1|FVM_001284                            1.72%    failed      1.32%
+ 443  OG_125|GCA_000394015.1_Ente_mora_BAA_383_V1_fai-gene-cluster-1|CTJ_000686                   0.86%    passed     17.85%
+ 444  OG_130|GCA_001730365.1_ASM173036v1_fai-gene-cluster-1|DXL_001086                            0.00%    passed     84.79%
+ 445  OG_116|GCA_000407165.1_Ente_haem_BAA_382_V2_fai-gene-cluster-1|CRA_000422                   0.00%    passed     98.51%
+ 446  OG_125|GCA_017377575.1_ASM1737757v1_fai-gene-cluster-1|BBX_002996                           0.00%    passed     64.98%
+ 447  OG_114|GCA_011038845.1_ASM1103884v1_fai-gene-cluster-1|HMF_000956                           0.00%    passed     34.03%
+ 448  OG_27|GCA_001544295.1_ASM154429v1|AWY_000830                                                0.00%    passed     64.24%
+ 449  OG_28|GCA_000415185.1_ASM41518v1_fai-gene-cluster-1|FBX_001285                              3.45%    passed     97.26%
+ 450  OG_114|GCA_002141175.1_ASM214117v1_fai-gene-cluster-1|FLP_001941                            0.00%    passed      5.30%
+ 451  OG_32|GCA_002947535.1_ASM294753v1_fai-gene-cluster-1|GJT_000863                             0.00%    passed     14.61%
+ 452  OG_32|GCA_001465345.1_ASM146534v1_fai-gene-cluster-1|GBL_001848                             0.86%    passed      7.97%
+ 453  OG_125|GCA_002947535.1_ASM294753v1_fai-gene-cluster-1|GJT_000876                            0.00%    passed     70.46%
+ 454  OG_130|GCA_900461195.1_43071_H02_fai-gene-cluster-1|GOY_001341                              0.00%    passed     93.20%
+ 455  OG_1|GCA_017377575.1_ASM1737757v1_fai-gene-cluster-1|BBX_002997                             0.00%    passed     94.81%
+ 456  OG_114|GCA_001730295.1_ASM173029v1_fai-gene-cluster-1|CEV_002688                            0.00%    passed     50.10%
+ 457  OG_116|GCA_002140975.1_ASM214097v1_fai-gene-cluster-1|FHE_003446                            0.00%    passed     96.97%
+ 458  OG_32|GCA_001742285.1_ASM174228v1_fai-gene-cluster-1|CRE_002320                             0.00%    passed      7.99%
+ 459  OG_125|GCA_019218635.1_ASM1921863v1_fai-gene-cluster-1|BKO_001108                           0.00%    passed     89.57%
+ 460  OG_32|GCA_000407545.1_Ente_gilf_BAA_350_PQ1_CCUG_45553_V2_fai-gene-cluster-1|CQE_002095     1.72%    failed      4.14%
+ 461  OG_129|GCA_017377505.1_ASM1737750v1_fai-gene-cluster-1|ERY_002350                           0.00%    passed     13.24%
+ 462  OG_160|GCA_013391205.1_ASM1339120v1_fai-gene-cluster-1|EAN_001382                           0.86%    passed     60.98%
+ 463  OG_113|GCA_000393975.1_Ente_pall_BAA_351_V1_fai-gene-cluster-1|FJK_004680                   0.00%    passed     83.90%
+ 464  OG_27|GCA_000394015.1_Ente_mora_BAA_383_V1_fai-gene-cluster-1|CTJ_000690                    0.00%    passed      9.00%
+ 465  OG_160|GCA_000407205.1_Ente_vill_ATCC700913_V2_fai-gene-cluster-1|GAD_001321                0.86%    passed     72.65%
+ 466  OG_28|GCA_013391205.1_ASM1339120v1_fai-gene-cluster-1|EAN_001391                            3.45%    passed     69.16%
+ 467  OG_113|GCA_001886195.1_ASM188619v1_fai-gene-cluster-1|DVC_000992                            0.00%    passed     33.57%
+ 468  OG_116|GCA_000415185.1_ASM41518v1_fai-gene-cluster-1|FBX_001296                             0.00%    passed     84.63%
+ 469  OG_32|GCA_001544295.1_ASM154429v1|AWY_001585                                                1.72%    passed      5.02%
+ 470  OG_113|GCA_005405245.1_ASM540524v1_fai-gene-cluster-1|FVM_001285                            0.86%    passed     33.16%
+ 471  OG_113|GCA_005405205.1_ASM540520v1_fai-gene-cluster-1|ASI_001595                            0.86%    passed     95.39%
+ 472  OG_28|GCA_001465345.1_ASM146534v1_fai-gene-cluster-1|GBL_001866                             3.45%    passed     39.58%
+ 473  OG_125|GCA_002148425.1_ASM214842v1_fai-gene-cluster-1|FGH_002381                            0.86%    passed     48.40%
+ 474  OG_28|GCA_000407545.1_Ente_gilf_BAA_350_PQ1_CCUG_45553_V2_fai-gene-cluster-1|CQE_002079     3.45%    passed     88.63%
+ 475  OG_134|GCA_019175485.1_ASM1917548v1_fai-gene-cluster-1|GMF_001983                           0.00%    passed     94.94%
+ 476  OG_130|GCA_001465345.1_ASM146534v1_fai-gene-cluster-1|GBL_001857                            0.00%    passed     82.32%
+ 477  OG_116|GCA_016908885.1_ASM1690888v1_fai-gene-cluster-1|DFP_000449                           0.00%    passed     80.55%
+ 478  OG_130|GCA_001730285.1_ASM173028v1_fai-gene-cluster-1|BLP_001799                            0.86%    passed     24.28%
+ 479  OG_134|GCA_002197645.1_ASM219764v1_fai-gene-cluster-1|FNX_001501                            0.00%    passed     88.17%
+ 480  OG_28|GCA_002813755.1_ASM281375v1_fai-gene-cluster-1|FRY_000733                             3.45%    passed     84.72%
+ 481  OG_172|GCA_017830045.1_ASM1783004v1_fai-gene-cluster-1|HAV_000698                           0.00%    passed     59.20%
+ 482  OG_27|GCA_001730305.1_ASM173030v1_fai-gene-cluster-1|AZB_000127                             0.00%    passed     30.99%
+ 483  OG_116|GCA_902706605.1_CSURQ0835_fai-gene-cluster-1|DHR_000980                              0.00%    passed     15.04%
+ 484  OG_134|GCA_002141365.1_ASM214136v1_fai-gene-cluster-1|CPX_001804                            0.00%    passed     50.50%
+ 485  OG_28|GCA_015356315.1_ASM1535631v1_fai-gene-cluster-1|FSP_001625                            3.45%    passed     93.08%
+ 486  OG_1|GCA_017315985.1_ASM1731598v1_fai-gene-cluster-1|DGA_001669                             0.00%    passed     85.67%
+ 487  OG_114|GCA_017830045.1_ASM1783004v1_fai-gene-cluster-1|HAV_000712                           0.86%    passed     19.09%
+ 488  OG_114|GCA_001730315.1_ASM173031v1_fai-gene-cluster-1|FPP_002125                            0.00%    passed     52.72%
+ 489  OG_163|GCA_011038845.1_ASM1103884v1_fai-gene-cluster-1|HMF_000969                           0.00%    passed     37.56%
+ 490  OG_126|GCA_017377505.1_ASM1737750v1_fai-gene-cluster-1|ERY_002353                           0.86%    passed     60.30%
+ 491  OG_240|GCA_000407545.1_Ente_gilf_BAA_350_PQ1_CCUG_45553_V2_fai-gene-cluster-1|CQE_002060    4.31%    passed     29.76%
+ 492  OG_32|GCA_001465115.1_ASM146511v1_fai-gene-cluster-1|ENR_003599                             0.00%    passed     13.34%
+ 493  OG_134|GCA_000185365.1_ASM18536v1_fai-gene-cluster-1|FGB_001092                             4.31%    failed      3.64%
+ 494  OG_27|GCA_000407165.1_Ente_haem_BAA_382_V2_fai-gene-cluster-1|CRA_000438                    0.00%    passed     44.48%
+ 495  OG_1|GCA_019175485.1_ASM1917548v1_fai-gene-cluster-1|GMF_001989                             0.00%    passed     89.30%
+ 496  OG_160|GCA_017316125.1_ASM1731612v1_fai-gene-cluster-1|GHV_000617                           0.00%    passed     77.38%
+ 497  OG_1|GCA_001885945.1_ASM188594v1|DZW_000003                                                 0.00%    passed     85.65%
+ 498  OG_134|GCA_002140775.1_ASM214077v1_fai-gene-cluster-1|DMP_001522                            0.00%    passed     94.65%
+ 499  OG_32|GCA_016745255.1_ASM1674525v1_fai-gene-cluster-1|ALB_000396                            0.00%    passed     19.33%
+ 500  OG_116|GCA_001465345.1_ASM146534v1_fai-gene-cluster-1|GBL_001851                            0.00%    passed     97.32%
+ 501  OG_129|GCA_000185365.1_ASM18536v1_fai-gene-cluster-1|FGB_001088                             0.86%    passed     40.63%
+ 502  OG_114|GCA_000394055.1_Ente_cocc_BAA_1240_V1_fai-gene-cluster-1|BEB_001129                  0.00%    passed     75.95%
+ 503  OG_114|GCA_000407205.1_Ente_vill_ATCC700913_V2_fai-gene-cluster-1|GAD_001342                1.72%    failed      0.55%
+ 504  OG_114|GCA_000407165.1_Ente_haem_BAA_382_V2_fai-gene-cluster-1|CRA_000421                   0.00%    passed     49.53%
+ 505  OG_1|GCA_900447715.1_57845_D01_fai-gene-cluster-1|BLM_001035                                0.86%    passed     97.97%
+ 506  OG_240|GCA_016908885.1_ASM1690888v1_fai-gene-cluster-1|DFP_000467                           4.31%    passed     70.56%
+ 507  OG_113|GCA_003957375.1_ASM395737v1_fai-gene-cluster-1|FXG_000808                            0.00%    passed     54.68%
+ 508  OG_114|GCA_013394305.1_ASM1339430v1_fai-gene-cluster-1|FYE_002457                           0.00%    failed      0.88%
+ 509  OG_130|GCA_002148425.1_ASM214842v1_fai-gene-cluster-1|FGH_002387                            0.00%    passed     90.90%
+ 510  OG_113|GCA_002174455.1_ASM217445v1_fai-gene-cluster-1|HVJ_001983                            0.00%    passed     96.99%
+ 511  OG_27|GCA_000407545.1_Ente_gilf_BAA_350_PQ1_CCUG_45553_V2_fai-gene-cluster-1|CQE_002078     0.00%    passed     54.23%
+ 512  OG_114|GCA_017377575.1_ASM1737757v1_fai-gene-cluster-1|BBX_003002                           5.17%    passed      6.15%
+ 513  OG_28|GCA_000393975.1_Ente_pall_BAA_351_V1_fai-gene-cluster-1|FJK_004667                    3.45%    passed     97.76%
+ 514  OG_116|GCA_009933135.1_ASM993313v1_fai-gene-cluster-1|BOC_001584                            0.00%    passed     77.71%
+ 515  OG_116|GCA_013394305.1_ASM1339430v1_fai-gene-cluster-1|FYE_002458                           0.00%    passed     74.27%
+ 516  OG_114|GCA_017377655.1_ASM1737765v1_fai-gene-cluster-1|HKZ_005110                           1.72%    passed     14.64%
+ 517  OG_134|GCA_019218635.1_ASM1921863v1_fai-gene-cluster-1|BKO_001113                           0.00%    passed     95.44%
+ 518  OG_134|GCA_002813755.1_ASM281375v1_fai-gene-cluster-1|FRY_000739                            0.00%    passed     66.87%
+ 519  OG_27|GCA_019218635.1_ASM1921863v1_fai-gene-cluster-1|BKO_001110                            0.00%    passed     45.50%
+ 520  OG_114|GCA_000415185.1_ASM41518v1_fai-gene-cluster-1|FBX_001297                             0.00%    passed     20.60%
+ 521  OG_114|GCA_001730285.1_ASM173028v1_fai-gene-cluster-1|BLP_001806                            0.00%    passed     13.98%
+ 522  OG_114|GCA_016908885.1_ASM1690888v1_fai-gene-cluster-1|DFP_000448                           0.00%    failed      0.05%
+****  TOTAL                                                                                       0.73%  41 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: OG_28|GCA_000407165.1_Ente_haem_BAA_382_V2_fai-gene-cluster-1|CRA_000436 is identical to OG_28|GCA_001465115.1_ASM146511v1_fai-gene-cluster-1|ENR_003617 but kept for subsequent analysis
+NOTE: OG_1|GCA_002174455.1_ASM217445v1_fai-gene-cluster-1|HVJ_001995 is identical to OG_1|GCA_002197645.1_ASM219764v1_fai-gene-cluster-1|FNX_001510 but kept for subsequent analysis
+NOTE: OG_125|GCA_013394305.1_ASM1339430v1_fai-gene-cluster-1|FYE_002468 is identical to OG_125|GCA_003957375.1_ASM395737v1_fai-gene-cluster-1|FXG_000820 but kept for subsequent analysis
+NOTE: OG_1|GCA_001730285.1_ASM173028v1_fai-gene-cluster-1|BLP_001791 is identical to OG_1|GCA_001730315.1_ASM173031v1_fai-gene-cluster-1|FPP_002140 but kept for subsequent analysis
+NOTE: OG_1|GCA_000394015.1_Ente_mora_BAA_383_V1_fai-gene-cluster-1|CTJ_000685 is identical to OG_1|GCA_000407165.1_Ente_haem_BAA_382_V2_fai-gene-cluster-1|CRA_000432 but kept for subsequent analysis
+NOTE: OG_32|GCA_001885905.1_ASM188590v1_fai-gene-cluster-1|FKZ_000361 is identical to OG_32|GCA_005405345.1_ASM540534v1_fai-gene-cluster-1|CKS_000022 but kept for subsequent analysis
+NOTE: OG_113|GCA_001885905.1_ASM188590v1_fai-gene-cluster-1|FKZ_000362 is identical to OG_113|GCA_005405345.1_ASM540534v1_fai-gene-cluster-1|CKS_000021 but kept for subsequent analysis
+NOTE: OG_125|GCA_017315945.1_ASM1731594v1_fai-gene-cluster-1|EPS_001275 is identical to OG_125|GCA_017316125.1_ASM1731612v1_fai-gene-cluster-1|GHV_000608 but kept for subsequent analysis
+NOTE: OG_32|GCA_002947535.1_ASM294753v1_fai-gene-cluster-1|GJT_000863 is identical to OG_32|GCA_002813755.1_ASM281375v1_fai-gene-cluster-1|FRY_000719 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.00569881 secs using 4004% CPU
+Identifying sites to remove: done in 0.000874212 secs using 564.4% CPU
+NOTE: 2 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: OG_1|GCA_002141365.1_ASM214136v1_fai-gene-cluster-1|CPX_001815 (identical to OG_1|GCA_000407165.1_Ente_haem_BAA_382_V2_fai-gene-cluster-1|CRA_000432) is ignored but added at the end
+NOTE: OG_1|GCA_001730295.1_ASM173029v1_fai-gene-cluster-1|CEV_002700 (identical to OG_1|GCA_000407165.1_Ente_haem_BAA_382_V2_fai-gene-cluster-1|CRA_000432) is ignored but added at the end
+Alignment was printed to IQTree_Mset.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to IQTree_Mset.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.165 seconds
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+20 trees examined
+Threads: 1 / Time: 51.338 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -133153
+Threads: 2 / Time: 50.751 sec / Speedup: 1.012 / Efficiency: 51% / LogL: -133153
+Threads: 3 / Time: 44.106 sec / Speedup: 1.164 / Efficiency: 39% / LogL: -133153
+Determining AUTO threadcount: done in 146.209 secs using 193.4% CPU
+BEST NUMBER OF THREADS: 1
+
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Optimizing NNI: done in 7.80593 secs using 99.71% CPU
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -46985.851
+Optimal log-likelihood: -46985.847
+Proportion of invariable sites: 0.009
+Gamma shape alpha: 1.186
+Parameters optimization took 1 rounds (0.977 sec)
+Time for fast ML tree search: 11.669 seconds
+
+NOTE: ModelFinder requires 109 MB RAM!
+ModelFinder will test up to 88 protein models (sample size: 116) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+62 trees examined
+Threads: 1 / Time: 50.349 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -138903
+Threads: 2 / Time: 57.863 sec / Speedup: 0.870 / Efficiency: 44% / LogL: -138903
+Determining AUTO threadcount: done in 108.213 secs using 151.7% CPU
+BEST NUMBER OF THREADS: 1
+
+  1  WAG           48509.237    1037 99092.474    2251904.474  101947.947
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+61 trees examined
+Threads: 1 / Time: 50.512 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -138876
+Threads: 2 / Time: 57.120 sec / Speedup: 0.884 / Efficiency: 44% / LogL: -138876
+Determining AUTO threadcount: done in 107.632 secs using 151.1% CPU
+BEST NUMBER OF THREADS: 1
+
+  2  WAG+I         48382.016    1038 98840.031    2255804.031  101698.258
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+20 trees examined
+Threads: 1 / Time: 51.767 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -137419
+Threads: 2 / Time: 39.934 sec / Speedup: 1.296 / Efficiency: 65% / LogL: -137419
+Threads: 3 / Time: 38.927 sec / Speedup: 1.330 / Efficiency: 44% / LogL: -137419
+Determining AUTO threadcount: done in 130.635 secs using 188.9% CPU
+BEST NUMBER OF THREADS: 2
+
+  3  WAG+G4        47120.911    1038 96317.823    2253281.823  99176.049
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+21 trees examined
+Threads: 1 / Time: 52.203 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -135649
+Threads: 2 / Time: 40.551 sec / Speedup: 1.287 / Efficiency: 64% / LogL: -135649
+Threads: 3 / Time: 43.686 sec / Speedup: 1.195 / Efficiency: 40% / LogL: -135649
+Determining AUTO threadcount: done in 136.448 secs using 192.4% CPU
+BEST NUMBER OF THREADS: 2
+
+  4  WAG+I+G4      47083.641    1039 96245.282    2257365.282  99106.262
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+36 trees examined
+Threads: 1 / Time: 50.621 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -137405
+Threads: 2 / Time: 46.085 sec / Speedup: 1.098 / Efficiency: 55% / LogL: -137405
+Threads: 3 / Time: 48.895 sec / Speedup: 1.035 / Efficiency: 35% / LogL: -137405
+Determining AUTO threadcount: done in 145.604 secs using 196.9% CPU
+BEST NUMBER OF THREADS: 2
+
+  5  WAG+R2        47419.388    1039 96916.776    2258036.776  99777.756
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+26 trees examined
+Threads: 1 / Time: 51.627 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -135123
+Threads: 2 / Time: 42.916 sec / Speedup: 1.203 / Efficiency: 60% / LogL: -135123
+Threads: 3 / Time: 40.977 sec / Speedup: 1.260 / Efficiency: 42% / LogL: -135123
+Determining AUTO threadcount: done in 135.523 secs using 190.6% CPU
+BEST NUMBER OF THREADS: 2
+
+  6  WAG+R3        47171.249    1041 96424.499    2265868.499  99290.986
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+20 trees examined
+Threads: 1 / Time: 51.292 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -135106
+Threads: 2 / Time: 40.000 sec / Speedup: 1.282 / Efficiency: 64% / LogL: -135106
+Threads: 3 / Time: 40.110 sec / Speedup: 1.279 / Efficiency: 43% / LogL: -135106
+Determining AUTO threadcount: done in 131.41 secs using 190.1% CPU
+BEST NUMBER OF THREADS: 2
+
+  7  WAG+R4        47095.388    1043 96276.775    2274060.775  99148.770
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+16 trees examined
+Threads: 1 / Time: 50.329 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -134495
+Threads: 2 / Time: 36.844 sec / Speedup: 1.366 / Efficiency: 68% / LogL: -134495
+Threads: 3 / Time: 34.672 sec / Speedup: 1.452 / Efficiency: 48% / LogL: -134495
+Determining AUTO threadcount: done in 121.856 secs using 185.8% CPU
+BEST NUMBER OF THREADS: 2
+
+  8  WAG+R5        47058.014    1045 96206.028    2282346.028  99083.529
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+14 trees examined
+Threads: 1 / Time: 52.102 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -134633
+Threads: 2 / Time: 37.954 sec / Speedup: 1.373 / Efficiency: 69% / LogL: -134633
+Threads: 3 / Time: 37.902 sec / Speedup: 1.375 / Efficiency: 46% / LogL: -134633
+Determining AUTO threadcount: done in 127.968 secs using 187.9% CPU
+BEST NUMBER OF THREADS: 2
+
+  9  WAG+R6        47030.673    1047 96155.346    2290667.346  99038.355
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+12 trees examined
+Threads: 1 / Time: 50.539 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -134436
+Threads: 2 / Time: 35.033 sec / Speedup: 1.443 / Efficiency: 72% / LogL: -134436
+Threads: 3 / Time: 34.374 sec / Speedup: 1.470 / Efficiency: 49% / LogL: -134436
+Determining AUTO threadcount: done in 119.959 secs using 185.6% CPU
+BEST NUMBER OF THREADS: 2
+
+ 10  WAG+R7        47030.112    1049 96158.225    2299058.225  99046.741
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+36 trees examined
+Threads: 1 / Time: 50.434 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -137026
+Threads: 2 / Time: 46.317 sec / Speedup: 1.089 / Efficiency: 54% / LogL: -137026
+Threads: 3 / Time: 44.877 sec / Speedup: 1.124 / Efficiency: 37% / LogL: -137026
+Determining AUTO threadcount: done in 141.629 secs using 194.1% CPU
+BEST NUMBER OF THREADS: 2
+
+ 14  WAG+I+I+R2    47337.635    1040 96755.270    2262035.270  99619.004
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+26 trees examined
+Threads: 1 / Time: 51.926 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -135813
+Threads: 2 / Time: 42.811 sec / Speedup: 1.213 / Efficiency: 61% / LogL: -135813
+Threads: 3 / Time: 39.790 sec / Speedup: 1.305 / Efficiency: 44% / LogL: -135813
+Determining AUTO threadcount: done in 134.529 secs using 189.6% CPU
+BEST NUMBER OF THREADS: 2
+
+ 15  WAG+I+I+R3    47130.395    1042 96344.789    2269956.789  99214.030
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+20 trees examined
+Threads: 1 / Time: 51.766 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -135006
+Threads: 2 / Time: 39.574 sec / Speedup: 1.308 / Efficiency: 65% / LogL: -135006
+Threads: 3 / Time: 44.270 sec / Speedup: 1.169 / Efficiency: 39% / LogL: -135006
+Determining AUTO threadcount: done in 135.616 secs using 193.1% CPU
+BEST NUMBER OF THREADS: 2
+
+ 16  WAG+I+I+R4    47080.688    1044 96249.377    2278209.377  99124.125
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+16 trees examined
+Threads: 1 / Time: 50.177 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -134808
+Threads: 2 / Time: 36.791 sec / Speedup: 1.364 / Efficiency: 68% / LogL: -134808
+Threads: 3 / Time: 35.770 sec / Speedup: 1.403 / Efficiency: 47% / LogL: -134808
+Determining AUTO threadcount: done in 122.747 secs using 187.1% CPU
+BEST NUMBER OF THREADS: 2
+
+ 17  WAG+I+I+R5    47039.982    1046 96171.963    2286495.963  99052.219
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+14 trees examined
+Threads: 1 / Time: 51.984 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -134385
+Threads: 2 / Time: 37.636 sec / Speedup: 1.381 / Efficiency: 69% / LogL: -134385
+Threads: 3 / Time: 36.609 sec / Speedup: 1.420 / Efficiency: 47% / LogL: -134385
+Determining AUTO threadcount: done in 126.243 secs using 186.8% CPU
+BEST NUMBER OF THREADS: 2
+
+ 18  WAG+I+I+R6    47016.237    1048 96128.474    2294832.474  99014.236
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+12 trees examined
+Threads: 1 / Time: 51.129 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -135633
+Threads: 2 / Time: 35.866 sec / Speedup: 1.426 / Efficiency: 71% / LogL: -135633
+Threads: 3 / Time: 36.758 sec / Speedup: 1.391 / Efficiency: 46% / LogL: -135633
+Determining AUTO threadcount: done in 123.768 secs using 187.4% CPU
+BEST NUMBER OF THREADS: 2
+
+ 19  WAG+I+I+R7    47016.263    1050 96132.526    2303232.526  99023.796
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+14 trees examined
+Threads: 1 / Time: 51.937 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -133612
+Threads: 2 / Time: 37.497 sec / Speedup: 1.385 / Efficiency: 69% / LogL: -133612
+Threads: 3 / Time: 35.141 sec / Speedup: 1.478 / Efficiency: 49% / LogL: -133612
+Determining AUTO threadcount: done in 124.585 secs using 185.5% CPU
+BEST NUMBER OF THREADS: 2
+
+ 40  WAG+F+I+I+R6  46900.659    1067 95935.318    2375047.318  98873.399
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+12 trees examined
+Threads: 1 / Time: 51.126 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -133227
+Threads: 2 / Time: 35.864 sec / Speedup: 1.426 / Efficiency: 71% / LogL: -133227
+Threads: 3 / Time: 34.536 sec / Speedup: 1.480 / Efficiency: 49% / LogL: -133227
+Determining AUTO threadcount: done in 121.542 secs using 185.4% CPU
+BEST NUMBER OF THREADS: 2
+
+ 41  WAG+F+I+I+R7  46898.454    1069 95934.907    2383594.907  98878.495
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+14 trees examined
+Threads: 1 / Time: 52.307 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -132967
+Threads: 2 / Time: 37.520 sec / Speedup: 1.394 / Efficiency: 70% / LogL: -132967
+Threads: 3 / Time: 35.896 sec / Speedup: 1.457 / Efficiency: 49% / LogL: -132967
+Determining AUTO threadcount: done in 125.733 secs using 185.9% CPU
+BEST NUMBER OF THREADS: 2
+
+ 62  LG+I+I+R6     46890.801    1048 95877.601    2294581.601  98763.364
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+12 trees examined
+Threads: 1 / Time: 51.491 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -133464
+Threads: 2 / Time: 36.075 sec / Speedup: 1.427 / Efficiency: 71% / LogL: -133464
+Threads: 3 / Time: 33.897 sec / Speedup: 1.519 / Efficiency: 51% / LogL: -133464
+Threads: 4 / Time: 31.056 sec / Speedup: 1.658 / Efficiency: 41% / LogL: -133464
+Determining AUTO threadcount: done in 152.54 secs using 228% CPU
+BEST NUMBER OF THREADS: 3
+
+ 63  LG+I+I+R7     46885.951    1050 95871.902    2302971.902  98763.172
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+14 trees examined
+Threads: 1 / Time: 51.259 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -133745
+Threads: 2 / Time: 36.815 sec / Speedup: 1.392 / Efficiency: 70% / LogL: -133745
+Threads: 3 / Time: 36.141 sec / Speedup: 1.418 / Efficiency: 47% / LogL: -133745
+Determining AUTO threadcount: done in 124.226 secs using 186.8% CPU
+BEST NUMBER OF THREADS: 2
+
+ 84  LG+F+I+I+R6   46922.627    1067 95979.254    2375091.254  98917.335
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+12 trees examined
+Threads: 1 / Time: 50.896 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -132311
+Threads: 2 / Time: 36.021 sec / Speedup: 1.413 / Efficiency: 71% / LogL: -132311
+Threads: 3 / Time: 34.539 sec / Speedup: 1.474 / Efficiency: 49% / LogL: -132311
+Determining AUTO threadcount: done in 121.471 secs using 185.6% CPU
+BEST NUMBER OF THREADS: 2
+
+ 85  LG+F+I+I+R7   46917.592    1069 95973.185    2383633.185  98916.773
+Akaike Information Criterion:           LG+I+I+R7
+Corrected Akaike Information Criterion: WAG
+Bayesian Information Criterion:         LG+I+I+R7
+Best-fit model: LG+I+I+R7 chosen according to BIC
+
+All model information printed to IQTree_Mset.model.gz
+CPU time for ModelFinder: 6096.169 seconds (1h:41m:36s)
+Wall-clock time for ModelFinder: 3235.449 seconds (0h:53m:55s)
+Generating 1000 samples for ultrafast bootstrap (seed: 332976)...
+
+NOTE: 77 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 50 CPU cores
+Increase to 10 rounds for branch lengths
+12 trees examined
+Threads: 1 / Time: 51.496 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -133864
+Threads: 2 / Time: 37.538 sec / Speedup: 1.372 / Efficiency: 69% / LogL: -133864
+Threads: 3 / Time: 34.852 sec / Speedup: 1.478 / Efficiency: 49% / LogL: -133864
+Determining AUTO threadcount: done in 123.901 secs using 185.6% CPU
+BEST NUMBER OF THREADS: 2
+
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -46885.951
+Optimal log-likelihood: -46885.942
+Proportion of invariable sites: 0.009
+Site proportion and rates:  (0.043,0.131) (0.173,0.354) (0.170,0.525) (0.180,0.748) (0.119,1.029) (0.248,1.716) (0.058,2.776)
+Parameters optimization took 1 rounds (6.333 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 43.945 secs using 200% CPU
+Computing ML distances took 43.946086 sec (of wall-clock time) 87.874397 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.0066319 secs using 257.4% CPU
+Constructing RapidNJ tree: done in 0.211515 secs using 142.9% CPU
+Computing RapidNJ tree took 0.218388 sec (of wall-clock time) 0.319622 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -48119.589
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 16.272 second
+Computing log-likelihood of 98 initial trees ... 37.525 seconds
+Current best score: -46885.942
+
+Do NNI search on 20 best initial trees
+Optimizing NNI: done in 3.91596 secs using 187.9% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -46877.760
+Optimizing NNI: done in 10.736 secs using 186.2% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -46826.926
+Optimizing NNI: done in 12.5304 secs using 187.3% CPU
+Optimizing NNI: done in 12.2255 secs using 186.7% CPU
+Optimizing NNI: done in 10.5713 secs using 186.4% CPU
+Optimizing NNI: done in 14.3809 secs using 187.5% CPU
+Optimizing NNI: done in 13.0442 secs using 186.7% CPU
+Optimizing NNI: done in 13.5522 secs using 187.1% CPU
+Optimizing NNI: done in 15.1354 secs using 187.5% CPU
+Optimizing NNI: done in 12.2506 secs using 186.2% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 10: -46811.413
+Iteration 10 / LogL: -46811.413 / Time: 0h:6m:21s
+Optimizing NNI: done in 11.6812 secs using 186% CPU
+Optimizing NNI: done in 13.6195 secs using 186.2% CPU
+Optimizing NNI: done in 15.5187 secs using 186.9% CPU
+Optimizing NNI: done in 12.153 secs using 185.8% CPU
+Optimizing NNI: done in 11.7241 secs using 186.3% CPU
+Optimizing NNI: done in 12.8932 secs using 187.5% CPU
+Optimizing NNI: done in 16.537 secs using 188.7% CPU
+Optimizing NNI: done in 10.6839 secs using 186% CPU
+Optimizing NNI: done in 9.97439 secs using 186.3% CPU
+Optimizing NNI: done in 11.8082 secs using 186.3% CPU
+Iteration 20 / LogL: -46871.866 / Time: 0h:8m:28s
+Finish initializing candidate tree set (20)
+Current best tree score: -46811.413 / CPU time: 330.910
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Optimizing NNI: done in 11.3129 secs using 194.6% CPU
+Optimizing NNI: done in 11.096 secs using 192.7% CPU
+Optimizing NNI: done in 10.9704 secs using 194.6% CPU
+Optimizing NNI: done in 12.3763 secs using 194.8% CPU
+Optimizing NNI: done in 11.47 secs using 195.1% CPU
+Optimizing NNI: done in 12.5538 secs using 193.9% CPU
+Optimizing NNI: done in 12.7385 secs using 193.8% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 27: -46806.893
+Optimizing NNI: done in 12.158 secs using 192.5% CPU
+Optimizing NNI: done in 10.6884 secs using 194.6% CPU
+Optimizing NNI: done in 10.8868 secs using 194.3% CPU
+Iteration 30 / LogL: -46816.995 / Time: 0h:10m:32s (0h:35m:15s left)
+Optimizing NNI: done in 12.168 secs using 196.1% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 31: -46797.357
+Optimizing NNI: done in 11.3591 secs using 193.9% CPU
+Optimizing NNI: done in 10.2171 secs using 198.7% CPU
+Optimizing NNI: done in 11.2502 secs using 195.1% CPU
+Optimizing NNI: done in 12.6868 secs using 193.4% CPU
+Optimizing NNI: done in 9.97476 secs using 198.6% CPU
+Optimizing NNI: done in 11.9267 secs using 192.2% CPU
+Optimizing NNI: done in 13.047 secs using 193% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 38: -46789.588
+Optimizing NNI: done in 10.0712 secs using 195.1% CPU
+Optimizing NNI: done in 12.5105 secs using 194.2% CPU
+Iteration 40 / LogL: -46815.171 / Time: 0h:12m:51s (0h:32m:19s left)
+Optimizing NNI: done in 14.2913 secs using 194.4% CPU
+Optimizing NNI: done in 11.1146 secs using 195.5% CPU
+Optimizing NNI: done in 9.83126 secs using 195.8% CPU
+Optimizing NNI: done in 11.3901 secs using 194.8% CPU
+Optimizing NNI: done in 11.6841 secs using 192.9% CPU
+Optimizing NNI: done in 13.7751 secs using 193.1% CPU
+Optimizing NNI: done in 12.78 secs using 191.7% CPU
+Optimizing NNI: done in 10.3099 secs using 194.9% CPU
+Optimizing NNI: done in 12.3944 secs using 192% CPU
+Optimizing NNI: done in 11.2621 secs using 193.5% CPU
+Iteration 50 / LogL: -46795.722 / Time: 0h:14m:51s (0h:26m:41s left)
+Log-likelihood cutoff on original alignment: -46921.872
+Optimizing NNI: done in 12.4425 secs using 194.9% CPU
+Optimizing NNI: done in 10.8654 secs using 194.5% CPU
+Optimizing NNI: done in 11.6072 secs using 194.1% CPU
+Optimizing NNI: done in 12.8963 secs using 193.5% CPU
+Optimizing NNI: done in 12.2453 secs using 193.7% CPU
+Optimizing NNI: done in 10.9269 secs using 198.8% CPU
+Optimizing NNI: done in 10.1282 secs using 198.7% CPU
+Optimizing NNI: done in 10.4157 secs using 197.2% CPU
+Optimizing NNI: done in 10.7128 secs using 194% CPU
+Optimizing NNI: done in 11.0062 secs using 194.6% CPU
+Iteration 60 / LogL: -46863.053 / Time: 0h:16m:48s (0h:22m:12s left)
+Optimizing NNI: done in 11.1209 secs using 198.8% CPU
+Optimizing NNI: done in 11.2605 secs using 192.9% CPU
+Optimizing NNI: done in 9.64493 secs using 194.7% CPU
+Optimizing NNI: done in 9.91125 secs using 193.3% CPU
+Optimizing NNI: done in 11.388 secs using 193.5% CPU
+Optimizing NNI: done in 11.3863 secs using 197.4% CPU
+Optimizing NNI: done in 12.6275 secs using 192.5% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 67: -46788.529
+Optimizing NNI: done in 11.8743 secs using 195.5% CPU
+Optimizing NNI: done in 12.0049 secs using 193.2% CPU
+Optimizing NNI: done in 11.4647 secs using 194.8% CPU
+Iteration 70 / LogL: -46820.451 / Time: 0h:18m:53s (0h:26m:32s left)
+Optimizing NNI: done in 11.2996 secs using 194.4% CPU
+Optimizing NNI: done in 12.8203 secs using 194.1% CPU
+Optimizing NNI: done in 10.8795 secs using 195.5% CPU
+Optimizing NNI: done in 14.1213 secs using 192.3% CPU
+Optimizing NNI: done in 12.0607 secs using 194.3% CPU
+Optimizing NNI: done in 9.44818 secs using 198.7% CPU
+Optimizing NNI: done in 10.9861 secs using 194.3% CPU
+Optimizing NNI: done in 10.0889 secs using 194.6% CPU
+Optimizing NNI: done in 12.5904 secs using 194.6% CPU
+Optimizing NNI: done in 12.5554 secs using 192.8% CPU
+Iteration 80 / LogL: -46818.108 / Time: 0h:20m:51s (0h:22m:57s left)
+Optimizing NNI: done in 11.2826 secs using 194.4% CPU
+Optimizing NNI: done in 11.0442 secs using 192.8% CPU
+Optimizing NNI: done in 12.7669 secs using 192.1% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 83: -46786.295
+Optimizing NNI: done in 11.9273 secs using 194.4% CPU
+Optimizing NNI: done in 13.8916 secs using 194.4% CPU
+Optimizing NNI: done in 13.5442 secs using 194% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 86: -46776.574
+Optimizing NNI: done in 12.5291 secs using 193.6% CPU
+Optimizing NNI: done in 12.427 secs using 192.3% CPU
+Optimizing NNI: done in 10.5088 secs using 194.5% CPU
+Optimizing NNI: done in 11.6001 secs using 194.1% CPU
+Iteration 90 / LogL: -46779.163 / Time: 0h:23m:12s (0h:25m:1s left)
+Optimizing NNI: done in 11.582 secs using 192.9% CPU
+Optimizing NNI: done in 10.4468 secs using 193.5% CPU
+Optimizing NNI: done in 10.491 secs using 193.2% CPU
+Optimizing NNI: done in 13.7397 secs using 195.1% CPU
+Optimizing NNI: done in 13.5501 secs using 193.5% CPU
+Optimizing NNI: done in 12.0521 secs using 194.2% CPU
+Optimizing NNI: done in 11.8603 secs using 194% CPU
+Optimizing NNI: done in 12.4537 secs using 194.3% CPU
+Optimizing NNI: done in 12.273 secs using 198.7% CPU
+Optimizing NNI: done in 13.1543 secs using 193.9% CPU
+Iteration 100 / LogL: -46804.922 / Time: 0h:25m:14s (0h:21m:56s left)
+Log-likelihood cutoff on original alignment: -46897.749
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.983
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Optimizing NNI: done in 12.4878 secs using 194.7% CPU
+Optimizing NNI: done in 11.2595 secs using 193.8% CPU
+Optimizing NNI: done in 11.5145 secs using 199% CPU
+Optimizing NNI: done in 11.8979 secs using 192.1% CPU
+Optimizing NNI: done in 11.1829 secs using 198.7% CPU
+Optimizing NNI: done in 10.9643 secs using 193.8% CPU
+Optimizing NNI: done in 10.9334 secs using 196.7% CPU
+Optimizing NNI: done in 10.2091 secs using 194.8% CPU
+Optimizing NNI: done in 11.6637 secs using 192.6% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 109: -46773.967
+Optimizing NNI: done in 11.8488 secs using 193.6% CPU
+Iteration 110 / LogL: -46784.662 / Time: 0h:27m:24s (0h:24m:53s left)
+Optimizing NNI: done in 12.1123 secs using 194% CPU
+Optimizing NNI: done in 12.4873 secs using 195% CPU
+Optimizing NNI: done in 12.5229 secs using 194.1% CPU
+Optimizing NNI: done in 13.1613 secs using 193.3% CPU
+Optimizing NNI: done in 11.8545 secs using 194.1% CPU
+Optimizing NNI: done in 13.2084 secs using 193.5% CPU
+Optimizing NNI: done in 11.7625 secs using 194.3% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 117: -46770.128
+Optimizing NNI: done in 11.6575 secs using 194.5% CPU
+Optimizing NNI: done in 12.307 secs using 195.2% CPU
+Optimizing NNI: done in 11.9286 secs using 194% CPU
+Iteration 120 / LogL: -46825.457 / Time: 0h:29m:42s (0h:24m:12s left)
+Optimizing NNI: done in 13.4585 secs using 193.8% CPU
+Optimizing NNI: done in 10.3435 secs using 193.5% CPU
+Optimizing NNI: done in 11.9591 secs using 192.5% CPU
+Optimizing NNI: done in 11.3001 secs using 195% CPU
+Optimizing NNI: done in 11.8079 secs using 195.6% CPU
+Optimizing NNI: done in 9.79506 secs using 198.5% CPU
+Optimizing NNI: done in 10.9795 secs using 194.1% CPU
+Optimizing NNI: done in 11.876 secs using 193.6% CPU
+Optimizing NNI: done in 13.0403 secs using 191.8% CPU
+Optimizing NNI: done in 11.7212 secs using 193.8% CPU
+Iteration 130 / LogL: -46775.663 / Time: 0h:31m:39s (0h:21m:21s left)
+Optimizing NNI: done in 13.1989 secs using 194.1% CPU
+Optimizing NNI: done in 10.7853 secs using 194.7% CPU
+Optimizing NNI: done in 10.487 secs using 193.1% CPU
+Optimizing NNI: done in 11.679 secs using 193.5% CPU
+Optimizing NNI: done in 11.1053 secs using 192.2% CPU
+Optimizing NNI: done in 11.2371 secs using 192.8% CPU
+Optimizing NNI: done in 11.0917 secs using 197.9% CPU
+Optimizing NNI: done in 11.6543 secs using 194.9% CPU
+Optimizing NNI: done in 9.46018 secs using 198.7% CPU
+Optimizing NNI: done in 11.0741 secs using 197.3% CPU
+Iteration 140 / LogL: -46863.866 / Time: 0h:33m:33s (0h:18m:35s left)
+Optimizing NNI: done in 9.52015 secs using 192.9% CPU
+Optimizing NNI: done in 11.7005 secs using 192.9% CPU
+Optimizing NNI: done in 11.0656 secs using 195.4% CPU
+Optimizing NNI: done in 11.2485 secs using 194.4% CPU
+Optimizing NNI: done in 11.6533 secs using 193.2% CPU
+Optimizing NNI: done in 10.3901 secs using 192.7% CPU
+Optimizing NNI: done in 10.6745 secs using 194.3% CPU
+Optimizing NNI: done in 12.7029 secs using 193.9% CPU
+Optimizing NNI: done in 11.2282 secs using 196% CPU
+Optimizing NNI: done in 11.5485 secs using 194.5% CPU
+Iteration 150 / LogL: -46812.822 / Time: 0h:35m:26s (0h:15m:56s left)
+Log-likelihood cutoff on original alignment: -46895.289
+Optimizing NNI: done in 9.9728 secs using 193.4% CPU
+Optimizing NNI: done in 10.9828 secs using 192.9% CPU
+Optimizing NNI: done in 11.221 secs using 198.8% CPU
+Optimizing NNI: done in 11.1924 secs using 195% CPU
+Optimizing NNI: done in 9.03182 secs using 195.8% CPU
+Optimizing NNI: done in 11.0356 secs using 193.8% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 156: -46762.044
+Optimizing NNI: done in 10.9146 secs using 194% CPU
+Optimizing NNI: done in 10.8944 secs using 193.2% CPU
+Optimizing NNI: done in 10.7663 secs using 194.1% CPU
+Optimizing NNI: done in 11.819 secs using 195.2% CPU
+Iteration 160 / LogL: -46836.555 / Time: 0h:37m:30s (0h:22m:38s left)
+Optimizing NNI: done in 9.2299 secs using 196.1% CPU
+Optimizing NNI: done in 10.2239 secs using 195.7% CPU
+Optimizing NNI: done in 11.5767 secs using 192.1% CPU
+Optimizing NNI: done in 11.1355 secs using 195.1% CPU
+Optimizing NNI: done in 10.6316 secs using 194.8% CPU
+Optimizing NNI: done in 12.3245 secs using 192.3% CPU
+Optimizing NNI: done in 10.0259 secs using 194.1% CPU
+Optimizing NNI: done in 11.1104 secs using 193.5% CPU
+Optimizing NNI: done in 11.3032 secs using 193.3% CPU
+Optimizing NNI: done in 11.2881 secs using 193.3% CPU
+Iteration 170 / LogL: -46790.717 / Time: 0h:39m:20s (0h:20m:1s left)
+Optimizing NNI: done in 11.6539 secs using 196.7% CPU
+Optimizing NNI: done in 12.5909 secs using 193.8% CPU
+Optimizing NNI: done in 11.2905 secs using 193.1% CPU
+Optimizing NNI: done in 14.4117 secs using 193.5% CPU
+Optimizing NNI: done in 12.0415 secs using 192.6% CPU
+Optimizing NNI: done in 10.3765 secs using 194.4% CPU
+Optimizing NNI: done in 10.5982 secs using 193.1% CPU
+Optimizing NNI: done in 14.7522 secs using 196.8% CPU
+Optimizing NNI: done in 11.8893 secs using 193% CPU
+Optimizing NNI: done in 13.2087 secs using 194.7% CPU
+Iteration 180 / LogL: -46856.720 / Time: 0h:41m:25s (0h:17m:35s left)
+Optimizing NNI: done in 11.0332 secs using 196.6% CPU
+Optimizing NNI: done in 10.9753 secs using 193% CPU
+Optimizing NNI: done in 11.6305 secs using 198.5% CPU
+Optimizing NNI: done in 16.0414 secs using 195.2% CPU
+Optimizing NNI: done in 12.6747 secs using 193.9% CPU
+Optimizing NNI: done in 10.9037 secs using 192.8% CPU
+Optimizing NNI: done in 10.5116 secs using 194.5% CPU
+Optimizing NNI: done in 9.3853 secs using 195% CPU
+Optimizing NNI: done in 14.0157 secs using 193.4% CPU
+Optimizing NNI: done in 11.8382 secs using 194.1% CPU
+Iteration 190 / LogL: -46816.861 / Time: 0h:43m:25s (0h:15m:9s left)
+Optimizing NNI: done in 11.1676 secs using 196.9% CPU
+Optimizing NNI: done in 11.1892 secs using 194.1% CPU
+Optimizing NNI: done in 12.6547 secs using 194.4% CPU
+Optimizing NNI: done in 9.98653 secs using 198.6% CPU
+Optimizing NNI: done in 13.246 secs using 193.6% CPU
+Optimizing NNI: done in 11.3704 secs using 192.5% CPU
+Optimizing NNI: done in 12.2762 secs using 195.6% CPU
+Optimizing NNI: done in 12.2135 secs using 195.9% CPU
+Optimizing NNI: done in 14.6598 secs using 192.9% CPU
+Optimizing NNI: done in 13.3661 secs using 194.2% CPU
+Iteration 200 / LogL: -46809.379 / Time: 0h:45m:29s (0h:12m:48s left)
+Log-likelihood cutoff on original alignment: -46895.289
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.987
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Optimizing NNI: done in 12.95 secs using 193.8% CPU
+Optimizing NNI: done in 12.2002 secs using 191.9% CPU
+Optimizing NNI: done in 11.8173 secs using 193.8% CPU
+Optimizing NNI: done in 9.83338 secs using 193.1% CPU
+Optimizing NNI: done in 10.4355 secs using 194.1% CPU
+Optimizing NNI: done in 11.8917 secs using 194.4% CPU
+Optimizing NNI: done in 11.0214 secs using 192.4% CPU
+Optimizing NNI: done in 13.7566 secs using 195.2% CPU
+Optimizing NNI: done in 11.217 secs using 194.4% CPU
+Optimizing NNI: done in 11.2861 secs using 192.6% CPU
+Iteration 210 / LogL: -46817.027 / Time: 0h:47m:29s (0h:20m:27s left)
+Optimizing NNI: done in 12.1603 secs using 192.9% CPU
+Optimizing NNI: done in 12.9125 secs using 195.4% CPU
+Optimizing NNI: done in 11.0347 secs using 192.5% CPU
+Optimizing NNI: done in 13.768 secs using 193.3% CPU
+Optimizing NNI: done in 10.3873 secs using 193.6% CPU
+Optimizing NNI: done in 12.505 secs using 193.1% CPU
+Optimizing NNI: done in 10.8143 secs using 194.6% CPU
+Optimizing NNI: done in 11.6342 secs using 192.4% CPU
+Optimizing NNI: done in 10.5474 secs using 193.2% CPU
+Optimizing NNI: done in 12.3418 secs using 193.8% CPU
+Iteration 220 / LogL: -46770.077 / Time: 0h:49m:29s (0h:18m:4s left)
+Optimizing NNI: done in 11.6312 secs using 194.7% CPU
+Optimizing NNI: done in 10.1278 secs using 196.5% CPU
+Optimizing NNI: done in 11.1945 secs using 191.4% CPU
+Optimizing NNI: done in 12.5163 secs using 195% CPU
+Optimizing NNI: done in 12.1483 secs using 194% CPU
+Optimizing NNI: done in 7.6255 secs using 196.9% CPU
+Optimizing NNI: done in 11.6159 secs using 198.6% CPU
+Optimizing NNI: done in 12.5814 secs using 193.8% CPU
+Optimizing NNI: done in 12.6611 secs using 194.1% CPU
+Optimizing NNI: done in 12.8188 secs using 196.4% CPU
+Iteration 230 / LogL: -46876.453 / Time: 0h:51m:26s (0h:15m:43s left)
+Optimizing NNI: done in 12.9977 secs using 198% CPU
+Optimizing NNI: done in 10.2778 secs using 194.2% CPU
+Optimizing NNI: done in 13.8387 secs using 194.6% CPU
+Optimizing NNI: done in 11.8087 secs using 197.1% CPU
+Optimizing NNI: done in 11.8841 secs using 193.5% CPU
+Optimizing NNI: done in 13.2953 secs using 192.8% CPU
+Optimizing NNI: done in 15.8559 secs using 194.5% CPU
+Optimizing NNI: done in 12.983 secs using 194.3% CPU
+Optimizing NNI: done in 12.371 secs using 194% CPU
+Optimizing NNI: done in 12.0379 secs using 192.7% CPU
+Iteration 240 / LogL: -46785.086 / Time: 0h:53m:35s (0h:13m:27s left)
+Optimizing NNI: done in 11.7008 secs using 194.6% CPU
+Optimizing NNI: done in 13.0908 secs using 194.7% CPU
+Optimizing NNI: done in 11.7422 secs using 194.1% CPU
+Optimizing NNI: done in 11.3624 secs using 194.4% CPU
+Optimizing NNI: done in 10.4476 secs using 194.6% CPU
+Optimizing NNI: done in 11.115 secs using 194.3% CPU
+Optimizing NNI: done in 13.0579 secs using 197.8% CPU
+Optimizing NNI: done in 9.30257 secs using 198.7% CPU
+Optimizing NNI: done in 13.0057 secs using 193.2% CPU
+Optimizing NNI: done in 12.7296 secs using 192.5% CPU
+Iteration 250 / LogL: -46770.255 / Time: 0h:55m:34s (0h:11m:9s left)
+Log-likelihood cutoff on original alignment: -46893.748
+Optimizing NNI: done in 11.4727 secs using 193.7% CPU
+Optimizing NNI: done in 12.5509 secs using 196% CPU
+Optimizing NNI: done in 13.3693 secs using 196.5% CPU
+Optimizing NNI: done in 10.9795 secs using 194.4% CPU
+Optimizing NNI: done in 11.8403 secs using 194.5% CPU
+Optimizing NNI: done in 11.5234 secs using 194% CPU
+Optimizing NNI: done in 12.8838 secs using 192.3% CPU
+Optimizing NNI: done in 10.9599 secs using 195.6% CPU
+Optimizing NNI: done in 11.3816 secs using 194.5% CPU
+Optimizing NNI: done in 11.4917 secs using 194.1% CPU
+Iteration 260 / LogL: -46848.313 / Time: 0h:57m:37s (0h:8m:53s left)
+Optimizing NNI: done in 12.4664 secs using 193.8% CPU
+Optimizing NNI: done in 12.8448 secs using 194.2% CPU
+Optimizing NNI: done in 13.16 secs using 194.2% CPU
+Optimizing NNI: done in 11.3923 secs using 193.7% CPU
+Optimizing NNI: done in 11.6192 secs using 193.2% CPU
+Optimizing NNI: done in 9.36967 secs using 193.5% CPU
+Optimizing NNI: done in 12.4302 secs using 196.5% CPU
+Optimizing NNI: done in 11.4278 secs using 196.1% CPU
+Optimizing NNI: done in 12.109 secs using 195.2% CPU
+Optimizing NNI: done in 10.6253 secs using 194.2% CPU
+Iteration 270 / LogL: -46803.400 / Time: 0h:59m:36s (0h:6m:38s left)
+Optimizing NNI: done in 10.9306 secs using 194.4% CPU
+Optimizing NNI: done in 12.4912 secs using 195.2% CPU
+Optimizing NNI: done in 11.5058 secs using 192.5% CPU
+Optimizing NNI: done in 9.17144 secs using 195.4% CPU
+Optimizing NNI: done in 12.541 secs using 193.6% CPU
+Optimizing NNI: done in 10.6834 secs using 193.3% CPU
+Optimizing NNI: done in 11.2512 secs using 194.4% CPU
+Optimizing NNI: done in 13.2509 secs using 192.7% CPU
+Optimizing NNI: done in 11.2278 secs using 194.6% CPU
+Optimizing NNI: done in 11.7306 secs using 194.1% CPU
+Iteration 280 / LogL: -46776.288 / Time: 1h:1m:33s (0h:4m:24s left)
+Optimizing NNI: done in 11.1979 secs using 192.9% CPU
+Optimizing NNI: done in 8.72042 secs using 195.9% CPU
+Optimizing NNI: done in 10.8089 secs using 195.5% CPU
+Optimizing NNI: done in 13.6353 secs using 194.1% CPU
+Optimizing NNI: done in 10.6665 secs using 194.5% CPU
+Optimizing NNI: done in 11.6526 secs using 193.8% CPU
+Optimizing NNI: done in 9.34853 secs using 198.2% CPU
+Optimizing NNI: done in 11.4664 secs using 192.6% CPU
+Optimizing NNI: done in 13.9076 secs using 193.2% CPU
+Optimizing NNI: done in 11.276 secs using 193.8% CPU
+Iteration 290 / LogL: -46783.084 / Time: 1h:3m:27s (0h:2m:11s left)
+Optimizing NNI: done in 12.5306 secs using 194.7% CPU
+Optimizing NNI: done in 12.6075 secs using 194.7% CPU
+Optimizing NNI: done in 11.535 secs using 193.6% CPU
+Optimizing NNI: done in 13.9788 secs using 194.5% CPU
+Optimizing NNI: done in 12.9164 secs using 196.6% CPU
+Optimizing NNI: done in 10.1329 secs using 194.6% CPU
+Optimizing NNI: done in 10.203 secs using 198.8% CPU
+Optimizing NNI: done in 11.3481 secs using 192.8% CPU
+Optimizing NNI: done in 13.2538 secs using 199% CPU
+Optimizing NNI: done in 12.7114 secs using 193% CPU
+Iteration 300 / LogL: -46804.907 / Time: 1h:5m:30s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -46893.748
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.994
+TREE SEARCH COMPLETED AFTER 300 ITERATIONS / Time: 1h:5m:32s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -46762.044
+Optimal log-likelihood: -46762.027
+Proportion of invariable sites: 0.009
+Site proportion and rates:  (0.043,0.135) (0.191,0.362) (0.140,0.523) (0.184,0.724) (0.126,1.027) (0.246,1.707) (0.061,2.765)
+Parameters optimization took 1 rounds (3.074 sec)
+BEST SCORE FOUND : -46762.027
+Creating bootstrap support values...
+Split supports printed to NEXUS file IQTree_Mset.splits.nex
+Total tree length: 128.692
+
+Total number of iterations: 300
+CPU time used for tree search: 7219.969 sec (2h:0m:19s)
+Wall-clock time used for tree search: 3754.832 sec (1h:2m:34s)
+Total CPU time used: 7564.733 sec (2h:6m:4s)
+Total wall-clock time used: 3937.848 sec (1h:5m:37s)
+
+Computing bootstrap consensus tree...
+Reading input file IQTree_Mset.splits.nex...
+520 taxa and 3257 splits.
+Consensus tree written to IQTree_Mset.contree
+Reading input trees file IQTree_Mset.contree
+Log-likelihood of consensus tree: -46751.811
+
+Analysis results written to: 
+  IQ-TREE report:                IQTree_Mset.iqtree
+  Maximum-likelihood tree:       IQTree_Mset.treefile
+  Likelihood distances:          IQTree_Mset.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          IQTree_Mset.splits.nex
+  Consensus tree:                IQTree_Mset.contree
+  Screen log file:               IQTree_Mset.log
+
+ALISIM COMMAND
+--------------
+--alisim simulated_MSA -t IQTree_Mset.treefile -m "LG+I{0.00862069}+R7{0.0430003,0.134893,0.190941,0.362055,0.139546,0.523298,0.184363,0.723884,0.126395,1.02706,0.246214,1.70716,0.0609206,2.76497}" --length 116
+
+Date and Time: Sat Mar 16 00:02:19 2024

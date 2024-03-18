@@ -1,0 +1,25 @@
+Input directory with Loci GenBanks: /home/conda_envs/CoreSimul/CoreSimul/fai_Results/Final_Results/Homologous_Gene_Cluster_GenBanks/
+Output directory: /home/conda_envs/CoreSimul/CoreSimul/zol_Results_C0I0/
+Use super5 Mode in MUSCLE Alignments?: False
+Run FUBAR Selection Analyses?: False
+Skip GARD Partitioning by Recombination Breakpoints?: False
+Focal GenBanks Listing: None
+Comparator GenBanks Listing: None
+Filter Low Quality?: False
+Filter Draft/Incomplete?: False
+Perform Broad Level Estimation of Homolog Group Conservation if Dereplication Requested?: False
+Comprehensive Reporting of Evolutionary Statistics, Including for Non-Single Copy Homolog Groups: False
+Rename Locus Tags?: False
+Use CDS features with attribute near_scaffold_edge=True.: False
+Perform Dereplication?: False
+Perform Reinflation?: False
+Dereplication Identity Threshold: 99.0
+Dereplication Coverage Threshold: 95.0
+Dereplication Clustering Method / MCL Inflation: None
+Custom Annotation Database: Reference_Query.faa
+Refine Gene Calling using the Custom Annotation Database: False
+Plot Height: 7
+Plot Width: 14
+Use Full GenBank Labels?: False
+Number of CPUs Requested: 40
+Maximum Memory in GB: None

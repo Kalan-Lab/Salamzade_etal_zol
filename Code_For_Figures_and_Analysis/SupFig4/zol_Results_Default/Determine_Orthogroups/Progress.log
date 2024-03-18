@@ -1,0 +1,34 @@
+2024-03-13 00:16 - INFO - Running version: 1.3.19
+2024-03-13 00:16 - INFO - 
+NEW RUN!!!
+**************************************
+2024-03-13 00:16 - INFO - Running version 1.3.19
+2024-03-13 00:16 - INFO - Appending command issued for future records to: /home/conda_envs/CoreSimul/CoreSimul/zol_Results_Default/Determine_Orthogroups/Command_Issued.txt
+2024-03-13 00:16 - INFO - --------------------
+Step 0
+--------------------
+Processing proteomes
+2024-03-13 00:16 - INFO - --------------------
+Step 1
+--------------------
+Concatenating proteins into multi-FASTA.
+2024-03-13 00:16 - INFO - --------------------
+Step 2
+--------------------
+Running reflexive alignment using Diamond
+2024-03-13 00:16 - INFO - --------------------
+Step 3
+--------------------
+Running RBH.
+2024-03-13 00:16 - INFO - --------------------
+Step 4
+--------------------
+Run MCL to determine OrthoGroups.
+2024-03-13 00:16 - INFO - --------------------
+Step 5
+--------------------
+Create final result files!
+2024-03-13 00:16 - INFO - --------------------
+DONE!
+--------------------
+Orthogroup by sample matrix can be found at: /home/conda_envs/CoreSimul/CoreSimul/zol_Results_Default/Determine_Orthogroups/Orthogroups.tsv

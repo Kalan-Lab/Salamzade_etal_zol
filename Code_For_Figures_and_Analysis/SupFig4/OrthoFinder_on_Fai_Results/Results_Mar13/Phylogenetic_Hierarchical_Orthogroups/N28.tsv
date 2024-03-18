@@ -1,0 +1,89 @@
+HOG	OG	Gene Tree Parent Clade	Ref_Epa_from_V583_fai-gene-cluster-1	t10_fai-gene-cluster-1	t11_fai-gene-cluster-1	t12_fai-gene-cluster-1	t13_fai-gene-cluster-1	t14_fai-gene-cluster-1	t15_fai-gene-cluster-1	t16_fai-gene-cluster-1	t17_fai-gene-cluster-1	t18_fai-gene-cluster-1	t19_fai-gene-cluster-1	t1_fai-gene-cluster-1	t20_fai-gene-cluster-1	t21_fai-gene-cluster-1	t22_fai-gene-cluster-1	t23_fai-gene-cluster-1	t24_fai-gene-cluster-1	t25_fai-gene-cluster-1	t26_fai-gene-cluster-1	t27_fai-gene-cluster-1	t28_fai-gene-cluster-1	t29_fai-gene-cluster-1	t2_fai-gene-cluster-1	t30_fai-gene-cluster-1	t3_fai-gene-cluster-1	t4_fai-gene-cluster-1	t5_fai-gene-cluster-1	t6_fai-gene-cluster-1	t7_fai-gene-cluster-1	t8_fai-gene-cluster-1	t9_fai-gene-cluster-1
+N28.HOG0000000	OG0000000	n8																						ABE_000194									
+N28.HOG0000001	OG0000000	n11																			AAM_000209							ABD_000222					
+N28.HOG0000002	OG0000000	n13																										ABD_000223					
+N28.HOG0000003	OG0000000	n25																			AAM_000210							ABD_000224					
+N28.HOG0000004	OG0000000	n39																			AAM_000211							ABD_000225					
+N28.HOG0000005	OG0000000	n63																						ABE_000193									
+N28.HOG0000006	OG0000000	n71																										ABD_000217					
+N28.HOG0000007	OG0000000	n107																			AAM_000208							ABD_000219					
+N28.HOG0000008	OG0000001	n1																			AAM_000216			ABE_000198				ABD_000230					
+N28.HOG0000009	OG0000001	n44																			AAM_000190			ABE_000173				ABD_000198, ABD_000196					
+N28.HOG0000010	OG0000001	n60																			AAM_000192			ABE_000175				ABD_000231, ABD_000199					
+N28.HOG0000011	OG0000001	n80																			AAM_000191			ABE_000174				ABD_000197					
+N28.HOG0000012	OG0000002	n9																			AAM_000195			ABE_000178									
+N28.HOG0000013	OG0000002	n39																			AAM_000196			ABE_000179				ABD_000201					
+N28.HOG0000014	OG0000002	n45																			AAM_000197							ABD_000202					
+N28.HOG0000015	OG0000002	n62																			AAM_000194			ABE_000177									
+N28.HOG0000016	OG0000002	n70																			AAM_000193			ABE_000176				ABD_000200					
+N28.HOG0000017	OG0000003	n4																						ABE_000190									
+N28.HOG0000018	OG0000003	n33																						ABE_000191									
+N28.HOG0000019	OG0000003	n50																										ABD_000215					
+N28.HOG0000020	OG0000003	n51																						ABE_000192				ABD_000216					
+N28.HOG0000021	OG0000004	n1																			AAM_000179			ABE_000163				ABD_000181					
+N28.HOG0000022	OG0000004	n29																										ABD_000178					
+N28.HOG0000023	OG0000004	n35																			AAM_000178			ABE_000162				ABD_000180					
+N28.HOG0000024	OG0000004	n44																			AAM_000177			ABE_000161				ABD_000179					
+N28.HOG0000025	OG0000005	n24																			AAM_000213							ABD_000227					
+N28.HOG0000026	OG0000005	n27																			AAM_000212			ABE_000195				ABD_000226					
+N28.HOG0000027	OG0000005	n39																			AAM_000214			ABE_000196				ABD_000228					
+N28.HOG0000028	OG0000006	n1																			AAM_000184			ABE_000168				ABD_000188, ABD_000189					
+N28.HOG0000029	OG0000006	n32																			AAM_000183			ABE_000167				ABD_000187					
+N28.HOG0000030	OG0000007	n12																			AAM_000205			ABE_000188				ABD_000212					
+N28.HOG0000031	OG0000007	n36																										ABD_000213					
+N28.HOG0000032	OG0000007	n41																						ABE_000189				ABD_000211, ABD_000214					
+N28.HOG0000033	OG0000008	n12																			AAM_000201			ABE_000185				ABD_000208					
+N28.HOG0000034	OG0000008	n29																			AAM_000202			ABE_000186				ABD_000209					
+N28.HOG0000035	OG0000008	n35																			AAM_000203			ABE_000187				ABD_000210					
+N28.HOG0000036	OG0000009	n3																			AAM_000225			ABE_000206				ABD_000240					
+N28.HOG0000037	OG0000009	n28																			AAM_000226			ABE_000207				ABD_000241					
+N28.HOG0000038	OG0000010	n30																			AAM_000180			ABE_000164				ABD_000182					
+N28.HOG0000039	OG0000011	n1																						ABE_000165				ABD_000184					
+N28.HOG0000040	OG0000011	n45																			AAM_000181												
+N28.HOG0000041	OG0000012	n3																			AAM_000239			ABE_000216				ABD_000251					
+N28.HOG0000042	OG0000012	n31																						ABE_000217									
+N28.HOG0000043	OG0000012	n33																										ABD_000252					
+N28.HOG0000044	OG0000012	n35																			AAM_000240							ABD_000253					
+N28.HOG0000045	OG0000013	n3																			AAM_000185			ABE_000169				ABD_000190					
+N28.HOG0000046	OG0000014	n15																			AAM_000235			ABE_000213				ABD_000248					
+N28.HOG0000047	OG0000014	n31																			AAM_000234			ABE_000212				ABD_000247					
+N28.HOG0000048	OG0000015	n7																			AAM_000199			ABE_000182				ABD_000205					
+N28.HOG0000049	OG0000015	n24																						ABE_000181				ABD_000204					
+N28.HOG0000050	OG0000015	n25																						ABE_000183				ABD_000206					
+N28.HOG0000051	OG0000016	n3																			AAM_000217			ABE_000199				ABD_000233					
+N28.HOG0000052	OG0000016	n23																			AAM_000218							ABD_000234					
+N28.HOG0000053	OG0000016	n27																			AAM_000219			ABE_000200				ABD_000235					
+N28.HOG0000054	OG0000017	n14																			AAM_000228			ABE_000208				ABD_000242					
+N28.HOG0000055	OG0000017	n31																			AAM_000229							ABD_000243					
+N28.HOG0000056	OG0000018	n2																						ABE_000166				ABD_000185					
+N28.HOG0000057	OG0000018	n27																			AAM_000182							ABD_000186					
+N28.HOG0000058	OG0000019	n11																			AAM_000241			ABE_000218									
+N28.HOG0000059	OG0000019	n20																			AAM_000243			ABE_000219				ABD_000254					
+N28.HOG0000060	OG0000020	n4																			AAM_000186			ABE_000170				ABD_000191					
+N28.HOG0000061	OG0000020	n30																										ABD_000192					
+N28.HOG0000062	OG0000020	n31																			AAM_000187			ABE_000171				ABD_000193					
+N28.HOG0000063	OG0000021	n10																			AAM_000224			ABE_000205				ABD_000239					
+N28.HOG0000064	OG0000021	n19																			AAM_000223			ABE_000204				ABD_000238					
+N28.HOG0000065	OG0000022	n7																			AAM_000176			ABE_000160				ABD_000177					
+N28.HOG0000066	OG0000022	n21																										ABD_000176					
+N28.HOG0000067	OG0000023	n9																			AAM_000189							ABD_000195					
+N28.HOG0000068	OG0000023	n21																			AAM_000188			ABE_000172				ABD_000194					
+N28.HOG0000069	OG0000024	n6																			AAM_000231												
+N28.HOG0000070	OG0000024	n12																			AAM_000232			ABE_000210				ABD_000245					
+N28.HOG0000071	OG0000025	n19																			AAM_000233			ABE_000211				ABD_000246					
+N28.HOG0000072	OG0000026	n15																			AAM_000238			ABE_000215				ABD_000250					
+N28.HOG0000073	OG0000027	n16																			AAM_000200			ABE_000184				ABD_000207					
+N28.HOG0000074	OG0000028	n16																			AAM_000230			ABE_000209				ABD_000244					
+N28.HOG0000075	OG0000029	n17																						ABE_000214									
+N28.HOG0000076	OG0000029	n20																			AAM_000237							ABD_000249					
+N28.HOG0000077	OG0000029	n26																			AAM_000236												
+N28.HOG0000078	OG0000031	n10																			AAM_000221			ABE_000202				ABD_000236					
+N28.HOG0000079	OG0000031	n13																			AAM_000220			ABE_000201									
+N28.HOG0000080	OG0000032	n23																										ABD_000256					
+N28.HOG0000081	OG0000032	n25																										ABD_000255					
+N28.HOG0000082	OG0000032	n28																			AAM_000244			ABE_000220									
+N28.HOG0000083	OG0000033	n0																			AAM_000215			ABE_000197				ABD_000229					
+N28.HOG0000084	OG0000035	n16																			AAM_000222			ABE_000203				ABD_000237					
+N28.HOG0000085	OG0000036	n0																										ABD_000232					
+N28.HOG0000086	OG0000038	n0																			AAM_000198			ABE_000180				ABD_000203					
+N28.HOG0000087	OG0000040	n0																										ABD_000183					
