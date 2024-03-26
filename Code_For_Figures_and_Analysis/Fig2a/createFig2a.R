@@ -1,6 +1,6 @@
 library(ggplot2)
 
-dat <- read.table('Data.txt', header=T, sep='\t')
+dat <- read.table('Plot_Input.txt', header=T, sep='\t')
 # JGI GaID	oxygen category	Sample collection date	Depth	Depth_Index	Virunce_Presence
 
 pdf('Plot.pdf', height=3, width=7)
