@@ -1,24 +1,23 @@
-	Command being timed: "prepTG -i Species_Rep_Genomes/ -o prepTG_Database/ -c 20"
-	User time (seconds): 421.58
-	System time (seconds): 43.40
-	Percent of CPU this job got: 1325%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:35.08
-	Average shared text size (kbytes): 0
-	Average unshared data size (kbytes): 0
-	Average stack size (kbytes): 0
-	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 258588
-	Average resident set size (kbytes): 0
-	Major (requiring I/O) page faults: 0
-	Minor (reclaiming a frame) page faults: 8732929
-	Voluntary context switches: 25098
-	Involuntary context switches: 3213954
-	Swaps: 0
-	File system inputs: 0
-	File system outputs: 1949656
-	Socket messages sent: 0
-	Socket messages received: 0
-	Signals delivered: 0
-	Page size (bytes): 4096
-	Exit status: 0
-
+        Command being timed: "prepTG -i Species_Rep_Genomes/ -o prepTG_Database/ -c 20"
+        User time (seconds): 424.67
+        System time (seconds): 29.30
+        Percent of CPU this job got: 1198%
+        Elapsed (wall clock) time (h:mm:ss or m:ss): 0:37.88
+        Average shared text size (kbytes): 0
+        Average unshared data size (kbytes): 0
+        Average stack size (kbytes): 0
+        Average total size (kbytes): 0
+        Maximum resident set size (kbytes): 258696
+        Average resident set size (kbytes): 0
+        Major (requiring I/O) page faults: 1082
+        Minor (reclaiming a frame) page faults: 8743420
+        Voluntary context switches: 61021
+        Involuntary context switches: 46388
+        Swaps: 0
+        File system inputs: 629040
+        File system outputs: 1949504
+        Socket messages sent: 0
+        Socket messages received: 0
+        Signals delivered: 0
+        Page size (bytes): 4096
+        Exit status: 0

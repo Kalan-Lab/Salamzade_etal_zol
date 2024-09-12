@@ -1,6 +1,8 @@
-Input directory with loci GenBanks: /home/salamzade/zol_development/showcase_examples/Phage_in_Lake_MGs/fai_Results_v1.3.19_noSyntReq/Final_Results/
-Output directory: /home/salamzade/zol_development/showcase_examples/Phage_in_Lake_MGs/zol_Results_v1.3.19/
+Input directory with loci GenBanks: /home/salamzade/zol_development/showcase_examples_redo/Phage_in_Lake_MGs/fai_Results/Final_Results/Homologous_Gene_Cluster_GenBanks/
+Output directory: /home/salamzade/zol_development/showcase_examples_redo/Phage_in_Lake_MGs/zol_Results/
 Select fai parameters mode?: False
+Perform iterative CD-HIT based orthogrouping instead of default InParanoid-based approach?: False
+CD-HIT parameters for orthogrouping (assuming approach requested): -c 0.5 -aL 0.25 -aS 0.5 -n 3 -M 4000
 Ortholog group finding identity threshold: 30.0
 Ortholog group finding coverage threshold: 50.0
 Ortholog group finding E-value threshold: 0.001
@@ -18,6 +20,7 @@ Rename locus tags?: False
 Use CDS features with attribute near_scaffold_edge=True.: True
 Perform Dereplication?: False
 Perform reinflation?: False
+Reinflation CD-HIT parameters: -c 0.98 -aL 0.95 -aS 0.95 -n 5 -M 4000
 Dereplication identity threshold: 99.0
 Dereplication coverage threshold: 95.0
 Dereplication clustering method / MCL inflation: None

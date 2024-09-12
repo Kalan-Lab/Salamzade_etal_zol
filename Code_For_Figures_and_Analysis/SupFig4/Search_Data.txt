@@ -1,4 +1,4 @@
 Ord	Method	Category	Statistic	Value
-1	fai	fai	Time (in seconds)	385
+1	fai	fai	Time (in seconds)	207
 2	cblaster	cblaster search	Time (in seconds)	191
-2	cblaster	cblaster extract_clusters	Time (in seconds)	80
+2	cblaster	cblaster extract_clusters	Time (in seconds)	79

@@ -1,6 +1,8 @@
-Input directory with loci GenBanks: /home/conda_envs/CoreSimul/CoreSimul/fai_Results/Final_Results/Homologous_Gene_Cluster_GenBanks/
-Output directory: /home/conda_envs/CoreSimul/CoreSimul/zol_Results_Default/
+Input directory with loci GenBanks: /home/salamzade/zol_development/showcase_examples_redo/Enterococcus_Epa/CoreSimul/fai_Results/Final_Results/Homologous_Gene_Cluster_GenBanks/
+Output directory: /home/salamzade/zol_development/showcase_examples_redo/Enterococcus_Epa/CoreSimul/zol_Results_Default/
 Select fai parameters mode?: False
+Perform iterative CD-HIT based orthogrouping instead of default InParanoid-based approach?: False
+CD-HIT parameters for orthogrouping (assuming approach requested): -c 0.5 -aL 0.25 -aS 0.5 -n 3 -M 4000
 Ortholog group finding identity threshold: 30.0
 Ortholog group finding coverage threshold: 50.0
 Ortholog group finding E-value threshold: 0.001
@@ -11,17 +13,18 @@ Focal GenBanks listing: None
 Comparator GenBanks listing: None
 Filter low quality gene clusters?: False
 Filter draft/incomplete gene clusters?: False
-Only compute orthologs and stop?: False
+Only compute orthologs and stop?: True
 Perform broad level estimation of ortholog group conservation if dereplication requested?: False
 Comprehensive reporting of evolutionary statistics, including for non-single copy ortholog groups: False
 Rename locus tags?: False
 Use CDS features with attribute near_scaffold_edge=True.: False
 Perform Dereplication?: False
 Perform reinflation?: False
+Reinflation CD-HIT parameters: -c 0.98 -aL 0.95 -aS 0.95 -n 5 -M 4000
 Dereplication identity threshold: 99.0
 Dereplication coverage threshold: 95.0
 Dereplication clustering method / MCL inflation: None
-Custom annotation database: Reference_Query.faa
+Custom annotation database: None
 Refine gene calling using the custom annotation database: False
 Plot height: 7
 Plot width: 14

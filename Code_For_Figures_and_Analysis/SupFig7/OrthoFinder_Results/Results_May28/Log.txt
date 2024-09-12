@@ -1,0 +1,41 @@
+2024-05-28 18:38:01 : Started OrthoFinder version 2.5.4
+Command Line: /home/conda_envs/lsaBGC_env_V1.33/bin/orthofinder -f OrthoFinder_Input/ -o OrthoFinder_Results/ -t 50
+
+WorkingDirectory_Base: OrthoFinder_Results/Results_May28/WorkingDirectory/
+
+Species used: 
+0: Ref_Epa_from_V583_fai-gene-cluster-1.faa
+1: t10_fai-gene-cluster-1.faa
+2: t11_fai-gene-cluster-1.faa
+3: t12_fai-gene-cluster-1.faa
+4: t13_fai-gene-cluster-1.faa
+5: t14_fai-gene-cluster-1.faa
+6: t15_fai-gene-cluster-1.faa
+7: t16_fai-gene-cluster-1.faa
+8: t17_fai-gene-cluster-1.faa
+9: t18_fai-gene-cluster-1.faa
+10: t19_fai-gene-cluster-1.faa
+11: t1_fai-gene-cluster-1.faa
+12: t20_fai-gene-cluster-1.faa
+13: t21_fai-gene-cluster-1.faa
+14: t22_fai-gene-cluster-1.faa
+15: t23_fai-gene-cluster-1.faa
+16: t24_fai-gene-cluster-1.faa
+17: t25_fai-gene-cluster-1.faa
+18: t26_fai-gene-cluster-1.faa
+19: t27_fai-gene-cluster-1.faa
+20: t28_fai-gene-cluster-1.faa
+21: t29_fai-gene-cluster-1.faa
+22: t2_fai-gene-cluster-1.faa
+23: t30_fai-gene-cluster-1.faa
+24: t3_fai-gene-cluster-1.faa
+25: t4_fai-gene-cluster-1.faa
+26: t5_fai-gene-cluster-1.faa
+27: t6_fai-gene-cluster-1.faa
+28: t7_fai-gene-cluster-1.faa
+29: t8_fai-gene-cluster-1.faa
+30: t9_fai-gene-cluster-1.faa
+
+FN_Orthogroups: OrthoFinder_Results/Results_May28/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: OrthoFinder_Results/Results_May28/WorkingDirectory/
+2024-05-28 18:38:23 : OrthoFinder run completed

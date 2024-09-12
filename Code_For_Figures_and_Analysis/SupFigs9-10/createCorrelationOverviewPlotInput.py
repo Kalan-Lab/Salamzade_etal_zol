@@ -95,10 +95,10 @@ def processResults(infile):
     return([dict_info, all_hgs])
 
 no_drep_file = 'Without_Dereplication.txt'
-dr_drep_file = 'Dereplication_and_Reinflation.txt'
-gc1_drep_file = 'GeneCluster_Dereplication.txt'
-gc2_drep_file = 'GeneCluster_97I95C_Dereplication.txt'
-gw_drep_file = 'GenomeWide_Dereplication.txt'
+dr_drep_file = 'Derep99I99C_and_Reinflation.txt'
+gc1_drep_file = 'Derep99I99C.txt'
+gc2_drep_file = 'Derep97I95C.txt'
+gw_drep_file = 'GW_dRep.txt'
 
 wo_drep_dict, wo_hgs = processResults(no_drep_file)
 dr_drep_dict, dr_hgs = processResults(dr_drep_file)

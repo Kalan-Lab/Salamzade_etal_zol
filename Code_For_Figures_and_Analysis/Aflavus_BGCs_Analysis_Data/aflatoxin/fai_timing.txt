@@ -1,0 +1,24 @@
+        Command being timed: "fai -i BGC0000008.gbk -kpq key_proteins.faa -dm -fp -e 1e-10 -kpe 1e-20 -kpm 1.0 -m 0.5 -mgd 3 -f 1000 -sct 0.6 -gp -c 20 -tg ../prepTG_DB/ -o fai_Results/"
+        User time (seconds): 1159.19
+        System time (seconds): 64.17
+        Percent of CPU this job got: 202%
+        Elapsed (wall clock) time (h:mm:ss or m:ss): 10:03.87
+        Average shared text size (kbytes): 0
+        Average unshared data size (kbytes): 0
+        Average stack size (kbytes): 0
+        Average total size (kbytes): 0
+        Maximum resident set size (kbytes): 1105392
+        Average resident set size (kbytes): 0
+        Major (requiring I/O) page faults: 1
+        Minor (reclaiming a frame) page faults: 4477639
+        Voluntary context switches: 250987
+        Involuntary context switches: 119708
+        Swaps: 0
+        File system inputs: 16
+        File system outputs: 348408
+        Socket messages sent: 0
+        Socket messages received: 0
+        Signals delivered: 0
+        Page size (bytes): 4096
+        Exit status: 0
+

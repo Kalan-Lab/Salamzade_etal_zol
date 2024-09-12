@@ -1,7 +1,7 @@
 Order	Category	Count
-1	shared FZ, CC, OF	28669
-2	shared FZ, CC	2644
-3	shared FZ, OF	3863
-4	shared CC, OF	1330
-5	unique FZ	585
-6	unique CC	192
+1	shared FZ, CC, OF	25660
+2	shared FZ, CC	2626
+3	shared FZ, OF	3469
+4	shared CC, OF	1695
+5	unique FZ	447
+6	unique CC	210

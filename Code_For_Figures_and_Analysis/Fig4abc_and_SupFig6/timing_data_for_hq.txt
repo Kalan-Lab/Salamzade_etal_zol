@@ -1,11 +1,11 @@
 Order	Method	Step	Time
-3	OF	1. prepTG	35
-3	OF	8. OrthoFinder - workflow	6683
-1	FZ	1. prepTG	35
+3	OF	1. prepTG	38
+3	OF	8. OrthoFinder - workflow	6302
+1	FZ	1. prepTG	38
 1	FZ	2. fai	15
-1	FZ	3. zol	10
-2	CC	1. prepTG	35
-2	CC	4. cblaster makedb	16
+1	FZ	3. zol	9
+2	CC	1. prepTG	38
+2	CC	4. cblaster makedb	18
 2	CC	5. cblaster search	14
 2	CC	6. cblaster extract_clusters	5
-2	CC	7. clinker	234
+2	CC	7. clinker	251

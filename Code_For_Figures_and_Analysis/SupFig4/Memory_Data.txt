@@ -1,5 +1,5 @@
 Ord	Method	Statistic	Value
 3	fai	Maximum memory (in Gb)	3.49
-4	cblaster search + export	Maximum memory (in Gb)	0.99
-1	prepTG	Maximum memory (in Gb)	2.42
-2	cblaster makedb	Maximum memory (in Gb)	29.74
+4	cblaster search + export	Maximum memory (in Gb)	0.98
+1	prepTG	Maximum memory (in Gb)	2.44
+2	cblaster makedb	Maximum memory (in Gb)	29.94

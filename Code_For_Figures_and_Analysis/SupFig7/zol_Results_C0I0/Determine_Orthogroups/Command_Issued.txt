@@ -1,1 +1,0 @@
-/home/conda_envs/lsaBGC_env_V1.33/bin/findOrthologs.py -p /home/conda_envs/CoreSimul/CoreSimul/zol_Results_C0I0/Prots_for_de_novo_Orthology_Finding/ -o /home/conda_envs/CoreSimul/CoreSimul/zol_Results_C0I0/Determine_Orthogroups/ -e 0.001 -i 0.0 -q 0.0 -c 40

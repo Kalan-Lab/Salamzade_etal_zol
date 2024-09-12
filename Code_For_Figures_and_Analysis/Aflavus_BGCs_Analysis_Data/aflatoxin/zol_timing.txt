@@ -1,0 +1,24 @@
+        Command being timed: "zol -i fai_Results/Final_Results/Homologous_Gene_Cluster_GenBanks/ -o zol_Results/ -fl -fd -c 20 -cd BGC0000008.faa"
+        User time (seconds): 9986.71
+        System time (seconds): 993.06
+        Percent of CPU this job got: 105%
+        Elapsed (wall clock) time (h:mm:ss or m:ss): 2:53:37
+        Average shared text size (kbytes): 0
+        Average unshared data size (kbytes): 0
+        Average stack size (kbytes): 0
+        Average total size (kbytes): 0
+        Maximum resident set size (kbytes): 1473728
+        Average resident set size (kbytes): 0
+        Major (requiring I/O) page faults: 0
+        Minor (reclaiming a frame) page faults: 892622485
+        Voluntary context switches: 733975
+        Involuntary context switches: 1052833
+        Swaps: 0
+        File system inputs: 0
+        File system outputs: 758368
+        Socket messages sent: 0
+        Socket messages received: 0
+        Signals delivered: 0
+        Page size (bytes): 4096
+        Exit status: 0
+

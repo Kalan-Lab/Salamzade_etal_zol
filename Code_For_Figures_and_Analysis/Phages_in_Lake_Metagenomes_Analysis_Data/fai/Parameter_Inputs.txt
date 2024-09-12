@@ -5,18 +5,18 @@ Reference start coordinate of gene cluster: None
 Reference end coordinate of gene cluster: None
 Protein queries multi-FASTA file: None
 Single protein query FASTA file: None
-Target genomes prepared directory by prepTG: prepTG_Database_v1.3.19/
-Output directory: /home/salamzade/zol_development/showcase_examples/Phage_in_Lake_MGs/fai_Results_v1.3.19_noSyntReq/
+Target genomes prepared directory by prepTG: prepTG_DB/
+Output directory: /home/salamzade/zol_development/showcase_examples_redo/Phage_in_Lake_MGs/fai_Results/
 Species Tree: None
 Run in draft-assembly mode?: False
 Filter for paralogous/gene-content overlapping segments: True
 Use prodigal-gv instead of pyrodigal to perform gene calling for query region in reference genome: False
 General E-value cutoff for detection of protein homologs in genome: 1e-10
-Minimum proportion of hits for gene presence in genome: 0.5
+Minimum proportion of distinct query proteins needed: 0.5
 FASTA file with key proteins to consider: None
 E-values for key proteins to be considered as high-supporting evidence for gene cluster presence: 1e-20
-Minimum proportion of key protein hits to be considered as high-supporting evidence for gene cluster presence: 0.0
-Syntenic correlation to known instance threshold required for gene cluster presence: 0.0
+Minimum proportion of distinct key protein queries needed: 0.0
+Syntenic correlation to known instance threshold needed: 0.0
 Maximum distance in between candidate gene-cluster segments to perform merging: 5
 Base pair for flanking context to extract: 1000
 Emission probability of gene being in gene-cluster state with homologous hit to gene-cluster: 0.95
