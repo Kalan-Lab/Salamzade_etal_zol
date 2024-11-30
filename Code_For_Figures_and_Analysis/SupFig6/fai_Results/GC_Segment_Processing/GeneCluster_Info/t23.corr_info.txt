@@ -1,0 +1,1 @@
+t23	/workspace/local/rauf/zol/update_manuscript_apps/Enterococcus_Epa/Comparisons/CoreSimul/fai_Results/GC_Segment_Processing/GeneCluster_Genbanks/t23_fai-gene-cluster-1.gbk	irrelevant

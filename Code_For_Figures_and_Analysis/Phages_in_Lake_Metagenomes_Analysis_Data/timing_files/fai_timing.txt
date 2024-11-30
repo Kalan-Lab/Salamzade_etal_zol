@@ -1,0 +1,55 @@
+Running fai version 1.5.5
+Beginning fai searches using the following GenBank(s) as queries: Query_Phages/Ga0485157_0000450.gbk Query_Phages/Ga0485158_0000434.gbk
+--------------------
+Step 1
+--------------------
+Getting protein sequences of known gene-cluster instance(s).
+Found 2 GenBanks to use as a joint query.
+Running HMMER3 hmmbuild to generate profile HMMs for 47 ortholog groups
+  0%|          | 0/47 [00:00<?, ?it/s]  2%|▏         | 1/47 [00:00<00:13,  3.35it/s]  4%|▍         | 2/47 [00:00<00:10,  4.13it/s]  9%|▊         | 4/47 [00:00<00:06,  6.30it/s] 11%|█         | 5/47 [00:00<00:07,  5.89it/s] 15%|█▍        | 7/47 [00:01<00:06,  6.18it/s] 19%|█▉        | 9/47 [00:01<00:05,  7.36it/s] 23%|██▎       | 11/47 [00:01<00:04,  8.77it/s] 28%|██▊       | 13/47 [00:01<00:03,  9.26it/s] 32%|███▏      | 15/47 [00:02<00:04,  7.94it/s] 34%|███▍      | 16/47 [00:02<00:03,  7.91it/s] 38%|███▊      | 18/47 [00:02<00:03,  8.81it/s] 43%|████▎     | 20/47 [00:02<00:02,  9.99it/s] 47%|████▋     | 22/47 [00:02<00:02,  8.48it/s] 51%|█████     | 24/47 [00:03<00:03,  7.22it/s] 55%|█████▌    | 26/47 [00:03<00:02,  8.04it/s] 62%|██████▏   | 29/47 [00:03<00:01, 10.23it/s] 66%|██████▌   | 31/47 [00:03<00:01,  9.80it/s] 70%|███████   | 33/47 [00:03<00:01, 11.36it/s] 74%|███████▍  | 35/47 [00:04<00:01, 11.39it/s] 79%|███████▊  | 37/47 [00:04<00:01,  8.68it/s] 83%|████████▎ | 39/47 [00:04<00:00,  8.36it/s] 85%|████████▌ | 40/47 [00:04<00:00,  7.61it/s] 87%|████████▋ | 41/47 [00:05<00:00,  7.87it/s] 91%|█████████▏| 43/47 [00:05<00:00,  9.36it/s] 98%|█████████▊| 46/47 [00:05<00:00,  9.99it/s]100%|██████████| 47/47 [00:05<00:00,  8.58it/s]
+Running HMMER3 hmmemit to generate consensus protein sequences for 47 ortholog groups
+  0%|          | 0/47 [00:00<?, ?it/s] 21%|██▏       | 10/47 [00:00<00:00, 97.71it/s] 51%|█████     | 24/47 [00:00<00:00, 114.91it/s] 81%|████████  | 38/47 [00:00<00:00, 124.88it/s]100%|██████████| 47/47 [00:00<00:00, 130.11it/s]
+--------------------
+Step 2
+--------------------
+Running DIAMOND BLASTp and Processing Results.
+--------------------
+Step 3
+--------------------
+Loading target genomes database prepared by prepTG.
+--------------------
+Step 4
+--------------------
+Identifying homologous gene-cluster segments.
+Determining gene cluster homologous hits for 16 genomes
+  0%|          | 0/16 [00:00<?, ?it/s] 44%|████▍     | 7/16 [00:28<00:37,  4.13s/it] 50%|█████     | 8/16 [00:35<00:35,  4.49s/it] 56%|█████▋    | 9/16 [00:37<00:27,  3.98s/it] 62%|██████▎   | 10/16 [00:37<00:19,  3.19s/it] 75%|███████▌  | 12/16 [00:43<00:12,  3.05s/it] 81%|████████▏ | 13/16 [00:44<00:07,  2.62s/it] 88%|████████▊ | 14/16 [00:45<00:04,  2.40s/it] 94%|█████████▍| 15/16 [00:58<00:04,  4.94s/it]100%|██████████| 16/16 [01:17<00:00,  8.64s/it]100%|██████████| 16/16 [01:17<00:00,  4.83s/it]
+--------------------
+Step 5
+--------------------
+Create overview plots + spreadsheets showing homology of candidate gene clusters to queries.
+Done running fai!
+Final results can be found at:
+/workspace/local/rauf/zol/update_manuscript_apps/Phage_in_Lake_MGs/prodigal_gv/fai_Results/Final_Results/
+	Command being timed: "fai -i Query_Phages/Ga0485157_0000450.gbk Query_Phages/Ga0485158_0000434.gbk -tg prepTG_DB/ -o fai_Results/ -fp -c 20"
+	User time (seconds): 1343.94
+	System time (seconds): 124.91
+	Percent of CPU this job got: 649%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:46.14
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3781848
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 82
+	Minor (reclaiming a frame) page faults: 8323810
+	Voluntary context switches: 174657
+	Involuntary context switches: 12006
+	Swaps: 0
+	File system inputs: 40648
+	File system outputs: 58088
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

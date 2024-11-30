@@ -1,0 +1,508 @@
+
+OrthoFinder version 2.5.4 Copyright (C) 2014 David Emms
+
+2024-11-20 17:15:23 : Starting OrthoFinder 2.5.4
+20 thread(s) for highly parallel tasks (BLAST searches etc.)
+2 thread(s) for OrthoFinder algorithm
+
+Checking required programs are installed
+----------------------------------------
+Test can run "mcl -h" - ok
+Test can run "fastme -i OrthoFinder_Results/Results_Nov20/WorkingDirectory/SimpleTest.phy -o OrthoFinder_Results/Results_Nov20/WorkingDirectory/SimpleTest.tre" - ok
+
+Dividing up work for BLAST for parallel processing
+--------------------------------------------------
+2024-11-20 17:15:26 : Creating diamond database 1 of 92
+2024-11-20 17:15:26 : Creating diamond database 2 of 92
+2024-11-20 17:15:26 : Creating diamond database 3 of 92
+2024-11-20 17:15:26 : Creating diamond database 4 of 92
+2024-11-20 17:15:26 : Creating diamond database 5 of 92
+2024-11-20 17:15:26 : Creating diamond database 6 of 92
+2024-11-20 17:15:26 : Creating diamond database 7 of 92
+2024-11-20 17:15:26 : Creating diamond database 8 of 92
+2024-11-20 17:15:26 : Creating diamond database 9 of 92
+2024-11-20 17:15:26 : Creating diamond database 10 of 92
+2024-11-20 17:15:26 : Creating diamond database 11 of 92
+2024-11-20 17:15:26 : Creating diamond database 12 of 92
+2024-11-20 17:15:26 : Creating diamond database 13 of 92
+2024-11-20 17:15:26 : Creating diamond database 14 of 92
+2024-11-20 17:15:27 : Creating diamond database 15 of 92
+2024-11-20 17:15:27 : Creating diamond database 16 of 92
+2024-11-20 17:15:27 : Creating diamond database 17 of 92
+2024-11-20 17:15:27 : Creating diamond database 18 of 92
+2024-11-20 17:15:27 : Creating diamond database 19 of 92
+2024-11-20 17:15:27 : Creating diamond database 20 of 92
+2024-11-20 17:15:27 : Creating diamond database 21 of 92
+2024-11-20 17:15:27 : Creating diamond database 22 of 92
+2024-11-20 17:15:27 : Creating diamond database 23 of 92
+2024-11-20 17:15:27 : Creating diamond database 24 of 92
+2024-11-20 17:15:27 : Creating diamond database 25 of 92
+2024-11-20 17:15:27 : Creating diamond database 26 of 92
+2024-11-20 17:15:27 : Creating diamond database 27 of 92
+2024-11-20 17:15:27 : Creating diamond database 28 of 92
+2024-11-20 17:15:27 : Creating diamond database 29 of 92
+2024-11-20 17:15:27 : Creating diamond database 30 of 92
+2024-11-20 17:15:27 : Creating diamond database 31 of 92
+2024-11-20 17:15:27 : Creating diamond database 32 of 92
+2024-11-20 17:15:27 : Creating diamond database 33 of 92
+2024-11-20 17:15:28 : Creating diamond database 34 of 92
+2024-11-20 17:15:28 : Creating diamond database 35 of 92
+2024-11-20 17:15:28 : Creating diamond database 36 of 92
+2024-11-20 17:15:28 : Creating diamond database 37 of 92
+2024-11-20 17:15:28 : Creating diamond database 38 of 92
+2024-11-20 17:15:28 : Creating diamond database 39 of 92
+2024-11-20 17:15:28 : Creating diamond database 40 of 92
+2024-11-20 17:15:28 : Creating diamond database 41 of 92
+2024-11-20 17:15:28 : Creating diamond database 42 of 92
+2024-11-20 17:15:28 : Creating diamond database 43 of 92
+2024-11-20 17:15:28 : Creating diamond database 44 of 92
+2024-11-20 17:15:28 : Creating diamond database 45 of 92
+2024-11-20 17:15:28 : Creating diamond database 46 of 92
+2024-11-20 17:15:28 : Creating diamond database 47 of 92
+2024-11-20 17:15:28 : Creating diamond database 48 of 92
+2024-11-20 17:15:28 : Creating diamond database 49 of 92
+2024-11-20 17:15:28 : Creating diamond database 50 of 92
+2024-11-20 17:15:28 : Creating diamond database 51 of 92
+2024-11-20 17:15:28 : Creating diamond database 52 of 92
+2024-11-20 17:15:29 : Creating diamond database 53 of 92
+2024-11-20 17:15:29 : Creating diamond database 54 of 92
+2024-11-20 17:15:29 : Creating diamond database 55 of 92
+2024-11-20 17:15:29 : Creating diamond database 56 of 92
+2024-11-20 17:15:29 : Creating diamond database 57 of 92
+2024-11-20 17:15:29 : Creating diamond database 58 of 92
+2024-11-20 17:15:29 : Creating diamond database 59 of 92
+2024-11-20 17:15:29 : Creating diamond database 60 of 92
+2024-11-20 17:15:29 : Creating diamond database 61 of 92
+2024-11-20 17:15:29 : Creating diamond database 62 of 92
+2024-11-20 17:15:29 : Creating diamond database 63 of 92
+2024-11-20 17:15:29 : Creating diamond database 64 of 92
+2024-11-20 17:15:29 : Creating diamond database 65 of 92
+2024-11-20 17:15:29 : Creating diamond database 66 of 92
+2024-11-20 17:15:29 : Creating diamond database 67 of 92
+2024-11-20 17:15:29 : Creating diamond database 68 of 92
+2024-11-20 17:15:29 : Creating diamond database 69 of 92
+2024-11-20 17:15:29 : Creating diamond database 70 of 92
+2024-11-20 17:15:29 : Creating diamond database 71 of 92
+2024-11-20 17:15:29 : Creating diamond database 72 of 92
+2024-11-20 17:15:30 : Creating diamond database 73 of 92
+2024-11-20 17:15:30 : Creating diamond database 74 of 92
+2024-11-20 17:15:30 : Creating diamond database 75 of 92
+2024-11-20 17:15:30 : Creating diamond database 76 of 92
+2024-11-20 17:15:30 : Creating diamond database 77 of 92
+2024-11-20 17:15:30 : Creating diamond database 78 of 92
+2024-11-20 17:15:30 : Creating diamond database 79 of 92
+2024-11-20 17:15:30 : Creating diamond database 80 of 92
+2024-11-20 17:15:30 : Creating diamond database 81 of 92
+2024-11-20 17:15:30 : Creating diamond database 82 of 92
+2024-11-20 17:15:30 : Creating diamond database 83 of 92
+2024-11-20 17:15:30 : Creating diamond database 84 of 92
+2024-11-20 17:15:30 : Creating diamond database 85 of 92
+2024-11-20 17:15:30 : Creating diamond database 86 of 92
+2024-11-20 17:15:30 : Creating diamond database 87 of 92
+2024-11-20 17:15:30 : Creating diamond database 88 of 92
+2024-11-20 17:15:30 : Creating diamond database 89 of 92
+2024-11-20 17:15:31 : Creating diamond database 90 of 92
+2024-11-20 17:15:31 : Creating diamond database 91 of 92
+2024-11-20 17:15:31 : Creating diamond database 92 of 92
+
+Running diamond all-versus-all
+------------------------------
+Using 20 thread(s)
+2024-11-20 17:15:31 : This may take some time....
+2024-11-20 17:15:31 : Done 0 of 8464
+2024-11-20 17:24:16 : Done 1000 of 8464
+2024-11-20 17:31:48 : Done 2000 of 8464
+2024-11-20 17:38:51 : Done 3000 of 8464
+2024-11-20 17:45:25 : Done 4000 of 8464
+2024-11-20 17:51:35 : Done 5000 of 8464
+2024-11-20 17:57:28 : Done 6000 of 8464
+2024-11-20 18:03:00 : Done 7000 of 8464
+2024-11-20 18:08:10 : Done 8000 of 8464
+2024-11-20 18:10:12 : Done all-versus-all sequence search
+
+Running OrthoFinder algorithm
+-----------------------------
+2024-11-20 18:10:12 : Initial processing of each species
+2024-11-20 18:10:27 : Initial processing of species 1 complete
+2024-11-20 18:10:35 : Initial processing of species 0 complete
+2024-11-20 18:10:36 : Initial processing of species 2 complete
+2024-11-20 18:10:54 : Initial processing of species 3 complete
+2024-11-20 18:10:54 : Initial processing of species 4 complete
+2024-11-20 18:11:05 : Initial processing of species 5 complete
+2024-11-20 18:11:17 : Initial processing of species 6 complete
+2024-11-20 18:11:22 : Initial processing of species 7 complete
+2024-11-20 18:11:31 : Initial processing of species 9 complete
+2024-11-20 18:11:42 : Initial processing of species 8 complete
+2024-11-20 18:11:43 : Initial processing of species 10 complete
+2024-11-20 18:12:03 : Initial processing of species 12 complete
+2024-11-20 18:12:03 : Initial processing of species 11 complete
+2024-11-20 18:12:25 : Initial processing of species 14 complete
+2024-11-20 18:12:26 : Initial processing of species 13 complete
+2024-11-20 18:12:43 : Initial processing of species 16 complete
+2024-11-20 18:12:50 : Initial processing of species 15 complete
+2024-11-20 18:12:56 : Initial processing of species 17 complete
+2024-11-20 18:13:01 : Initial processing of species 18 complete
+2024-11-20 18:13:08 : Initial processing of species 19 complete
+2024-11-20 18:13:13 : Initial processing of species 20 complete
+2024-11-20 18:13:21 : Initial processing of species 21 complete
+2024-11-20 18:13:28 : Initial processing of species 22 complete
+2024-11-20 18:13:33 : Initial processing of species 23 complete
+2024-11-20 18:13:40 : Initial processing of species 24 complete
+2024-11-20 18:13:46 : Initial processing of species 25 complete
+2024-11-20 18:13:55 : Initial processing of species 26 complete
+2024-11-20 18:13:58 : Initial processing of species 27 complete
+2024-11-20 18:14:09 : Initial processing of species 28 complete
+2024-11-20 18:14:12 : Initial processing of species 29 complete
+2024-11-20 18:14:22 : Initial processing of species 31 complete
+2024-11-20 18:14:27 : Initial processing of species 30 complete
+2024-11-20 18:14:34 : Initial processing of species 32 complete
+2024-11-20 18:14:42 : Initial processing of species 33 complete
+2024-11-20 18:14:47 : Initial processing of species 34 complete
+2024-11-20 18:14:54 : Initial processing of species 35 complete
+2024-11-20 18:14:59 : Initial processing of species 36 complete
+2024-11-20 18:15:08 : Initial processing of species 37 complete
+2024-11-20 18:15:11 : Initial processing of species 38 complete
+2024-11-20 18:15:20 : Initial processing of species 39 complete
+2024-11-20 18:15:23 : Initial processing of species 40 complete
+2024-11-20 18:15:32 : Initial processing of species 41 complete
+2024-11-20 18:15:35 : Initial processing of species 42 complete
+2024-11-20 18:15:45 : Initial processing of species 43 complete
+2024-11-20 18:15:47 : Initial processing of species 44 complete
+2024-11-20 18:15:58 : Initial processing of species 45 complete
+2024-11-20 18:16:00 : Initial processing of species 46 complete
+2024-11-20 18:16:12 : Initial processing of species 47 complete
+2024-11-20 18:16:13 : Initial processing of species 48 complete
+2024-11-20 18:16:29 : Initial processing of species 49 complete
+2024-11-20 18:16:30 : Initial processing of species 50 complete
+2024-11-20 18:16:44 : Initial processing of species 51 complete
+2024-11-20 18:16:46 : Initial processing of species 52 complete
+2024-11-20 18:16:56 : Initial processing of species 54 complete
+2024-11-20 18:17:01 : Initial processing of species 53 complete
+2024-11-20 18:17:07 : Initial processing of species 55 complete
+2024-11-20 18:17:11 : Initial processing of species 56 complete
+2024-11-20 18:17:19 : Initial processing of species 57 complete
+2024-11-20 18:17:26 : Initial processing of species 58 complete
+2024-11-20 18:17:35 : Initial processing of species 59 complete
+2024-11-20 18:17:37 : Initial processing of species 60 complete
+2024-11-20 18:17:46 : Initial processing of species 61 complete
+2024-11-20 18:17:50 : Initial processing of species 62 complete
+2024-11-20 18:17:58 : Initial processing of species 63 complete
+2024-11-20 18:18:01 : Initial processing of species 64 complete
+2024-11-20 18:18:08 : Initial processing of species 65 complete
+2024-11-20 18:18:13 : Initial processing of species 66 complete
+2024-11-20 18:18:17 : Initial processing of species 67 complete
+2024-11-20 18:18:22 : Initial processing of species 68 complete
+2024-11-20 18:18:33 : Initial processing of species 69 complete
+2024-11-20 18:18:41 : Initial processing of species 70 complete
+2024-11-20 18:18:46 : Initial processing of species 71 complete
+2024-11-20 18:18:57 : Initial processing of species 72 complete
+2024-11-20 18:19:02 : Initial processing of species 73 complete
+2024-11-20 18:19:10 : Initial processing of species 74 complete
+2024-11-20 18:19:15 : Initial processing of species 75 complete
+2024-11-20 18:19:27 : Initial processing of species 76 complete
+2024-11-20 18:19:31 : Initial processing of species 77 complete
+2024-11-20 18:19:44 : Initial processing of species 78 complete
+2024-11-20 18:19:46 : Initial processing of species 79 complete
+2024-11-20 18:20:03 : Initial processing of species 81 complete
+2024-11-20 18:20:04 : Initial processing of species 80 complete
+2024-11-20 18:20:19 : Initial processing of species 82 complete
+2024-11-20 18:20:20 : Initial processing of species 83 complete
+2024-11-20 18:20:35 : Initial processing of species 85 complete
+2024-11-20 18:20:38 : Initial processing of species 84 complete
+2024-11-20 18:20:51 : Initial processing of species 86 complete
+2024-11-20 18:20:56 : Initial processing of species 87 complete
+2024-11-20 18:21:09 : Initial processing of species 88 complete
+2024-11-20 18:21:12 : Initial processing of species 89 complete
+2024-11-20 18:21:24 : Initial processing of species 90 complete
+2024-11-20 18:21:30 : Initial processing of species 91 complete
+2024-11-20 18:22:38 : Connected putative homologues
+2024-11-20 18:22:44 : Written final scores for species 12 to graph file
+2024-11-20 18:22:45 : Written final scores for species 0 to graph file
+2024-11-20 18:22:50 : Written final scores for species 1 to graph file
+2024-11-20 18:22:51 : Written final scores for species 13 to graph file
+2024-11-20 18:22:53 : Written final scores for species 2 to graph file
+2024-11-20 18:22:59 : Written final scores for species 14 to graph file
+2024-11-20 18:22:59 : Written final scores for species 3 to graph file
+2024-11-20 18:23:06 : Written final scores for species 4 to graph file
+2024-11-20 18:23:07 : Written final scores for species 15 to graph file
+2024-11-20 18:23:10 : Written final scores for species 5 to graph file
+2024-11-20 18:23:13 : Written final scores for species 16 to graph file
+2024-11-20 18:23:17 : Written final scores for species 17 to graph file
+2024-11-20 18:23:17 : Written final scores for species 6 to graph file
+2024-11-20 18:23:21 : Written final scores for species 18 to graph file
+2024-11-20 18:23:23 : Written final scores for species 7 to graph file
+2024-11-20 18:23:25 : Written final scores for species 19 to graph file
+2024-11-20 18:23:29 : Written final scores for species 20 to graph file
+2024-11-20 18:23:31 : Written final scores for species 8 to graph file
+2024-11-20 18:23:33 : Written final scores for species 21 to graph file
+2024-11-20 18:23:34 : Written final scores for species 9 to graph file
+2024-11-20 18:23:38 : Written final scores for species 10 to graph file
+2024-11-20 18:23:39 : Written final scores for species 22 to graph file
+2024-11-20 18:23:43 : Written final scores for species 23 to graph file
+2024-11-20 18:23:45 : Written final scores for species 11 to graph file
+2024-11-20 18:23:47 : Written final scores for species 24 to graph file
+2024-11-20 18:23:49 : Written final scores for species 36 to graph file
+2024-11-20 18:23:52 : Written final scores for species 25 to graph file
+2024-11-20 18:23:54 : Written final scores for species 37 to graph file
+2024-11-20 18:23:57 : Written final scores for species 26 to graph file
+2024-11-20 18:23:58 : Written final scores for species 38 to graph file
+2024-11-20 18:24:01 : Written final scores for species 27 to graph file
+2024-11-20 18:24:02 : Written final scores for species 39 to graph file
+2024-11-20 18:24:06 : Written final scores for species 28 to graph file
+2024-11-20 18:24:06 : Written final scores for species 40 to graph file
+2024-11-20 18:24:10 : Written final scores for species 41 to graph file
+2024-11-20 18:24:11 : Written final scores for species 29 to graph file
+2024-11-20 18:24:14 : Written final scores for species 42 to graph file
+2024-11-20 18:24:17 : Written final scores for species 30 to graph file
+2024-11-20 18:24:19 : Written final scores for species 43 to graph file
+2024-11-20 18:24:20 : Written final scores for species 31 to graph file
+2024-11-20 18:24:23 : Written final scores for species 44 to graph file
+2024-11-20 18:24:24 : Written final scores for species 32 to graph file
+2024-11-20 18:24:27 : Written final scores for species 45 to graph file
+2024-11-20 18:24:29 : Written final scores for species 33 to graph file
+2024-11-20 18:24:31 : Written final scores for species 46 to graph file
+2024-11-20 18:24:34 : Written final scores for species 34 to graph file
+2024-11-20 18:24:35 : Written final scores for species 47 to graph file
+2024-11-20 18:24:38 : Written final scores for species 35 to graph file
+2024-11-20 18:24:40 : Written final scores for species 48 to graph file
+2024-11-20 18:24:42 : Written final scores for species 60 to graph file
+2024-11-20 18:24:45 : Written final scores for species 61 to graph file
+2024-11-20 18:24:45 : Written final scores for species 49 to graph file
+2024-11-20 18:24:49 : Written final scores for species 62 to graph file
+2024-11-20 18:24:51 : Written final scores for species 50 to graph file
+2024-11-20 18:24:53 : Written final scores for species 63 to graph file
+2024-11-20 18:24:56 : Written final scores for species 51 to graph file
+2024-11-20 18:24:57 : Written final scores for species 64 to graph file
+2024-11-20 18:25:01 : Written final scores for species 65 to graph file
+2024-11-20 18:25:01 : Written final scores for species 52 to graph file
+2024-11-20 18:25:05 : Written final scores for species 66 to graph file
+2024-11-20 18:25:07 : Written final scores for species 53 to graph file
+2024-11-20 18:25:08 : Written final scores for species 67 to graph file
+2024-11-20 18:25:10 : Written final scores for species 54 to graph file
+2024-11-20 18:25:11 : Written final scores for species 68 to graph file
+2024-11-20 18:25:14 : Written final scores for species 55 to graph file
+2024-11-20 18:25:16 : Written final scores for species 69 to graph file
+2024-11-20 18:25:18 : Written final scores for species 56 to graph file
+2024-11-20 18:25:22 : Written final scores for species 57 to graph file
+2024-11-20 18:25:22 : Written final scores for species 70 to graph file
+2024-11-20 18:25:26 : Written final scores for species 58 to graph file
+2024-11-20 18:25:27 : Written final scores for species 71 to graph file
+2024-11-20 18:25:31 : Written final scores for species 59 to graph file
+2024-11-20 18:25:32 : Written final scores for species 72 to graph file
+2024-11-20 18:25:37 : Written final scores for species 73 to graph file
+2024-11-20 18:25:38 : Written final scores for species 84 to graph file
+2024-11-20 18:25:42 : Written final scores for species 74 to graph file
+2024-11-20 18:25:43 : Written final scores for species 85 to graph file
+2024-11-20 18:25:46 : Written final scores for species 75 to graph file
+2024-11-20 18:25:48 : Written final scores for species 86 to graph file
+2024-11-20 18:25:52 : Written final scores for species 76 to graph file
+2024-11-20 18:25:55 : Written final scores for species 87 to graph file
+2024-11-20 18:25:57 : Written final scores for species 77 to graph file
+2024-11-20 18:26:01 : Written final scores for species 88 to graph file
+2024-11-20 18:26:03 : Written final scores for species 78 to graph file
+2024-11-20 18:26:06 : Written final scores for species 89 to graph file
+2024-11-20 18:26:08 : Written final scores for species 79 to graph file
+2024-11-20 18:26:11 : Written final scores for species 90 to graph file
+2024-11-20 18:26:15 : Written final scores for species 80 to graph file
+2024-11-20 18:26:18 : Written final scores for species 91 to graph file
+2024-11-20 18:26:20 : Written final scores for species 81 to graph file
+2024-11-20 18:26:26 : Written final scores for species 82 to graph file
+2024-11-20 18:26:31 : Written final scores for species 83 to graph file
+2024-11-20 18:31:27 : Ran MCL
+
+Writing orthogroups to file
+---------------------------
+OrthoFinder assigned 279922 genes (97.7% of total) to 10449 orthogroups. Fifty percent of all genes were in orthogroups with 90 or more genes (G50 was 90) and were contained in the largest 1200 orthogroups (O50 was 1200). There were 422 orthogroups with all species present and 209 of these consisted entirely of single-copy genes.
+
+2024-11-20 18:31:39 : Done orthogroups
+
+Analysing Orthogroups
+=====================
+
+Calculating gene distances
+--------------------------
+2024-11-20 18:42:46 : Done
+2024-11-20 18:42:49 : Done 0 of 7293
+2024-11-20 18:42:56 : Done 1000 of 7293
+2024-11-20 18:42:58 : Done 2000 of 7293
+2024-11-20 18:42:59 : Done 3000 of 7293
+2024-11-20 18:43:00 : Done 4000 of 7293
+2024-11-20 18:43:01 : Done 5000 of 7293
+2024-11-20 18:43:02 : Done 6000 of 7293
+2024-11-20 18:43:03 : Done 7000 of 7293
+
+Inferring gene and species trees
+--------------------------------
+
+422 trees had all species present and will be used by STAG to infer the species tree
+
+Best outgroup(s) for species tree
+---------------------------------
+2024-11-20 18:43:48 : Starting STRIDE
+2024-11-20 18:44:04 : Done STRIDE
+Observed 66 well-supported, non-terminal duplications. 66 support the best roots and 0 contradict them.
+Best outgroups for species tree:
+  Enterococcus_G_sulfureus_GCA_000407605, Enterococcus_B_faecalis_A_GCA_000415185, Enterococcus_B_lactis_GCA_002141175, Enterococcus_B_sp011038845_GCA_011038845, Enterococcus_B_thailandicus_GCA_002140775, Enterococcus_B_sp017315945_GCA_017315945, Enterococcus_D_gallinarum_GCA_900461195, Enterococcus_C_saigonensis_GCA_011397115, Enterococcus_B_mundtii_GCA_002813755, Enterococcus_B_ratti_GCA_001886195, Enterococcus_B_lacertideformus_GCA_015680865, Enterococcus_B_sp009933175_GCA_009933175, Enterococcus_C_songbeiensis_GCA_001050095, Enterococcus_B_sp002140175_GCA_002140175, Enterococcus_C_diestrammenae_GCA_016908885, Enterococcus_E_cecorum_GCA_900447715, Enterococcus_B_mundtii_C_GCA_003957375, Enterococcus_C_dispar_GCA_000406945, Enterococcus_C_mediterraneensis_GCA_900604485, Enterococcus_I_aquimarinus_GCA_001885765, Enterococcus_B_pernyi_GCA_013394305, Enterococcus_B_sp017316125_GCA_017316125, Enterococcus_D_sp002850555_GCA_002850555, Enterococcus_D_sp002140915_GCA_002140915, Enterococcus_C_canintestini_GCA_002269685, Enterococcus_E_stercoripullorum_GCA_019120335, Enterococcus_B_durans_GCA_902166615, Enterococcus_E_columbae_GCA_000406925, Enterococcus_F_sp009933335_GCA_009933335, Enterococcus_D_casseliflavus_GCA_900447685, Enterococcus_B_mundtii_B_GCA_002947535, Enterococcus_B_phoeniculicola_GCA_000394035, Enterococcus_F_sp017426705_GCA_017426705, Enterococcus_B_hirae_GCA_013391205, Enterococcus_D_sp001297065_GCA_002337935, Enterococcus_C_sp017316025_GCA_017316025, Enterococcus_I_lemanii_GCA_016909125, Enterococcus_G_italicus_GCA_000185365, Enterococcus_I_alcedinis_GCA_017874975, Enterococcus_C_sp009933135_GCA_009933135, Enterococcus_C_asini_GCA_000407365, Enterococcus_B_sp017316305_GCA_017316305, Enterococcus_B_villorum_GCA_000407205, Enterococcus_F_saccharolyticus_GCA_000407285, Enterococcus_I_avicola_GCA_019116505, Enterococcus_B_faecium_GCA_015356315
+  Enterococcus_C_sp017316025_GCA_017316025, Enterococcus_C_canintestini_GCA_002269685, Enterococcus_C_saigonensis_GCA_011397115, Enterococcus_C_dispar_GCA_000406945
+  Enterococcus_sp002148425_GCA_002148425
+  Enterococcus_A_devriesei_GCA_001885905, Enterococcus_A_raffinosus_A_GCA_018917525, Enterococcus_A_gilvus_GCA_000407545, Enterococcus_A_viikkiensis_GCA_005405345, Enterococcus_A_florum_GCA_004309355, Enterococcus_A_sp017377655_GCA_017377655, Enterococcus_A_hulanensis_GCA_002140655, Enterococcus_A_sp019218635_GCA_019218635, Enterococcus_A_malodoratus_GCA_013394325, Enterococcus_A_pingfangensis_GCA_005405205, Enterococcus_A_sp902706605_GCA_902706605, Enterococcus_A_raffinosus_GCA_019175485, Enterococcus_A_pallens_GCA_000393975, Enterococcus_A_pseudoavium_GCA_001544295, Enterococcus_A_hermanniensis_GCA_001885945, Enterococcus_A_sp017315985_GCA_017315985, Enterococcus_A_dongliensis_GCA_005405225, Enterococcus_A_sp017377575_GCA_017377575, Enterococcus_A_xiangfangensis_GCA_016909115, Enterococcus_A_avium_GCA_005347505
+  Enterococcus_sp002148425_GCA_002148425, Enterococcus_caccae_GCA_000394055, Enterococcus_ureilyticus_GCA_001730315, Enterococcus_plantarum_GCA_001730295, Enterococcus_sp017377505_GCA_017377505, Enterococcus_ureasiticus_GCA_001730285, Enterococcus_rotai_GCA_001465345, Enterococcus_sp002141365_GCA_002141365, Enterococcus_sp002140715_GCA_002140715, Enterococcus_crotali_GCA_002140675, Enterococcus_moraviensis_GCA_000394015, Enterococcus_haemoperoxidus_GCA_000407165, Enterococcus_quebecensis_GCA_001730365, Enterococcus_silesiacus_GCA_001465115
+  Enterococcus_F_sp009933335_GCA_009933335
+  Enterococcus_B_sp009933175_GCA_009933175, Enterococcus_B_phoeniculicola_GCA_000394035
+  Enterococcus_I_avicola_GCA_019116505, Enterococcus_I_aquimarinus_GCA_001885765, Enterococcus_I_alcedinis_GCA_017874975
+  Enterococcus_C_saigonensis_GCA_011397115
+  Enterococcus_moraviensis_GCA_000394015
+  Enterococcus_J_nangangensis_GCA_005405245, Enterococcus_J_timonensis_GCA_900104595
+  Enterococcus_sp002148425_GCA_002148425, Enterococcus_sp016745255_GCA_016745255, Enterococcus_termitis_GCA_001730305, Enterococcus_rotai_GCA_001465345, Enterococcus_sp002141365_GCA_002141365, Enterococcus_quebecensis_GCA_001730365, Enterococcus_caccae_GCA_000394055, Enterococcus_plantarum_GCA_001730295, Enterococcus_wangshanyuanii_GCA_002197645, Enterococcus_sp002140975_GCA_002140975, Enterococcus_sp017830045_GCA_017830045, Enterococcus_moraviensis_GCA_000394015, Enterococcus_haemoperoxidus_GCA_000407165, Enterococcus_sp016745275_GCA_016745275, Enterococcus_rivorum_GCA_001742285, Enterococcus_sp002174455_GCA_002174455, Enterococcus_ureilyticus_GCA_001730315, Enterococcus_sp017377505_GCA_017377505, Enterococcus_ureasiticus_GCA_001730285, Enterococcus_sp002140715_GCA_002140715, Enterococcus_crotali_GCA_002140675, Enterococcus_silesiacus_GCA_001465115
+  Enterococcus_B_durans_GCA_902166615, Enterococcus_B_pernyi_GCA_013394305, Enterococcus_B_lactis_GCA_002141175, Enterococcus_B_sp002140175_GCA_002140175, Enterococcus_B_mundtii_B_GCA_002947535, Enterococcus_B_hirae_GCA_013391205, Enterococcus_B_villorum_GCA_000407205, Enterococcus_B_sp017316305_GCA_017316305, Enterococcus_B_sp011038845_GCA_011038845, Enterococcus_B_thailandicus_GCA_002140775, Enterococcus_B_mundtii_C_GCA_003957375, Enterococcus_B_sp017315945_GCA_017315945, Enterococcus_B_faecium_GCA_015356315, Enterococcus_B_mundtii_GCA_002813755, Enterococcus_B_sp017316125_GCA_017316125, Enterococcus_B_ratti_GCA_001886195, Enterococcus_B_lacertideformus_GCA_015680865
+  Enterococcus_ureasiticus_GCA_001730285
+  Enterococcus_C_dispar_GCA_000406945
+  Enterococcus_rotai_GCA_001465345
+  Enterococcus_G_sulfureus_GCA_000407605, Enterococcus_E_stercoripullorum_GCA_019120335, Enterococcus_E_columbae_GCA_000406925, Enterococcus_F_sp009933335_GCA_009933335, Enterococcus_D_casseliflavus_GCA_900447685, Enterococcus_I_alcedinis_GCA_017874975, Enterococcus_F_sp017426705_GCA_017426705, Enterococcus_F_saccharolyticus_GCA_000407285, Enterococcus_E_cecorum_GCA_900447715, Enterococcus_I_avicola_GCA_019116505, Enterococcus_D_gallinarum_GCA_900461195, Enterococcus_D_sp001297065_GCA_002337935, Enterococcus_I_aquimarinus_GCA_001885765, Enterococcus_I_lemanii_GCA_016909125, Enterococcus_G_italicus_GCA_000185365, Enterococcus_D_sp002140915_GCA_002140915, Enterococcus_D_sp002850555_GCA_002850555
+  Enterococcus_sp002148425_GCA_002148425, Enterococcus_caccae_GCA_000394055, Enterococcus_ureilyticus_GCA_001730315, Enterococcus_plantarum_GCA_001730295, Enterococcus_sp017377505_GCA_017377505, Enterococcus_ureasiticus_GCA_001730285, Enterococcus_rotai_GCA_001465345, Enterococcus_sp002141365_GCA_002141365, Enterococcus_crotali_GCA_002140675, Enterococcus_moraviensis_GCA_000394015, Enterococcus_haemoperoxidus_GCA_000407165, Enterococcus_silesiacus_GCA_001465115
+  Enterococcus_sp002148425_GCA_002148425, Enterococcus_sp016745255_GCA_016745255, Enterococcus_termitis_GCA_001730305, Enterococcus_rotai_GCA_001465345, Enterococcus_sp002141365_GCA_002141365, Enterococcus_faecalis_GCA_902166685, Enterococcus_quebecensis_GCA_001730365, Enterococcus_caccae_GCA_000394055, Enterococcus_plantarum_GCA_001730295, Enterococcus_wangshanyuanii_GCA_002197645, Enterococcus_sp002140975_GCA_002140975, Enterococcus_sp017830045_GCA_017830045, Enterococcus_moraviensis_GCA_000394015, Enterococcus_haemoperoxidus_GCA_000407165, Enterococcus_sp016745275_GCA_016745275, Enterococcus_rivorum_GCA_001742285, Enterococcus_sp002174455_GCA_002174455, Enterococcus_ureilyticus_GCA_001730315, Enterococcus_sp017377505_GCA_017377505, Enterococcus_ureasiticus_GCA_001730285, Enterococcus_sp002140715_GCA_002140715, Enterococcus_crotali_GCA_002140675, Enterococcus_silesiacus_GCA_001465115
+  Enterococcus_A_sp019218635_GCA_019218635
+  Enterococcus_B_durans_GCA_902166615
+  Enterococcus_caccae_GCA_000394055, Enterococcus_sp002148425_GCA_002148425, Enterococcus_plantarum_GCA_001730295, Enterococcus_ureasiticus_GCA_001730285, Enterococcus_rotai_GCA_001465345, Enterococcus_sp002141365_GCA_002141365, Enterococcus_crotali_GCA_002140675, Enterococcus_moraviensis_GCA_000394015, Enterococcus_haemoperoxidus_GCA_000407165, Enterococcus_silesiacus_GCA_001465115
+  Enterococcus_C_songbeiensis_GCA_001050095
+  Enterococcus_haemoperoxidus_GCA_000407165, Enterococcus_plantarum_GCA_001730295, Enterococcus_ureasiticus_GCA_001730285
+  Enterococcus_faecalis_GCA_902166685
+  Enterococcus_caccae_GCA_000394055
+  Enterococcus_rivorum_GCA_001742285
+  Enterococcus_B_mundtii_C_GCA_003957375
+  Enterococcus_sp002141365_GCA_002141365
+  Enterococcus_B_mundtii_B_GCA_002947535, Enterococcus_B_mundtii_GCA_002813755, Enterococcus_B_mundtii_C_GCA_003957375, Enterococcus_B_pernyi_GCA_013394305
+  Enterococcus_B_sp011038845_GCA_011038845
+  Enterococcus_G_sulfureus_GCA_000407605, Enterococcus_E_stercoripullorum_GCA_019120335, Enterococcus_E_columbae_GCA_000406925, Enterococcus_E_cecorum_GCA_900447715, Enterococcus_G_italicus_GCA_000185365
+  Enterococcus_termitis_GCA_001730305, Enterococcus_wangshanyuanii_GCA_002197645, Enterococcus_sp002174455_GCA_002174455
+  Enterococcus_moraviensis_GCA_000394015, Enterococcus_sp002141365_GCA_002141365
+  Enterococcus_H_canis_GCA_001885805
+  Enterococcus_sp002148425_GCA_002148425, Enterococcus_caccae_GCA_000394055, Enterococcus_ureilyticus_GCA_001730315, Enterococcus_plantarum_GCA_001730295, Enterococcus_sp017377505_GCA_017377505, Enterococcus_ureasiticus_GCA_001730285, Enterococcus_termitis_GCA_001730305, Enterococcus_rotai_GCA_001465345, Enterococcus_sp002141365_GCA_002141365, Enterococcus_sp002140715_GCA_002140715, Enterococcus_crotali_GCA_002140675, Enterococcus_moraviensis_GCA_000394015, Enterococcus_wangshanyuanii_GCA_002197645, Enterococcus_haemoperoxidus_GCA_000407165, Enterococcus_quebecensis_GCA_001730365, Enterococcus_silesiacus_GCA_001465115, Enterococcus_rivorum_GCA_001742285, Enterococcus_sp002174455_GCA_002174455
+  Enterococcus_I_avicola_GCA_019116505
+  Enterococcus_C_sp017316025_GCA_017316025
+  Enterococcus_G_sulfureus_GCA_000407605, Enterococcus_D_gallinarum_GCA_900461195, Enterococcus_C_saigonensis_GCA_011397115, Enterococcus_C_songbeiensis_GCA_001050095, Enterococcus_C_diestrammenae_GCA_016908885, Enterococcus_E_cecorum_GCA_900447715, Enterococcus_C_dispar_GCA_000406945, Enterococcus_C_mediterraneensis_GCA_900604485, Enterococcus_I_aquimarinus_GCA_001885765, Enterococcus_D_sp002140915_GCA_002140915, Enterococcus_D_sp002850555_GCA_002850555, Enterococcus_E_stercoripullorum_GCA_019120335, Enterococcus_E_columbae_GCA_000406925, Enterococcus_F_sp009933335_GCA_009933335, Enterococcus_D_casseliflavus_GCA_900447685, Enterococcus_F_sp017426705_GCA_017426705, Enterococcus_D_sp001297065_GCA_002337935, Enterococcus_C_sp017316025_GCA_017316025, Enterococcus_I_lemanii_GCA_016909125, Enterococcus_G_italicus_GCA_000185365, Enterococcus_I_alcedinis_GCA_017874975, Enterococcus_C_sp009933135_GCA_009933135, Enterococcus_C_asini_GCA_000407365, Enterococcus_F_saccharolyticus_GCA_000407285, Enterococcus_I_avicola_GCA_019116505, Enterococcus_C_canintestini_GCA_002269685
+  Enterococcus_wangshanyuanii_GCA_002197645, Enterococcus_sp002174455_GCA_002174455
+  Enterococcus_A_hermanniensis_GCA_001885945
+  Enterococcus_B_sp017316305_GCA_017316305
+  Enterococcus_B_faecalis_A_GCA_000415185, Enterococcus_B_durans_GCA_902166615, Enterococcus_B_pernyi_GCA_013394305, Enterococcus_B_lactis_GCA_002141175, Enterococcus_B_sp002140175_GCA_002140175, Enterococcus_B_mundtii_B_GCA_002947535, Enterococcus_B_hirae_GCA_013391205, Enterococcus_B_villorum_GCA_000407205, Enterococcus_B_sp017316305_GCA_017316305, Enterococcus_B_sp011038845_GCA_011038845, Enterococcus_B_thailandicus_GCA_002140775, Enterococcus_B_mundtii_C_GCA_003957375, Enterococcus_B_sp017315945_GCA_017315945, Enterococcus_B_faecium_GCA_015356315, Enterococcus_B_mundtii_GCA_002813755, Enterococcus_B_sp017316125_GCA_017316125, Enterococcus_B_ratti_GCA_001886195, Enterococcus_B_lacertideformus_GCA_015680865
+  Enterococcus_B_faecalis_A_GCA_000415185
+  Enterococcus_B_faecalis_A_GCA_000415185, Enterococcus_B_lactis_GCA_002141175, Enterococcus_B_sp011038845_GCA_011038845, Enterococcus_B_thailandicus_GCA_002140775, Enterococcus_B_sp017315945_GCA_017315945, Enterococcus_B_mundtii_GCA_002813755, Enterococcus_B_ratti_GCA_001886195, Enterococcus_B_lacertideformus_GCA_015680865, Enterococcus_B_sp009933175_GCA_009933175, Enterococcus_B_sp002140175_GCA_002140175, Enterococcus_B_mundtii_C_GCA_003957375, Enterococcus_B_pernyi_GCA_013394305, Enterococcus_B_sp017316125_GCA_017316125, Enterococcus_B_durans_GCA_902166615, Enterococcus_B_mundtii_B_GCA_002947535, Enterococcus_B_phoeniculicola_GCA_000394035, Enterococcus_B_hirae_GCA_013391205, Enterococcus_B_sp017316305_GCA_017316305, Enterococcus_B_villorum_GCA_000407205, Enterococcus_B_faecium_GCA_015356315
+  Enterococcus_haemoperoxidus_GCA_000407165
+  Enterococcus_sp002148425_GCA_002148425, Enterococcus_rotai_GCA_001465345
+  Enterococcus_C_asini_GCA_000407365
+  Enterococcus_C_sp009933135_GCA_009933135, Enterococcus_C_diestrammenae_GCA_016908885, Enterococcus_C_asini_GCA_000407365, Enterococcus_C_dispar_GCA_000406945, Enterococcus_C_sp017316025_GCA_017316025, Enterococcus_C_saigonensis_GCA_011397115, Enterococcus_C_canintestini_GCA_002269685
+  Enterococcus_sp002148425_GCA_002148425, Enterococcus_sp016745255_GCA_016745255, Enterococcus_H_canis_GCA_001885805, Enterococcus_termitis_GCA_001730305, Enterococcus_rotai_GCA_001465345, Enterococcus_sp002141365_GCA_002141365, Enterococcus_faecalis_GCA_902166685, Enterococcus_quebecensis_GCA_001730365, Enterococcus_caccae_GCA_000394055, Enterococcus_plantarum_GCA_001730295, Enterococcus_J_timonensis_GCA_900104595, Enterococcus_wangshanyuanii_GCA_002197645, Enterococcus_sp002140975_GCA_002140975, Enterococcus_sp017830045_GCA_017830045, Enterococcus_J_nangangensis_GCA_005405245, Enterococcus_moraviensis_GCA_000394015, Enterococcus_haemoperoxidus_GCA_000407165, Enterococcus_sp016745275_GCA_016745275, Enterococcus_rivorum_GCA_001742285, Enterococcus_sp002174455_GCA_002174455, Enterococcus_ureilyticus_GCA_001730315, Enterococcus_sp017377505_GCA_017377505, Enterococcus_ureasiticus_GCA_001730285, Enterococcus_sp002140715_GCA_002140715, Enterococcus_crotali_GCA_002140675, Enterococcus_silesiacus_GCA_001465115
+  Enterococcus_C_songbeiensis_GCA_001050095, Enterococcus_C_mediterraneensis_GCA_900604485
+  Enterococcus_I_avicola_GCA_019116505, Enterococcus_I_lemanii_GCA_016909125, Enterococcus_I_aquimarinus_GCA_001885765, Enterococcus_I_alcedinis_GCA_017874975
+  Enterococcus_B_faecium_GCA_015356315
+  Enterococcus_A_sp902706605_GCA_902706605
+  Enterococcus_A_sp017377655_GCA_017377655, Enterococcus_A_hulanensis_GCA_002140655, Enterococcus_A_hermanniensis_GCA_001885945, Enterococcus_A_devriesei_GCA_001885905, Enterococcus_A_sp017377575_GCA_017377575, Enterococcus_A_raffinosus_A_GCA_018917525, Enterococcus_A_xiangfangensis_GCA_016909115, Enterococcus_A_malodoratus_GCA_013394325, Enterococcus_A_pingfangensis_GCA_005405205, Enterococcus_A_gilvus_GCA_000407545, Enterococcus_A_avium_GCA_005347505, Enterococcus_A_sp017315985_GCA_017315985, Enterococcus_A_raffinosus_GCA_019175485, Enterococcus_A_viikkiensis_GCA_005405345, Enterococcus_A_pallens_GCA_000393975, Enterococcus_A_dongliensis_GCA_005405225, Enterococcus_A_florum_GCA_004309355, Enterococcus_A_pseudoavium_GCA_001544295
+  Enterococcus_C_canintestini_GCA_002269685
+  Enterococcus_B_villorum_GCA_000407205, Enterococcus_B_hirae_GCA_013391205, Enterococcus_B_ratti_GCA_001886195, Enterococcus_B_lacertideformus_GCA_015680865
+  Enterococcus_caccae_GCA_000394055, Enterococcus_sp002148425_GCA_002148425, Enterococcus_rotai_GCA_001465345
+  Enterococcus_plantarum_GCA_001730295
+  Enterococcus_B_pernyi_GCA_013394305, Enterococcus_B_mundtii_B_GCA_002947535, Enterococcus_B_sp017316305_GCA_017316305, Enterococcus_B_mundtii_C_GCA_003957375, Enterococcus_B_mundtii_GCA_002813755
+  Enterococcus_plantarum_GCA_001730295, Enterococcus_ureasiticus_GCA_001730285, Enterococcus_sp002141365_GCA_002141365, Enterococcus_crotali_GCA_002140675, Enterococcus_moraviensis_GCA_000394015, Enterococcus_haemoperoxidus_GCA_000407165, Enterococcus_silesiacus_GCA_001465115
+  Enterococcus_sp002148425_GCA_002148425, Enterococcus_sp016745255_GCA_016745255, Enterococcus_H_canis_GCA_001885805, Enterococcus_termitis_GCA_001730305, Enterococcus_rotai_GCA_001465345, Enterococcus_sp002141365_GCA_002141365, Enterococcus_faecalis_GCA_902166685, Enterococcus_quebecensis_GCA_001730365, Enterococcus_caccae_GCA_000394055, Enterococcus_plantarum_GCA_001730295, Enterococcus_wangshanyuanii_GCA_002197645, Enterococcus_sp002140975_GCA_002140975, Enterococcus_sp017830045_GCA_017830045, Enterococcus_moraviensis_GCA_000394015, Enterococcus_haemoperoxidus_GCA_000407165, Enterococcus_sp016745275_GCA_016745275, Enterococcus_rivorum_GCA_001742285, Enterococcus_sp002174455_GCA_002174455, Enterococcus_ureilyticus_GCA_001730315, Enterococcus_sp017377505_GCA_017377505, Enterococcus_ureasiticus_GCA_001730285, Enterococcus_sp002140715_GCA_002140715, Enterococcus_crotali_GCA_002140675, Enterococcus_silesiacus_GCA_001465115
+  Enterococcus_crotali_GCA_002140675, Enterococcus_silesiacus_GCA_001465115
+  Enterococcus_I_aquimarinus_GCA_001885765
+  Enterococcus_C_canintestini_GCA_002269685, Enterococcus_C_dispar_GCA_000406945
+  Enterococcus_plantarum_GCA_001730295, Enterococcus_ureasiticus_GCA_001730285, Enterococcus_sp002141365_GCA_002141365, Enterococcus_moraviensis_GCA_000394015, Enterococcus_haemoperoxidus_GCA_000407165
+  Enterococcus_B_mundtii_GCA_002813755, Enterococcus_B_pernyi_GCA_013394305
+  Enterococcus_D_casseliflavus_GCA_900447685, Enterococcus_D_sp001297065_GCA_002337935, Enterococcus_D_gallinarum_GCA_900461195, Enterococcus_D_sp002140915_GCA_002140915, Enterococcus_D_sp002850555_GCA_002850555
+  Enterococcus_B_durans_GCA_902166615, Enterococcus_B_hirae_GCA_013391205, Enterococcus_B_villorum_GCA_000407205, Enterococcus_B_ratti_GCA_001886195, Enterococcus_B_lacertideformus_GCA_015680865
+  Enterococcus_B_faecium_GCA_015356315, Enterococcus_B_lactis_GCA_002141175
+  Enterococcus_sp016745275_GCA_016745275
+  Enterococcus_sp002140715_GCA_002140715
+  Enterococcus_A_pallens_GCA_000393975, Enterococcus_A_florum_GCA_004309355, Enterococcus_A_sp017377575_GCA_017377575, Enterococcus_A_sp017377655_GCA_017377655
+  Enterococcus_A_hulanensis_GCA_002140655, Enterococcus_A_devriesei_GCA_001885905, Enterococcus_A_raffinosus_A_GCA_018917525, Enterococcus_A_xiangfangensis_GCA_016909115, Enterococcus_A_malodoratus_GCA_013394325, Enterococcus_A_pingfangensis_GCA_005405205, Enterococcus_A_gilvus_GCA_000407545, Enterococcus_A_raffinosus_GCA_019175485, Enterococcus_A_avium_GCA_005347505, Enterococcus_A_sp017315985_GCA_017315985, Enterococcus_A_viikkiensis_GCA_005405345, Enterococcus_A_dongliensis_GCA_005405225, Enterococcus_A_pseudoavium_GCA_001544295
+  Enterococcus_F_saccharolyticus_GCA_000407285, Enterococcus_F_sp017426705_GCA_017426705, Enterococcus_F_sp009933335_GCA_009933335
+  Enterococcus_sp016745255_GCA_016745255, Enterococcus_sp002140975_GCA_002140975, Enterococcus_sp016745275_GCA_016745275, Enterococcus_sp017830045_GCA_017830045
+  Enterococcus_C_diestrammenae_GCA_016908885, Enterococcus_C_sp009933135_GCA_009933135
+  Enterococcus_I_alcedinis_GCA_017874975
+  Enterococcus_I_avicola_GCA_019116505, Enterococcus_I_alcedinis_GCA_017874975
+  Enterococcus_G_sulfureus_GCA_000407605, Enterococcus_E_stercoripullorum_GCA_019120335, Enterococcus_E_columbae_GCA_000406925, Enterococcus_F_sp009933335_GCA_009933335, Enterococcus_F_sp017426705_GCA_017426705, Enterococcus_F_saccharolyticus_GCA_000407285, Enterococcus_E_cecorum_GCA_900447715, Enterococcus_I_avicola_GCA_019116505, Enterococcus_I_aquimarinus_GCA_001885765, Enterococcus_I_lemanii_GCA_016909125, Enterococcus_G_italicus_GCA_000185365, Enterococcus_I_alcedinis_GCA_017874975
+  Enterococcus_B_sp011038845_GCA_011038845, Enterococcus_B_faecium_GCA_015356315, Enterococcus_B_lactis_GCA_002141175
+  Enterococcus_G_sulfureus_GCA_000407605, Enterococcus_G_italicus_GCA_000185365
+  Enterococcus_I_lemanii_GCA_016909125
+  Enterococcus_A_hulanensis_GCA_002140655, Enterococcus_A_hermanniensis_GCA_001885945, Enterococcus_A_devriesei_GCA_001885905, Enterococcus_A_raffinosus_A_GCA_018917525, Enterococcus_A_xiangfangensis_GCA_016909115, Enterococcus_A_malodoratus_GCA_013394325, Enterococcus_A_pingfangensis_GCA_005405205, Enterococcus_A_gilvus_GCA_000407545, Enterococcus_A_avium_GCA_005347505, Enterococcus_A_sp017315985_GCA_017315985, Enterococcus_A_raffinosus_GCA_019175485, Enterococcus_A_viikkiensis_GCA_005405345, Enterococcus_A_dongliensis_GCA_005405225, Enterococcus_A_pseudoavium_GCA_001544295
+  Enterococcus_sp002148425_GCA_002148425, Enterococcus_caccae_GCA_000394055, Enterococcus_ureilyticus_GCA_001730315, Enterococcus_plantarum_GCA_001730295, Enterococcus_ureasiticus_GCA_001730285, Enterococcus_rotai_GCA_001465345, Enterococcus_sp002141365_GCA_002141365, Enterococcus_crotali_GCA_002140675, Enterococcus_moraviensis_GCA_000394015, Enterococcus_haemoperoxidus_GCA_000407165, Enterococcus_silesiacus_GCA_001465115
+  Enterococcus_B_durans_GCA_902166615, Enterococcus_B_pernyi_GCA_013394305, Enterococcus_B_lactis_GCA_002141175, Enterococcus_B_sp002140175_GCA_002140175, Enterococcus_B_mundtii_B_GCA_002947535, Enterococcus_B_hirae_GCA_013391205, Enterococcus_B_villorum_GCA_000407205, Enterococcus_B_sp017316305_GCA_017316305, Enterococcus_B_sp011038845_GCA_011038845, Enterococcus_B_mundtii_C_GCA_003957375, Enterococcus_B_faecium_GCA_015356315, Enterococcus_B_mundtii_GCA_002813755, Enterococcus_B_ratti_GCA_001886195, Enterococcus_B_lacertideformus_GCA_015680865
+  Enterococcus_C_diestrammenae_GCA_016908885, Enterococcus_C_asini_GCA_000407365, Enterococcus_C_sp009933135_GCA_009933135
+  Enterococcus_E_cecorum_GCA_900447715, Enterococcus_E_stercoripullorum_GCA_019120335, Enterococcus_E_columbae_GCA_000406925
+  Enterococcus_B_sp002140175_GCA_002140175
+  Enterococcus_A_devriesei_GCA_001885905, Enterococcus_A_raffinosus_A_GCA_018917525, Enterococcus_A_gilvus_GCA_000407545, Enterococcus_A_viikkiensis_GCA_005405345, Enterococcus_A_florum_GCA_004309355, Enterococcus_A_sp017377655_GCA_017377655, Enterococcus_A_hulanensis_GCA_002140655, Enterococcus_A_sp019218635_GCA_019218635, Enterococcus_A_malodoratus_GCA_013394325, Enterococcus_A_pingfangensis_GCA_005405205, Enterococcus_A_raffinosus_GCA_019175485, Enterococcus_A_pallens_GCA_000393975, Enterococcus_A_pseudoavium_GCA_001544295, Enterococcus_A_hermanniensis_GCA_001885945, Enterococcus_A_sp017315985_GCA_017315985, Enterococcus_A_dongliensis_GCA_005405225, Enterococcus_A_sp017377575_GCA_017377575, Enterococcus_A_xiangfangensis_GCA_016909115, Enterococcus_A_avium_GCA_005347505
+  Enterococcus_C_songbeiensis_GCA_001050095, Enterococcus_C_canintestini_GCA_002269685, Enterococcus_C_sp009933135_GCA_009933135, Enterococcus_C_diestrammenae_GCA_016908885, Enterococcus_C_asini_GCA_000407365, Enterococcus_C_dispar_GCA_000406945, Enterococcus_C_mediterraneensis_GCA_900604485, Enterococcus_C_sp017316025_GCA_017316025, Enterococcus_C_saigonensis_GCA_011397115
+  Enterococcus_sp002148425_GCA_002148425, Enterococcus_caccae_GCA_000394055, Enterococcus_ureilyticus_GCA_001730315, Enterococcus_plantarum_GCA_001730295, Enterococcus_sp017377505_GCA_017377505, Enterococcus_ureasiticus_GCA_001730285, Enterococcus_rotai_GCA_001465345, Enterococcus_sp002141365_GCA_002141365, Enterococcus_crotali_GCA_002140675, Enterococcus_moraviensis_GCA_000394015, Enterococcus_haemoperoxidus_GCA_000407165, Enterococcus_quebecensis_GCA_001730365, Enterococcus_silesiacus_GCA_001465115
+  Enterococcus_sp017377505_GCA_017377505
+  Enterococcus_sp016745255_GCA_016745255, Enterococcus_sp002140975_GCA_002140975, Enterococcus_sp017830045_GCA_017830045
+  Enterococcus_B_lactis_GCA_002141175
+  Enterococcus_B_mundtii_B_GCA_002947535
+  Enterococcus_F_sp009933335_GCA_009933335, Enterococcus_F_sp017426705_GCA_017426705, Enterococcus_F_saccharolyticus_GCA_000407285, Enterococcus_I_avicola_GCA_019116505, Enterococcus_I_aquimarinus_GCA_001885765, Enterococcus_I_lemanii_GCA_016909125, Enterococcus_I_alcedinis_GCA_017874975
+  Enterococcus_B_pernyi_GCA_013394305, Enterococcus_B_mundtii_GCA_002813755, Enterococcus_B_mundtii_C_GCA_003957375
+  Enterococcus_C_sp017316025_GCA_017316025, Enterococcus_C_saigonensis_GCA_011397115
+  Enterococcus_plantarum_GCA_001730295, Enterococcus_ureasiticus_GCA_001730285
+  Enterococcus_C_mediterraneensis_GCA_900604485
+  Enterococcus_ureilyticus_GCA_001730315
+  Enterococcus_termitis_GCA_001730305
+  Enterococcus_B_pernyi_GCA_013394305, Enterococcus_B_sp002140175_GCA_002140175, Enterococcus_B_mundtii_B_GCA_002947535, Enterococcus_B_sp017316305_GCA_017316305, Enterococcus_B_mundtii_C_GCA_003957375, Enterococcus_B_mundtii_GCA_002813755
+  Enterococcus_quebecensis_GCA_001730365
+  Enterococcus_sp002148425_GCA_002148425, Enterococcus_caccae_GCA_000394055, Enterococcus_ureilyticus_GCA_001730315, Enterococcus_plantarum_GCA_001730295, Enterococcus_sp017377505_GCA_017377505, Enterococcus_ureasiticus_GCA_001730285, Enterococcus_termitis_GCA_001730305, Enterococcus_rotai_GCA_001465345, Enterococcus_sp002141365_GCA_002141365, Enterococcus_sp002140715_GCA_002140715, Enterococcus_crotali_GCA_002140675, Enterococcus_moraviensis_GCA_000394015, Enterococcus_wangshanyuanii_GCA_002197645, Enterococcus_haemoperoxidus_GCA_000407165, Enterococcus_quebecensis_GCA_001730365, Enterococcus_silesiacus_GCA_001465115, Enterococcus_sp002174455_GCA_002174455
+  Enterococcus_F_sp017426705_GCA_017426705, Enterococcus_F_saccharolyticus_GCA_000407285
+  Enterococcus_B_durans_GCA_902166615, Enterococcus_B_pernyi_GCA_013394305, Enterococcus_B_sp002140175_GCA_002140175, Enterococcus_B_mundtii_B_GCA_002947535, Enterococcus_B_hirae_GCA_013391205, Enterococcus_B_villorum_GCA_000407205, Enterococcus_B_sp017316305_GCA_017316305, Enterococcus_B_mundtii_C_GCA_003957375, Enterococcus_B_mundtii_GCA_002813755, Enterococcus_B_ratti_GCA_001886195, Enterococcus_B_lacertideformus_GCA_015680865
+  Enterococcus_B_sp017315945_GCA_017315945, Enterococcus_B_thailandicus_GCA_002140775, Enterococcus_B_sp017316125_GCA_017316125
+
+WARNING: Multiple potential species tree roots were identified, only one will be analyed.
+
+Reconciling gene trees and species tree
+---------------------------------------
+Outgroup: Enterococcus_G_sulfureus_GCA_000407605, Enterococcus_B_faecalis_A_GCA_000415185, Enterococcus_B_lactis_GCA_002141175, Enterococcus_B_sp011038845_GCA_011038845, Enterococcus_B_thailandicus_GCA_002140775, Enterococcus_B_sp017315945_GCA_017315945, Enterococcus_D_gallinarum_GCA_900461195, Enterococcus_C_saigonensis_GCA_011397115, Enterococcus_B_mundtii_GCA_002813755, Enterococcus_B_ratti_GCA_001886195, Enterococcus_B_lacertideformus_GCA_015680865, Enterococcus_B_sp009933175_GCA_009933175, Enterococcus_C_songbeiensis_GCA_001050095, Enterococcus_B_sp002140175_GCA_002140175, Enterococcus_C_diestrammenae_GCA_016908885, Enterococcus_E_cecorum_GCA_900447715, Enterococcus_B_mundtii_C_GCA_003957375, Enterococcus_C_dispar_GCA_000406945, Enterococcus_C_mediterraneensis_GCA_900604485, Enterococcus_I_aquimarinus_GCA_001885765, Enterococcus_B_pernyi_GCA_013394305, Enterococcus_B_sp017316125_GCA_017316125, Enterococcus_D_sp002850555_GCA_002850555, Enterococcus_D_sp002140915_GCA_002140915, Enterococcus_C_canintestini_GCA_002269685, Enterococcus_E_stercoripullorum_GCA_019120335, Enterococcus_B_durans_GCA_902166615, Enterococcus_E_columbae_GCA_000406925, Enterococcus_F_sp009933335_GCA_009933335, Enterococcus_D_casseliflavus_GCA_900447685, Enterococcus_B_mundtii_B_GCA_002947535, Enterococcus_B_phoeniculicola_GCA_000394035, Enterococcus_F_sp017426705_GCA_017426705, Enterococcus_B_hirae_GCA_013391205, Enterococcus_D_sp001297065_GCA_002337935, Enterococcus_C_sp017316025_GCA_017316025, Enterococcus_I_lemanii_GCA_016909125, Enterococcus_G_italicus_GCA_000185365, Enterococcus_I_alcedinis_GCA_017874975, Enterococcus_C_sp009933135_GCA_009933135, Enterococcus_C_asini_GCA_000407365, Enterococcus_B_sp017316305_GCA_017316305, Enterococcus_B_villorum_GCA_000407205, Enterococcus_F_saccharolyticus_GCA_000407285, Enterococcus_I_avicola_GCA_019116505, Enterococcus_B_faecium_GCA_015356315
+2024-11-20 18:44:04 : Starting Recon and orthologues
+2024-11-20 18:44:04 : Starting OF Orthologues
+2024-11-20 18:44:07 : Done 0 of 7293
+2024-11-20 18:44:53 : Done 1000 of 7293
+2024-11-20 18:45:21 : Done 2000 of 7293
+2024-11-20 18:45:32 : Done 3000 of 7293
+2024-11-20 18:45:38 : Done 4000 of 7293
+2024-11-20 18:45:42 : Done 5000 of 7293
+2024-11-20 18:45:44 : Done 6000 of 7293
+2024-11-20 18:45:47 : Done 7000 of 7293
+2024-11-20 18:45:48 : Done OF Orthologues
+
+Writing results files
+=====================
+2024-11-20 18:46:00 : Done orthologues
+
+Results:
+    OrthoFinder_Results/Results_Nov20/
+
+CITATION:
+ When publishing work that uses OrthoFinder please cite:
+ Emms D.M. & Kelly S. (2019), Genome Biology 20:238
+
+ If you use the species tree in your work then please also cite:
+ Emms D.M. & Kelly S. (2017), MBE 34(12): 3267-3278
+ Emms D.M. & Kelly S. (2018), bioRxiv https://doi.org/10.1101/267914
+	Command being timed: "orthofinder -f Proteomes_Extracted_from_prepTG_GenBanks/ -o OrthoFinder_Results/ -t 20"
+	User time (seconds): 67126.19
+	System time (seconds): 1422.69
+	Percent of CPU this job got: 1260%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:30:38
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1017232
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 335
+	Minor (reclaiming a frame) page faults: 151095869
+	Voluntary context switches: 3184033
+	Involuntary context switches: 1929660
+	Swaps: 0
+	File system inputs: 166616
+	File system outputs: 23802456
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

@@ -1,1 +1,0 @@
-(t8_fai-gene-cluster-1_AAE_000207:0.0819373,((t22_fai-gene-cluster-1_AAU_000184:0.0195838,t5_fai-gene-cluster-1_AAW_000179:0.0212383)n2:0.03527,(t21_fai-gene-cluster-1_AAS_000176:0.00177575,t16_fai-gene-cluster-1_ABA_000182:0.0354483)n3:0.10031)n1:0.0819373)n0;

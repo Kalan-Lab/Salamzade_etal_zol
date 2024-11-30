@@ -1,0 +1,31 @@
+Importing genomicsqlite failed, falling back to SQLite3
+[14:11:28] INFO - Starting cblaster plotting of clusters using clinker
+[14:11:28] INFO - Loading session from: /workspace/local/rauf/zol/update_manuscript_apps/Phage_in_Lake_MGs/prodigal_gv/cblaster_search_session.json
+[14:11:28] INFO - Extracting clusters that match the filters
+[14:11:28] INFO - Extracted 12 clusters.
+[14:11:28] INFO - Writing genbank files
+[14:13:57] INFO - Clusters have been written to /workspace/local/rauf/zol/update_manuscript_apps/Phage_in_Lake_MGs/prodigal_gv/cblaster_extracted_clusters
+[14:13:57] INFO - Done!
+	Command being timed: "cblaster extract_clusters -f genbank -mc 1000000 -o cblaster_extracted_clusters/ cblaster_search_session.json"
+	User time (seconds): 46.50
+	System time (seconds): 114.18
+	Percent of CPU this job got: 107%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:29.55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 131212
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 57020
+	Voluntary context switches: 232
+	Involuntary context switches: 262
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1672
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

@@ -1,0 +1,1 @@
+\time -v zol -i Efaecalis_GCs/ -fl -fd -c 20 -o Benchmarking_Dereplication/zol_DerepAndReinflate_Results/ -cd epa_prots_for_custom_annotation.faa -s -sg -b -d -ri -dc 99.0 &> Benchmarking_Dereplication/Timings/zol_derep_and_reinflate.txt

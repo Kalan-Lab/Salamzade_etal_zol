@@ -1,4 +1,4 @@
-Query gene-cluster GenBanks: ['Query_Phage/Ga0485157_0000450.gbk', 'Query_Phage/Ga0485158_0000434.gbk']
+Query gene-cluster GenBanks: ['Query_Phages/Ga0485157_0000450.gbk', 'Query_Phages/Ga0485158_0000434.gbk']
 Reference genome for gene cluster: None
 Reference scaffold for gene cluster: None
 Reference start coordinate of gene cluster: None
@@ -6,7 +6,7 @@ Reference end coordinate of gene cluster: None
 Protein queries multi-FASTA file: None
 Single protein query FASTA file: None
 Target genomes prepared directory by prepTG: prepTG_DB/
-Output directory: /home/salamzade/zol_development/showcase_examples_redo/Phage_in_Lake_MGs/fai_Results/
+Output directory: /workspace/local/rauf/zol/update_manuscript_apps/Phage_in_Lake_MGs/prodigal_gv/fai_Results/
 Species Tree: None
 Run in draft-assembly mode?: False
 Filter for paralogous/gene-content overlapping segments: True
@@ -28,6 +28,6 @@ DIAMOND sensitivity: very-sensitive
 Delineation mode: GENE-CLUMPER
 Phylo-heatmap PDF length: 7
 Phylo-heatmap PDF width: 14
-Number of CPUs requested: 20
+Number of threads requested: 20
 Maximum memory in GB: None
 Clean Up Heavy Files?: False

@@ -1,0 +1,37 @@
+Ignoring 0 files either because they did not meet requirements or filtering criteria.
+Running zol version 1.5.5
+--------------------
+Step 1
+--------------------
+Searching for GenBanks in the input directory
+Found 31 GenBanks in the input directory.
+--------------------
+Step 2
+--------------------
+Determining orthogroups
+--------------------
+Requested mode was to only compute ortholog groups across gene clusters.
+The ortholog-group by gene-cluster matrix can be found at: /workspace/local/rauf/zol/update_manuscript_apps/Enterococcus_Epa/Comparisons/CoreSimul/zol_Results_Default/Determine_Orthogroups/Orthogroups.tsv
+	Command being timed: "zol -i fai_Results/Final_Results/Homologous_Gene_Cluster_GenBanks/ -o zol_Results_Default/ -c 20 -oo"
+	User time (seconds): 27.92
+	System time (seconds): 4.73
+	Percent of CPU this job got: 219%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:14.85
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 461644
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 2
+	Minor (reclaiming a frame) page faults: 274957
+	Voluntary context switches: 3469
+	Involuntary context switches: 772
+	Swaps: 0
+	File system inputs: 128
+	File system outputs: 91984
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

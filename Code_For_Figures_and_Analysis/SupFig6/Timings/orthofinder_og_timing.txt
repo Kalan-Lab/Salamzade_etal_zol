@@ -1,0 +1,168 @@
+
+OrthoFinder version 2.5.4 Copyright (C) 2014 David Emms
+
+2024-11-21 03:59:49 : Starting OrthoFinder 2.5.4
+20 thread(s) for highly parallel tasks (BLAST searches etc.)
+2 thread(s) for OrthoFinder algorithm
+
+Checking required programs are installed
+----------------------------------------
+Test can run "mcl -h" - ok
+
+Dividing up work for BLAST for parallel processing
+--------------------------------------------------
+2024-11-21 03:59:49 : Creating diamond database 1 of 31
+2024-11-21 03:59:49 : Creating diamond database 2 of 31
+2024-11-21 03:59:49 : Creating diamond database 3 of 31
+2024-11-21 03:59:49 : Creating diamond database 4 of 31
+2024-11-21 03:59:49 : Creating diamond database 5 of 31
+2024-11-21 03:59:49 : Creating diamond database 6 of 31
+2024-11-21 03:59:50 : Creating diamond database 7 of 31
+2024-11-21 03:59:50 : Creating diamond database 8 of 31
+2024-11-21 03:59:50 : Creating diamond database 9 of 31
+2024-11-21 03:59:50 : Creating diamond database 10 of 31
+2024-11-21 03:59:50 : Creating diamond database 11 of 31
+2024-11-21 03:59:50 : Creating diamond database 12 of 31
+2024-11-21 03:59:50 : Creating diamond database 13 of 31
+2024-11-21 03:59:50 : Creating diamond database 14 of 31
+2024-11-21 03:59:50 : Creating diamond database 15 of 31
+2024-11-21 03:59:50 : Creating diamond database 16 of 31
+2024-11-21 03:59:50 : Creating diamond database 17 of 31
+2024-11-21 03:59:50 : Creating diamond database 18 of 31
+2024-11-21 03:59:50 : Creating diamond database 19 of 31
+2024-11-21 03:59:50 : Creating diamond database 20 of 31
+2024-11-21 03:59:50 : Creating diamond database 21 of 31
+2024-11-21 03:59:50 : Creating diamond database 22 of 31
+2024-11-21 03:59:50 : Creating diamond database 23 of 31
+2024-11-21 03:59:50 : Creating diamond database 24 of 31
+2024-11-21 03:59:50 : Creating diamond database 25 of 31
+2024-11-21 03:59:50 : Creating diamond database 26 of 31
+2024-11-21 03:59:50 : Creating diamond database 27 of 31
+2024-11-21 03:59:50 : Creating diamond database 28 of 31
+2024-11-21 03:59:50 : Creating diamond database 29 of 31
+2024-11-21 03:59:50 : Creating diamond database 30 of 31
+2024-11-21 03:59:50 : Creating diamond database 31 of 31
+
+Running diamond all-versus-all
+------------------------------
+Using 20 thread(s)
+2024-11-21 03:59:50 : This may take some time....
+2024-11-21 03:59:51 : Done 0 of 961
+2024-11-21 03:59:52 : Done 100 of 961
+2024-11-21 03:59:54 : Done 200 of 961
+2024-11-21 03:59:56 : Done 300 of 961
+2024-11-21 03:59:58 : Done 400 of 961
+2024-11-21 04:00:00 : Done 500 of 961
+2024-11-21 04:00:02 : Done 600 of 961
+2024-11-21 04:00:04 : Done 700 of 961
+2024-11-21 04:00:06 : Done 800 of 961
+2024-11-21 04:00:08 : Done 900 of 961
+2024-11-21 04:00:10 : Done all-versus-all sequence search
+
+Running OrthoFinder algorithm
+-----------------------------
+2024-11-21 04:00:10 : Initial processing of each species
+2024-11-21 04:00:10 : Initial processing of species 0 complete
+2024-11-21 04:00:10 : Initial processing of species 1 complete
+2024-11-21 04:00:11 : Initial processing of species 2 complete
+2024-11-21 04:00:11 : Initial processing of species 3 complete
+2024-11-21 04:00:11 : Initial processing of species 4 complete
+2024-11-21 04:00:11 : Initial processing of species 5 complete
+2024-11-21 04:00:11 : Initial processing of species 6 complete
+2024-11-21 04:00:11 : Initial processing of species 7 complete
+2024-11-21 04:00:11 : Initial processing of species 8 complete
+2024-11-21 04:00:11 : Initial processing of species 9 complete
+2024-11-21 04:00:11 : Initial processing of species 10 complete
+2024-11-21 04:00:11 : Initial processing of species 11 complete
+2024-11-21 04:00:11 : Initial processing of species 12 complete
+2024-11-21 04:00:11 : Initial processing of species 13 complete
+2024-11-21 04:00:11 : Initial processing of species 14 complete
+2024-11-21 04:00:11 : Initial processing of species 15 complete
+2024-11-21 04:00:11 : Initial processing of species 16 complete
+2024-11-21 04:00:11 : Initial processing of species 17 complete
+2024-11-21 04:00:12 : Initial processing of species 18 complete
+2024-11-21 04:00:12 : Initial processing of species 19 complete
+2024-11-21 04:00:12 : Initial processing of species 20 complete
+2024-11-21 04:00:12 : Initial processing of species 21 complete
+2024-11-21 04:00:12 : Initial processing of species 22 complete
+2024-11-21 04:00:12 : Initial processing of species 23 complete
+2024-11-21 04:00:12 : Initial processing of species 24 complete
+2024-11-21 04:00:12 : Initial processing of species 25 complete
+2024-11-21 04:00:12 : Initial processing of species 26 complete
+2024-11-21 04:00:12 : Initial processing of species 27 complete
+2024-11-21 04:00:12 : Initial processing of species 28 complete
+2024-11-21 04:00:12 : Initial processing of species 29 complete
+2024-11-21 04:00:12 : Initial processing of species 30 complete
+2024-11-21 04:00:15 : Connected putative homologues
+2024-11-21 04:00:15 : Written final scores for species 0 to graph file
+2024-11-21 04:00:15 : Written final scores for species 4 to graph file
+2024-11-21 04:00:15 : Written final scores for species 5 to graph file
+2024-11-21 04:00:15 : Written final scores for species 1 to graph file
+2024-11-21 04:00:15 : Written final scores for species 6 to graph file
+2024-11-21 04:00:15 : Written final scores for species 2 to graph file
+2024-11-21 04:00:15 : Written final scores for species 3 to graph file
+2024-11-21 04:00:15 : Written final scores for species 7 to graph file
+2024-11-21 04:00:15 : Written final scores for species 12 to graph file
+2024-11-21 04:00:15 : Written final scores for species 8 to graph file
+2024-11-21 04:00:15 : Written final scores for species 13 to graph file
+2024-11-21 04:00:15 : Written final scores for species 9 to graph file
+2024-11-21 04:00:15 : Written final scores for species 14 to graph file
+2024-11-21 04:00:15 : Written final scores for species 10 to graph file
+2024-11-21 04:00:15 : Written final scores for species 15 to graph file
+2024-11-21 04:00:15 : Written final scores for species 11 to graph file
+2024-11-21 04:00:15 : Written final scores for species 16 to graph file
+2024-11-21 04:00:15 : Written final scores for species 20 to graph file
+2024-11-21 04:00:15 : Written final scores for species 17 to graph file
+2024-11-21 04:00:15 : Written final scores for species 21 to graph file
+2024-11-21 04:00:15 : Written final scores for species 18 to graph file
+2024-11-21 04:00:15 : Written final scores for species 22 to graph file
+2024-11-21 04:00:15 : Written final scores for species 19 to graph file
+2024-11-21 04:00:15 : Written final scores for species 23 to graph file
+2024-11-21 04:00:15 : Written final scores for species 24 to graph file
+2024-11-21 04:00:15 : Written final scores for species 28 to graph file
+2024-11-21 04:00:16 : Written final scores for species 29 to graph file
+2024-11-21 04:00:16 : Written final scores for species 25 to graph file
+2024-11-21 04:00:16 : Written final scores for species 26 to graph file
+2024-11-21 04:00:16 : Written final scores for species 30 to graph file
+2024-11-21 04:00:16 : Written final scores for species 27 to graph file
+2024-11-21 04:00:17 : Ran MCL
+
+Writing orthogroups to file
+---------------------------
+OrthoFinder assigned 1838 genes (99.5% of total) to 43 orthogroups. Fifty percent of all genes were in orthogroups with 52 or more genes (G50 was 52) and were contained in the largest 13 orthogroups (O50 was 13). There were 24 orthogroups with all species present and 1 of these consisted entirely of single-copy genes.
+
+2024-11-21 04:00:17 : Done orthogroups
+
+Results:
+    OrthoFinder_Results_OG/Results_Nov21/
+
+CITATION:
+ When publishing work that uses OrthoFinder please cite:
+ Emms D.M. & Kelly S. (2019), Genome Biology 20:238
+
+ If you use the species tree in your work then please also cite:
+ Emms D.M. & Kelly S. (2017), MBE 34(12): 3267-3278
+ Emms D.M. & Kelly S. (2018), bioRxiv https://doi.org/10.1101/267914
+	Command being timed: "orthofinder -og -f Proteomes_Extracted_from_fai_GenBanks/ -o OrthoFinder_Results_OG/ -t 20"
+	User time (seconds): 232.51
+	System time (seconds): 67.11
+	Percent of CPU this job got: 1031%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:29.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 64068
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 2950597
+	Voluntary context switches: 364749
+	Involuntary context switches: 14359
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 149840
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

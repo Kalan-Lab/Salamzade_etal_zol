@@ -1,1 +1,0 @@
-t28	/home/salamzade/zol_development/showcase_examples_redo/Enterococcus_Epa/CoreSimul/fai_Results/GC_Segment_Processing/GeneCluster_Genbanks/t28_fai-gene-cluster-1.gbk

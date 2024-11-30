@@ -1,0 +1,1 @@
+/workspace/local/rauf/zol/v1.5.5_env/bin/cgcg -sl -i zol_Results/ -o cgcg_Results/ -sm -as 20 -nbs 3 -cl #cfd0d1 -ch #212121

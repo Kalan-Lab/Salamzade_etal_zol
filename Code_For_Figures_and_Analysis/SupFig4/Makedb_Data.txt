@@ -1,3 +1,0 @@
-Method	Statistic	Value
-prepTG	Time (in seconds)	3829
-cblaster makedb	Time (in seconds)	778

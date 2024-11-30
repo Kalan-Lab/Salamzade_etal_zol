@@ -1,0 +1,10 @@
+Download Premade Database: None
+Target Genomes Directory: /workspace/local/rauf/zol/update_manuscript_apps/Aflavus_aflatoxin_and_leporinB/Benchmarking/Aspergillus_Funannotate/Genome_FASTAs/
+GTDB species/genus: None
+Output Directory: /workspace/local/rauf/zol/update_manuscript_apps/Aflavus_aflatoxin_and_leporinB/prepTG_DB/
+Reference Proteome Provided: /workspace/local/rauf/zol/update_manuscript_apps/Aflavus_aflatoxin_and_leporinB/GCA_009017415.1_ASM901741v1_translated_cds.faa
+Gene Calling Method: miniprot reference proteome mapping
+Use Meta Mode?: False
+Create Species Tree?: False
+Number of threads: 60
+Maximum Memory in GB: None

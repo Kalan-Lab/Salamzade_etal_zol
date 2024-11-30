@@ -1,0 +1,1 @@
+\time -v zol -i ../fai_Results/Final_Results/Homologous_Gene_Cluster_GenBanks/ -o zol_Results_Full_DerepReinflate_DT99_DC99_DI2/ -c 30 -fl -cd ../epa_prots_for_custom_annotation.faa -it 20.0 -ct 25.0 -d -ri -dc 99.0 -di 2.0 &> zol_full_drri_timing.txt

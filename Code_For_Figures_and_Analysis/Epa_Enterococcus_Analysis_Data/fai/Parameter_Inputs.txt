@@ -6,7 +6,7 @@ Reference end coordinate of gene cluster: 2115174
 Protein queries multi-FASTA file: None
 Single protein query FASTA file: None
 Target genomes prepared directory by prepTG: prepTG_DB/
-Output directory: /home/salamzade/zol_development/showcase_examples_redo/Enterococcus_Epa/fai_Results/
+Output directory: /workspace/local/rauf/zol/update_manuscript_apps/Enterococcus_Epa/fai_Results/
 Species Tree: None
 Run in draft-assembly mode?: True
 Filter for paralogous/gene-content overlapping segments: True
@@ -28,6 +28,6 @@ DIAMOND sensitivity: very-sensitive
 Delineation mode: GENE-CLUMPER
 Phylo-heatmap PDF length: 7
 Phylo-heatmap PDF width: 14
-Number of CPUs requested: 30
+Number of threads requested: 30
 Maximum memory in GB: None
 Clean Up Heavy Files?: False

@@ -1,0 +1,26 @@
+Order	Method	Statistic	Count
+#1	Z1	0. Runtime	16
+#2	Z2	0. Runtime	15
+#3	OF	0. Runtime	29
+#4	EM	0. Runtime	1249
+1	Z1	1. TP	20136
+2	Z2	1. TP	28227
+4	Z4	1. TP	43334
+3	Z3	1. TP	25558
+5	OF	1. TP	47269
+#6	EM-R	1. TP	45263
+#7	EM-C	1. TP	47305
+1	Z1	3. FP	0
+2	Z2	3. FP	60
+4	Z4	3. FP	1000 # 5366
+3	Z3	3. FP	1000 # 1634
+5	OF	3. FP	1000 # 5960
+#6	EM-R	3. FP	742
+#7	EM-C	3. FP	1000 # 35964
+#1	Z1	4. FP (non-neighboring)	0
+#2	Z2	4. FP (non-neighboring)	0
+#4	Z4	4. FP (non-neighboring)	0
+#3	Z3	4. FP (non-neighboring)	0
+#5	OF	4. FP (non-neighboring)	0
+#6	EM-R	4. FP (non-neighboring)	0
+#7	EM-C	4. FP (non-neighboring)	1000 # 20123

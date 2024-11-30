@@ -1,24 +1,55 @@
-        Command being timed: "fai -i BGC0000008.gbk -kpq key_proteins.faa -dm -fp -e 1e-10 -kpe 1e-20 -kpm 1.0 -m 0.5 -mgd 3 -f 1000 -sct 0.6 -gp -c 20 -tg ../prepTG_DB/ -o fai_Results/"
-        User time (seconds): 1159.19
-        System time (seconds): 64.17
-        Percent of CPU this job got: 202%
-        Elapsed (wall clock) time (h:mm:ss or m:ss): 10:03.87
-        Average shared text size (kbytes): 0
-        Average unshared data size (kbytes): 0
-        Average stack size (kbytes): 0
-        Average total size (kbytes): 0
-        Maximum resident set size (kbytes): 1105392
-        Average resident set size (kbytes): 0
-        Major (requiring I/O) page faults: 1
-        Minor (reclaiming a frame) page faults: 4477639
-        Voluntary context switches: 250987
-        Involuntary context switches: 119708
-        Swaps: 0
-        File system inputs: 16
-        File system outputs: 348408
-        Socket messages sent: 0
-        Socket messages received: 0
-        Signals delivered: 0
-        Page size (bytes): 4096
-        Exit status: 0
-
+Running fai version 1.5.5
+Beginning fai searches using the following GenBank(s) as queries: BGC0000008.gbk
+--------------------
+Step 1
+--------------------
+Getting protein sequences of known gene-cluster instance(s).
+Found 1 GenBanks to use as a joint query.
+--------------------
+Step 2
+--------------------
+Running DIAMOND BLASTp and Processing Results.
+--------------------
+Step 3
+--------------------
+Loading target genomes database prepared by prepTG.
+--------------------
+Step 4
+--------------------
+Identifying homologous gene-cluster segments.
+Determining gene cluster homologous hits for 216 genomes
+  0%|          | 0/216 [00:00<?, ?it/s] 12%|█▏        | 26/216 [00:01<00:10, 17.67it/s] 14%|█▍        | 31/216 [00:01<00:09, 20.44it/s] 18%|█▊        | 39/216 [00:01<00:06, 26.84it/s] 21%|██▏       | 46/216 [00:01<00:05, 31.78it/s] 24%|██▍       | 52/216 [00:03<00:12, 12.88it/s] 28%|██▊       | 61/216 [00:03<00:08, 18.42it/s] 31%|███       | 67/216 [00:03<00:07, 20.43it/s] 33%|███▎      | 72/216 [00:04<00:11, 12.28it/s] 35%|███▌      | 76/216 [00:04<00:11, 12.27it/s] 39%|███▉      | 85/216 [00:04<00:06, 18.83it/s] 42%|████▏     | 91/216 [00:04<00:05, 23.21it/s] 45%|████▍     | 97/216 [00:04<00:04, 27.23it/s] 47%|████▋     | 102/216 [00:05<00:08, 13.72it/s] 49%|████▉     | 106/216 [00:06<00:07, 14.82it/s] 51%|█████▏    | 111/216 [00:06<00:05, 18.40it/s] 55%|█████▌    | 119/216 [00:06<00:03, 25.47it/s] 59%|█████▉    | 127/216 [00:06<00:02, 33.42it/s] 62%|██████▎   | 135/216 [00:06<00:02, 28.16it/s] 65%|██████▍   | 140/216 [00:07<00:05, 14.83it/s] 69%|██████▉   | 149/216 [00:07<00:03, 20.07it/s] 71%|███████▏  | 154/216 [00:07<00:02, 22.73it/s] 73%|███████▎  | 158/216 [00:08<00:02, 23.83it/s] 75%|███████▌  | 162/216 [00:08<00:04, 12.75it/s] 76%|███████▋  | 165/216 [00:09<00:03, 12.88it/s] 79%|███████▉  | 171/216 [00:09<00:02, 17.92it/s] 82%|████████▏ | 177/216 [00:09<00:01, 23.36it/s] 85%|████████▍ | 183/216 [00:09<00:01, 28.39it/s] 87%|████████▋ | 188/216 [00:10<00:01, 15.46it/s] 89%|████████▉ | 192/216 [00:10<00:01, 16.15it/s] 90%|█████████ | 195/216 [00:10<00:01, 13.43it/s] 92%|█████████▏| 199/216 [00:10<00:01, 16.34it/s] 94%|█████████▍| 203/216 [00:10<00:00, 19.45it/s] 95%|█████████▌| 206/216 [00:11<00:00, 11.44it/s] 98%|█████████▊| 211/216 [00:11<00:00, 12.54it/s] 99%|█████████▉| 214/216 [00:12<00:00, 11.52it/s]100%|██████████| 216/216 [00:12<00:00,  7.46it/s]100%|██████████| 216/216 [00:12<00:00, 16.76it/s]
+--------------------
+Step 5
+--------------------
+Create overview plots + spreadsheets showing homology of candidate gene clusters to queries.
+--------------------
+Step 6
+--------------------
+Plotting overview of gene-cluster segments identified.
+Done running fai!
+Final results can be found at:
+/workspace/local/rauf/zol/update_manuscript_apps/Aflavus_aflatoxin_and_leporinB/aflatoxin/fai_Results/Final_Results/
+	Command being timed: "fai -i BGC0000008.gbk -kpq key_proteins.faa -dm -fp -e 1e-10 -kpe 1e-20 -kpm 1.0 -m 0.5 -mgd 3 -f 1000 -sct 0.6 -gp -c 30 -tg ../prepTG_DB/ -o fai_Results/"
+	User time (seconds): 1091.77
+	System time (seconds): 90.09
+	Percent of CPU this job got: 219%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:57.51
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1387224
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 6121860
+	Voluntary context switches: 131007
+	Involuntary context switches: 8162
+	Swaps: 0
+	File system inputs: 16776
+	File system outputs: 358048
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

@@ -1,1 +1,0 @@
-\time -v cblaster search -cp 20 -ds very -m local -db cblaster_db.dmnd -qf Query_Phage/Ga0485157_0000450.gbk -p cblaster_heatmap_plot.html -o cblaster_results.txt -per 50 -me 1e-10 -mc 0.0 -mi 0.0 -md 1000 -g 4620 -s cblaster_search_session.json --intermediate_genes

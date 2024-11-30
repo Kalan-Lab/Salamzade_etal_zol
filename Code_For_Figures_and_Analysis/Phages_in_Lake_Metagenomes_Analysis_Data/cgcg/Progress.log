@@ -1,0 +1,14 @@
+2024-11-27 06:05 - INFO - Running cgcg version 1.5.5
+2024-11-27 06:05 - INFO - ------------------Step 1------------------
+Assessing input provided.
+2024-11-27 06:05 - INFO - ------------------Step 2------------------
+Determining color scale.
+2024-11-27 06:05 - INFO - Running Rscript /workspace/local/rauf/zol/update_manuscript_apps/Phage_in_Lake_MGs/prodigal_gv/cgcg_Results/plot_legend.R
+2024-11-27 06:05 - INFO - Successfully ran: Rscript /workspace/local/rauf/zol/update_manuscript_apps/Phage_in_Lake_MGs/prodigal_gv/cgcg_Results/plot_legend.R
+2024-11-27 06:05 - INFO - ------------------Step 3------------------
+Creating gJCF input for gravis.
+2024-11-27 06:05 - INFO - ------------------Step 4------------------
+Running gravis for final graph creation.
+2024-11-27 06:05 - INFO - ------------------DONE !------------------
+cgcg finished successfully!
+Resulting files can be found at: /workspace/local/rauf/zol/update_manuscript_apps/Phage_in_Lake_MGs/prodigal_gv/cgcg_Results/Final_Results/

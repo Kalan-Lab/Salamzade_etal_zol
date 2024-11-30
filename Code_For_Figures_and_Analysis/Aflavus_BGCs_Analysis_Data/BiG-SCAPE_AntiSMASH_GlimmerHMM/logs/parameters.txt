@@ -1,1 +1,0 @@
-/home/conda_envs/BiG-SCAPE_env/BiG-SCAPE_with_MiBIG3/BiG-SCAPE/bigscape.py -i AntiSMASH_Results/ -o BiG-SCAPE_Results/ -c 50 --no_classify --mix --pfam_dir /home/salamzade/databases/Pfam/ --mibig

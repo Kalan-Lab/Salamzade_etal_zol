@@ -1,1 +1,0 @@
-(t4_fai-gene-cluster-1_ABD_000183:0.228248,((t17_fai-gene-cluster-1_AAO_000190:6.37971e-07,t8_fai-gene-cluster-1_AAE_000185:0.030385)n2:0.121819,t19_fai-gene-cluster-1_AAR_000172:0.0320685)n1:0.228248)n0;

@@ -1,0 +1,1 @@
+\time -v cblaster search -cp 30 -ds very -m local -db cblaster_prepTG_DB.dmnd -qf ../leporin/BGC0001445.faa -o cblaster_preptg_results.txt -per 50 -me 1e-20 -mc 0.0 -mi 0.0 -md 0 -r AFLA_066840 -s cblaster_preptg_search_session.json --intermediate_genes

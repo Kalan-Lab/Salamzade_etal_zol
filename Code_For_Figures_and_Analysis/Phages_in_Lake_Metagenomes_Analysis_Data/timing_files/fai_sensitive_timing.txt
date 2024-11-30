@@ -1,0 +1,55 @@
+Running fai version 1.5.5
+Beginning fai searches using the following GenBank(s) as queries: Query_Phages/Ga0485157_0000450.gbk Query_Phages/Ga0485158_0000434.gbk
+--------------------
+Step 1
+--------------------
+Getting protein sequences of known gene-cluster instance(s).
+Found 2 GenBanks to use as a joint query.
+Running HMMER3 hmmbuild to generate profile HMMs for 47 ortholog groups
+  0%|          | 0/47 [00:00<?, ?it/s]  2%|▏         | 1/47 [00:00<00:13,  3.48it/s]  4%|▍         | 2/47 [00:00<00:11,  4.09it/s]  9%|▊         | 4/47 [00:00<00:07,  5.84it/s] 11%|█         | 5/47 [00:00<00:07,  5.64it/s] 15%|█▍        | 7/47 [00:01<00:06,  6.28it/s] 17%|█▋        | 8/47 [00:01<00:05,  6.87it/s] 21%|██▏       | 10/47 [00:01<00:04,  8.70it/s] 26%|██▌       | 12/47 [00:01<00:03, 10.95it/s] 30%|██▉       | 14/47 [00:01<00:02, 11.79it/s] 34%|███▍      | 16/47 [00:02<00:03,  8.75it/s] 38%|███▊      | 18/47 [00:02<00:02,  9.69it/s] 43%|████▎     | 20/47 [00:02<00:02, 10.36it/s] 47%|████▋     | 22/47 [00:02<00:02,  9.16it/s] 51%|█████     | 24/47 [00:02<00:02,  8.04it/s] 55%|█████▌    | 26/47 [00:03<00:02,  8.84it/s] 62%|██████▏   | 29/47 [00:03<00:01, 11.15it/s] 66%|██████▌   | 31/47 [00:03<00:01, 10.31it/s] 72%|███████▏  | 34/47 [00:03<00:01, 12.28it/s] 77%|███████▋  | 36/47 [00:03<00:00, 12.95it/s] 81%|████████  | 38/47 [00:04<00:01,  8.70it/s] 85%|████████▌ | 40/47 [00:04<00:00,  8.56it/s] 89%|████████▉ | 42/47 [00:04<00:00,  9.90it/s] 94%|█████████▎| 44/47 [00:04<00:00, 11.31it/s] 98%|█████████▊| 46/47 [00:04<00:00, 10.66it/s]100%|██████████| 47/47 [00:05<00:00,  9.37it/s]
+Running HMMER3 hmmemit to generate consensus protein sequences for 47 ortholog groups
+  0%|          | 0/47 [00:00<?, ?it/s] 28%|██▊       | 13/47 [00:00<00:00, 120.57it/s] 60%|█████▉    | 28/47 [00:00<00:00, 136.76it/s] 94%|█████████▎| 44/47 [00:00<00:00, 146.42it/s]100%|██████████| 47/47 [00:00<00:00, 141.81it/s]
+--------------------
+Step 2
+--------------------
+Running DIAMOND BLASTp and Processing Results.
+--------------------
+Step 3
+--------------------
+Loading target genomes database prepared by prepTG.
+--------------------
+Step 4
+--------------------
+Identifying homologous gene-cluster segments.
+Determining gene cluster homologous hits for 16 genomes
+  0%|          | 0/16 [00:00<?, ?it/s]  6%|▋         | 1/16 [03:22<50:38, 202.57s/it] 12%|█▎        | 2/16 [04:13<26:27, 113.36s/it] 19%|█▉        | 3/16 [05:24<20:24, 94.19s/it]  25%|██▌       | 4/16 [05:59<14:09, 70.80s/it] 31%|███▏      | 5/16 [06:04<08:35, 46.86s/it] 38%|███▊      | 6/16 [08:32<13:34, 81.47s/it] 44%|████▍     | 7/16 [11:04<15:40, 104.52s/it] 50%|█████     | 8/16 [11:49<11:24, 85.62s/it]  56%|█████▋    | 9/16 [14:42<13:08, 112.69s/it] 62%|██████▎   | 10/16 [15:06<08:31, 85.27s/it] 69%|██████▉   | 11/16 [15:09<05:00, 60.20s/it] 75%|███████▌  | 12/16 [19:01<07:30, 112.60s/it] 81%|████████▏ | 13/16 [30:14<14:07, 282.40s/it] 88%|████████▊ | 14/16 [42:35<14:01, 420.81s/it] 94%|█████████▍| 15/16 [53:23<08:09, 489.18s/it]100%|██████████| 16/16 [1:30:23<00:00, 1010.18s/it]100%|██████████| 16/16 [1:30:23<00:00, 338.96s/it] 
+--------------------
+Step 5
+--------------------
+Create overview plots + spreadsheets showing homology of candidate gene clusters to queries.
+Done running fai!
+Final results can be found at:
+/workspace/local/rauf/zol/update_manuscript_apps/Phage_in_Lake_MGs/prodigal_gv/fai_Results_Sensitive/Final_Results/
+	Command being timed: "fai -i Query_Phages/Ga0485157_0000450.gbk Query_Phages/Ga0485158_0000434.gbk -tg prepTG_DB/ -o fai_Results_Sensitive/ -c 20 -m 0.1 -dm -e 1e-5 -mgd 10"
+	User time (seconds): 17502.69
+	System time (seconds): 3755.63
+	Percent of CPU this job got: 381%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:32:52
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3796064
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 9171862
+	Voluntary context switches: 214458
+	Involuntary context switches: 32503
+	Swaps: 0
+	File system inputs: 8200
+	File system outputs: 88680
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

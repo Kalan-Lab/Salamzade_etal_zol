@@ -1,0 +1,80 @@
+Ignoring 0 files either because they did not meet requirements or filtering criteria.
+Running zol version 1.5.5
+--------------------
+Step 1
+--------------------
+Searching for GenBanks in the input directory
+Found 10 GenBanks in the input directory.
+--------------------
+Step 2
+--------------------
+Determining orthogroups
+--------------------
+Step 3
+--------------------
+Creating alignments, trees and consensus sequences for ortholog groups
+Running PAL2NAL to generate codon alignments for 63 ortholog groups
+  0%|          | 0/63 [00:00<?, ?it/s]  2%|▏         | 1/63 [00:00<00:09,  6.87it/s] 10%|▉         | 6/63 [00:00<00:02, 27.82it/s] 17%|█▋        | 11/63 [00:00<00:01, 33.29it/s] 24%|██▍       | 15/63 [00:00<00:01, 33.70it/s] 32%|███▏      | 20/63 [00:00<00:01, 36.62it/s] 41%|████▏     | 26/63 [00:00<00:00, 40.75it/s] 49%|████▉     | 31/63 [00:00<00:00, 42.50it/s] 57%|█████▋    | 36/63 [00:00<00:00, 39.86it/s] 65%|██████▌   | 41/63 [00:01<00:00, 41.83it/s] 75%|███████▍  | 47/63 [00:01<00:00, 46.24it/s] 83%|████████▎ | 52/63 [00:01<00:00, 33.62it/s] 92%|█████████▏| 58/63 [00:01<00:00, 39.17it/s]100%|██████████| 63/63 [00:01<00:00, 38.87it/s]
+Running trimal to generate trimmed protein and codon alignments for 63 ortholog groups
+  0%|          | 0/126 [00:00<?, ?it/s] 14%|█▍        | 18/126 [00:00<00:00, 173.93it/s] 29%|██▉       | 37/126 [00:00<00:00, 182.84it/s] 45%|████▌     | 57/126 [00:00<00:00, 190.38it/s] 61%|██████    | 77/126 [00:00<00:00, 183.79it/s] 76%|███████▌  | 96/126 [00:00<00:00, 139.34it/s] 89%|████████▉ | 112/126 [00:00<00:00, 127.82it/s]100%|██████████| 126/126 [00:00<00:00, 151.66it/s]
+Running FastTree 2 to generate gene trees (based on trimmed codon alignments) for 63 ortholog groups
+  0%|          | 0/63 [00:00<?, ?it/s] 13%|█▎        | 8/63 [00:00<00:00, 79.30it/s] 33%|███▎      | 21/63 [00:00<00:00, 106.24it/s] 63%|██████▎   | 40/63 [00:00<00:00, 143.34it/s]100%|██████████| 63/63 [00:00<00:00, 157.62it/s]
+Running HMMER3 hmmbuild to generate profile HMMs for 63 ortholog groups
+  0%|          | 0/63 [00:00<?, ?it/s]  3%|▎         | 2/63 [00:00<00:03, 18.85it/s]  8%|▊         | 5/63 [00:00<00:02, 20.43it/s] 13%|█▎        | 8/63 [00:00<00:03, 15.33it/s] 16%|█▌        | 10/63 [00:00<00:04, 11.90it/s] 19%|█▉        | 12/63 [00:01<00:07,  7.26it/s] 22%|██▏       | 14/63 [00:01<00:06,  7.59it/s] 24%|██▍       | 15/63 [00:01<00:06,  7.06it/s] 27%|██▋       | 17/63 [00:01<00:06,  6.94it/s] 29%|██▊       | 18/63 [00:02<00:06,  7.33it/s] 32%|███▏      | 20/63 [00:02<00:05,  8.60it/s] 35%|███▍      | 22/63 [00:02<00:03, 10.49it/s] 38%|███▊      | 24/63 [00:02<00:03, 10.86it/s] 41%|████▏     | 26/63 [00:02<00:04,  8.93it/s] 44%|████▍     | 28/63 [00:03<00:03,  9.53it/s] 48%|████▊     | 30/63 [00:03<00:03,  9.63it/s] 51%|█████     | 32/63 [00:03<00:03,  9.68it/s] 54%|█████▍    | 34/63 [00:03<00:02,  9.88it/s] 57%|█████▋    | 36/63 [00:04<00:03,  7.59it/s] 59%|█████▊    | 37/63 [00:04<00:03,  7.69it/s] 62%|██████▏   | 39/63 [00:04<00:02,  9.70it/s] 65%|██████▌   | 41/63 [00:04<00:02,  8.62it/s] 68%|██████▊   | 43/63 [00:04<00:01, 10.44it/s] 73%|███████▎  | 46/63 [00:04<00:01, 12.73it/s] 76%|███████▌  | 48/63 [00:04<00:01, 13.12it/s] 79%|███████▉  | 50/63 [00:05<00:01,  8.37it/s] 83%|████████▎ | 52/63 [00:05<00:01,  7.89it/s] 86%|████████▌ | 54/63 [00:05<00:01,  8.11it/s] 87%|████████▋ | 55/63 [00:06<00:01,  7.91it/s] 89%|████████▉ | 56/63 [00:06<00:00,  7.98it/s] 92%|█████████▏| 58/63 [00:06<00:00, 10.20it/s] 97%|█████████▋| 61/63 [00:06<00:00, 11.71it/s]100%|██████████| 63/63 [00:06<00:00, 11.23it/s]100%|██████████| 63/63 [00:06<00:00,  9.45it/s]
+Running HMMER3 hmmemit to generate consensus protein sequences for 63 ortholog groups
+  0%|          | 0/63 [00:00<?, ?it/s] 29%|██▊       | 18/63 [00:00<00:00, 174.01it/s] 59%|█████▊    | 37/63 [00:00<00:00, 179.89it/s] 87%|████████▋ | 55/63 [00:00<00:00, 161.73it/s]100%|██████████| 63/63 [00:00<00:00, 165.81it/s]
+--------------------
+Step 4
+--------------------
+Attempting to perform annotations (unless skipped)
+Running pyhmmer hmmsearch for functional annotation for 5 databases
+  0%|          | 0/5 [00:00<?, ?it/s] 20%|██        | 1/5 [00:39<02:36, 39.01s/it] 60%|██████    | 3/5 [00:40<00:21, 10.54s/it] 80%|████████  | 4/5 [01:11<00:17, 17.84s/it]100%|██████████| 5/5 [01:12<00:00, 12.09s/it]100%|██████████| 5/5 [01:12<00:00, 14.45s/it]
+Running DIAMOND blastp for functional annotation for 5 databases
+  0%|          | 0/5 [00:00<?, ?it/s] 20%|██        | 1/5 [00:00<00:01,  2.49it/s] 40%|████      | 2/5 [00:00<00:01,  2.56it/s] 60%|██████    | 3/5 [00:01<00:01,  1.64it/s] 80%|████████  | 4/5 [00:02<00:00,  1.28it/s]100%|██████████| 5/5 [00:05<00:00,  1.35s/it]100%|██████████| 5/5 [00:05<00:00,  1.01s/it]
+--------------------
+Step 5
+--------------------
+Determining consensus order, conservation, and median lengths of ortholog groups
+--------------------
+Step 6
+--------------------
+Running evolutionary analyses
+Computing Tajima's D statistic (using trimmed codon alignments) for 63 ortholog groups
+  0%|          | 0/63 [00:00<?, ?it/s]100%|██████████| 63/63 [00:00<00:00, 1117.74it/s]
+Computing sequence and upstream sequence entropy for ortholog groups
+  0%|          | 0/112 [00:00<?, ?it/s]  2%|▏         | 2/112 [00:00<00:05, 19.83it/s]  8%|▊         | 9/112 [00:00<00:02, 48.15it/s] 15%|█▌        | 17/112 [00:00<00:01, 56.88it/s] 22%|██▏       | 25/112 [00:00<00:01, 65.11it/s] 30%|███       | 34/112 [00:00<00:01, 66.99it/s] 43%|████▎     | 48/112 [00:00<00:00, 88.31it/s] 62%|██████▎   | 70/112 [00:00<00:00, 126.77it/s] 88%|████████▊ | 98/112 [00:00<00:00, 172.59it/s]100%|██████████| 112/112 [00:01<00:00, 93.29it/s]
+--------------------
+Step 8
+--------------------
+Putting together final report
+--------------------
+Step 9
+--------------------
+Creating heatmap visualization of gene cluster representative instances
+******************
+zol finished!
+******************
+Final results can be found at: /workspace/local/rauf/zol/update_manuscript_apps/Phage_in_Lake_MGs/prodigal_gv/zol_Results/Final_Results/
+	Command being timed: "zol -c 20 -aec -i fai_Results/Final_Results/Homologous_Gene_Cluster_GenBanks/ -o zol_Results/"
+	User time (seconds): 254.80
+	System time (seconds): 32.87
+	Percent of CPU this job got: 273%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:45.34
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 831888
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 68
+	Minor (reclaiming a frame) page faults: 1483240
+	Voluntary context switches: 1110210
+	Involuntary context switches: 2307
+	Swaps: 0
+	File system inputs: 10195304
+	File system outputs: 31432
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

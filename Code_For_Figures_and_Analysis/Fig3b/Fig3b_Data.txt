@@ -2,6 +2,10 @@ Category	Clustering	Count
 1 cblaster/CAGECAT w/ nr	2	11
 2 antiSMASH w/ GlimmerHMM + BiG-SCAPE mix	2	10
 2 antiSMASH w/ GlimmerHMM + BiG-SCAPE mix	1	100
-3 antiSMASH w/ prepTG (miniprot) + BiG-SCAPE	2	81
-3 antiSMASH w/ prepTG (miniprot) + BiG-SCAPE	1	134	
-4 fai w/ prepTG (miniprot)	2	212
+3 cblaster w/ funannotate	2	214
+4 antiSMASH w/ funannotate + BiG-SCAPE mix	2	18
+4 antiSMASH w/ funannotate + BiG-SCAPE mix	1	198
+5 cblaster w/ prepTG	2	214
+6 antiSMASH w/ prepTG + BiG-SCAPE mix	2	119
+6 antiSMASH w/ prepTG + BiG-SCAPE mix	1	97
+7 fai w/ prepTG (miniprot)	2	212

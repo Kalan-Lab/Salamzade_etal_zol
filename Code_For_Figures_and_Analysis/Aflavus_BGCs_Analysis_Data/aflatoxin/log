@@ -1,0 +1,24 @@
+Ignoring 46 files either because they did not meet requirements or filtering criteria.
+Running zol version 1.5.3
+--------------------
+Step 1
+--------------------
+Searching for GenBanks in the input directory
+Found 109 GenBanks in the input directory.
+Note, using domain mode - if rerunning on the same output directory, but domain
+mode was not previously requested please just run in a
+new directory.
+--------------------
+Step 1.5
+--------------------
+Re-creating GenBank files with chopped CDS features.
+Creating domain-chopped up version of GenBank files for 109 gene clusters
+  0%|          | 0/109 [00:00<?, ?it/s]  1%|          | 1/109 [00:08<14:24,  8.00s/it]  3%|▎         | 3/109 [00:08<03:50,  2.17s/it]  4%|▎         | 4/109 [00:08<02:37,  1.50s/it]  9%|▉         | 10/109 [00:08<00:38,  2.55it/s] 20%|██        | 22/109 [00:08<00:11,  7.55it/s] 26%|██▌       | 28/109 [00:08<00:07, 10.36it/s] 30%|███       | 33/109 [00:16<00:36,  2.11it/s] 34%|███▍      | 37/109 [00:17<00:30,  2.35it/s] 45%|████▍     | 49/109 [00:17<00:12,  4.70it/s] 51%|█████▏    | 56/109 [00:17<00:08,  6.49it/s] 57%|█████▋    | 62/109 [00:23<00:18,  2.53it/s] 61%|██████    | 66/109 [00:25<00:17,  2.40it/s] 66%|██████▌   | 72/109 [00:25<00:10,  3.38it/s] 76%|███████▌  | 83/109 [00:25<00:04,  5.92it/s] 82%|████████▏ | 89/109 [00:26<00:02,  7.39it/s] 86%|████████▌ | 94/109 [00:33<00:06,  2.33it/s] 90%|████████▉ | 98/109 [00:33<00:03,  2.77it/s]100%|██████████| 109/109 [00:33<00:00,  3.24it/s]
+AAK_006784|p450|1
+-
+LQA
+LQAMATADVPEEEKTATRLQMETLNIIAGGTETTARALAVGVFHLAHKPSLLLQLRDELRTVMPFPDSLASCTQLEQLPYSYLAGVVNESLRLAFGFIIRSARVYPNDPLVYEDLTPISQSAYFVCMDPSIFPQPDDFNVDRWVQAARDGNKLHRYLIVFSKGSRHCLGINFALAEIYLAIATVARRFDLVPYQTTVEQLQMKRDLGFTAPEKGP
+AAW_002317|p450|1
+-
+LQA
+LQAMATADVPEEEKTATRLQMETLNIIAGGTETTARALAVGVFHLAHKPSLLLQLRDELRTVMPFPDSLASCTQLEQLPYSYLAGVVNESLRLAFGFIIRSARVYPNDPLVYEDLTPISQSAYFVCMDPSIFPQPDDFNVDRWVQAARDGNKLHRYLIVFSKGSRHCLGINFALAEIYLAIATVARRFDLVPYQTTVEQLQMKRDLGFTAPEKGP

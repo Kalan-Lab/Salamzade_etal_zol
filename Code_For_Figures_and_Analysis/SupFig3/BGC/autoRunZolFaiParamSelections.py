@@ -7,7 +7,16 @@ res_dir = os.path.abspath('zol_fai_param_selections/') + '/'
 if not os.path.isdir(res_dir):
     os.system('mkdir ' + res_dir)
 
+
+difficulties = set([])
 for c in os.listdir(in_dir):
     res = res_dir + c + '/'
-    cmd = ['zol', '-i', in_dir + c + '/', '-o', res, '-sfp', '-c', '20', '--rename_lt']
-    os.system(' '.join(cmd))
+    try:
+        cmd = ['zol', '-i', in_dir + c + '/', '-o', res, '-sfp', '-c', '20', '--rename-lt']
+        os.system(' '.join(cmd))
+    except:
+        difficulties.add(c)
+        pass
+        
+
+print('\n'.join(difficulties))

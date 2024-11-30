@@ -1,0 +1,50 @@
+Running fai version 1.5.5
+Beginning fai searches using coordinates NC_004668.1:2071671-2115174 in reference genome GCF_000007785.1_ASM778v1_genomic.fna
+--------------------
+Step 1
+--------------------
+Getting protein sequences of known gene-cluster instance(s).
+--------------------
+Step 2
+--------------------
+Running DIAMOND BLASTp and Processing Results.
+--------------------
+Step 3
+--------------------
+Loading target genomes database prepared by prepTG.
+--------------------
+Step 4
+--------------------
+Identifying homologous gene-cluster segments.
+Determining gene cluster homologous hits for 92 genomes
+  0%|          | 0/92 [00:00<?, ?it/s]  7%|▋         | 6/92 [00:00<00:01, 52.70it/s] 13%|█▎        | 12/92 [00:00<00:01, 44.15it/s] 25%|██▌       | 23/92 [00:00<00:01, 65.16it/s] 34%|███▎      | 31/92 [00:00<00:00, 66.34it/s] 41%|████▏     | 38/92 [00:00<00:01, 47.25it/s] 48%|████▊     | 44/92 [00:00<00:01, 45.97it/s] 60%|█████▉    | 55/92 [00:00<00:00, 60.79it/s] 67%|██████▋   | 62/92 [00:01<00:00, 51.14it/s] 74%|███████▍  | 68/92 [00:01<00:00, 52.41it/s] 80%|████████  | 74/92 [00:01<00:00, 52.05it/s] 88%|████████▊ | 81/92 [00:01<00:00, 50.52it/s] 95%|█████████▍| 87/92 [00:01<00:00, 36.54it/s]100%|██████████| 92/92 [00:02<00:00, 25.62it/s]100%|██████████| 92/92 [00:02<00:00, 41.81it/s]
+--------------------
+Step 5
+--------------------
+Create overview plots + spreadsheets showing homology of candidate gene clusters to queries.
+Done running fai!
+Final results can be found at:
+/workspace/local/rauf/zol/update_manuscript_apps/Enterococcus_Epa/Comparisons/Benchmark_HighQualAssemblies/fai_Results/Final_Results/
+	Command being timed: "fai -r GCF_000007785.1_ASM778v1_genomic.fna -rc NC_004668.1 -rs 2071671 -re 2115174 -tg prepTG_Database/ -c 20 -f 0 -m 0.25 -e 1e-10 -mgd 5 -sct 0.0 -dm -o fai_Results/"
+	User time (seconds): 96.94
+	System time (seconds): 10.39
+	Percent of CPU this job got: 461%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:23.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 947096
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 5
+	Minor (reclaiming a frame) page faults: 1516543
+	Voluntary context switches: 3081
+	Involuntary context switches: 895
+	Swaps: 0
+	File system inputs: 274696
+	File system outputs: 65536
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

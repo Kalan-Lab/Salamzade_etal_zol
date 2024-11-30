@@ -9,5 +9,5 @@ if not os.path.isdir(res_dir):
 
 for c in os.listdir(in_dir):
     res = res_dir + c + '/'
-    cmd = ['zol', '-i', in_dir + c + '/', '-o', res, '-sfp', '-c', '20', '--rename_lt']
+    cmd = ['zol', '-i', in_dir + c + '/', '-o', res, '-sfp', '-c', '20', '--rename-lt']
     os.system(' '.join(cmd))

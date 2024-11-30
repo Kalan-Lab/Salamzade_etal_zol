@@ -1,32 +1,38 @@
-2024-05-19 17:10 - INFO - Running fai version 1.4.1
-2024-05-19 17:10 - INFO - Saving parameters for future records.
-2024-05-19 17:10 - INFO - Done saving parameters!
-2024-05-19 17:10 - INFO - Beginning fai searches using coordinates NC_004668.1:2071671-2115174 in reference genome GCF_000007785.1_ASM778v1_genomic.fna
-2024-05-19 17:10 - INFO - --------------------
+2024-11-16 23:28 - INFO - Running fai version 1.5.5
+2024-11-16 23:28 - INFO - Saving parameters for future records.
+2024-11-16 23:28 - INFO - Done saving parameters!
+2024-11-16 23:28 - INFO - Beginning fai searches using coordinates NC_004668.1:2071671-2115174 in reference genome GCF_000007785.1_ASM778v1_genomic.fna
+2024-11-16 23:28 - INFO - --------------------
 Step 1
 --------------------
 Getting protein sequences of known gene-cluster instance(s).
-2024-05-19 17:10 - INFO - Successfully ran: runProdigalAndMakeProperGenbank.py -i /home/salamzade/zol_development/showcase_examples_redo/Enterococcus_Epa/GCF_000007785.1_ASM778v1_genomic.fna -s reference -l OG -o /home/salamzade/zol_development/showcase_examples_redo/Enterococcus_Epa/fai_Results/Processing_Queries/
-2024-05-19 17:10 - INFO - --------------------
+2024-11-16 23:29 - INFO - Successfully ran: runProdigalAndMakeProperGenbank.py -i /workspace/local/rauf/zol/update_manuscript_apps/Enterococcus_Epa/GCF_000007785.1_ASM778v1_genomic.fna -s reference -l OG -o /workspace/local/rauf/zol/update_manuscript_apps/Enterococcus_Epa/fai_Results/Processing_Queries/
+2024-11-16 23:29 - INFO - --------------------
 Step 2
 --------------------
 Running DIAMOND BLASTp and Processing Results.
-2024-05-19 17:12 - INFO - Successfully ran: diamond blastp --ignore-warnings --threads 30 --very-sensitive --query /home/salamzade/zol_development/showcase_examples_redo/Enterococcus_Epa/fai_Results/Processing_Queries/NR_Reference_Query.faa --db /home/salamzade/zol_development/showcase_examples_redo/Enterococcus_Epa/prepTG_DB/Target_Genomes_DB.dmnd --outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qlen slen -k0 --out /home/salamzade/zol_development/showcase_examples_redo/Enterococcus_Epa/fai_Results/DIAMOND_Analysis/DIAMOND_Results.txt --evalue 1e-10
-2024-05-19 17:12 - INFO - Successfully ran: /home/salamzade/zol_development/develop_v1.4.1/zol/zol/splitDiamondResultsForFai /home/salamzade/zol_development/showcase_examples_redo/Enterococcus_Epa/fai_Results/DIAMOND_Analysis/DIAMOND_Results.txt /home/salamzade/zol_development/showcase_examples_redo/Enterococcus_Epa/fai_Results/DIAMOND_Analysis/Sample_to_Listing.txt
-2024-05-19 17:12 - INFO - --------------------
+2024-11-16 23:31 - INFO - Successfully ran: diamond blastp --ignore-warnings --threads 30 --very-sensitive --query /workspace/local/rauf/zol/update_manuscript_apps/Enterococcus_Epa/fai_Results/Processing_Queries/NR_Reference_Query.faa --db /workspace/local/rauf/zol/update_manuscript_apps/Enterococcus_Epa/prepTG_DB/Target_Genomes_DB.dmnd --outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qlen slen -k0 --out /workspace/local/rauf/zol/update_manuscript_apps/Enterococcus_Epa/fai_Results/DIAMOND_Analysis/DIAMOND_Results.txt --evalue 1e-10
+2024-11-16 23:31 - INFO - Successfully ran: /workspace/local/rauf/zol/v1.5.5_env/bin/splitDiamondResultsForFai /workspace/local/rauf/zol/update_manuscript_apps/Enterococcus_Epa/fai_Results/DIAMOND_Analysis/DIAMOND_Results.txt /workspace/local/rauf/zol/update_manuscript_apps/Enterococcus_Epa/fai_Results/DIAMOND_Analysis/Sample_to_Listing.txt
+2024-11-16 23:31 - INFO - --------------------
 Step 3
 --------------------
 Loading target genomes database prepared by prepTG.
-2024-05-19 17:12 - INFO - --------------------
+2024-11-16 23:31 - INFO - --------------------
 Step 4
 --------------------
 Identifying homologous gene-cluster segments.
-2024-05-19 17:14 - INFO - --------------------
+2024-11-16 23:31 - INFO - Determining gene cluster homologous hits for 1000 genomes
+2024-11-16 23:32 - INFO - Determining gene cluster homologous hits for 1000 genomes
+2024-11-16 23:32 - INFO - Determining gene cluster homologous hits for 1000 genomes
+2024-11-16 23:32 - INFO - Determining gene cluster homologous hits for 1000 genomes
+2024-11-16 23:33 - INFO - Determining gene cluster homologous hits for 1000 genomes
+2024-11-16 23:33 - INFO - Determining gene cluster homologous hits for 291 genomes
+2024-11-16 23:33 - INFO - --------------------
 Step 5
 --------------------
 Create overview plots + spreadsheets showing homology of candidate gene clusters to queries.
-2024-05-19 17:14 - INFO - Successfully ran: Rscript /home/salamzade/zol_development/develop_v1.4.1/zol/zol/plotTinyAAI.R /home/salamzade/zol_development/showcase_examples_redo/Enterococcus_Epa/fai_Results/Plotting_Files/Tiny_AAI_Plot_Data.txt /home/salamzade/zol_development/showcase_examples_redo/Enterococcus_Epa/fai_Results/Final_Results/Candidate_Homologous_Gene_Clusters.Tiny_AAI_Plot.pdf
-2024-05-19 17:14 - INFO - Done running fai!
+2024-11-16 23:33 - INFO - Successfully ran: Rscript /workspace/local/rauf/zol/update_manuscript_apps/Enterococcus_Epa/fai_Results/Plotting_Files/plotTinyAAI.R
+2024-11-16 23:33 - INFO - Done running fai!
 Final results can be found at:
-/home/salamzade/zol_development/showcase_examples_redo/Enterococcus_Epa/fai_Results/Final_Results/
+/workspace/local/rauf/zol/update_manuscript_apps/Enterococcus_Epa/fai_Results/Final_Results/
 

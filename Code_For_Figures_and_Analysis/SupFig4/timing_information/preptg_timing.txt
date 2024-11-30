@@ -1,0 +1,42 @@
+Input command:
+/workspace/local/rauf/zol/v1.5.5_env/bin/prepTG -i Metagenomic_Assemblies/ -o prepTG_DB/ -gcm prodigal-gv -c 20
+Running prepTG version 1.5.5
+--------------------
+Step 1
+--------------------
+Processing genomes provided in input or requested for download from GTDB/NCBI.
+--------------------
+Step 2
+--------------------
+Re-formatting (and gene-calling/gene-mapping) genomes for usage in fai downstream.
+Attempting to determine format (FASTA or GenBank) for 16 genomes
+  0%|          | 0/16 [00:00<?, ?it/s]100%|██████████| 16/16 [00:00<00:00, 261.88it/s]
+Running prodigal-gv for 16 genomes
+  0%|          | 0/16 [00:00<?, ?it/s]  6%|▋         | 1/16 [45:19<11:19:53, 2719.58s/it] 12%|█▎        | 2/16 [48:24<4:46:38, 1228.43s/it]  19%|█▉        | 3/16 [49:21<2:30:17, 693.68s/it]  25%|██▌       | 4/16 [58:15<2:06:06, 630.57s/it] 31%|███▏      | 5/16 [58:45<1:15:53, 413.96s/it] 38%|███▊      | 6/16 [1:00:48<52:29, 314.97s/it] 44%|████▍     | 7/16 [1:09:10<56:26, 376.32s/it] 50%|█████     | 8/16 [1:12:48<43:26, 325.87s/it] 56%|█████▋    | 9/16 [1:17:00<35:19, 302.82s/it] 62%|██████▎   | 10/16 [1:22:31<31:08, 311.50s/it] 69%|██████▉   | 11/16 [1:25:01<21:50, 262.05s/it] 75%|███████▌  | 12/16 [1:28:28<16:20, 245.24s/it] 81%|████████▏ | 13/16 [1:29:07<09:08, 182.94s/it] 88%|████████▊ | 14/16 [1:32:37<06:22, 191.02s/it] 94%|█████████▍| 15/16 [1:37:40<03:44, 224.73s/it]100%|██████████| 16/16 [1:51:55<00:00, 414.51s/it]100%|██████████| 16/16 [1:51:55<00:00, 419.73s/it]
+--------------------
+Step 4
+--------------------
+Removing intermediate files to save space.
+	Command being timed: "prepTG -i Metagenomic_Assemblies/ -o prepTG_DB/ -gcm prodigal-gv -c 20"
+	User time (seconds): 75974.21
+	System time (seconds): 210.83
+	Percent of CPU this job got: 1041%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:01:54
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2579164
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 154
+	Minor (reclaiming a frame) page faults: 19305830
+	Voluntary context switches: 5942
+	Involuntary context switches: 123170
+	Swaps: 0
+	File system inputs: 29584368
+	File system outputs: 101462976
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

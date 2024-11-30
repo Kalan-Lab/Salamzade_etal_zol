@@ -1,0 +1,38 @@
+2024-11-16 21:52 - INFO - Running fai version 1.5.5
+2024-11-16 21:52 - INFO - Saving parameters for future records.
+2024-11-16 21:52 - INFO - Done saving parameters!
+2024-11-16 21:52 - INFO - Beginning fai searches using the following GenBank(s) as queries: BGC0000008.gbk
+2024-11-16 21:52 - INFO - --------------------
+Step 1
+--------------------
+Getting protein sequences of known gene-cluster instance(s).
+2024-11-16 21:52 - INFO - Found 1 GenBanks to use as a query.
+2024-11-16 21:52 - INFO - --------------------
+Step 2
+--------------------
+Running DIAMOND BLASTp and Processing Results.
+2024-11-16 21:52 - INFO - Successfully ran: diamond blastp --ignore-warnings --threads 30 --very-sensitive --query /workspace/local/rauf/zol/update_manuscript_apps/Aflavus_aflatoxin_and_leporinB/aflatoxin/fai_Results/Processing_Queries/NR_Reference_Query.faa --db /workspace/local/rauf/zol/update_manuscript_apps/Aflavus_aflatoxin_and_leporinB/prepTG_DB/Target_Genomes_DB.dmnd --outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qlen slen -k0 --out /workspace/local/rauf/zol/update_manuscript_apps/Aflavus_aflatoxin_and_leporinB/aflatoxin/fai_Results/DIAMOND_Analysis/DIAMOND_Results.txt --evalue 1e-10
+2024-11-16 21:52 - INFO - Successfully ran: /workspace/local/rauf/zol/v1.5.5_env/bin/splitDiamondResultsForFai /workspace/local/rauf/zol/update_manuscript_apps/Aflavus_aflatoxin_and_leporinB/aflatoxin/fai_Results/DIAMOND_Analysis/DIAMOND_Results.txt /workspace/local/rauf/zol/update_manuscript_apps/Aflavus_aflatoxin_and_leporinB/aflatoxin/fai_Results/DIAMOND_Analysis/Sample_to_Listing.txt
+2024-11-16 21:52 - INFO - --------------------
+Step 3
+--------------------
+Loading target genomes database prepared by prepTG.
+2024-11-16 21:52 - INFO - --------------------
+Step 4
+--------------------
+Identifying homologous gene-cluster segments.
+2024-11-16 21:52 - INFO - Determining gene cluster homologous hits for 216 genomes
+2024-11-16 21:52 - INFO - --------------------
+Step 5
+--------------------
+Create overview plots + spreadsheets showing homology of candidate gene clusters to queries.
+2024-11-16 21:52 - INFO - Successfully ran: Rscript /workspace/local/rauf/zol/update_manuscript_apps/Aflavus_aflatoxin_and_leporinB/aflatoxin/fai_Results/Plotting_Files/plotTinyAAI.R
+2024-11-16 21:52 - INFO - --------------------
+Step 6
+--------------------
+Plotting overview of gene-cluster segments identified.
+2024-11-16 22:00 - INFO - Successfully ran: Rscript /workspace/local/rauf/zol/update_manuscript_apps/Aflavus_aflatoxin_and_leporinB/aflatoxin/fai_Results/Plotting_Files/plotSegments.R
+2024-11-16 22:00 - INFO - Done running fai!
+Final results can be found at:
+/workspace/local/rauf/zol/update_manuscript_apps/Aflavus_aflatoxin_and_leporinB/aflatoxin/fai_Results/Final_Results/
+

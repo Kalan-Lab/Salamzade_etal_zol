@@ -1,0 +1,48 @@
+Importing genomicsqlite failed, falling back to SQLite3
+[06:17:29] INFO - Starting makedb module
+[06:17:29] INFO - Initialising cblaster SQLite3 database to cblaster_DB.sqlite3
+[06:17:29] INFO - Parsing 16 genome files, in 1 batches of 16
+[06:17:29] INFO - Processing batch 1
+[06:17:29] INFO -   Ga0485157_contigs.gbk
+[06:17:29] INFO -   Ga0485158_contigs.gbk
+[06:17:29] INFO -   Ga0485159_contigs.gbk
+[06:17:29] INFO -   Ga0485160_contigs.gbk
+[06:17:29] INFO -   Ga0485161_contigs.gbk
+[06:17:29] INFO -   Ga0485162_contigs.gbk
+[06:17:29] INFO -   Ga0485163_contigs.gbk
+[06:17:29] INFO -   Ga0485164_contigs.gbk
+[06:17:29] INFO -   Ga0485165_contigs.gbk
+[06:17:29] INFO -   Ga0485166_contigs.gbk
+[06:17:29] INFO -   Ga0485167_contigs.gbk
+[06:17:29] INFO -   Ga0485168_contigs.gbk
+[06:17:29] INFO -   Ga0485169_contigs.gbk
+[06:17:29] INFO -   Ga0485170_contigs.gbk
+[06:17:29] INFO -   Ga0485171_contigs.gbk
+[06:17:29] INFO -   Ga0485172_contigs.gbk
+[06:20:56] INFO - Saving 31191625 genes
+[06:24:04] INFO - Writing FASTA to cblaster_DB.fasta.gz
+[06:28:26] INFO - Building DIAMOND database at cblaster_DB.dmnd
+[06:29:38] INFO - Done!
+	Command being timed: "cblaster makedb -n cblaster_DB -cp 20 prepTG_DB/Genomic_Genbanks_Additional/Ga0485157_contigs.gbk prepTG_DB/Genomic_Genbanks_Additional/Ga0485158_contigs.gbk prepTG_DB/Genomic_Genbanks_Additional/Ga0485159_contigs.gbk prepTG_DB/Genomic_Genbanks_Additional/Ga0485160_contigs.gbk prepTG_DB/Genomic_Genbanks_Additional/Ga0485161_contigs.gbk prepTG_DB/Genomic_Genbanks_Additional/Ga0485162_contigs.gbk prepTG_DB/Genomic_Genbanks_Additional/Ga0485163_contigs.gbk prepTG_DB/Genomic_Genbanks_Additional/Ga0485164_contigs.gbk prepTG_DB/Genomic_Genbanks_Additional/Ga0485165_contigs.gbk prepTG_DB/Genomic_Genbanks_Additional/Ga0485166_contigs.gbk prepTG_DB/Genomic_Genbanks_Additional/Ga0485167_contigs.gbk prepTG_DB/Genomic_Genbanks_Additional/Ga0485168_contigs.gbk prepTG_DB/Genomic_Genbanks_Additional/Ga0485169_contigs.gbk prepTG_DB/Genomic_Genbanks_Additional/Ga0485170_contigs.gbk prepTG_DB/Genomic_Genbanks_Additional/Ga0485171_contigs.gbk prepTG_DB/Genomic_Genbanks_Additional/Ga0485172_contigs.gbk"
+	User time (seconds): 2401.45
+	System time (seconds): 352.08
+	Percent of CPU this job got: 359%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 12:46.23
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 29922364
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 33
+	Minor (reclaiming a frame) page faults: 76939333
+	Voluntary context switches: 2135612
+	Involuntary context switches: 70470
+	Swaps: 0
+	File system inputs: 42008
+	File system outputs: 60412048
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

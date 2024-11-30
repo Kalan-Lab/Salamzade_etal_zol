@@ -1,4 +1,0 @@
-Order	Method	Memory
-3	OF	1.01
-1	FZ	0.96
-2	CC	0.95

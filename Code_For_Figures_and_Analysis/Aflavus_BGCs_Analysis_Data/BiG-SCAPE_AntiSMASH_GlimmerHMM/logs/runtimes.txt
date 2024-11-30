@@ -1,5 +1,0 @@
-launch_hmmalign took 33.581 seconds
-generate_network took 2673.662 seconds
-
-
-	Main function took 7588.346 s

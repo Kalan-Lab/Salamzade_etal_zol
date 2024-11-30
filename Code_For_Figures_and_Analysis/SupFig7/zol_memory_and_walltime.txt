@@ -1,0 +1,9 @@
+Order	Method	Statistic	Count
+2	zol dereplication (99% ANI; 99% AF)	Runtime (in minutes)	8.72
+1	zol dereplication (97% ANI; 95% AF)	Runtime (in minutes)	5.32
+3	zol dereplication (99% ANI; 95% AF) + re-inflation	Runtime (in minutes)	37.23
+4	zol full	Runtime (in minutes)	191.18
+2	zol dereplication (99% ANI; 99% AF)	Memory (in GB)	1.77
+1	zol dereplication (97% ANI; 95% AF)	Memory (in GB)	1.62
+3	zol dereplication (99% ANI; 95% AF) + re-inflation	Memory (in GB)	11.12
+4	zol full	Memory (in GB)	12.77
