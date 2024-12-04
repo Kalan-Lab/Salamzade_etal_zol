@@ -1,5 +1,5 @@
 Input directory / GenBank files: ['fai_Results/Final_Results/Homologous_Gene_Cluster_GenBanks/']
-Output directory: /workspace/local/rauf/zol/update_manuscript_apps/Aflavus_aflatoxin_and_leporinB/aflatoxin/zol_DomainMode_Results_V1.5.6/
+Output directory: /workspace/local/rauf/zol/update_manuscript_apps/Aflavus_aflatoxin_and_leporinB/aflatoxin/zol_DomainMode_Results_V1.5.7/
 Domain mode specified?: True
 Minimum length of chopped CDS features for inclusion: 50
 Eukaryotic Gene Cluster?: False
